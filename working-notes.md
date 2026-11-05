@@ -649,11 +649,35 @@ The elf from your D&D campaign whose world can tie into this universe. This is a
 - He has little patience for the elves who abandoned him, and he accepts their help reluctantly.
 - He never speaks of Silwen, not as gone and not at all.
 
+### The Midkemia campaign (DM lore)
+
+What Arandur is living through now, from the campaign's Discord. Rose runs it as **DungeonMistressRose**.
+
+- **The game:** *World of Midkemia*, a homebrew 5e campaign that started at level 1 in late October 2025. Dice and character sheets live in the `worldofmidkemia` room on Rolz.
+- **The quest:** The party has been tasked with finding the **missing Queen of Dannonirn**. It opened with a short quest, the **Arena of Heroes**, and went on into **the maze**, a dungeon where everyone came out with magical armor.
+- **The wagon:** The party travels in a shared wagon, and each of them has a room in it. Shared supplies like food, rope, torches and bedrolls ride in the wagon, not on anyone's back.
+- **Where they are:** As of late August 2026 they'd been to a carnival and were about to leave the starting town.
+- **What he can't do:** Rose ruled that Arandur can't tell what a magic item does by looking at it.
+- **The party:** Belenos (a half-elf, 26, who can take the form of a blink dog and was brought to Midkemia from another world by its strange magic), Ulfgar Luttenheim (a dwarf barbarian with wild magic), Órla (an elf cleric and the party's healer), Theron, Kaelreth Graveborn (an illusion-casting spellcaster with a notebook and a room nobody wants to enter) and Styx (a goblin).
+- **A way out (planned, not settled):** Rose's eventual plan is that finding the queen sets off a magical surge that opens a stable doorway in the far north, off the map. Going through it might mess with memories.
+
+### At the table (Your idea)
+
+How you play him in Midkemia. These are running bits, not backstory.
+
+- **Fire and trolls:** He's fixated on both. All trolls are evil, trolls are fodder, and everything is better with fire. He once tried to set a flameproof bar alight after being told it wouldn't work. It fits his backstory: only fire finishes a troll.
+- **Gear:** A longbow whose attacks can also slow a target, a self-taught shortsword, and studded leather armor. He likes the idea of fire arrows.
+- **The high heels:** He wears stilettos, and the party can hear them click when he follows them.
+- **Sticky fingers:** He steals from the party for fun. He tried for Kaelreth's pen and notepad and couldn't lift a magical necklace. Belenos, raised among thieves in a port city, is the one who notices.
+- **Attitude:** He calls himself "an elf of slight evil." He wouldn't agree to save someone else's world.
+- **Age:** Not decided yet.
+
 ### Hooks into the universe (Your idea)
 
 - **Trolls:** Trolls are natural to the deep woods of the Monster Wood. That gives Arandur's story and Stoutwell's a natural reason to collide.
 - **The transport:** A rift drops Arandur, in his youth, in a village near Stoutwell. The village's name will be decided later.
 - **Open:** How this jump fits with his backstory and his later jump to Midkemia isn't decided yet.
+- **Open:** Rose's northern doorway out of Midkemia could be his next jump, and its memory loss could explain gaps in what he remembers. He may also carry over into another campaign if he survives this one.
 
 ## Glumtom (Your D&D character, campaign not started yet)
 

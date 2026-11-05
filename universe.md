@@ -348,7 +348,8 @@ An elf ranger and pickpocket from a different world: an elven wood beside a grow
 - **Two in one:** His small flickers of magic may not be his own. They may be Silwen acting through him.
 - **Personality:** He buries everything under contempt and silence. He talks down magic loudly. He fears trolls but can't fully hate them.
 - **Verrowen:** In his youth, a rift dropped him in a village near Stoutwell. The village's name is still to be decided.
-- **Now:** He has been pulled out of his world into another.
+- **Now:** He has been pulled out of his world into another: **Midkemia**, where he travels in a wagon with a party searching for the missing Queen of Dannonirn.
+- **At the table:** He's fixated on fire and trolls, wears clicking high heels and steals from his own party for fun.
 
 ## Still Being Developed
 
