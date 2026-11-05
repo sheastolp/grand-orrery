@@ -422,6 +422,9 @@ Each item shows how the rules work.
 - **What it is:** A plain of grey soil where nothing grows tall.
 - **Where:** To the south of Stoutwell.
 - **Stoutwell's training grounds:** The village uses it as its training grounds. Being south explains why the training and the slums, which run along the south wall, are so close together.
+- **Why the slums are there (Your idea, from two pitches):**
+    - **Cheap land:** Ash dust and the noise of the drills make the south wall the least wanted land in the village, so poorer families settled there.
+    - **Recruits:** The slums supply most of the Guard's recruits, so trainees live a short walk from the grounds.
 - **Where the ash came from (Pitch):** Maybe an old battlefield, or the place where a past Grand Orrery event touched down.
 - **Still open:** How far it is from the walls, and who trains there.
 
