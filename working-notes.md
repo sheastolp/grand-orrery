@@ -310,12 +310,9 @@ They're short, but they're not stupid. The village is skilled and self-sufficien
 - **Earth:** Loosening soil for planting or firming up a muddy path.
 - **Healing:** A larger group of human healers. Like other everyday magic, it helps the body heal rather than doing it outright, for example by closing a cut faster or easing a fever.
 
-### Details to flesh out (Pitch)
+### Who Tobin cares about (Not decided yet)
 
-- What's his role in the village? Farmer, woodcutter, hunter, the blacksmith's apprentice, or the one who never fit in.
-- Who does he care about there? A parent, a mentor, a best friend, a crush.
-- Is the village tucked into a forest, sitting by a river or lake, or out on open farmland?
-- Do they trade with anyone outside, or are they fully cut off?
+Who Tobin cares about in the village is still open. It could be a parent, a mentor, a best friend or a crush.
 
 ## Monsters (Your idea)
 
