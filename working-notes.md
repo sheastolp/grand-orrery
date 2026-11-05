@@ -419,6 +419,11 @@ Each item shows how the rules work.
 - A real kingdom lies farther off, past the woods. The village falls under it but sits far out on its edge.
 - Like any kingdom, it has corruption: moral rot and all the terribleness that comes with power.
 
+### The divination tower (Your idea)
+
+- A divination tower stands somewhere off past the Kingdom.
+- **Still open:** where exactly it is, who keeps it, what it's for, and how divination fits with the known kinds of magic. Divination isn't one of them yet; it could be a rare kind, an artificer's work, or something from another world.
+
 ### GuildScribe, the Kingdom's guild hall (Your idea)
 
 - **What it is:** The adventurers' guild hall in the Kingdom's capital, named for its **guildscribes**, the clerks who keep its records.
@@ -701,6 +706,7 @@ The Kingdom is interested in him for bureaucratic and combat purposes, not for h
 ## Open Questions
 
 - Is the blight natural, or is someone causing it?
+- Who keeps the divination tower past the Kingdom, and what does it see?
 - What are the large beasts of the deep woods?
 - What's this character's end goal?
 - How do the worlds connect, and does this character ever cross paths with Arandur?

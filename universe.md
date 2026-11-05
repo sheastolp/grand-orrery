@@ -280,6 +280,7 @@ All five are halflings.
 - **The Woodland Road:** A path through the woods, outside the west gate, to the Kingdom. It's relatively safe, but still dangerous.
 - **Merchants:** Traders travel the road with safety escorts, so the village isn't cut off. The wealthier Hearthcircle trades with them most and gets the best goods, including most of its fine metalwork, from the Kingdom's capital.
 - **The tax representative:** Travels with the merchants to collect the Kingdom's tax. The role is chosen carefully to keep bias low, but the Kingdom's corruption can still creep in.
+- **The divination tower:** A tower somewhere past the Kingdom, farther off than anywhere Stoutwell knows. Who keeps it, and what it sees, is still to be decided.
 
 ### GuildScribe, the Kingdom's guild hall
 
@@ -332,5 +333,6 @@ An elf ranger and pickpocket from a different world: an elven wood beside a grow
 - What are the large beasts of the deep woods?
 - How do the worlds connect, and do Stoutwell's story and Arandur's ever cross?
 - What does Verrowen look like beyond the Kingdom and the Monster Wood?
+- Who keeps the divination tower, and how does divination fit with the known kinds of magic (elemental, strength, detection)?
 - What is Murrow, and who is his soft spot for?
 - What is Tobin's story heading toward?
