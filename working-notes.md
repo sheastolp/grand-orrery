@@ -658,7 +658,8 @@ What Arandur is living through now, from the campaign's Discord. Rose runs it as
 - **The wagon:** The party travels in a shared wagon, and each of them has a room in it. Shared supplies like food, rope, torches and bedrolls ride in the wagon, not on anyone's back.
 - **Where they are:** As of late August 2026 they'd been to a carnival and were about to leave the starting town.
 - **What he can't do:** Rose ruled that Arandur can't tell what a magic item does by looking at it.
-- **The party:** Belenos (a half-elf, 26, who can take the form of a blink dog and was brought to Midkemia from another world by its strange magic), Ulfgar Luttenheim (a dwarf barbarian with wild magic), Órla (an elf cleric and the party's healer), Theron, Kaelreth Graveborn (an illusion-casting spellcaster with a notebook and a room nobody wants to enter) and Styx (a goblin).
+- **The party:** Belenos (a half-elf, 26, who can take the form of a blink dog and was brought to Midkemia from another world by its strange magic), Ulfgar Luttenheim (a dwarf barbarian with wild magic), Órla (an elf cleric and the party's healer), Theron (who carries a holy symbol and has enough Arcana to read magic items), Kaelreth Graveborn (an illusion-casting spellcaster with a notebook and a room nobody wants to enter) and Styx (a goblin).
+- **Sebastian:** A full bard who leans on persuasion spells like *friends* and *charm person*. He isn't a full party member. His player, Gus, is a spectator who voices him now and then.
 - **A way out (planned, not settled):** Rose's eventual plan is that finding the queen sets off a magical surge that opens a stable doorway in the far north, off the map. Going through it might mess with memories.
 
 ### At the table (Your idea)
