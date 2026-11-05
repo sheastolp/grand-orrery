@@ -356,6 +356,7 @@ The **Monster Wood** (that's the name for now) is a dark wood near the village w
 - **Recovery:** Mana replenishes over time, more slowly than the body heals naturally.
 - **Not a video game:** There's no visible HP or mana bar. People feel how full they are, they don't see a number.
 - **Mana deprivation:** Running out makes you sick and dizzy, and can make you pass out.
+- **Fire mana and cold (Your idea):** Fire is the opposite of cold, so a lack of fire mana induces cold. A fire user running low feels chilled, and the emptier they get, the colder they feel.
 - **Objects hold magic, they don't make it:** An artificer can take a user's mana and place it inside an object. For example, Murrow can put a fire user's mana into a stone. When fire is cast on that stone, it warms up and burns through that stored supply. When the mana is gone, the stone stops working.
 - **No awakening:** Murrow can't awaken latent magic. He can sense it, though.
 

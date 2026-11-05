@@ -42,6 +42,7 @@ Magic is everywhere, but it's small. It helps people work. It doesn't do the wor
 - Mana refills over time, more slowly than the body heals naturally.
 - There's no visible bar or number. People simply feel how much they have left.
 - **Mana deprivation:** Running out makes a person sick and dizzy, and can make them pass out.
+- **Fire mana and cold:** Fire is the opposite of cold, so a fire user who runs low on mana grows cold. The emptier their well, the deeper the chill.
 
 ### Artificers and enchanted items
 
