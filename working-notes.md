@@ -45,10 +45,6 @@ What gives him that cozy hobbit feel:
 - **Living with big folk:** His village is mixed halflings and humans, so he's grown up being the short one in a crowd. That can be a running joke or a sore spot.
 - **Thick skin:** Halflings are stout, with thicker skin and natural heat resistance, so they're well suited to blacksmithing.
 
-### Name ideas (Pitch)
-
-Rustic or woodland names that fit a village kid: **Bram, Tamsin, Corrin, Ewan, Rowan, Fenwick, Aldric, Theo.** Elven-leaning options if you go elf or half-elf: **Elric, Kaelen, Thalion, Riven.**
-
 ## The Village (Your idea)
 
 The feel is borrowed from the elven village near Arandur's home, but it's set in this character's own world, not Arandur's.
@@ -314,13 +310,6 @@ They're short, but they're not stupid. The village is skilled and self-sufficien
 - **How they heal:** Healers use magic to assist the body's own healing, not replace it.
 - **Artificers are the exception:** Artificers aren't healing specialists, but they can still heal, which is how Murrow and Glumtom do it. They focus more on natural healing, and on using other people's healing magic, often more nefariously.
 - **Open:** What "nefariously" looks like in practice isn't decided yet. Who the 2 healers in Stoutwell are isn't decided yet either.
-
-### Details to flesh out (Pitch)
-
-- What's his role in the village? Farmer, woodcutter, hunter, the blacksmith's apprentice, or the one who never fit in.
-- Who does he care about there? A parent, a mentor, a best friend, a crush.
-- Is the village tucked into a forest, sitting by a river or lake, or out on open farmland?
-- Do they trade with anyone outside, or are they fully cut off?
 
 ## Monsters (Your idea)
 
