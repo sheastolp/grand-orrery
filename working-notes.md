@@ -438,7 +438,6 @@ Each item shows how the rules work.
 - **Monster Wood bounties:** Merchants on the Woodland Road could carry bounty notices for goblins and trolls back to the hall. Adventurers would then come to Stoutwell's edge for coin, which the village may not want.
 - **The bestiary's blank page:** The large beasts of the deep woods have no entry yet. The first company to bring back proof would make a name for itself.
 - **Osric's surname:** The Archives keep noble lineages, so the hidden surname that ties Osric to the Kingdom could be written somewhere in the hall.
-- **The cult's shopping list:** Cult members gather weapons and tools. A guild that pays in salvage and trades in gear would be an easy place to collect them.
 
 ### The Scribe, the peddlers and the Wandering Clerk (Your idea)
 
@@ -452,7 +451,7 @@ Each item shows how the rules work.
 **Story hooks (Pitch):**
 
 - **The first ledger in Stoutwell:** The Wandering Clerk's road could be the first guild ledger to reach Stoutwell, putting villagers' names on paper the Kingdom might read.
-- **A relic from the wood:** A peddler's unexplained relic could come from the Monster Wood, or from the cult's fortress.
+- **A relic from the wood:** A peddler's unexplained relic could come from the Monster Wood.
 
 ### The Woodland Road
 
@@ -698,24 +697,6 @@ The Kingdom is interested in him for bureaucratic and combat purposes, not for h
 - **Making gear:** He builds utilities, tools and weapons for the warriors. He doesn't fight. He tinkers, and the warriors use what he makes.
 - **Labor:** He helps with the physical labor of building.
 - **Undead workers:** He raises a few undead soldiers to help with reconstruction and new construction of buildings and walls.
-
-## The Cult (DM lore)
-
-**This section is updated only from the DM.** It comes from Glumtom's campaign and is now part of this universe.
-
-### What's known
-
-- **Glumtom's uncle:** A gnome who Glumtom believes joined the cult. He was reserved with anyone who wasn't a gnome and only chatty with family, Glumtom included.
-- **The cult:** Almost nothing is known about them. Nobody knows much.
-- **Their discovery:** They found *something* and are fairly sure they can harness it into an ultimate weapon: a way to dream any weapon or monster into existence.
-
-### What the uncle let slip (DM roll: 18)
-
-One evening he got a little too sauced and said more than he should have:
-
-- Members are sent out to find and gather things: weapons, tools, anything the cult thinks may be useful.
-- Everything is brought to a fortress somewhere else.
-- Because of where it is, the fortress is incredibly safe from trespassers.
 
 ## Open Questions
 

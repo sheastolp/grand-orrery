@@ -312,14 +312,6 @@ All five are halflings.
 - It's a perfectly round, flat stone with a glassy, reflective surface, shaped by magic. An arrow of light rises from it and points toward another artificer, drawn by a blend of many mana types.
 - Glumtom has one. He could find Murrow, but he isn't looking, and Murrow doesn't know the Lodestone exists.
 
-### The Cult
-
-*This part of the lore comes from an ongoing D&D campaign.*
-
-- Glumtom's uncle, a gnome who is reserved with outsiders but chatty with family, is believed to have joined a cult that almost nobody knows anything about.
-- The cult found *something* it believes can be harnessed into an ultimate weapon: a way to dream any weapon or monster into existence.
-- One evening, a little too drunk, the uncle let slip that members are sent out to gather weapons, tools and anything else useful. It all goes to a fortress somewhere far away that's almost impossible for trespassers to reach.
-
 ## Characters from Other Worlds
 
 ### Arandur
