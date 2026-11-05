@@ -45,9 +45,12 @@ What gives him that cozy hobbit feel:
 - **Living with big folk:** His village is mixed halflings and humans, so he's grown up being the short one in a crowd. That can be a running joke or a sore spot.
 - **Thick skin:** Halflings are stout, with thicker skin and natural heat resistance, so they're well suited to blacksmithing.
 
-### Name ideas (Pitch)
+### Spare names (Pitch)
 
-Rustic or woodland names that fit a village kid: **Bram, Tamsin, Corrin, Ewan, Rowan, Fenwick, Aldric, Theo.** Elven-leaning options if you go elf or half-elf: **Elric, Kaelen, Thalion, Riven.**
+Unused names for other characters. Some could fit villagers or Kingdom folk, like **Aldric** for a noble or **Tamsin** for a Wellhouse elf.
+
+- **Rustic or woodland:** Bram, Tamsin, Corrin, Ewan, Rowan, Fenwick, Aldric, Theo.
+- **Elven-leaning:** Elric, Kaelen, Thalion, Riven.
 
 ## The Village (Your idea)
 
