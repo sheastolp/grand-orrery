@@ -10,7 +10,7 @@ It's built so any place, person or idea can be lifted out and used on its own: i
 
 | File | What it is | How settled |
 | --- | --- | --- |
-| [`universe.md`](universe.md) | **Stoutwell & Beyond.** The universe draft: magic, Stoutwell, its people, the Monster Wood, the Kingdom and its guild hall GuildScribe, and characters from other worlds. | Decided |
+| [`universe.md`](universe.md) | **Stoutwell & Beyond.** The universe draft: magic, Stoutwell, its people, the Monster Wood, the Kingdom and its guild hall GuildScribe (with its Scribe, the market peddlers and the Wandering Clerk), and characters from other worlds. | Decided |
 | [`working-notes.md`](working-notes.md) | **Village Hero.** The full working notes behind the draft, including ideas still being weighed. | Mixed, marked per section |
 | [`lore.md`](lore.md) | The condensed lore the Wake in Verrowen narrator reads every turn. | Decided only |
 | [`maps/`](maps/) | Rough region and village maps. | Rough draft |
@@ -23,6 +23,20 @@ Every section heading in `working-notes.md` carries a tag:
 - **(Pitch)**: a suggestion to pick from, change or toss. Not canon.
 - **(Not decided yet)**: an open direction.
 - **(DM lore)**: comes from a D&D campaign's Dungeon Master and is only changed from there.
+
+## Where the characters show up
+
+Every character in the Tavernworks examples comes from this universe.
+
+| Character | Where |
+| --- | --- |
+| Tobin Ashby, Doric, Osric, Hesketh Reeve, Murrow, the five Elders, Glumtom, Arandur | Chatters in the [Tavernworks](https://tavernworks.dev/) home page's GuildScribe example chat. Tobin is also in the [Sound Bytes](https://tavernworks.dev/soundbytes/) example, and Doric in [The Wandering Clerk](https://tavernworks.dev/wandering-clerk/)'s. |
+| The Scribe | GuildScribe's own voice in chat: the replies, the grumbles when tagged, and the fine for `!rob @GuildScribeBot`. |
+| The peddlers (Tansy Ninefingers and the rest) | GuildScribe's market stall (`!stall`, `!haggle`) and The Wandering Clerk's merchants. |
+| The Wandering Clerk | The Wandering Clerk bot (GuildBreak: Hunt & Hoard). |
+| Everyone in `lore.md` | People the player can meet in [Wake in Verrowen](https://tavernworks.dev/verrowen/). |
+
+When a character changes here, check those examples still fit.
 
 ## Keeping it in sync
 

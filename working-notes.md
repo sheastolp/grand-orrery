@@ -440,6 +440,20 @@ Each item shows how the rules work.
 - **Osric's surname:** The Archives keep noble lineages, so the hidden surname that ties Osric to the Kingdom could be written somewhere in the hall.
 - **The cult's shopping list:** Cult members gather weapons and tools. A guild that pays in salvage and trades in gear would be an easy place to collect them.
 
+### The Scribe, the peddlers and the Wandering Clerk (Your idea)
+
+- **The Scribe:** The hall's senior guildscribe, the one who answers adventurers at the desk. She's sour, unimpressed and forever comparing things to how they were done in her day, and she scolds young adventurers for not eating enough. Underneath, she cares a little, and would never admit it. Trying to rob her is a famously bad idea: the would-be thief is fined into the hall's swear jar instead.
+- **The peddlers:** Threadbare traders who take turns at an open stall in the capital's market square, a different one each time it opens: Wobble, Pruneface Yorik, Tansy Ninefingers, Bregga Stumpteeth, Old Corrin, Widow Hesk, Tam Pockets, Fenwick Loose-Coin, Marda the Reformed Cutpurse, Grithnall the Threadbare, Squint, Nan Gullyfoot, Ossop the Unlucky, Beren Halfcoat, Ivy Scraptongue, Doras Milkbeard, Kettle, Ruel Tinkpocket, Sella Windrags, Podge Ashborn and Uther Nine-Debts.
+  - They haggle hard and sell odd, mostly honest wares, like one lucky rabbit's foot, still faintly twitching. Every so often one of them pulls a real relic out of a sack and can't say where it came from.
+  - Fenwick Loose-Coin and Widow Hesk are no relation to Elder Fenwick Larkspur or Captain Hesketh Reeve.
+- **The Wandering Clerk:** A guildscribe who broke from the hall and now keeps a ledger of their own on the Kingdom's roads. The Clerk swears in adventurers in places too small for a guild, posts bounties, sends them hunting and points them to whichever peddler's stall is nearby. Some of the same peddlers (Wobble, Pruneface Yorik, Tansy Ninefingers, Old Corrin, Tam Pockets, Squint, Nan Gullyfoot, Kettle and Sella Windrags) follow the Clerk's road.
+- **Where they come from:** The Scribe is GuildScribe's own voice in chat. The peddlers run its market stall (!stall and !haggle). The Wandering Clerk is the guild receptionist bot behind GuildBreak: Hunt & Hoard, and its name is the break from the guild.
+
+**Story hooks (Pitch):**
+
+- **The first ledger in Stoutwell:** The Wandering Clerk's road could be the first guild ledger to reach Stoutwell, putting villagers' names on paper the Kingdom might read.
+- **A relic from the wood:** A peddler's unexplained relic could come from the Monster Wood, or from the cult's fortress.
+
 ### The Woodland Road
 
 - A pathway runs through the woodlands from the village to the Kingdom.

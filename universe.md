@@ -291,6 +291,12 @@ All five are halflings.
 - **The arena:** Sanctioned duels between members, for coin and standing.
 - **The Kingdom's hand:** The hall serves the Kingdom first. Its records and its corruption both belong to the Kingdom.
 
+### The Scribe, the peddlers and the Wandering Clerk
+
+- **The Scribe:** GuildScribe's senior guildscribe, who answers adventurers at the desk. Sour, unimpressed and always comparing things to how they were done in her day, she scolds young adventurers for not eating enough. She secretly cares a little, and would never admit it. Anyone who tries to rob her is fined into the hall's swear jar.
+- **The peddlers:** Threadbare traders who take turns at an open stall in the capital's market square: Wobble, Pruneface Yorik, Tansy Ninefingers, Bregga Stumpteeth, Old Corrin, Widow Hesk, Tam Pockets, Fenwick Loose-Coin, Marda the Reformed Cutpurse, Grithnall the Threadbare, Squint, Nan Gullyfoot, Ossop the Unlucky, Beren Halfcoat, Ivy Scraptongue, Doras Milkbeard, Kettle, Ruel Tinkpocket, Sella Windrags, Podge Ashborn and Uther Nine-Debts. They haggle hard and sell odd, mostly honest wares. Now and then one turns up a real relic and can't say where it came from. (Fenwick Loose-Coin and Widow Hesk are no relation to Fenwick Larkspur or Hesketh Reeve.)
+- **The Wandering Clerk:** A guildscribe who broke from the hall and keeps a ledger of their own on the Kingdom's roads, swearing in adventurers where there's no guild, posting bounties and sending them to the nearest peddler's stall. Some of the peddlers follow the Clerk's road.
+
 ### Glumtom, the Kingdom's artificer
 
 - **Rock gnome artificer,** gloomy-looking and quiet, who keeps to himself.
