@@ -277,6 +277,7 @@ All five are halflings.
 ## Beyond the Village
 
 - **The Kingdom:** A real kingdom farther off, past the woods. Stoutwell sits on its far edge. Like any kingdom, it carries moral corruption and the cruelty that comes with power.
+- **The census:** Kingdoms and larger realms hold a yearly census.
 - **The Woodland Road:** A path through the woods, outside the west gate, to the Kingdom. It's relatively safe, but still dangerous.
 - **Merchants:** Traders travel the road with safety escorts, so the village isn't cut off. The wealthier Hearthcircle trades with them most and gets the best goods, including most of its fine metalwork, from the Kingdom's capital.
 - **The tax representative:** Travels with the merchants to collect the Kingdom's tax. The role is chosen carefully to keep bias low, but the Kingdom's corruption can still creep in.

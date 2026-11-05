@@ -419,6 +419,7 @@ Each item shows how the rules work.
 
 - A real kingdom lies farther off, past the woods. The village falls under it but sits far out on its edge.
 - Like any kingdom, it has corruption: moral rot and all the terribleness that comes with power.
+- **The census (Your idea):** Kingdoms and larger realms hold a yearly census.
 
 ### The divination tower (Your idea)
 
@@ -440,7 +441,7 @@ Each item shows how the rules work.
 
 **Story hooks (Pitch):**
 
-- **The registry is the draft list:** Joining puts your name on the Kingdom's books. Glumtom was drafted because he was a registered citizen, and the guildscribes' parchments may be where the Kingdom finds its next draftee.
+- **The registry is part of the draft list:** The guild registry is only one place the Kingdom gets names. The yearly census is another. Joining the guild puts your name on the Kingdom's books, and the guildscribes' parchments may be where the Kingdom finds its next draftee. Glumtom was drafted because he was a registered citizen.
 - **Monster Wood bounties:** Merchants on the Woodland Road could carry bounty notices for goblins and trolls back to the hall. Adventurers would then come to Stoutwell's edge for coin, which the village may not want.
 - **The bestiary's blank page:** The large beasts of the deep woods have no entry yet. The first company to bring back proof would make a name for itself.
 - **Osric's surname:** The Archives keep noble lineages, so the hidden surname that ties Osric to the Kingdom could be written somewhere in the hall.
