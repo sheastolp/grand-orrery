@@ -254,7 +254,7 @@ All five are halflings.
 
 ### Murrow's items
 
-- **Hearthstones:** Stones charged with a fire user's mana that keep a stove warm through the night. Rare and expensive.
+- **Hearthstones:** Stones charged with a fire user's mana that keep a stove warm through the night. An ember ignites the stone, and the stored mana is its fuel. Rare and expensive.
 - **Featherhooks:** Enchanted iron hooks, forged by Doric, that make a log much lighter to drag.
 - **Wardbells:** Bells on the walls that ring on their own when something large comes out of the Monster Wood.
 - **Truthglass:** A lens that shows whether a coin, seal or document is real.

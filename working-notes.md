@@ -298,7 +298,7 @@ They're short, but they're not stupid. The village is skilled and self-sufficien
 
 ### Monstradius items (Your idea)
 
-- **Hearthstones:** Stones charged with fire magic that keep a stove warm all night with no wood. They're rare and pricey, so the Hearthcircle probably owns them.
+- **Hearthstones:** Stones charged with fire magic that keep a stove warm all night with no wood. An ember ignites the stone, and the stored mana is its fuel. They're rare and pricey, so the Hearthcircle probably owns them.
 - **Featherhooks:** Hooks enchanted with wind magic that make a log weigh half as much. A big help on dead-tree runs.
 - **Wardbells:** Bells on the walls that ring by themselves when something big comes out of the Monster Wood.
 - **Truthglass:** A lens that shows whether a coin or seal is real. Useful against shady merchants or a crooked tax collector.
@@ -382,7 +382,7 @@ Each item shows how the rules work.
 
 - **What it does:** Keeps a stove warm through the night without new wood.
 - **How it's made:** A fire user charges a smooth river stone in Murrow's shop. Murrow sets the charge so it releases slowly instead of all at once.
-- **Limits:** It lasts one night per charge and still needs embers to work with. It warms the fire but doesn't replace it.
+- **Limits:** It lasts one night per charge. It needs an ember to ignite it, then burns on its mana instead of wood.
 - **Rules it shows:** Magic needs something to work with, and objects hold magic but don't make it.
 
 **Featherhook**
