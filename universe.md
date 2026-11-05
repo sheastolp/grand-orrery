@@ -12,7 +12,8 @@ An orrery is a clockwork model of the heavens. **The Grand Orrery** is the artif
 
 - **Scope:** A universe of several worlds that can tie together. Most of this draft takes place on one of them, Verrowen, centered on the walled village of Stoutwell.
 - **Tone:** Medieval fantasy, with D&D-style monsters.
-- **Linked worlds:** People sometimes cross between worlds. Arandur, an elf thief, was pulled out of his own world into another (see Characters from Other Worlds).
+- **Linked worlds:** The worlds connect through **rifts**, random tears that open and close and pull in people, monsters or even whole buildings. That's why the same monsters turn up on different worlds. Arandur, an elf thief, was pulled out of his own world into another (see Characters from Other Worlds).
+- **Doorway rifts:** Some artificers can open a rift on purpose, using a doorway as the boundaries for the magic.
 
 ## How Magic Works
 
@@ -26,6 +27,14 @@ Magic is everywhere, but it's small. It helps people work. It doesn't do the wor
 4. **Types:** Everyday magic is elemental: wind, fire or earth. Strength enhancement is a fairly common non-elemental ability, used for anything from hammering hot steel to heavy lifting. Detection magic also exists.
 5. **By race:** Elves are the most magical, then humans, then halflings. Humans are more attuned to elemental magic, and wind users, though rare, are far more likely to be human.
 6. **Latent magic:** People can have abilities they don't know they have.
+7. **Everyday uses:** Mending torn clothes, cracked pots or a nicked shield (maybe a halfling specialty), and earth magic that loosens soil for planting or firms up a muddy path.
+
+### Healers
+
+- **Very rare, and only human:** Healing specialists come strictly from the human race, because of humans' affinity for it.
+- **How many:** A small or medium village may have 2 or 3 at a time. Stoutwell has 2.
+- **How they heal:** Their magic helps the body heal itself. It doesn't replace natural healing.
+- **Artificers:** They aren't healers, but they can still heal. That's how Murrow and Glumtom do it. Artificers lean on natural healing and on using other people's healing magic, often more nefariously.
 
 ### Mana
 
@@ -53,7 +62,7 @@ A quiet way to find a child's element before they know it themselves:
 
 Rough sketches, not to scale.
 
-![Region map: the Kingdom, the Monster Wood, the Woodland Road, the croplands, Stoutwell, the river and the mills](maps/region.png)
+![Region map: the Kingdom, the Monster Wood with the Blight, the goblin lands and the adventurers' farthest reach, the Woodland Road, the croplands, Stoutwell, the river and the mills](maps/region.png)
 
 ![Stoutwell village map: districts, the Gathering Hall, the dried well, the Wellhouse, Monstradius, Doric's smithy, the lumber yard and the river mills](maps/stoutwell.png)
 
@@ -89,6 +98,7 @@ Unofficially, Stoutwell is known for its **ale** and its **blacksmithing**.
 - **The blight:** About 550 years ago, the blight dried the well up.
 - **Centuries of water runs:** Since then, villagers traveled in small groups to the river and hauled back enough water to refill the dry well for a couple of days at a time.
 - **Irrigation:** Recently, the artificer Murrow built an irrigation system that brings river water into the village. The river itself flows away from both the village and the woods.
+- **The ale, maybe:** More water could mean more ale for the first time in centuries. Whether it will, and what that would mean for the Wellhouses and whoever controls the supply, is still open.
 
 ### Layout
 
@@ -196,6 +206,7 @@ The corruption comes from the Elderhold. Two of the five Elders currently work t
 - **Role:** Blacksmith's apprentice. He was born into a smithing family, and the Elders placed him at the forge.
 - **Personality:** Determined, loyal and efficient.
 - **Magic:** Minimal. He uses a strength enhancement to hammer hot steel harder.
+- **Where his story is heading:** The goblin raids aren't random. He follows the trail back toward the Blight, and to whoever, or whatever, is behind it.
 
 ### Doric
 
@@ -203,6 +214,7 @@ The corruption comes from the Elderhold. Two of the five Elders currently work t
 - **Role:** Master blacksmith and Tobin's master.
 - **Personality:** Strict because he hates mistakes, and deeply proud of his work.
 - **Standing:** He isn't in the Hearthcircle, but he advises them on metalwork. They respect him but don't rely on him.
+- **Sore spot:** The Hearthcircle orders its fine metalwork from the capital instead of from him, and for a smith this proud, it stings.
 - **On Tobin:** Talented, but not ready to take over.
 - **Murrow:** They're acquaintances. Doric forges the iron for Murrow's Featherhooks.
 
@@ -254,17 +266,17 @@ All five are halflings.
 
 ### Murrow's items
 
-- **Hearthstones:** Stones charged with a fire user's mana that keep a stove warm through the night. Rare and expensive.
-- **Featherhooks:** Enchanted iron hooks, forged by Doric, that make a log much lighter to drag.
-- **Wardbells:** Bells on the walls that ring on their own when something large comes out of the Monster Wood.
-- **Truthglass:** A lens that shows whether a coin, seal or document is real.
-- **The Rift compass:** A secret project, about 80% complete. It points toward places where the worlds are thin.
+- **Hearthstones:** Smooth river stones charged by a fire user in Murrow's shop, set to release slowly so a stove stays warm through the night. One night per charge, and they still need embers: they warm a fire but don't replace it. Rare and expensive.
+- **Featherhooks:** Iron hooks forged by Doric and imprinted by Murrow with a wind pattern. They cut a log's weight about in half while it's dragged, drawing on the holder's latent wind, so they work better for humans than halflings. Holding one too long leaves you winded.
+- **Wardbells:** Bells on the walls with a detection user's sense set into the metal, pointed at the Monster Wood. They ring on their own when something large comes out, but can't tell goblins from trolls, only big from small, and need a detection user to refresh them every few weeks.
+- **Truthglass:** A rare piece of clear quartz charged with detection magic. It shows whether a coin, seal or signed paper is real, but only answers real or fake, never who forged it or why. Dangerous for anyone skimming the guard tithe, or for a crooked tax representative.
+- **The Rift compass:** A secret project, about 80% complete. It points toward places where the worlds are thin. How it works is unknown even to Murrow, and it may use a kind of magic nobody in the village has.
 
 ## The Monster Wood
 
 - A dark wood to the west of Stoutwell where monsters spawn. It has always been dangerous.
 - **Goblin raiders:** The main threat. They raid the croplands outside the walls.
-- **Trolls:** They spawn in the wood, but the village's defenses keep them from being a problem.
+- **Trolls:** They're natural to the deep woods, the same kind of creature as in Arandur's world. The village's defenses keep them from being a problem.
 - **Large beasts:** They live in the deep woods. Their kind is still to be revealed.
 - **Tall and floating monsters:** These shaped the walls and the archers. True flyers are rare.
 
@@ -291,12 +303,17 @@ All five are halflings.
 - **The bounty board:** Monster bounties, paid in Kingdom coin (gold, silver and copper). The guildscribes keep a bestiary of every creature a bounty has been posted for.
 - **The arena:** Sanctioned duels between members, for coin and standing.
 - **The Kingdom's hand:** The hall serves the Kingdom first. Its records and its corruption both belong to the Kingdom.
+- **The draft pool:** Joining the guild puts your name on the Kingdom's books, and registered citizens can be drafted. A census every season catches everyone who never joined, so they end up in the draft pool too.
+- **Adventurers in the wood:** Only a few adventurers hunt the Monster Wood, coming in from the west on the Kingdom's side. None have made it past the blighted section where the goblins live, so none have reached Stoutwell.
+- **The bestiary's blank page:** The large beasts of the deep woods have no entry yet. The first company to bring back proof would make its name.
 
 ### The Scribe, the peddlers and the Wandering Clerk
 
 - **The Scribe:** GuildScribe's senior guildscribe, who answers adventurers at the desk. Sour, unimpressed and always comparing things to how they were done in her day, she scolds young adventurers for not eating enough. She secretly cares a little, and would never admit it. Anyone who tries to rob her is fined into the hall's swear jar.
 - **The peddlers:** Threadbare traders who take turns at an open stall in the capital's market square: Wobble, Pruneface Yorik, Tansy Ninefingers, Bregga Stumpteeth, Old Corrin, Widow Hesk, Tam Pockets, Fenwick Loose-Coin, Marda the Reformed Cutpurse, Grithnall the Threadbare, Squint, Nan Gullyfoot, Ossop the Unlucky, Beren Halfcoat, Ivy Scraptongue, Doras Milkbeard, Kettle, Ruel Tinkpocket, Sella Windrags, Podge Ashborn and Uther Nine-Debts. They haggle hard and sell odd, mostly honest wares. Now and then one turns up a real relic and can't say where it came from. (Fenwick Loose-Coin and Widow Hesk are no relation to Fenwick Larkspur or Hesketh Reeve.)
 - **The Wandering Clerk:** A guildscribe who broke from the hall and keeps a ledger of their own on the Kingdom's roads, swearing in adventurers where there's no guild, posting bounties and sending them to the nearest peddler's stall. Some of the peddlers follow the Clerk's road.
+- **The first ledger in Stoutwell:** The Clerk's road, by way of the Woodland Road, could bring the first guild ledger to Stoutwell, putting villagers' names on paper the Kingdom might read.
+- **A relic from the wood:** One of the peddlers' unexplained relics could have come out of the Monster Wood.
 
 ### Glumtom, the Kingdom's artificer
 
@@ -310,7 +327,7 @@ All five are halflings.
 ### The Seeker's Lodestone
 
 - A secret artificer-made item, known only among artificers, that locates other artificers. The Kingdom doesn't know it exists.
-- It's a perfectly round, flat stone with a glassy, reflective surface, shaped by magic. An arrow of light rises from it and points toward another artificer, drawn by a blend of many mana types.
+- It's a perfectly round, flat disc of *mirrorstone*, a rare black glass with a reflective surface, shaped by magic. An arrow of light rises from it and points toward another artificer, drawn by a blend of many mana types.
 - Glumtom has one. He could find Murrow, but he isn't looking, and Murrow doesn't know the Lodestone exists.
 
 ## Characters from Other Worlds
@@ -325,14 +342,14 @@ An elf ranger and pickpocket from a different world: an elven wood beside a grow
 - **The streets:** Homeless and shut out of work as a foreigner, he became a thief and taught himself archery by watching soldiers.
 - **Two in one:** His small flickers of magic may not be his own. They may be Silwen acting through him.
 - **Personality:** He buries everything under contempt and silence. He talks down magic loudly. He fears trolls but can't fully hate them.
+- **Verrowen:** In his youth, a rift dropped him in a village near Stoutwell. The village's name is still to be decided.
 - **Now:** He has been pulled out of his world into another.
 
 ## Still Being Developed
 
 - Is the blight natural, or is someone behind it?
 - What are the large beasts of the deep woods?
-- How do the worlds connect, and do Stoutwell's story and Arandur's ever cross?
+- Which artificers can open doorway rifts, and do Stoutwell's story and Arandur's ever cross?
 - What does Verrowen look like beyond the Kingdom and the Monster Wood?
 - Who keeps the divination tower, and how does divination fit with the known kinds of magic (elemental, strength, detection)?
 - What is Murrow, and who is his soft spot for?
-- What is Tobin's story heading toward?

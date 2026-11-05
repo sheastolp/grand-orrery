@@ -82,7 +82,7 @@ Unofficially, Stoutwell is known for two things: **its ales and its blacksmithin
 
 **The ale over the centuries (Your idea):** The ale never lost its potency. But once the well dried up and water had to be hauled from the river, the ale supply became very restricted.
 
-**Pitch:** Murrow's new irrigation means more water, and possibly more ale for the first time in centuries. That would be a big shift for the Wellhouses' wealth, and for whoever controls the supply.
+**Irrigation and the ale (Your idea, left open):** Murrow's new irrigation could mean more water, and possibly more ale for the first time in centuries. Whether that actually happens, and what it would mean for the Wellhouses' wealth and for whoever controls the supply, isn't decided yet.
 
 ### Water (Your idea)
 
@@ -301,10 +301,19 @@ They're short, but they're not stupid. The village is skilled and self-sufficien
 - **Truthglass:** A lens that shows whether a coin or seal is real. Useful against shady merchants or a crooked tax collector.
 - **Rift compass:** A secret project that points toward where the worlds are thin. It ties into Arandur and the wider universe.
 
-### More everyday magic (Pitch)
+### More everyday magic (Your idea)
 
 - **Mending:** Fixing torn clothes, cracked pots or a nicked shield, maybe as a halfling specialty.
 - **Earth:** Loosening soil for planting or firming up a muddy path.
+
+### Healers (Your idea)
+
+- **Very rare:** Healing specialists are very rare.
+- **Humans only:** They come strictly from the human race, because of humans' magical affinity for healing.
+- **How many:** A medium or small village may have 2 or 3 healers at a time. **Stoutwell has 2.**
+- **How they heal:** Healers use magic to assist the body's own healing, not replace it.
+- **Artificers are the exception:** Artificers aren't healing specialists, but they can still heal, which is how Murrow and Glumtom do it. They focus more on natural healing, and on using other people's healing magic, often more nefariously.
+- **Open:** What "nefariously" looks like in practice isn't decided yet. Who the 2 healers in Stoutwell are isn't decided yet either.
 
 ### Details to flesh out (Pitch)
 
@@ -324,7 +333,7 @@ The **Monster Wood** (that's the name for now) is a dark wood near the village w
 ### What they're like (Your idea)
 
 - **Goblin raiders:** The main threat to the village (see The Blight below).
-- **Trolls:** They spawn in the Monster Wood, the same kind of creature as in Arandur's world. The village's defenses mean they aren't a problem there.
+- **Trolls:** They're natural to the deep woods of the Monster Wood, the same kind of creature as in Arandur's world. The village's defenses mean they aren't a problem there.
 - **Large beasts in the deep woods:** There are definitely big ones, but they aren't decided yet.
 - **Tall monsters:** These are why the walls can't be too short.
 - **Floating monsters:** These are why the walls need human archers.
@@ -373,7 +382,7 @@ A way to find out a child's element before they know it themselves.
 
 **Attunement (Your idea):** An item charged with someone's mana normally only works for that person. A very rare ability, nearly as rare as being an artificer, lets an item work without its mana's owner there to use it. Artificers can do this, but *how* they do it isn't decided yet.
 
-### Constructed items (Pitch)
+### Constructed items (Your idea)
 
 Each item shows how the rules work.
 
@@ -437,12 +446,17 @@ Each item shows how the rules work.
 - **Ties to the Kingdom:** It serves the Kingdom first, so the Kingdom's corruption reaches it too.
 - **Where it comes from:** GuildScribe, the D&D chat bot behind the stream, is the same guild hall. Its parchments, companies, archives, bounties, arena and coin all have an in-world home here.
 
-**Story hooks (Pitch):**
+**The draft pool (Your idea):**
 
-- **The registry is the draft list:** Joining puts your name on the Kingdom's books. Glumtom was drafted because he was a registered citizen, and the guildscribes' parchments may be where the Kingdom finds its next draftee.
-- **Monster Wood bounties:** Merchants on the Woodland Road could carry bounty notices for goblins and trolls back to the hall. Adventurers would then come to Stoutwell's edge for coin, which the village may not want.
-- **The bestiary's blank page:** The large beasts of the deep woods have no entry yet. The first company to bring back proof would make a name for itself.
-- **Osric's surname:** The Archives keep noble lineages, so the hidden surname that ties Osric to the Kingdom could be written somewhere in the hall.
+- **The registry is the draft list:** Joining the guild puts your name on the Kingdom's books. Glumtom was drafted because he was a registered citizen, and the guildscribes' parchments are one place the Kingdom finds its next draftee.
+- **The seasonal census:** The Kingdom also runs a census every season, which catches people who never joined the guild and puts them in the draft pool too.
+
+**Adventurers in the Monster Wood (Your idea):**
+
+- **Few, and from the west:** Only a small number of adventurers hunt the Monster Wood. They come in from the west, the Kingdom's side.
+- **Stopped at the blight:** None have made it past the blighted section where the goblins live, so no adventurers have reached Stoutwell.
+
+**The bestiary's blank page (Your idea):** The large beasts of the deep woods have no entry yet. The first company to bring back proof would make a name for itself.
 
 ### The Scribe, the peddlers and the Wandering Clerk (Your idea)
 
@@ -453,9 +467,9 @@ Each item shows how the rules work.
 - **The Wandering Clerk:** A guildscribe who broke from the hall and now keeps a ledger of their own on the Kingdom's roads. The Clerk swears in adventurers in places too small for a guild, posts bounties, sends them hunting and points them to whichever peddler's stall is nearby. Some of the same peddlers (Wobble, Pruneface Yorik, Tansy Ninefingers, Old Corrin, Tam Pockets, Squint, Nan Gullyfoot, Kettle and Sella Windrags) follow the Clerk's road.
 - **Where they come from:** The Scribe is GuildScribe's own voice in chat. The peddlers run its market stall (!stall and !haggle). The Wandering Clerk is the guild receptionist bot behind GuildBreak: Hunt & Hoard, and its name is the break from the guild.
 
-**Story hooks (Pitch):**
+**Story hooks (Your idea):**
 
-- **The first ledger in Stoutwell:** The Wandering Clerk's road could be the first guild ledger to reach Stoutwell, putting villagers' names on paper the Kingdom might read.
+- **The first ledger in Stoutwell:** The Wandering Clerk's road could be the first guild ledger to reach Stoutwell, putting villagers' names on paper the Kingdom might read. The Clerk would come by the Woodland Road, the way merchants do, not through the wood like the adventurers.
 - **A relic from the wood:** A peddler's unexplained relic could come from the Monster Wood.
 
 ### The Woodland Road
@@ -499,7 +513,7 @@ Every villager gets a full profile, so any of them can be pulled out and used on
 - **Role:** Master blacksmith and Tobin's master (Village Workers)
 - **Personality:** Strict because he doesn't like mistakes. Proud of his work, and that pride is part of what makes him a talented master.
 - **Standing:** He isn't in the Hearthcircle, but he sometimes advises them when it's relevant to his work. They respect him but don't rely on him.
-- **Sore spot (Pitch):** The Hearthcircle orders its fine metalwork from the capital instead of from him. For a proud smith, that could sting.
+- **Sore spot (Your idea):** The Hearthcircle orders its fine metalwork from the capital instead of from him. For a proud smith, that stings.
 - **On Tobin:** He knows Tobin is talented, but not enough to let him take over as master blacksmith.
 - **Quirks:** Not decided yet.
 
@@ -566,24 +580,19 @@ All five are halflings. Their focus is research, survival and peace.
 
 **The corrupt pair:** Bertram and Ysolde work together. Between his ledgers and her harvest shares, they also steer placements, giving favorites easier jobs. Osric suspects something is going on but has no proof.
 
-## End Goal (Not decided yet)
+## End Goal (Your idea)
 
-There's no end goal and no set use yet. For now, the world itself is the goal. A few directions this character's thread could take (Pitch):
+**Uncover the cause:** The goblin raids aren't random. Tobin follows the trail back toward the Blight, and to whoever, or whatever, is behind it.
 
-1. **Protect home:** The monsters threaten the village, and he's the one who has to stop them.
-2. **Leave and come back:** The village is destroyed or he's cast out. He goes out into the world and returns as a hero, or doesn't.
-3. **Uncover the cause:** The monster attacks aren't random. He follows the trail to whoever, or whatever, is behind them.
-4. **Find someone:** Someone from the village is taken or goes missing, and he goes after them.
+- **Open:** Who or what is behind it, and whether the Blight is natural or deliberate, isn't decided yet.
 
-## The Universe (Pitch)
+## The Universe
 
-### How the worlds could connect
+### How the worlds connect (Your idea)
 
-Arandur got transported, so something moves people between worlds. Some options:
-
-- **Rifts:** Random tears that open and close, pulling in people, monsters or whole buildings. This also explains why the same monsters turn up on different worlds.
-- **Old gates:** Ancient stone portals left by a vanished civilization. Most people think they're just ruins.
-- **Someone doing it on purpose:** A mage, a god or a cult pulling people across worlds for a reason nobody knows yet.
+- **Rifts:** The worlds connect through rifts, random tears that open and close, pulling in people, monsters or whole buildings. This also explains why the same monsters turn up on different worlds.
+- **Doorway rifts:** Some artificers can create a rift on purpose, using a doorway as the boundaries for the magic.
+- **Open:** Which artificers can do it, how they learn it, and whether it ties into Murrow's Rift compass aren't decided yet.
 
 ### Worldbuilding to fill in
 
@@ -632,11 +641,11 @@ The elf from your D&D campaign whose world can tie into this universe. This is a
 - He has little patience for the elves who abandoned him, and he accepts their help reluctantly.
 - He never speaks of Silwen, not as gone and not at all.
 
-### Hooks into the universe (Pitch)
+### Hooks into the universe (Your idea)
 
-- **Trolls:** If trolls live in the halfling's monster wood too, that's a natural reason for Arandur's story and the halfling's to collide.
-- **The transport:** Whatever pulled Arandur out of his world (a rift, an old gate, someone doing it on purpose) could drop him near the walled village.
-- **A pickpocket and a halfling:** Halflings are sneaky too. They could be rivals, or the halfling could be the one person who catches him stealing.
+- **Trolls:** Trolls are natural to the deep woods of the Monster Wood. That gives Arandur's story and Stoutwell's a natural reason to collide.
+- **The transport:** A rift drops Arandur, in his youth, in a village near Stoutwell. The village's name will be decided later.
+- **Open:** How this jump fits with his backstory and his later jump to Midkemia isn't decided yet.
 
 ## Glumtom (Your D&D character, campaign not started yet)
 
@@ -688,11 +697,10 @@ Pulled from his D&D Beyond sheet. There's no backstory, personality or appearanc
 **How it works (Your idea):**
 
 - **Shape:** A round, flat stone, usually shaped with magic into a very specific circle.
-- **Material:** A specific type of stone with a glassy, reflective surface.
+- **Material:** *Mirrorstone*, a rare black glass with a glassy, reflective surface.
 - **The arrow:** A compass-like arrow is projected upward from the stone's surface and points toward the likely location of another artificer.
 - **Power:** It uses a mix of many mana types to detect artificers. Since artificers understand every type of magic, that may be the "signature" it picks up on.
 
-**Material ideas (Pitch):** polished obsidian, a rare black glass called *mirrorstone*, or river-tumbled moonglass.
 
 ### What the Kingdom uses him for (Your idea)
 
