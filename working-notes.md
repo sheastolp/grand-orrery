@@ -418,6 +418,13 @@ Each item shows how the rules work.
 - A real kingdom lies farther off, past the woods. The village falls under it but sits far out on its edge.
 - Like any kingdom, it has corruption: moral rot and all the terribleness that comes with power.
 
+### The lake and the fishing village (Your idea)
+
+- **The lake:** The river opens into a lake at its southern end.
+- **The fishing village:** A small fishing village sits on the lake's far shore, across the water from Stoutwell.
+- **Name ideas (Pitch):** Farshore, Netherwell, Reedmouth, Stillwater, Hookhaven.
+- **Still open:** Its name, who lives there, how far it is, and how it gets along with Stoutwell (trade in fish for stout and smithing, for example).
+
 ### The Ashen Reach (Your idea)
 
 - **What it is:** A plain of grey soil where nothing grows tall.

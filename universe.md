@@ -295,6 +295,7 @@ All five are halflings.
 - **The Woodland Road:** A path through the woods, outside the west gate, to the Kingdom. It's relatively safe, but still dangerous.
 - **Merchants:** Traders travel the road with safety escorts, so the village isn't cut off. The wealthier Hearthcircle trades with them most and gets the best goods, including most of its fine metalwork, from the Kingdom's capital.
 - **The tax representative:** Travels with the merchants to collect the Kingdom's tax. The role is chosen carefully to keep bias low, but the Kingdom's corruption can still creep in.
+- **The lake and the fishing village:** At the southern end of the river, it opens into a lake. A small fishing village stands on the lake's far shore, across the water from Stoutwell. Its name isn't decided yet.
 - **The Ashen Reach:** A plain of grey soil to the south of Stoutwell where nothing grows tall. It's the village's training grounds. The slums along the south wall sit right beside it: the ash and noise keep land there cheap, and the slums supply most of the Guard's recruits. Some say it's an old battlefield, others that a past Grand Orrery event touched down there.
 - **The divination tower:** A tower somewhere past the Kingdom, farther off than anywhere Stoutwell knows. Who keeps it, and what it sees, is still to be decided.
 
