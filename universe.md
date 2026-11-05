@@ -254,11 +254,11 @@ All five are halflings.
 
 ### Murrow's items
 
-- **Hearthstones:** Stones charged with a fire user's mana that keep a stove warm through the night. An ember ignites the stone, and the stored mana is its fuel. Rare and expensive.
-- **Featherhooks:** Enchanted iron hooks, forged by Doric, that make a log much lighter to drag.
-- **Wardbells:** Bells on the walls that ring on their own when something large comes out of the Monster Wood.
-- **Truthglass:** A lens that shows whether a coin, seal or document is real.
-- **The Rift compass:** A secret project, about 80% complete. It points toward places where the worlds are thin.
+- **Hearthstones:** Smooth river stones charged with a fire user's mana that keep a stove warm through the night. Murrow sets the charge to release slowly. An ember ignites the stone, and the stored mana is its fuel. One charge lasts one night. Rare and expensive.
+- **Featherhooks:** Iron hooks, forged by Doric and imprinted by Murrow with a wind pattern, that cut a log's weight about in half while it's dragged. They draw on the latent wind in whoever holds them, so they work better for humans than halflings, and holding one too long leaves you winded.
+- **Wardbells:** Bells on the walls that ring on their own when something large comes out of the Monster Wood. A detection user's sense is set into the metal and pointed toward the wood. They need a detection user to refresh them every few weeks, and they can only tell big from small, not goblins from trolls.
+- **Truthglass:** A lens of rare clear quartz, charged with detection magic, that shows whether a coin, seal or document is real. It only answers real or fake, not who forged it or why. That makes it dangerous for anyone skimming the guard tithe, or for a crooked tax representative.
+- **The Rift compass:** A secret project, about 80% complete. It points toward places where the worlds are thin. How it works is unknown, even to Murrow; it may use a kind of magic nobody in the village has.
 
 ## The Monster Wood
 

@@ -374,7 +374,7 @@ A way to find out a child's element before they know it themselves.
 
 **Attunement (Your idea):** An item charged with someone's mana normally only works for that person. A very rare ability, nearly as rare as being an artificer, lets an item work without its mana's owner there to use it. Artificers can do this, but *how* they do it isn't decided yet.
 
-### Constructed items (Pitch)
+### Constructed items (Your idea)
 
 Each item shows how the rules work.
 
