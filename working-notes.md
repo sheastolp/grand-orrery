@@ -726,3 +726,41 @@ The Kingdom is interested in him for bureaucratic and combat purposes, not for h
 - What are the large beasts of the deep woods?
 - What's this character's end goal?
 - How do the worlds connect, and does this character ever cross paths with Arandur?
+
+## From the lore-keeper
+
+Pitches the owner filed from lore-keeper chats on the Orrery Explorer. Nothing here is decided until it's marked **Your idea**.
+
+### i want to expand the world starting with the kingdom (Pitch)
+
+_From a lore-keeper chat, 2026-11-05 · i want to expand the world starting with the kingdom · Open chat._
+
+Name
+Kind (Physics & Nature)
+The Grand Orrery
+a medieval fantasy universe built by me
+
+**A detailed depiction of how magic interacts with our mundane worlds**
+
+Write it up:
+ 
+- **The rule:** Ordinary villagers, Guard, artificers, and the Kingdom have limited use of magic that doesn’t directly interact with our real-world physics or nature.
+- **How it works:** Everyday uses involve little to significant alteration of reality itself (e.g., mending torn objects with mana).
+- **Costs and Limits:** Mana is generally used in moderation without causing dramatic costs (like running out of energy). Limitations apply when pushing beyond known boundaries; push too hard, consequences like illness or unstable destruction follow.
+- **Who it Affects:** This particular set of limitations primarily affects ordinary villagers who frequently engage in daily activities without extensive magical training.
+- **What it Changes:** Most people can function within these constraints without any noticeable differences in behavior or life style since they mostly rely on their innate abilities rather than using excessive power.
+- **Clashes with Canon:** None.
+Open questions:
+
+*   How might this system handle extremely powerful characters?
+    *   Might they become overwhelmed? 
+- **Suggested answer:** In such cases, more resources from Murrow’s enchanted items could be applied for temporary assistance.  However a greater risk exists due to the immense power contained inside those artificer's creations; therefore this solution would need great expertise.
+
+**In the world**
+
+As one enters the mystical realm called Verrowen, familiarity and discomfort often arise. It is a world where most inhabitants remain as secluded entities, carrying an almost unspoken fear for outsiders. 
+
+    - The Kingdom
+        - Past the woods lies a land of constant threats;
+    - The woodland road leads towards Stoutwell, though there are many dangers along its path
+        - Some try to explore while others return early but are met by harsh encounters every now and then
