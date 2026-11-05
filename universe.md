@@ -281,6 +281,16 @@ All five are halflings.
 - **Merchants:** Traders travel the road with safety escorts, so the village isn't cut off. The wealthier Hearthcircle trades with them most and gets the best goods, including most of its fine metalwork, from the Kingdom's capital.
 - **The tax representative:** Travels with the merchants to collect the Kingdom's tax. The role is chosen carefully to keep bias low, but the Kingdom's corruption can still creep in.
 
+### GuildScribe, the Kingdom's guild hall
+
+- **What it is:** The adventurers' guild hall in the Kingdom's capital. It's named for its **guildscribes**, the clerks who keep every record the hall runs on. There's nothing like it in Stoutwell. A village that small has the Guard, not a guild.
+- **The parchment:** Every adventurer who joins is written onto a parchment: name, race, trade, level of skill and deeds. Their rank in the hall rises as the parchment fills.
+- **Companies:** Adventurers register in companies, small parties that take work together under one name.
+- **The Archives:** The guild's library of spells, items, rules and monster lore. It's one of the few places in Verrowen where that knowledge is written down.
+- **The bounty board:** Monster bounties, paid in Kingdom coin (gold, silver and copper). The guildscribes keep a bestiary of every creature a bounty has been posted for.
+- **The arena:** Sanctioned duels between members, for coin and standing.
+- **The Kingdom's hand:** The hall serves the Kingdom first. Its records and its corruption both belong to the Kingdom.
+
 ### Glumtom, the Kingdom's artificer
 
 - **Rock gnome artificer,** gloomy-looking and quiet, who keeps to himself.

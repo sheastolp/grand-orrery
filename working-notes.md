@@ -419,6 +419,27 @@ Each item shows how the rules work.
 - A real kingdom lies farther off, past the woods. The village falls under it but sits far out on its edge.
 - Like any kingdom, it has corruption: moral rot and all the terribleness that comes with power.
 
+### GuildScribe, the Kingdom's guild hall (Your idea)
+
+- **What it is:** The adventurers' guild hall in the Kingdom's capital, named for its **guildscribes**, the clerks who keep its records.
+- **Kingdom, not village:** It belongs to the Kingdom. Stoutwell is far too small for a guild hall and relies on its Guard instead.
+- **What the hall keeps:**
+  - **Parchments:** One per adventurer, with name, race, trade, skill and deeds. Rank in the hall rises as it fills.
+  - **Companies:** Registered parties that take work together under one name.
+  - **The Archives:** A library of spells, items, rules and monster lore.
+  - **The bounty board and bestiary:** Monster bounties paid in Kingdom coin (gold, silver and copper), and a record of every creature a bounty has named.
+  - **The arena:** Sanctioned duels between members, for coin and standing.
+- **Ties to the Kingdom:** It serves the Kingdom first, so the Kingdom's corruption reaches it too.
+- **Where it comes from:** GuildScribe, the D&D chat bot behind the stream, is the same guild hall. Its parchments, companies, archives, bounties, arena and coin all have an in-world home here.
+
+**Story hooks (Pitch):**
+
+- **The registry is the draft list:** Joining puts your name on the Kingdom's books. Glumtom was drafted because he was a registered citizen, and the guildscribes' parchments may be where the Kingdom finds its next draftee.
+- **Monster Wood bounties:** Merchants on the Woodland Road could carry bounty notices for goblins and trolls back to the hall. Adventurers would then come to Stoutwell's edge for coin, which the village may not want.
+- **The bestiary's blank page:** The large beasts of the deep woods have no entry yet. The first company to bring back proof would make a name for itself.
+- **Osric's surname:** The Archives keep noble lineages, so the hidden surname that ties Osric to the Kingdom could be written somewhere in the hall.
+- **The cult's shopping list:** Cult members gather weapons and tools. A guild that pays in salvage and trades in gear would be an easy place to collect them.
+
 ### The Woodland Road
 
 - A pathway runs through the woodlands from the village to the Kingdom.

@@ -10,7 +10,7 @@ It's built so any place, person or idea can be lifted out and used on its own: i
 
 | File | What it is | How settled |
 | --- | --- | --- |
-| [`universe.md`](universe.md) | **Stoutwell & Beyond.** The universe draft: magic, Stoutwell, its people, the Monster Wood, the Kingdom, and characters from other worlds. | Decided |
+| [`universe.md`](universe.md) | **Stoutwell & Beyond.** The universe draft: magic, Stoutwell, its people, the Monster Wood, the Kingdom and its guild hall GuildScribe, and characters from other worlds. | Decided |
 | [`working-notes.md`](working-notes.md) | **Village Hero.** The full working notes behind the draft, including ideas still being weighed. | Mixed, marked per section |
 | [`lore.md`](lore.md) | The condensed lore the Wake in Verrowen narrator reads every turn. | Decided only |
 | [`maps/`](maps/) | Rough region and village maps. | Rough draft |
