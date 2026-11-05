@@ -19,7 +19,7 @@ Working notes for a new character and his story. Sections marked **Your idea** a
 
 Rough sketches of what's decided so far. They aren't to scale.
 
-![Region map: the Kingdom, the Monster Wood, the Woodland Road, the croplands, Stoutwell, the river and the mills](maps/region.png)
+![Region map: the Kingdom, the Monster Wood, the Woodland Road, the croplands, Stoutwell, the Ashen Reach, the river and the mills](maps/region.png)
 
 ![Stoutwell village map: districts, the Gathering Hall, the dried well, the Wellhouse, Monstradius, Doric's smithy, the lumber yard and the river mills](maps/stoutwell.png)
 
@@ -416,6 +416,14 @@ Each item shows how the rules work.
 
 - A real kingdom lies farther off, past the woods. The village falls under it but sits far out on its edge.
 - Like any kingdom, it has corruption: moral rot and all the terribleness that comes with power.
+
+### The Ashen Reach (Your idea)
+
+- **What it is:** A plain of grey soil where nothing grows tall.
+- **Where:** To the south of Stoutwell.
+- **Stoutwell's training grounds:** The village uses it as its training grounds. Being south explains why the training and the slums, which run along the south wall, are so close together.
+- **Where the ash came from (Pitch):** Maybe an old battlefield, or the place where a past Grand Orrery event touched down.
+- **Still open:** How far it is from the walls, and who trains there.
 
 ### The divination tower (Your idea)
 

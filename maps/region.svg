@@ -1131,6 +1131,11 @@
 <text x="1462" y="168" font-size="14" fill="#2f5778" text-anchor="end" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">flows away east</text>
 <text x="1470" y="640" font-size="15" fill="#3b2a1a" text-anchor="end" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">mills</text>
 <text x="1470" y="425" font-size="14" fill="#2f5778" text-anchor="end" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">irrigation</text>
+<!-- Ashen Reach: south of Stoutwell -->
+<path d="M1258,712 C1262,684 1300,676 1330,680 C1360,684 1374,702 1368,726 C1362,752 1330,766 1298,762 C1268,758 1254,738 1258,712 Z" fill="#a8a29a" fill-opacity="0.75" stroke="#5e5850" stroke-width="2" stroke-dasharray="6 4"/>
+<path d="M1345,656 L1330,680" stroke="#5e5850" stroke-width="2" stroke-dasharray="3 4"/>
+<text x="1312" y="718" font-size="17" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">Ashen Reach</text>
+<text x="1312" y="738" font-size="13" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">training grounds</text>
 <g transform="translate(1420,860)"><circle r="34" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="2"/><path d="M0,-30 L7,0 L0,30 L-7,0 Z" fill="#3b2a1a"/><path d="M-30,0 L0,-6 L30,0 L0,6 Z" fill="#8a7a5a"/></g>
 <text x="1420" y="820" font-size="16" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">N</text>
 <text x="1372" y="866" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">W</text>

@@ -62,7 +62,7 @@ A quiet way to find a child's element before they know it themselves:
 
 Rough sketches, not to scale.
 
-![Region map: the Kingdom, the Monster Wood with the Blight, the goblin lands and the adventurers' farthest reach, the Woodland Road, the croplands, Stoutwell, the river and the mills](maps/region.png)
+![Region map: the Kingdom, the Monster Wood with the Blight, the goblin lands and the adventurers' farthest reach, the Woodland Road, the croplands, Stoutwell, the Ashen Reach, the river and the mills](maps/region.png)
 
 ![Stoutwell village map: districts, the Gathering Hall, the dried well, the Wellhouse, Monstradius, Doric's smithy, the lumber yard and the river mills](maps/stoutwell.png)
 
@@ -105,6 +105,7 @@ Unofficially, Stoutwell is known for its **ale** and its **blacksmithing**.
 - **Walls:** Short, but not too short, since some monsters are tall.
 - **Gates:** One in each wall: north, east, south and west.
 - **The west gate:** The croplands, the Woodland Road and the Monster Wood all lie outside it. It's the busiest gate, the most dangerous, and the one goblin raiders hit hardest.
+- **The south side:** The Ashen Reach, Stoutwell's training grounds, lies to the south. The slums run along the south wall, right beside it.
 - **Neighborhoods:** The wealth gap shows on the map. There are slums, where poorer families live packed into plainer homes, and a nicer area of better-kept homes and shops.
 
 **Districts:**
@@ -292,6 +293,7 @@ All five are halflings.
 - **The Woodland Road:** A path through the woods, outside the west gate, to the Kingdom. It's relatively safe, but still dangerous.
 - **Merchants:** Traders travel the road with safety escorts, so the village isn't cut off. The wealthier Hearthcircle trades with them most and gets the best goods, including most of its fine metalwork, from the Kingdom's capital.
 - **The tax representative:** Travels with the merchants to collect the Kingdom's tax. The role is chosen carefully to keep bias low, but the Kingdom's corruption can still creep in.
+- **The Ashen Reach:** A plain of grey soil to the south of Stoutwell where nothing grows tall. It's the village's training grounds, which is why the slums along the south wall sit so close to the training. Some say it's an old battlefield, others that a past Grand Orrery event touched down there.
 - **The divination tower:** A tower somewhere past the Kingdom, farther off than anywhere Stoutwell knows. Who keeps it, and what it sees, is still to be decided.
 
 ### GuildScribe, the Kingdom's guild hall
