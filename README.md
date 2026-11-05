@@ -4,6 +4,8 @@ A medieval fantasy universe by Sheamus. Most of it so far takes place on **Verro
 
 It's built so any place, person or idea can be lifted out and used on its own: in a D&D campaign, a story or a book. It's a work in progress, and names and details may still change.
 
+**Browse it:** the [Orrery Explorer](https://tavernworks.dev/orrery/) shows the maps, every document and the full roster, and gathers everything written about any one person.
+
 **Play in it:** [Wake in Verrowen](https://tavernworks.dev/verrowen/) on Tavernworks. You wake with no memory somewhere in Verrowen, and an AI narrator reveals who you are through your choices.
 
 ## What's here
