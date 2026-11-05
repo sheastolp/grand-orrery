@@ -26,7 +26,7 @@ Every section heading in `working-notes.md` carries a tag:
 
 ## Keeping it in sync
 
-- The canonical, longer versions live in Sheamus's Claude docs, *Stoutwell & Beyond: Universe Draft* and *Village Hero: Character & Story Notes*. These files are copies of them as of 2026-11-04.
+- The canonical, longer versions live in Sheamus's Claude docs, *Stoutwell & Beyond: Universe Draft* and *Village Hero: Character & Story Notes*. These files are copies of them as of 2026-11-05.
 - `lore.md` is what the game's narrator reads, and the game loads it straight from this repo. Only decided lore goes in it, never pitches. Keep it compact, since it's sent with every turn.
 - When the universe changes, update the doc, then the matching file here, then `lore.md` if the change is decided and matters to the game.
 
