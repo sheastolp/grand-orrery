@@ -308,6 +308,7 @@ They're short, but they're not stupid. The village is skilled and self-sufficien
 
 - **Mending:** Fixing torn clothes, cracked pots or a nicked shield, maybe as a halfling specialty.
 - **Earth:** Loosening soil for planting or firming up a muddy path.
+- **Healing:** A larger group of human healers. Like other everyday magic, it helps the body heal rather than doing it outright, for example by closing a cut faster or easing a fever.
 
 ### Details to flesh out (Pitch)
 
