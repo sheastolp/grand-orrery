@@ -140,7 +140,7 @@ How to add something:
 - **Does:** Native to the deep woods of the Monster Wood, the same kind of creature as in Arandur's world.
 - **Story:** Stoutwell's defenses mean they aren't a problem there.
 
-#### 🐍 Rootwyrm (Pitch)
+#### 🐍 Rootwyrm (Your idea)
 
 - **Stats:** CR 9 · AC 16 · HP 150 · +10 to hit · 2d10+6
 - **Does:** A serpent as thick as a mill wheel that lives in the tangle of roots under the deep woods, surfacing to swallow whatever stands still.
