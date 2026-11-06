@@ -428,7 +428,7 @@ Each item shows how the rules work.
 - **How the rot works:** Bribes keep a son off the draft list. A rival's name appears on it. A debt is written off, or written in. Nobody needs to break a law when the clerk can change what the law sees.
 - **Why it fits:** It ties the Kingdom to things already decided: the census and the draft, the guild's parchments, the Wandering Clerk breaking away to keep a ledger of their own, and the fear that one guild ledger in Stoutwell would put villagers on paper the Kingdom might read. Bertram's crooked ledgers in Stoutwell become a small copy of how the whole Kingdom works.
 
-### The Crown and the great houses (Pitch)
+### The Crown and the great houses (Your idea)
 
 - **The Crown:** The Kingdom has a monarch, but the edge of the realm never sees them, and most people in the capital only see a banner. Who sits on the throne, and how long they've sat there, is still open.
 - **The great houses:** A handful of noble houses hold the offices that matter, and they pass them down: keeper of the rolls, master of the mint, warden of the roads, master of the draft. An office is property. It can be inherited, traded or sold.
