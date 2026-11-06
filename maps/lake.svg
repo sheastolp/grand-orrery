@@ -1,119 +1,82 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" font-family="GFS Baskerville, FreeSerif, serif">
 <defs><radialGradient id="parch" cx="50%" cy="50%" r="75%"><stop offset="0" stop-color="#f3e6c4"/><stop offset="0.8" stop-color="#e6d09f"/><stop offset="1" stop-color="#c9a96a"/></radialGradient><marker id="arrk" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3b2a1a"/></marker><clipPath id="inner"><rect x="24" y="24" width="1552" height="952"/></clipPath></defs>
 <rect width="1600" height="1000" fill="url(#parch)"/>
-<path d="M24,200 C140,180 300,200 370,260 C420,330 425,470 405,570 C380,680 290,760 150,775 C90,780 50,778 24,776 Z" fill="#a8a29a" fill-opacity="0.7" stroke="#5e5850" stroke-width="2" stroke-dasharray="6 4"/>
-<path d="M194,520 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M354,473 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M213,534 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M103,496 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M254,636 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M72,392 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M71,645 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M276,261 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M374,722 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M262,548 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M94,248 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M220,270 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M105,361 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M50,472 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M190,661 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M217,560 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M210,571 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M195,379 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M326,594 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M147,355 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M138,275 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M301,440 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M328,433 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M366,664 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M40,345 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M349,475 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M373,439 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M65,555 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M305,375 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M70,406 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M368,619 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M80,363 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M74,270 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M311,329 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M230,464 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M105,606 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M85,562 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M80,450 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M112,375 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M370,642 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M143,682 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M112,437 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M330,561 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M113,369 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M303,404 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M141,277 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M71,531 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M123,541 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M166,467 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M366,482 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M235,673 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M102,317 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M349,649 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M125,335 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M291,710 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M107,715 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M340,542 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M183,292 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M53,721 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M121,592 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M127,652 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M243,387 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M100,600 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M63,354 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M230,666 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M249,380 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M352,342 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M46,375 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M192,270 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M100,424 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M235,306 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M163,685 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M373,568 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M275,532 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M88,258 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M46,695 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M278,721 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M47,558 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M204,605 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M66,513 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M291,690 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M291,592 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M310,698 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M160,583 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M346,676 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M182,635 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M334,526 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M252,431 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M238,544 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M67,560 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M378,680 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M288,434 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M290,530 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M190,659 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M68,615 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M50,541 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M204,355 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M277,489 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M249,700 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M127,246 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M142,579 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M109,325 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M348,570 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M190,686 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M151,573 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M107,455 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<path d="M314,697 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
-<circle cx="150" cy="412" r="7" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="1.6"/><circle cx="150" cy="412" r="2.5" fill="#8a2b1d"/>
-<circle cx="190" cy="442" r="7" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="1.6"/><circle cx="190" cy="442" r="2.5" fill="#8a2b1d"/>
-<circle cx="230" cy="412" r="7" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="1.6"/><circle cx="230" cy="412" r="2.5" fill="#8a2b1d"/>
-<circle cx="170" cy="512" r="7" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="1.6"/><circle cx="170" cy="512" r="2.5" fill="#8a2b1d"/>
-<circle cx="240" cy="532" r="7" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="1.6"/><circle cx="240" cy="532" r="2.5" fill="#8a2b1d"/>
+<path d="M24,24 L505,24 C515,110 505,200 455,262 C390,335 260,405 130,425 C85,430 50,432 24,432 Z" fill="#a8a29a" fill-opacity="0.7" stroke="#5e5850" stroke-width="2" stroke-dasharray="6 4"/>
+<path d="M447,212 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M263,257 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M81,152 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M80,340 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M345,55 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M328,268 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M109,46 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M272,62 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M124,130 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M53,212 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M268,277 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M260,285 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M241,143 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M179,125 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M167,66 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M377,188 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M412,183 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M40,118 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M441,214 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M471,187 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M72,273 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M383,140 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M78,163 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M92,131 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M84,62 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M391,106 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M124,311 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M98,278 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M134,140 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M133,186 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M134,136 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M380,162 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M170,67 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M80,256 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M147,262 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M120,97 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M150,110 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M225,78 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M57,396 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M145,301 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M153,345 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M302,149 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M117,307 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M70,125 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M310,144 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M444,115 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M47,140 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M236,62 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M118,176 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M292,89 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M344,256 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M102,53 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M48,377 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M49,275 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M252,310 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M73,242 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M195,294 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M224,332 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M315,181 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M296,265 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M75,277 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M360,184 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M363,255 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M77,318 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M53,262 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M252,125 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M153,44 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M172,291 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M129,103 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<path d="M184,286 l3,-5 l3,5" fill="none" stroke="#6e675e" stroke-width="1"/>
+<circle cx="160" cy="292" r="7" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="1.6"/><circle cx="160" cy="292" r="2.5" fill="#8a2b1d"/>
+<circle cx="200" cy="322" r="7" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="1.6"/><circle cx="200" cy="322" r="2.5" fill="#8a2b1d"/>
+<circle cx="240" cy="292" r="7" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="1.6"/><circle cx="240" cy="292" r="2.5" fill="#8a2b1d"/>
+<circle cx="320" cy="282" r="7" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="1.6"/><circle cx="320" cy="282" r="2.5" fill="#8a2b1d"/>
+<circle cx="360" cy="242" r="7" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="1.6"/><circle cx="360" cy="242" r="2.5" fill="#8a2b1d"/>
 <path d="M560,24 C570,90 540,150 560,210 C580,260 600,290 620,320" fill="none" stroke="#4f7fa8" stroke-width="22" stroke-linecap="round"/>
 <path d="M560,24 C570,90 540,150 560,210 C580,260 600,290 620,320" fill="none" stroke="#8fb6d4" stroke-width="10" stroke-linecap="round"/>
 <path d="M548,150 l12,26 l-24,-10" fill="none" stroke="#2f5778" stroke-width="2.5"/>
@@ -150,9 +113,9 @@
 <path d="M628,352 L612,330" stroke="#3b2a1a" stroke-width="3"/><circle cx="630" cy="356" r="5" fill="#3b2a1a"/>
 <path d="M612,330 C640,250 660,190 655,120" fill="none" stroke="#7a5230" stroke-width="2.5" stroke-dasharray="6 6"/>
 <path d="M655,122 L655,112" stroke="#7a5230" stroke-width="2.5" marker-end="url(#arrk)"/>
-<path d="M380,140 L380,60" stroke="#3b2a1a" stroke-width="2.5" marker-end="url(#arrk)"/>
+<path d="M150,120 L150,44" stroke="#3b2a1a" stroke-width="2.5" marker-end="url(#arrk)"/>
 <text x="800" y="62" font-size="34" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">THE LAKE &amp; THE MOUNTAIN WALL</text>
-<text x="800" y="92" font-size="17" fill="#5a3d1e" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">Southeast of Stoutwell, where the river ends. West is left. Rough sketch, not to scale.</text>
+<text x="800" y="92" font-size="17" fill="#5a3d1e" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">Southeast of Stoutwell, where the river ends. North is up. Rough sketch, not to scale.</text>
 <text x="820" y="490" font-size="34" fill="#1f3f6e" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">THE LAKE</text>
 <text x="820" y="516" font-size="16" fill="#1f3f6e" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">where the river ends</text>
 <text x="545" y="120" font-size="17" fill="#2f5778" text-anchor="end" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">the river</text>
@@ -160,11 +123,11 @@
 <text x="672" y="180" font-size="14" fill="#5a3d1e" text-anchor="start" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">footpath</text>
 <text x="672" y="198" font-size="14" fill="#5a3d1e" text-anchor="start" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">to the mills and</text>
 <text x="672" y="216" font-size="14" fill="#5a3d1e" text-anchor="start" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">Stoutwell's east gate</text>
-<text x="380" y="160" font-size="18" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">Stoutwell</text>
-<text x="380" y="178" font-size="13" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">(off the map, north-west)</text>
-<text x="180" y="330" font-size="20" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">THE ASHEN REACH</text>
-<text x="180" y="350" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">training grounds of the Guard</text>
-<text x="180" y="620" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">grey soil, nothing grows tall</text>
+<text x="150" y="140" font-size="18" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">Stoutwell</text>
+<text x="150" y="158" font-size="13" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">(off the map, north)</text>
+<text x="250" y="222" font-size="20" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">THE ASHEN REACH</text>
+<text x="250" y="242" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">training grounds of the Guard</text>
+<text x="170" y="380" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">grey soil, nothing grows tall</text>
 <text x="860" y="610" font-size="14" fill="#1f3f6e" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">fishing boats</text>
 <path d="M940,800 C980,795 1010,790 1035,785" stroke="#3b2a1a" stroke-width="1.5" fill="none" marker-end="url(#arrk)"/>
 <text x="820" y="800" font-size="19" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">THE FISHING SETTLEMENT</text>
@@ -179,7 +142,7 @@
 <text x="1360" y="180" font-size="21" fill="#3b2a1a" text-anchor="end" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">THE MOUNTAIN WALL</text>
 <text x="1360" y="200" font-size="14" fill="#3b2a1a" text-anchor="end" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">runs north along the east</text>
 <text x="1360" y="218" font-size="14" fill="#3b2a1a" text-anchor="end" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">impassable: no way over</text>
-<text x="250" y="880" font-size="16" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">the wall turns west, along the south side of the Ashen Reach</text>
+<text x="250" y="880" font-size="16" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">the wall runs on west, well south of the Ashen Reach</text>
 <g transform="translate(1000,180)"><circle r="34" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="2"/><path d="M0,-30 L7,0 L0,30 L-7,0 Z" fill="#3b2a1a"/><path d="M-30,0 L0,-6 L30,0 L0,6 Z" fill="#8a7a5a"/></g>
 <text x="1000" y="140" font-size="16" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">N</text>
 <text x="952" y="186" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">W</text>
