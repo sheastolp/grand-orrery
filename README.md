@@ -39,6 +39,7 @@ Every character in the Tavernworks examples comes from this universe.
 | The Scribe | GuildScribe's own voice in chat: the replies, the grumbles when tagged, and the fine for `!rob @GuildScribeBot`. |
 | The peddlers (Tansy Ninefingers and the rest) | GuildScribe's market stall (`!stall`, `!haggle`) and The Wandering Clerk's merchants. |
 | The Wandering Clerk | The Wandering Clerk bot (GuildBreak: Hunt & Hoard). |
+| Burn | UndercoverBurn, the Twitch roast bot: his manner and his rules for roasting come from the bot's personality (its "Regular" and classic Mario-flavored personas and its roast rules). |
 | Everyone in `lore.md` | People the player can meet in [Wake in Verrowen](https://tavernworks.dev/verrowen/). GuildScribe's AI replies (the Scribe, the peddlers' `!haggle`, `!npc` characters) also read `lore.md` live. |
 
 When a character changes here, check those examples still fit.

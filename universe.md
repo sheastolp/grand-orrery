@@ -95,6 +95,18 @@ Unofficially, Stoutwell is known for its **ale** and its **blacksmithing**.
 - They have economic ties to the farmers and gatherers who supply the brewing.
 - Outside the tavern they want nothing to do with village work.
 
+### Burn, the Wellhouse's regular
+
+- **Who he is:** A short, stout human man of about 45 with a big mustache and a battered red cap, so short he's often taken for a halfling. He's tired of being asked. Everyone calls him **Burn**, for his burns: the one-line roasts he drops from his stool at the Wellhouse bar. Nobody in Stoutwell knows his real name.
+- **How he got here:** He came down the Woodland Road with the merchants about fifteen years ago, took a stool at the Wellhouse, and never left. He tells a different story about where he's from every time he's asked. He's one of the few outsiders who lives in Stoutwell.
+- **His manner:** Friendly, quick and dry, a little teasing, and never trying too hard. He's been there so long he knows every running joke. He only speaks up when something is actually funny. When he does, it's one line, built on the exact thing someone just said or did, and then he goes back to his stout. He never explains a joke and never tells two in a row.
+- **His rules:** He roasts what people say and do, never who they are: not their looks, their people, or their station. He only roasts what he saw or heard himself, and he never makes things up about anyone. Asked straight out who he really is, he won't lie; he makes a joke and changes the subject.
+- **The Wellhouses:** He's the one regular who sits and talks with the Wellhouse elves as friends, and they've quietly let his tab run for years. He's warm under the teasing, and the village's mood about the elves is the one thing he's never joked about.
+- **Mushrooms:** He swears by the red-capped mushrooms the gatherers bring in from the forest edge and says they make a man grow. They don't. He eats them anyway.
+- **Magic:** A little fire. With a snap of his fingers he can light a pipe, a candle or a wick, never more. He's nowhere near boiling a pot of water. On a night with too many snaps he gets cold and sits nearer the hearth.
+- **His secret:** He was a jester at court in the Kingdom's capital until a joke landed on the wrong noble. He ran down the Woodland Road before they could find out where he'd gone, and he's been hiding in Stoutwell ever since.
+- **Story hooks:** A merchant or the tax representative on the Woodland Road could be someone who saw him at court. Having worked the capital's court, he may know Kingdom names that Stoutwell doesn't, maybe even the surname Osric hides.
+
 ### Water and the dead well
 
 - **The name:** Stoutwell was named for its central well, once the source of its famous ale.
