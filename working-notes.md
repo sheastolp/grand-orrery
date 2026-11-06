@@ -894,24 +894,6 @@ We can continue expanding this area by delving deeper into the kingdom's history
 
 Would you like me to add more details or explore other aspects of the Kingdom?
 
-### I need more items. Like every day item. Hammers bows, sh… (Pitch)
-
-<!-- review-key: lore-keeper:2d048623-3cdb-4fcb-a500-420e807fa279 -->
-_From a lore-keeper chat, 2026-11-06 · Items & inventions._
-
-Name | Kind       | The rule        |
-------|------------|----------------|
-Firing Tin | Items & Inventions | Ignites fires instantly without needing embers.
-How it works | A specially crafted tin container filled with gunpowder sparks, ignited by striking two metal pins together, producing a brief flame that can be used to start a fire.
-Costs and limits | Can only ignite once before being extinguished. Requires regular refilling and maintenance to ensure its effectiveness.
-Who it affects | Anyone who has access to the Firing Tin.
-What it changes | Allows for rapid fire starting without relying on traditional methods like embers or flint sparks.
-
-Open questions | None
-
-In the world
-As Murrow carefully cleaned his workbench, he reached for the trusty Firing Tin, which had become indispensable in their daily lives. With a few swift motions, he struck the metal pins, igniting the spark within the tin. It burst into a bright flame, casting flickering shadows across the room as Murrow expertly added some tinderwood, coaxing the flames into a warm blaze. He smiled at the ease with which this simple yet crucial tool made life easier for him. The villagers would likely rely just as heavily on it come winter's chill when warmth was most needed.
-
 ### Make ash wood come from the now sparce ashen fields. And… (Your idea)
 
 <!-- review-key: lore-keeper:5047e31d-40ba-4584-a1d8-13e3709b27f9 -->
