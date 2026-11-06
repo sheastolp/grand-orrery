@@ -782,47 +782,6 @@ Is there a designated storage or hiding place for the Embercrown when not being 
 In the world
 As King Pedgar ascended to his throne, he carefully placed the Embercrown upon his head, its gemstones flashing softly beneath the chandeliers. During the ceremony, the whispered conversations began - speculations on alliances, promises of favor, and hidden rivalries all swirled around him like smoke. Meanwhile, Queen Taileflaith looked on from her seat beside him, a faint smile playing on her lips as she leaned forward to whisper something discreetly into her advisor's ear.
 
-### I want to add the kingdom and some of its inhabitants (Pitch)
-
-_From a lore-keeper chat, 2026-11-06 · I want to add the kingdom and some of ots inhabitants. B… · Open chat._
-
-**You:** I want to add the kingdom and some of ots inhabitants. Begin expanding this word
-
-**Lore-keeper:** The Kingdom as a region sounds fascinating! Let's start by adding more details:
-
-**Geography**: The Kingdom occupies the eastern part of Verrowen, stretching from the Blasted Lands of Ashenvale in the northwest to the Wysteria Plains in the southeast. Its terrain varies from rolling hills and fertile plains to dense forests and rugged mountains. The capital city lies at the heart of the realm, surrounded by towering fortifications and sprawling marketplaces.
-
-**Population**: The Kingdom has approximately 5 million citizens, comprising various ethnic groups, including humans, dwarves, elves, gnomes, and halflings. Each racial group contributes significantly to the realm's diversity and culture.
-
-**Economy**: The Kingdom's economy thrives due to its strategic location, rich mineral deposits, and extensive trade networks. Major industries include agriculture, smithing, crafting, and exploration. Cities like El'goroth and Eldrador serve as centers for commerce, innovation, and governance.
-
-**Politics**: The Kingdom is ruled by King Pedgar III, a wise and just leader who has maintained peace and prosperity within his borders. However, rumors persist about whispers of power struggles between factions vying for control. 
-
-**Important Figures**:
-1. Belenos (Half-Elf Warlock) - serves as an advisor to the king.
-2. Glumtom (Rock Gnome Artificer) – although initially reluctant, he continues working under King Pedgar III, healing and building structures as commanded.
-3. King Pedgar III (Human King)
-
-We can continue expanding this area by delving deeper into the kingdom's history, society, magic system, notable events, etc. What aspects would you like me to focus on?
-
-**You:** Remove belenos from that list as he is played in a current dnd campaign
-
-**Lore-keeper:** I've removed Belenos from the list. Here is the revised version:
-
- **Geography**: The Kingdom occupies the eastern part of Verrowen, stretching from the Blasted Lands of Ashenvale in the northwest to the Wysteria Plains in the southeast. Its terrain varies from rolling hills and fertile plains to dense forests and rugged mountains. The capital city lies at the heart of the realm, surrounded by towering fortifications and sprawling marketplaces.
-
-**Population**: The Kingdom has approximately 5 million citizens, comprising various ethnic groups, including humans, dwarves, elves, gnomes, and halflings. Each racial group contributes significantly to the realm's diversity and culture.
-
-**Economy**: The Kingdom's economy thrives due to its strategic location, rich mineral deposits, and extensive trade networks. Major industries include agriculture, smithing, crafting, and exploration. Cities like El'goroth and Eldrador serve as centers for commerce, innovation, and governance.
-
-**Politics**: The Kingdom is ruled by King Pedgar III, a wise and just leader who has maintained peace and prosperity within his borders. However, rumors persist about whispers of power struggles between factions vying for control. 
-
-**Important Figures**:
-1. Glumtom (Rock Gnome Artificer) – although initially reluctant, he continues working under King Pedgar III, healing and building structures as commanded.
-2. King Pedgar III (Human King)
-
-Would you like me to add more details or explore other aspects of the Kingdom?
-
 ### Make ash wood come from the now sparce ashen fields. And… (Your idea)
 
 <!-- review-key: lore-keeper:5047e31d-40ba-4584-a1d8-13e3709b27f9 -->
