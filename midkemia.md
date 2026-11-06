@@ -1,8 +1,10 @@
 # World of Midkemia
 
-**Midkemia** is the world of Rose's homebrew D&D campaign, the one Arandur is playing in now. It's another world in the Grand Orrery. Rose runs it as **DungeonMistressRose**, and everything here comes from the campaign's Discord as of November 2026.
+**Midkemia** is the world of Rose's homebrew D&D campaign, the one Arandur is playing in now. It's another world in the Grand Orrery. Rose runs it as **DungeonMistressRose**, and everything here comes from the campaign's Discord as of November 2026, including her lore channels: *#world-lore*, *#maps-of-the-world*, *#main-god-pantheon* and *#rumors-and-gossip*.
 
-This is **DM lore**: it's Rose's world, so it's only changed from her side. When it isn't clear whether something happened in a session or was a joke in chat, it's left out. Rose's own lore channels (*#world-lore*, *#maps-of-the-world*, *#main-god-pantheon* and *#rumors-and-gossip*) weren't in the export, so there's more to add once they are.
+This is **DM lore**: it's Rose's world, so it's only changed from her side. When it isn't clear whether something happened in a session or was a joke in chat, it's left out.
+
+**Spellings:** Rose spells some names more than one way. This file uses *Dannonirn* (she also writes *Drannonirn*), *Endossea* (also *Erndossea*), *Kegamosa* (also *Kegmossa*) and *Drogheda* (also *Drohega*).
 
 ## The campaign (DM lore)
 
@@ -10,48 +12,77 @@ This is **DM lore**: it's Rose's world, so it's only changed from her side. When
 - **The rule:** Every time something happens, a player either roleplays what their character does and describes it, or rolls the dice. They can switch whenever they like. Rose set stats from each character's backstory or from straight rolls.
 - **The pace:** About one short session every three or four weeks. Rose meant each session to be a one-shot or two-shot inside the bigger story, so missing one isn't a disaster.
 - **The tools:** Dice and character sheets live in the `worldofmidkemia` room on Rolz, and the world map is uploaded there. Everything else is on the Discord server.
-- **Gods:** Players can pick gods from mythology or D&D, or make their own and write up a full backstory for them. Different regions follow different religions, and people mix their beliefs freely.
+- **Origins:** Players could come from any known land except the Wilds of Rylan. Alba was possible but difficult.
 
-## The quest (DM lore)
+## The world (DM lore)
 
-The party has been tasked with finding the **missing Queen of Dannonirn**. Rose has plotlines for at least two years, with a natural place to end this campaign and start a second.
+- **The known lands:** The map shows only the settled, known regions, and the world hasn't been fully explored. Great glaciers lie to the far north with unknowns beyond them, and past every edge of the map the oceans run on into vast unknown areas.
+- **One realm, many kingdoms:** Midkemia was once a single realm that broke into separate kingdoms. Dannonirn is the most magical of them.
+- **Few fae:** Most kinds of fae are rare. The salt air of the coasts keeps them away, and so does running water, which Midkemia has plenty of in its many rivers and streams. They're spotted only deep inland, if at all. Selkies and a few others may hide among common folk without anyone knowing.
+- **The map:** Rose's points-of-interest map marks cities with orange four-pointed stars and capitals with green marks, larger for bigger cities. A very large purple octagon is the Arena of Heroes, and a blue tower by Lake Hope is the Tower of Sages. City names aren't on it yet, and more points will be added as the adventure goes on.
 
-- **The King of Dannonirn:** He wants his queen back badly enough to arm everyone he sends after her. His kingdom is highly magical.
-- **The writ of royal favor:** Every party member carries a magical writ from the King. It gets discounts in his realm and in realms friendly with it or that trade with it, and it grants a kind of diplomatic immunity. Some realms and places won't honor it.
-- **The Queen's belongings:** The castle keeps a large box of her handkerchiefs, gloves and other things for the hunting dogs to take her scent from.
-
-## The story so far (DM lore)
-
-1. **The Arena of Heroes:** The opening quest, a short one. It's a highly magical place. If a spell needs a material component, a small pedestal appears with it as soon as the caster names the spell. The party started in a desert pit with walls over two stories tall, and other groups were visible in the distance. Instead of heading for the only doors, they all tried the walls first.
-2. **The maze:** A dungeon the party wandered through for months of play. It's so magical that someone could spend 2,000 years in it without ever knowing. It **attunes to the people inside it**: a wave of magic passes through, and the loot it leaves gets more and more specific to each of them. One theory at the table is that the King set it up as a test, run by something like his pet. Rose says there's a deeper mystery behind it. Everyone came out with magical armor, and the party left it in April 2026.
-3. **The castle stables:** After the maze, the King's large, magical stable outfitted the party. It holds common mounts and undead ones (skeletal horses, boars and even bears), and every mount gets full armor, enchanted if wanted. Kaelreth took a skeletal boar he named **Gravehoof**.
-4. **Bitterbridge:** The party's first town after the castle (see below).
-5. **The carnival:** A carnival camped outside Bitterbridge, run by the Ringmaster (see below).
-6. **The road:** As of late August 2026, the party was ready to leave town and travel.
-
-## Places (DM lore)
+## Kingdoms and lands (DM lore)
 
 ### Dannonirn
 
-The kingdom whose queen is missing. Its King is the party's patron, and the Arena of Heroes, the maze and the castle stables all belong to it.
+- **The land:** A large desert high in magical energy fills its middle, and most of its people live along its vast coasts. They've adapted to sea trade, desert life (somewhat) and farming in the strips of land between the two. Orchards grow olives, dates, figs, other hardy warm-weather fruits and even some cacti. It has a booming animal trade.
+- **The capital:** It sits in the desert, and so does the Arena of Heroes.
+- **The binding:** The ruler is magically tied to the land. Their family helped bind Dannonirn's magic to stabilize and contain it when the realm broke apart, and they've ruled ever since. Without the ruler, the land's magic turns unstable.
+- **Long lives:** The land's magic stretches its rulers' lives far beyond what's natural, whatever their race. Living three or four centuries is common, even for humans, and they're rarely if ever ill. Because of that, choosing a co-ruler (a king or a queen) is a long process done with great ceremony.
 
 ### The Duchy of Mosis
 
-A large inland duchy that doesn't border Dannonirn. Arandur argued for starting the search there: it's less likely to be Dannonirn's ally, it's big enough to raise a fighting force, and travelers bring plenty of rumors inland.
+Temperate, with beaches and fertile soil, and it grows a lot of crops. It's large and inland, and it doesn't border Dannonirn. Arandur argued for starting the search there: it's less likely to be Dannonirn's ally, it's big enough to raise a fighting force, and travelers bring plenty of rumors inland.
+
+### The Kingdom of Skellige
+
+Cliffs along its coast, like Ireland's, and mountains farther inland. Its smaller lakes are freshwater, about the size of New York's Finger Lakes. **Drogheda** is a far-southern port city, one of three cities grouped in a small triangle.
+
+### Kegamosa
+
+Heavily forested. King Pedgar comes from here.
+
+### Tatta
+
+Heavily forested.
+
+### Eire, Alba and Lothan
+
+All three live mainly on fishing, but have enough fertile soil to feed themselves even when the seas aren't generous. Eire includes several small islands off the coast and the detached land off the end of Kegamosa (the map colors make that look like Lothan's). Alba has very rocky coasts on two sides, so its waters are treacherous to all but the bravest sailors.
+
+### Endossea and Albio
+
+A mix of forests, lakes and mountains. Endossea draws magic from a large glacier in its north, along with wood, mining, freshwater fishing and other resources. Albio lives on freshwater fishing, hunting and some mining.
+
+### Tadasavin
+
+It sits where several rivers cross, and the delta gives it fertile soil, a wide variety of crops and plenty of magical energy.
+
+### The Dragon Mountains
+
+- **Dragons:** Very mountainous, with some active volcanoes, and full of dragons. The dragons have their own civilization, mostly apart from the kingdoms, and they like it that way. A few brave souls do live peacefully among them.
+- **The lost clan:** Whispers tell of a mythical, lost clan of mountain dwarves living deep beneath one or more of the mountains. Nobody is sure.
 
 ### The Wilds of Rylan (Pirate Island)
 
-- **A floating island:** The pirates' home is a floating island that moves around the world. It has only one known city, which is why it's marked on the map.
-- **Getting there:** There's no way in by the portal, which needs a fixed point to anchor to. The only ways are a flying ship, earning the sky pirates' trust, or being kidnapped by them if they think you could be useful.
-- **The pirates:** They're insular. They raid other shores and leave for supply runs, repairs and gossip, but otherwise keep to themselves. Because of that, most kingdoms tolerate them and nobody is actively hunting them. A few notorious ones are true criminals, but mostly it's live and let live.
+- **A floating island:** The pirates' home floats off the coast of Alba, barely visible when the winds are right, and it moves around the world. It has only one known city, which is why it's marked on the map. Nobody knows much about it, and it's off limits to all but a select few.
+- **The sky pirates:** They raid other lands from their airships.
+- **Getting there:** No portal goes there, because a portal needs a fixed point to anchor to. The only ways are a flying ship, earning the pirates' trust, or being kidnapped by them if they think you could be useful.
+- **Live and let live:** The pirates are insular. They leave for raids, supply runs, repairs and gossip, but otherwise keep to themselves. Because of that, most kingdoms tolerate them and nobody is actively hunting them. A few notorious ones are true criminals.
+- **Their god:** Lugh is mostly the patron and friend of the pirate kingdom.
+
+### The great lakes
+
+**Lake Hope** and **Lake Erriss** are both freshwater and bigger than the Great Lakes. The **Tower of Sages** stands by Lake Hope.
 
 ### Bitterbridge
 
 - **No harmful fire:** Generations ago, a string of fires killed several people. The town blamed witches and burned them on the bridge. The goddess **Morrigan** came down, caught the real firebugs herself (it was unpleasant for them) and laid a heavy-handed blessing on the town.
-- **How it works:** No fire meant to do harm will burn in Bitterbridge. Campfires, cookfires and smoking are fine, and a match lights for those. Lit for a harmful purpose, it smolders out or won't catch at all. The tavern won't serve flaming drinks or desserts. Fireplaces and the city lights use harmless magical fire. That's why Arandur couldn't set the flameproof bar on fire.
+- **How it works:** No fire meant to do harm will burn in Bitterbridge. Campfires, cookfires and smoking are fine, and a match lights for those. Lit for a harmful purpose, it smolders out or won't catch at all. The tavern won't serve flaming drinks or desserts. Fireplaces and the city lights use harmless magical fire. That's why Arandur couldn't set the bar on fire.
 - **The bitter part:** **Mourgause**, the witch sister, cursed no few people for the burnings and turned the town's fruit bitter for five years. The townsfolk called her bitter, and the name stuck. She still refuses to help them.
 - **The birds:** Under **Morgana**, the third sister, crows and ravens are scarce in town. Birds help travelers and adventurers, and serve outsiders as familiars and pets, but they turn on the people of Bitterbridge, even as familiars. Townsfolk who train elsewhere can keep a bird familiar as long as they never bring it home.
 - **Who remembers:** It was so long ago that only elves or dwarves who lived there then could remember it.
+- **The map:** Rose posted a town map of Bitterbridge in May 2026.
 
 ### The carnival
 
@@ -62,21 +93,76 @@ A large inland duchy that doesn't border Dannonirn. Arandur argued for starting 
 
 ### Off the map: the northern doorway
 
-Rose's eventual plan is that finding the queen sets off a **magical surge** that opens a **stable doorway** in the far north, off the map. It may lead to **Aetherwyn**, and it may be how Belenos gets home. The far side is very hard to find. It might sit off the ground, out in the water or somewhere else inconvenient. Going through might also mess with memories.
+Rose's eventual plan is that finding the queen sets off a **magical surge** that opens a **stable doorway** in the far north, off the map. It may lead to **Aetherwyn**, and it may be how Belenos gets home. The far side is very hard to find. It might sit off the ground, out in the water or somewhere else inconvenient. Going through might also mess with memories. Rose teased a mystery door image before the first session.
+
+## The quest (DM lore)
+
+The party has been tasked with finding the **missing Queen of Dannonirn**. Rose has plotlines for at least two years, with a natural place to end this campaign and start a second.
+
+- **Queen Taileflaith:** The ruler of Dannonirn, pronounced close to *Tallulah* (TA-loo-la). Some people call her **Queen Tali** (TA-lee). She took the throne very young, after her parents were lost at sea in an unexpected storm while visiting another land. The whole country watched her grow up, and she's much beloved. She had only just begun her rule when she vanished.
+- **King Pedgar:** Her new husband and co-ruler, from the Kingdom of Kegamosa. They married less than a year before she disappeared, so his power is still unstable, and the people of Dannonirn don't know him yet, as a ruler or as a noble. He wants her back badly enough to arm everyone he sends after her.
+- **Why it matters:** Without the queen, Dannonirn's magic is turning unstable.
+- **The writ of royal favor:** Every party member carries a magical writ from the King. It gets discounts in his realm and in realms friendly with it or that trade with it, and it grants a kind of diplomatic immunity. Some realms and places won't honor it.
+- **The Queen's belongings:** The castle keeps a large box of her handkerchiefs, gloves and other things for the hunting dogs to take her scent from.
+
+## Rumors and gossip (DM lore)
+
+Rose's rumors channel uses *italics* for rumors, **bold** for whispers and gossip, and ***both*** for a rumor that's spreading fast. Players can post their characters' rumors too.
+
+- ***Magical storms*** are ravaging all the known kingdoms, and the rumors are growing. *(Rumor, spreading fast.)* A magical storm is also what flung Belenos into Midkemia.
+- *The Queen of Dannonirn may have suddenly disappeared.* *(Rumor.)*
+- **A lost clan of mountain dwarves** may live deep beneath the Dragon Mountains. *(Whisper.)*
+- *The Tower of Sages in Endossea has stopped doing divinations for commoners and nobles alike until its yearly reading at the next solstice at Lake Hope.* *(Rumor, posted for Órla.)*
+- **A strange black hound** roams the streets of Drogheda in Skellige. It appeared out of nowhere, skulks in dark alleys, vanishes without a trace and has terrorized cats and chickens. Some claim it has magical properties. It hasn't attacked anyone, but it may be dangerous. Omen or stray? *(Whisper, posted for Belenos, whose other form is a blink dog.)*
+
+## Holidays (DM lore)
+
+- **The eight great days:** Every kingdom keeps eight major celebrations on the same days, whatever its religion:
+  - The four seasonal solstices: Planting, Harvest, Midsummer and Midwinter.
+  - **The Witching Night**, remembering the dead (like Hallowe'en).
+  - **Druid Dances Day**, celebrating new life on the first day of spring.
+  - **Huntsman's Bounty**, a winter feast for rangers and archers.
+  - **Maiden's Blessing Day**, honoring healers and clerics on the first day of summer (like May Day, also called Flower Day).
+- **The local ones:** Many kingdoms also keep a day for rogues and assassins, Artificers' Day, Magic Appreciation Week (for every kind of magic user), Defenders' Week (for barbarians, knights, paladins, fighters and the other fighting classes) and a feast day for servants and the working class. Their dates vary by kingdom.
 
 ## Gods and powers (DM lore)
 
-- **Morrigan:** Goddess of Magic and Death. The burned witches prayed to her at the end, and she blessed Bitterbridge against harmful fire.
-- **Mourgause:** Morrigan's sister, THE witch of the world. She cursed Bitterbridge.
-- **Morgana:** The third sister, who has taken a more neutral role.
-- **Selene:** A moon goddess Belenos knows from Aetherwyn.
-- **Lugh:** Belenos's fey warlock patron, also called the Houndmaster. He's a trickster who looks like a distinguished older gentleman, and he owns the **Houndmaster's Lodge**, a secret fey tavern in Aetherwyn. He likes popping in to stir trouble. His symbol is a triskelion.
+These are Midkemia's main gods. There are smaller ones too, personal gods of many small religions, and new ones crop up at random. Players can also bring gods from mythology or D&D, or invent their own with a full backstory. Different regions follow different religions, and people mix their beliefs freely.
+
+- **Fate:** Triple goddesses who subtly control the weft and weave of the world and, to a lesser degree, each person's life thread. Many adventurers and important people are told they help stay Fate's hands or weave a new thread in the ever-changing tapestry. It's unwise to cross them, especially unprepared.
+- **Chaos:** A deity of pure flux and, some say, madness.
+- **The Lady (Luck):** Goddess of gamblers, rogues and tricksters, among many others. It's bad manners to call her anything but *the Lady*, or to draw too much of her attention. She's known to cheat at games and play favorites.
+- **Áine:** The sun and moon goddess, and goddess of the night, the stars and the sky.
+- **The Huntress:** Patron of rangers. She protects hunts and animals and sees that kills are clean whenever possible. She despises hunting for sport.
+- **The Dark One:** The supreme being of evil and night.
+- **The Green Man:** God of growing things. Depending on the aspect he shows, he's a good god or a dark one (the dark side of growth: destruction and death). He's the counterpart of the Green Lady.
+- **The Green Lady:** Goddess of childbirth and healing, and protector of hearth and home. She's the counterpart of the Green Man.
+- **Death:** God of death and decay, and Morrigan's spouse.
+- **Morrigan:** Goddess of magic and death, and Death's spouse. The burned witches of Bitterbridge prayed to her at the end, and she blessed the town against harmful fire. Her sisters are **Mourgause**, THE witch of the world, who cursed Bitterbridge, and **Morgana**, who has taken a more neutral role.
+- **Brigid:** Goddess of children and mothers.
+- **Danu:** Goddess of water.
+- **Lugh:** Yes, *that* Lugh, Belenos's fey patron. In Midkemia he's a trickster god, mostly the patron and friend of the pirate kingdom, and a weather god across the world.
+- **Dagda:** God of life and death, balance and the harvest, and the druids' favorite.
+- **Cailleach:** Gatekeeper of the veil between worlds.
+- **Ogma:** God of eloquence, speech, performance and language, and patron of bards.
+- **Bahamut:** The dragon god of justice.
+- **Io:** The supreme, nine-headed creator god of all dragonkind, who holds every alignment and aspect of the universe at once.
 
 ## Aetherwyn: the linked world (DM lore)
 
 - **Belenos's home world:** It's the setting of a second campaign the same group plays, run by Rose's brother DMAR, with Rose as a player (her character is Luiseach, "Lucy", a half-elf rogue).
 - **A crossroads:** Aetherwyn is a realm between realms and a huge Feywild crossroads. Feywild magic is pulling it apart at the seams, and it's also contending with Midkemia and the portal magic.
+- **Its powers:** Lugh, the Houndmaster, is a trickster who looks like a distinguished older gentleman. He owns the **Houndmaster's Lodge**, a secret fey tavern, and likes popping in to stir trouble. His symbol is a triskelion. Belenos also knows **Selene**, a moon goddess, from Aetherwyn.
 - **How Belenos got here:** A magical storm swallowed him in a coastal town and flung him into Midkemia. He wandered for a week or more before he was brought to the Arena of Heroes with everyone else. He isn't sure how long he's been in Midkemia.
+
+## The story so far (DM lore)
+
+1. **The Arena of Heroes:** The opening quest, a short one, in Dannonirn's desert. It's a highly magical place. If a spell needs a material component, a small pedestal appears with it as soon as the caster names the spell. The party started in a fighting pit with walls over two stories tall, and other groups were visible in the distance. Instead of heading for the only doors, they all tried the walls first.
+2. **The maze:** The Arena of Heroes Maze, a dungeon the party wandered through for months of play (Rose remapped it partway through, and it got smaller). It's so magical that someone could spend 2,000 years in it without ever knowing. It **attunes to the people inside it**: a wave of magic passes through, and the loot it leaves gets more and more specific to each of them. One theory at the table is that the King set it up as a test, run by something like his pet. Rose says there's a deeper mystery behind it. Everyone came out with magical armor, and the party left it in April 2026.
+3. **The castle stables:** After the maze, the King's large, magical stable outfitted the party. It holds common mounts and undead ones (skeletal horses, boars and even bears), and every mount gets full armor, enchanted if wanted. Kaelreth took a skeletal boar he named **Gravehoof**.
+4. **Bitterbridge:** The party's first town after the castle.
+5. **The carnival:** Camped outside Bitterbridge and run by the Ringmaster.
+6. **The road:** As of late August 2026, the party was ready to leave town and travel.
 
 ## Things the maze gave them (DM lore)
 
@@ -101,7 +187,8 @@ The party travels in a wagon with a room for each of them. Shared supplies like 
 
 ## Still open
 
-- Where is the queen, and who took her?
+- Where is Queen Taileflaith, and who took her?
+- Are the magical storms tied to her disappearance, to the storm that drowned her parents or to the one that brought Belenos?
 - What is the maze, and who controls it?
 - What does the Ringmaster's pact with the fey actually involve?
-- Will the northern doorway connect Midkemia, Aetherwyn and Arandur's own world?
+- Will the northern doorway connect Midkemia, Aetherwyn and Arandur's own world? Cailleach, the gatekeeper of the veil between worlds, may have a say.
