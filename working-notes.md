@@ -651,24 +651,22 @@ The elf from your D&D campaign whose world can tie into this universe. This is a
 
 ### The Midkemia campaign (DM lore)
 
-What Arandur is living through now, from the campaign's Discord. Rose runs it as **DungeonMistressRose**.
+What Arandur is living through now. The world, the story so far and the rest of the party are in [`midkemia.md`](midkemia.md).
 
-- **The game:** *World of Midkemia*, a homebrew 5e campaign that started at level 1 in late October 2025. Dice and character sheets live in the `worldofmidkemia` room on Rolz.
-- **The quest:** The party has been tasked with finding the **missing Queen of Dannonirn**. It opened with a short quest, the **Arena of Heroes**, and went on into **the maze**, a dungeon where everyone came out with magical armor.
-- **The wagon:** The party travels in a shared wagon, and each of them has a room in it. Shared supplies like food, rope, torches and bedrolls ride in the wagon, not on anyone's back.
-- **Where they are:** As of late August 2026 they'd been to a carnival and were about to leave the starting town.
+- **The quest:** The party is searching for the **missing Queen of Dannonirn**. They've been through the **Arena of Heroes** and **the maze**, been outfitted at the King's stables, and reached **Bitterbridge** and the carnival outside it. As of late August 2026 they were about to leave town.
+- **The wagon:** The party travels in a shared wagon, and each of them has a room in it.
+- **His loot:** The maze gave him a **bottomless quiver** with fire-charmed arrows that ignite when fired, plus magical armor.
 - **What he can't do:** Rose ruled that Arandur can't tell what a magic item does by looking at it.
-- **The party:** Belenos (a half-elf, 26, who can take the form of a blink dog and was brought to Midkemia from another world by its strange magic), Ulfgar Luttenheim (a dwarf barbarian with wild magic), Órla (an elf cleric and the party's healer), Theron (who carries a holy symbol and has enough Arcana to read magic items), Kaelreth Graveborn (an illusion-casting spellcaster with a notebook and a room nobody wants to enter), Sebastian (a full bard who leans on persuasion spells like *friends* and *charm person*, with his own room in the wagon) and Styx (a goblin).
 - **A way out (planned, not settled):** Rose's eventual plan is that finding the queen sets off a magical surge that opens a stable doorway in the far north, off the map. Going through it might mess with memories.
 
 ### At the table (Your idea)
 
 How you play him in Midkemia. These are running bits, not backstory.
 
-- **Fire and trolls:** He's fixated on both. All trolls are evil, trolls are fodder, and everything is better with fire. He once tried to set a flameproof bar alight after being told it wouldn't work. It fits his backstory: only fire finishes a troll.
-- **Gear:** A longbow whose attacks can also slow a target, a self-taught shortsword, and studded leather armor. He likes the idea of fire arrows.
+- **Fire and trolls:** He's fixated on both. All trolls are evil, trolls are fodder, and everything is better with fire. In Bitterbridge, where Morrigan's blessing stops any harmful fire, he tried to set the bar alight anyway after being told it wouldn't work. It fits his backstory: only fire finishes a troll.
+- **Gear:** A longbow whose attacks can also slow a target, the bottomless quiver of fire arrows, a self-taught shortsword, and studded leather armor.
 - **The high heels:** He wears stilettos, and the party can hear them click when he follows them.
-- **Sticky fingers:** He steals from the party for fun. He tried for Kaelreth's pen and notepad and couldn't lift a magical necklace. Belenos, raised among thieves in a port city, is the one who notices.
+- **Sticky fingers:** He steals from the party for fun. He tried for Kaelreth's pen and notepad, and couldn't lift a wereclown's silver collar at the carnival. Belenos, raised among thieves in a port city, is the one who notices.
 - **Attitude:** He calls himself "an elf of slight evil." He wouldn't agree to save someone else's world.
 - **Age:** Not decided yet.
 
