@@ -1,16 +1,16 @@
 # World of Midkemia
 
-**Midkemia** is the world of DungeonMistressrose's homebrew D&D campaign, the one Arandur is playing in now. It's another world in the Grand Orrery. **DungeonMistressrose** is its DM, and everything here comes from the campaign's Discord as of November 2026, including her lore channels: *#world-lore*, *#maps-of-the-world*, *#main-god-pantheon* and *#rumors-and-gossip*.
+**Midkemia** is the world of Rose's homebrew D&D campaign, the one Arandur is playing in now. It's another world in the Grand Orrery. Its DM is **Rose**, who goes by **DungeonMistressRose**, and everything here comes from the campaign's Discord as of November 2026, including her lore channels: *#world-lore*, *#maps-of-the-world*, *#main-god-pantheon* and *#rumors-and-gossip*.
 
-This is **DM lore**: it's DungeonMistressrose's world, so it's only changed from her side. When it isn't clear whether something happened in a session or was a joke in chat, it's left out.
+This is **DM lore**: it's Rose's world, so it's only changed from her side. When it isn't clear whether something happened in a session or was a joke in chat, it's left out.
 
-**Spellings:** DungeonMistressrose spells some names more than one way. This file uses *Dannonirn* (she also writes *Drannonirn*), *Endossea* (also *Erndossea*), *Kegamosa* (also *Kegmossa*) and *Drogheda* (also *Drohega*).
+**Spellings:** Rose spells some names more than one way. This file uses *Dannonirn* (she also writes *Drannonirn*), *Endossea* (also *Erndossea*), *Kegamosa* (also *Kegmossa*) and *Drogheda* (also *Drohega*).
 
 ## The campaign (DM lore)
 
 - **The game:** A homebrew 5e campaign that began with a character-creation session in late October 2025, starting at level 1. The party reached level 2 in May 2026.
-- **The rule:** Every time something happens, a player either roleplays what their character does and describes it, or rolls the dice. They can switch whenever they like. DungeonMistressrose set stats from each character's backstory or from straight rolls.
-- **The pace:** About one short session every three or four weeks. DungeonMistressrose meant each session to be a one-shot or two-shot inside the bigger story, so missing one isn't a disaster.
+- **The rule:** Every time something happens, a player either roleplays what their character does and describes it, or rolls the dice. They can switch whenever they like. Rose set stats from each character's backstory or from straight rolls.
+- **The pace:** About one short session every three or four weeks. Rose meant each session to be a one-shot or two-shot inside the bigger story, so missing one isn't a disaster.
 - **The tools:** Dice and character sheets live in the `worldofmidkemia` room on Rolz, and the world map is uploaded there. Everything else is on the Discord server.
 - **Origins:** Players could come from any known land except the Wilds of Rylan. Alba was possible but difficult.
 
@@ -19,7 +19,7 @@ This is **DM lore**: it's DungeonMistressrose's world, so it's only changed from
 - **The known lands:** The map shows only the settled, known regions, and the world hasn't been fully explored. Great glaciers lie to the far north with unknowns beyond them, and past every edge of the map the oceans run on into vast unknown areas.
 - **One realm, many kingdoms:** Midkemia was once a single realm that broke into separate kingdoms. Dannonirn is the most magical of them.
 - **Few fae:** Most kinds of fae are rare. The salt air of the coasts keeps them away, and so does running water, which Midkemia has plenty of in its many rivers and streams. They're spotted only deep inland, if at all. Selkies and a few others may hide among common folk without anyone knowing.
-- **The map:** DungeonMistressrose's points-of-interest map marks cities with orange four-pointed stars and capitals with green marks, larger for bigger cities. A very large purple octagon is the Arena of Heroes, and a blue tower by Lake Hope is the Tower of Sages. City names aren't on it yet, and more points will be added as the adventure goes on.
+- **The map:** Rose's points-of-interest map marks cities with orange four-pointed stars and capitals with green marks, larger for bigger cities. A very large purple octagon is the Arena of Heroes, and a blue tower by Lake Hope is the Tower of Sages. City names aren't on it yet, and more points will be added as the adventure goes on.
 
 ## Kingdoms and lands (DM lore)
 
@@ -82,7 +82,7 @@ It sits where several rivers cross, and the delta gives it fertile soil, a wide 
 - **The bitter part:** **Mourgause**, the witch sister, cursed no few people for the burnings and turned the town's fruit bitter for five years. The townsfolk called her bitter, and the name stuck. She still refuses to help them.
 - **The birds:** Under **Morgana**, the third sister, crows and ravens are scarce in town. Birds help travelers and adventurers, and serve outsiders as familiars and pets, but they turn on the people of Bitterbridge, even as familiars. Townsfolk who train elsewhere can keep a bird familiar as long as they never bring it home.
 - **Who remembers:** It was so long ago that only elves or dwarves who lived there then could remember it.
-- **The map:** DungeonMistressrose posted a town map of Bitterbridge in May 2026.
+- **The map:** Rose posted a town map of Bitterbridge in May 2026.
 
 ### The carnival
 
@@ -93,11 +93,11 @@ It sits where several rivers cross, and the delta gives it fertile soil, a wide 
 
 ### Off the map: the northern doorway
 
-DungeonMistressrose's eventual plan is that finding the queen sets off a **magical surge** that opens a **stable doorway** in the far north, off the map. It may lead to **Aetherwyn**, and it may be how Belenos gets home. The far side is very hard to find. It might sit off the ground, out in the water or somewhere else inconvenient. Going through might also mess with memories. DungeonMistressrose teased a mystery door image before the first session.
+Rose's eventual plan is that finding the queen sets off a **magical surge** that opens a **stable doorway** in the far north, off the map. It may lead to **Aetherwyn**, and it may be how Belenos gets home. The far side is very hard to find. It might sit off the ground, out in the water or somewhere else inconvenient. Going through might also mess with memories. Rose teased a mystery door image before the first session.
 
 ## The quest (DM lore)
 
-The party has been tasked with finding the **missing Queen of Dannonirn**. DungeonMistressrose has plotlines for at least two years, with a natural place to end this campaign and start a second.
+The party has been tasked with finding the **missing Queen of Dannonirn**. Rose has plotlines for at least two years, with a natural place to end this campaign and start a second.
 
 - **Queen Taileflaith:** The ruler of Dannonirn, pronounced close to *Tallulah* (TA-loo-la). Some people call her **Queen Tali** (TA-lee). She took the throne very young, after her parents were lost at sea in an unexpected storm while visiting another land. The whole country watched her grow up, and she's much beloved. She had only just begun her rule when she vanished.
 - **King Pedgar:** Her new husband and co-ruler, from the Kingdom of Kegamosa. They married less than a year before she disappeared, so his power is still unstable, and the people of Dannonirn don't know him yet, as a ruler or as a noble. He wants her back badly enough to arm everyone he sends after her.
@@ -107,7 +107,7 @@ The party has been tasked with finding the **missing Queen of Dannonirn**. Dunge
 
 ## Rumors and gossip (DM lore)
 
-DungeonMistressrose's rumors channel uses *italics* for rumors, **bold** for whispers and gossip, and ***both*** for a rumor that's spreading fast. Players can post their characters' rumors too.
+Rose's rumors channel uses *italics* for rumors, **bold** for whispers and gossip, and ***both*** for a rumor that's spreading fast. Players can post their characters' rumors too.
 
 - ***Magical storms*** are ravaging all the known kingdoms, and the rumors are growing. *(Rumor, spreading fast.)* A magical storm is also what flung Belenos into Midkemia.
 - *The Queen of Dannonirn may have suddenly disappeared.* *(Rumor.)*
@@ -150,7 +150,7 @@ These are Midkemia's main gods. There are smaller ones too, personal gods of man
 
 ## Aetherwyn: the linked world (DM lore)
 
-- **Belenos's home world:** It's the setting of a second campaign the same group plays, run by DungeonMistressrose's brother DMAR, with DungeonMistressrose as a player (her character is Luiseach, "Lucy", a half-elf rogue).
+- **Belenos's home world:** It's the setting of a second campaign the same group plays, run by Rose's brother DMAR, with Rose as a player (her character is Luiseach, "Lucy", a half-elf rogue).
 - **A crossroads:** Aetherwyn is a realm between realms and a huge Feywild crossroads. Feywild magic is pulling it apart at the seams, and it's also contending with Midkemia and the portal magic.
 - **Its powers:** Lugh, the Houndmaster, is a trickster who looks like a distinguished older gentleman. He owns the **Houndmaster's Lodge**, a secret fey tavern, and likes popping in to stir trouble. His symbol is a triskelion. Belenos also knows **Selene**, a moon goddess, from Aetherwyn.
 - **How Belenos got here:** A magical storm swallowed him in a coastal town and flung him into Midkemia. He wandered for a week or more before he was brought to the Arena of Heroes with everyone else. He isn't sure how long he's been in Midkemia.
@@ -158,7 +158,7 @@ These are Midkemia's main gods. There are smaller ones too, personal gods of man
 ## The story so far (DM lore)
 
 1. **The Arena of Heroes:** The opening quest, a short one, in Dannonirn's desert. It's a highly magical place. If a spell needs a material component, a small pedestal appears with it as soon as the caster names the spell. The party started in a fighting pit with walls over two stories tall, and other groups were visible in the distance. Instead of heading for the only doors, they all tried the walls first.
-2. **The maze:** The Arena of Heroes Maze, a dungeon the party wandered through for months of play (DungeonMistressrose remapped it partway through, and it got smaller). It's so magical that someone could spend 2,000 years in it without ever knowing. It **attunes to the people inside it**: a wave of magic passes through, and the loot it leaves gets more and more specific to each of them. One theory at the table is that the King set it up as a test, run by something like his pet. DungeonMistressrose says there's a deeper mystery behind it. Everyone came out with magical armor, and the party left it in April 2026.
+2. **The maze:** The Arena of Heroes Maze, a dungeon the party wandered through for months of play (Rose remapped it partway through, and it got smaller). It's so magical that someone could spend 2,000 years in it without ever knowing. It **attunes to the people inside it**: a wave of magic passes through, and the loot it leaves gets more and more specific to each of them. One theory at the table is that the King set it up as a test, run by something like his pet. Rose says there's a deeper mystery behind it. Everyone came out with magical armor, and the party left it in April 2026.
 3. **The castle stables:** After the maze, the King's large, magical stable outfitted the party. It holds common mounts and undead ones (skeletal horses, boars and even bears), and every mount gets full armor, enchanted if wanted. Kaelreth took a skeletal boar he named **Gravehoof**.
 4. **Bitterbridge:** The party's first town after the castle.
 5. **The carnival:** Camped outside Bitterbridge and run by the Ringmaster.
