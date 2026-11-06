@@ -450,7 +450,7 @@ Each item shows how the rules work.
 - **Why it matters:** It's why Stoutwell has never had anyone drafted, why Murrow can live there, and why the Wandering Clerk's ledger is a real threat: one ledger could end the arrangement.
 - **Where the rot creeps in:** The tax representative is chosen for low bias, but the lump sum is a number someone in the capital sets. Raise it, and Stoutwell has to pay more or let the census in.
 
-### The capital and the heartland (Pitch)
+### The capital and the heartland (Your idea)
 
 - **Where it is:** West of the Monster Wood, at the far end of the Woodland Road and the Clerk's road. Stoutwell sits on the Kingdom's far eastern edge, past the wood.
 - **The heartland:** Farmland and river towns around the capital. Grain, wool and timber come from there, and the Kingdom's coin is minted in the capital.
