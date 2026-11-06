@@ -109,7 +109,7 @@ How to add something:
 - **Does:** Goblins on the run from the Blight, desperate and hungry, raiding for food and survival.
 - **Story:** The ones that reach the croplands raid Stoutwell's crops. The ones adventurers meet are the ones that didn't get that far.
 
-#### 🎐 Driftmaw (Pitch)
+#### 🎐 Driftmaw (Your idea)
 
 - **Stats:** CR 3 · AC 12 · HP 58 · +6 to hit · 1d10+3
 - **Does:** A floating gasbag the size of a cart, drifting just above the canopy and trailing sticky tendrils that haul prey up into its mouth.
