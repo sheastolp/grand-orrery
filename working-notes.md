@@ -420,6 +420,65 @@ Each item shows how the rules work.
 - A real kingdom lies farther off, past the woods. The village falls under it but sits far out on its edge.
 - Like any kingdom, it has corruption: moral rot and all the terribleness that comes with power.
 
+### The Kingdom runs on paper (Pitch)
+
+- **The big idea:** The Kingdom's power is its rolls. A name written down can be taxed, drafted, fined or found. A name that isn't written down barely exists to it. Its corruption is mostly about paper: whose names get written, whose get lost, and who pays to move a name from one list to another.
+- **The rolls:** The census rolls, the tax rolls, the draft list, the register of artificers and GuildScribe's parchments all feed the same records in the capital. GuildScribe is one door into them. The census is another.
+- **The Rolls House:** The records are kept in a stone archive in the capital, beside the Crown's seat. Its clerks are the guildscribes' grander cousins. The Scribe trained alongside some of them and thinks little of them.
+- **How the rot works:** Bribes keep a son off the draft list. A rival's name appears on it. A debt is written off, or written in. Nobody needs to break a law when the clerk can change what the law sees.
+- **Why it fits:** It ties the Kingdom to things already decided: the census and the draft, the guild's parchments, the Wandering Clerk breaking away to keep a ledger of their own, and the fear that one guild ledger in Stoutwell would put villagers on paper the Kingdom might read. Bertram's crooked ledgers in Stoutwell become a small copy of how the whole Kingdom works.
+
+### The Crown and the great houses (Pitch)
+
+- **The Crown:** The Kingdom has a monarch, but the edge of the realm never sees them, and most people in the capital only see a banner. Who sits on the throne, and how long they've sat there, is still open.
+- **The great houses:** A handful of noble houses hold the offices that matter, and they pass them down: keeper of the rolls, master of the mint, warden of the roads, master of the draft. An office is property. It can be inherited, traded or sold.
+- **Osric's surname:** Osric's hidden surname could belong to one of these houses. If it's the house that keeps the rolls, the man who leads Stoutwell is kin to the family that decides who the Kingdom can see. *(A hook. Which house, and how close the kinship is, stays open.)*
+- **Not a villain on a throne:** The corruption isn't one wicked ruler. It's an old machine that rewards the people who run it, which is harder to fight and makes a better story.
+
+### Who the Kingdom can draft (Pitch)
+
+- **Registered citizens:** Anyone on the rolls. Registration has real perks: protection under the Kingdom's law, the right to trade in the capital's markets, a guild parchment, a claim to bounty coin. The price is the draft.
+- **What the draft takes:** Soldiers for the Kingdom's garrisons, labor for its walls and roads, and anyone with a rare skill. Artificers are the rarest skill there is.
+- **The register of artificers:** Every artificer the Kingdom finds is written into a register and put to work, the way Glumtom was. Registered artificers are well paid and never free to leave. An artificer who isn't on the register is a prize for whoever finds them.
+- **Why Murrow hides:** That's exactly what Murrow fears. A 550-year-old artificer who can channel other people's magic would be the most valuable name the register ever held.
+- **Licensed items:** Enchanted items made in the Kingdom carry a mark from a registered artificer. Unmarked items aren't illegal to own, but they make people ask who made them. *(This could make Monstradius's goods a quiet risk if they ever reach the capital.)*
+
+### Why Stoutwell isn't on the rolls (Pitch)
+
+- **The deal at the edge:** The census takers stop at the Monster Wood. Stoutwell pays its Kingdom tax as one sum, carried home by the tax representative, instead of being counted name by name. The Kingdom gets its coin and Stoutwell's names stay off paper.
+- **Why the Kingdom allows it:** Sending census takers through the wood costs more than a small village is worth, and a lump sum is easy to count.
+- **Why it matters:** It's why Stoutwell has never had anyone drafted, why Murrow can live there, and why the Wandering Clerk's ledger is a real threat: one ledger could end the arrangement.
+- **Where the rot creeps in:** The tax representative is chosen for low bias, but the lump sum is a number someone in the capital sets. Raise it, and Stoutwell has to pay more or let the census in.
+
+### The capital and the heartland (Pitch)
+
+- **Where it is:** West of the Monster Wood, at the far end of the Woodland Road and the Clerk's road. Stoutwell sits on the Kingdom's far eastern edge, past the wood.
+- **The heartland:** Farmland and river towns around the capital. Grain, wool and timber come from there, and the Kingdom's coin is minted in the capital.
+- **The capital:** A walled city, much bigger than Stoutwell. Inside: the Crown's seat and the Rolls House, the mint, the workshop quarter where the Hearthcircle's fine metalwork is made, GuildScribe's hall and its arena, the market square with the peddlers' open stall, and Glumtom's cluttered workshop. The poor quarters sit outside the old wall, where newer walls are still going up, some of them built by Glumtom's undead.
+- **The edge:** Small towns and waystations along the Clerk's road, getting poorer and less watched the farther east they go. The last waystation, where the Woodland Road leaves for Stoutwell, is where merchants hire their escorts.
+- **Peoples:** Humans are most of the Kingdom, with halflings and gnomes common in the towns. The capital draws everyone: the dwarves, drow, half-orcs, dragonborn and tieflings on GuildScribe's parchments are part of city life there, and almost unheard of in Stoutwell.
+
+### The Kingdom's history, in brief (Pitch)
+
+- **How it grew:** The Kingdom grew outward from the capital over centuries, writing each new town into its rolls. It reached the Monster Wood and stopped, because the wood was cheaper to tax around than to cross.
+- **Stoutwell's place:** Stoutwell was either there before the Kingdom claimed it or grew up at the edge after. Either way, it falls under the Kingdom without ever having been counted. *(Open.)*
+- **What the archives might hold:** The Rolls House is old. It might hold the only written record of Stoutwell's founding, or of the year the well died. Murrow was likely around for that, and won't speak of it.
+
+### Names to pick from (Pitch)
+
+- **Nobody on the edge uses it:** The Kingdom has a proper name, the way the world is called Verrowen, but common folk on the edge just say "the Kingdom." Stoutwell would, too.
+- **For the Kingdom:** Aldmarch, Vessary, Harrowmere, or the Crown of Calder.
+- **For the capital:** Rollsgate, Highwrit, Kingsward, or Calder's Seat.
+- **For the last waystation:** Lastpost, the Woodgate Inn, or Escort's Rest.
+
+### Still open in the Kingdom (Not decided yet)
+
+- Who sits on the throne, and is anyone really ruling?
+- Which great house is Osric's, and what would it mean if Stoutwell found out?
+- Does the Kingdom know the deal at the edge exists, or has someone in the Rolls House been keeping it quiet?
+- How many artificers are on the register, and could the Kingdom ever learn of the Seeker's Lodestone?
+- Does the divination tower, far past the Kingdom, answer to the Crown?
+
 ### The lake and the fishing village (Your idea)
 
 - **The lake:** The river opens into a lake at its southern end, in the southeast corner of the region.
