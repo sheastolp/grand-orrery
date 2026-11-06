@@ -60,7 +60,7 @@ How to add something:
   - On the Monster Wood's western edge, where GuildScribe's bounties are thickest.
   - The wood is quiet here. The guildscribes say that's when to worry.
 
-#### 🐗 Thornback boar (Pitch)
+#### 🐗 Thornback boar (Your idea)
 
 - **Stats:** CR 2 · AC 13 · HP 45 · +5 to hit · 1d10+3
 - **Does:** A boar the size of a hay cart, with bristles thick and sharp as bramble. It charges anything that smells of food.
