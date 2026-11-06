@@ -913,6 +913,19 @@ Open questions | None
 In the world
 As Murrow carefully cleaned his workbench, he reached for the trusty Firing Tin, which had become indispensable in their daily lives. With a few swift motions, he struck the metal pins, igniting the spark within the tin. It burst into a bright flame, casting flickering shadows across the room as Murrow expertly added some tinderwood, coaxing the flames into a warm blaze. He smiled at the ease with which this simple yet crucial tool made life easier for him. The villagers would likely rely just as heavily on it come winter's chill when warmth was most needed.
 
+### Make ash wood come from the now sparce ashen fields. And… (Pitch)
+
+<!-- review-key: lore-keeper:5047e31d-40ba-4584-a1d8-13e3709b27f9 -->
+_From a lore-keeper chat, 2026-11-06 · Regions & places._
+
+Okay, here we go – let’s keep the master tone!
+
+“Write it up.” – “Perfect!”
+
+“In the world” – “A cozy morning in Stoutwell, nestled snug within the Green Valley. Sunlight streams through the window of Monstradius’s workshop, illuminating dust motes dancing in the air. Doric is meticulously polishing a brass gear while the village herald, Tansy Ninefingers, adjusts her spectacles, greeting the day. Little Belye has already finished preparing the hearthstone for warm stones with a friendly smile. Murrow's sharpening the blade, ready to use some precision tools. And the scent of fresh-baked bread wafts from the Wellhouse tavern - all good things to start the day, wouldn't you say?”
+
+Excellent, excellent! Absolutely spot on. A lovely, perfectly succinct snapshot of the lore, perfectly aligned with the established framework.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
