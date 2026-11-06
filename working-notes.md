@@ -854,6 +854,47 @@ Suggested: A secret society exists within the capital city that manipulates even
 In the world
 In the bustling marketplace of El'goroth, merchants eagerly haggle over prices while guardsmen from the King's Guard keep a watchful eye on potential thieves. The sound of hammering echoes through the air as blacksmiths work on fine pieces, including intricate armor adorned with the symbol of the Kingdom. As shoppers browse stalls selling everything from rare spices to enchanted trinkets, rumors spread about an upcoming festival in honor of the Kingdom's patron deity – will this event bring peace or prosperity?
 
+### I want to add the kingdom and some of its inhabitants (Pitch)
+
+_From a lore-keeper chat, 2026-11-06 · I want to add the kingdom and some of ots inhabitants. B… · Open chat._
+
+**You:** I want to add the kingdom and some of ots inhabitants. Begin expanding this word
+
+**Lore-keeper:** The Kingdom as a region sounds fascinating! Let's start by adding more details:
+
+**Geography**: The Kingdom occupies the eastern part of Verrowen, stretching from the Blasted Lands of Ashenvale in the northwest to the Wysteria Plains in the southeast. Its terrain varies from rolling hills and fertile plains to dense forests and rugged mountains. The capital city lies at the heart of the realm, surrounded by towering fortifications and sprawling marketplaces.
+
+**Population**: The Kingdom has approximately 5 million citizens, comprising various ethnic groups, including humans, dwarves, elves, gnomes, and halflings. Each racial group contributes significantly to the realm's diversity and culture.
+
+**Economy**: The Kingdom's economy thrives due to its strategic location, rich mineral deposits, and extensive trade networks. Major industries include agriculture, smithing, crafting, and exploration. Cities like El'goroth and Eldrador serve as centers for commerce, innovation, and governance.
+
+**Politics**: The Kingdom is ruled by King Pedgar III, a wise and just leader who has maintained peace and prosperity within his borders. However, rumors persist about whispers of power struggles between factions vying for control. 
+
+**Important Figures**:
+1. Belenos (Half-Elf Warlock) - serves as an advisor to the king.
+2. Glumtom (Rock Gnome Artificer) – although initially reluctant, he continues working under King Pedgar III, healing and building structures as commanded.
+3. King Pedgar III (Human King)
+
+We can continue expanding this area by delving deeper into the kingdom's history, society, magic system, notable events, etc. What aspects would you like me to focus on?
+
+**You:** Remove belenos from that list as he is played in a current dnd campaign
+
+**Lore-keeper:** I've removed Belenos from the list. Here is the revised version:
+
+ **Geography**: The Kingdom occupies the eastern part of Verrowen, stretching from the Blasted Lands of Ashenvale in the northwest to the Wysteria Plains in the southeast. Its terrain varies from rolling hills and fertile plains to dense forests and rugged mountains. The capital city lies at the heart of the realm, surrounded by towering fortifications and sprawling marketplaces.
+
+**Population**: The Kingdom has approximately 5 million citizens, comprising various ethnic groups, including humans, dwarves, elves, gnomes, and halflings. Each racial group contributes significantly to the realm's diversity and culture.
+
+**Economy**: The Kingdom's economy thrives due to its strategic location, rich mineral deposits, and extensive trade networks. Major industries include agriculture, smithing, crafting, and exploration. Cities like El'goroth and Eldrador serve as centers for commerce, innovation, and governance.
+
+**Politics**: The Kingdom is ruled by King Pedgar III, a wise and just leader who has maintained peace and prosperity within his borders. However, rumors persist about whispers of power struggles between factions vying for control. 
+
+**Important Figures**:
+1. Glumtom (Rock Gnome Artificer) – although initially reluctant, he continues working under King Pedgar III, healing and building structures as commanded.
+2. King Pedgar III (Human King)
+
+Would you like me to add more details or explore other aspects of the Kingdom?
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
