@@ -320,10 +320,48 @@ All five are halflings.
 ### The Scribe, the peddlers and the Wandering Clerk
 
 - **The Scribe:** GuildScribe's senior guildscribe, who answers adventurers at the desk. Sour, unimpressed and always comparing things to how they were done in her day, she scolds young adventurers for not eating enough. She secretly cares a little, and would never admit it. Anyone who tries to rob her is fined into the hall's swear jar.
-- **The peddlers:** Threadbare traders who take turns at an open stall in the capital's market square: Wobble, Pruneface Yorik, Tansy Ninefingers, Bregga Stumpteeth, Old Corrin, Widow Hesk, Tam Pockets, Fenwick Loose-Coin, Marda the Reformed Cutpurse, Grithnall the Threadbare, Squint, Nan Gullyfoot, Ossop the Unlucky, Beren Halfcoat, Ivy Scraptongue, Doras Milkbeard, Kettle, Ruel Tinkpocket, Sella Windrags, Podge Ashborn and Uther Nine-Debts. They haggle hard and sell odd, mostly honest wares. Now and then one turns up a real relic and can't say where it came from. (Fenwick Loose-Coin and Widow Hesk are no relation to Fenwick Larkspur or Hesketh Reeve.)
+- **The peddlers:** Threadbare traders who take turns at an open stall in the capital's market square. They haggle hard and sell odd, mostly honest wares. Now and then one turns up a real relic and can't say where it came from. (Fenwick Loose-Coin and Widow Hesk are no relation to Fenwick Larkspur or Hesketh Reeve.)
 - **The Wandering Clerk:** A guildscribe who broke from the hall and keeps a ledger of their own on the Kingdom's roads, swearing in adventurers where there's no guild, posting bounties and sending them to the nearest peddler's stall. Some of the peddlers follow the Clerk's road.
 - **The first ledger in Stoutwell:** The Clerk's road, by way of the Woodland Road, could bring the first guild ledger to Stoutwell, putting villagers' names on paper the Kingdom might read.
 - **A relic from the wood:** One of the peddlers' unexplained relics could have come out of the Monster Wood.
+
+### Where GuildScribe's people live and travel
+
+Every one of them lives in the Kingdom or travels through it, on the side that borders Stoutwell. None of them lives in Stoutwell.
+
+- **The Scribe:** An old human woman who lives in two rooms above the hall in the capital and has kept its desk longer than anyone can say. She hasn't left the capital in years and sees no reason to.
+- **The Wandering Clerk:** Keeps no home. The Clerk's road loops through the Kingdom's small towns and waystations out to its far edge, where the Woodland Road runs through the woods to Stoutwell's west gate. The Clerk often travels that last stretch with the merchants and their escorts.
+
+#### The capital peddlers
+
+They live in the capital and work the stall in its market square.
+
+- **Bregga Stumpteeth:** Human, F. A broad, gap-toothed hawker whose voice carries across the whole square. Sells anything that can be sold by shouting.
+- **Widow Hesk:** Human, F. Has been "recently widowed" for as long as anyone has known her. Runs her pitch on sympathy and is very good at it.
+- **Fenwick Loose-Coin:** Halfling, M. Always a copper short, and always sure the next sale will fix it. Owes a little to most of the other peddlers.
+- **Marda the Reformed Cutpurse:** Human, F. A former pickpocket who went straight and won't let anyone forget it. Still checks every buyer's pockets with her eyes.
+- **Grithnall the Threadbare:** Human, M. Lanky and patched from hat to boots. Claims his coat was once a lord's. It may have been.
+- **Ossop the Unlucky:** Human, M. Whatever can go wrong at his stall does: the table tips, the awning leaks, the chicken gets loose. Buyers pity him into sales.
+- **Beren Halfcoat:** Halfling, M. Lost half his coat (and the story keeps changing about how). Neat, polite, and the most honest haggler in the square.
+- **Ivy Scraptongue:** Human, F. Sharp-tongued and quick, she trades insults with buyers and wins. Deals mostly in scrap metal and salvage from the capital's workshops.
+- **Doras Milkbeard:** Human, M. An old man with a long white beard who sells "remedies" of dubious use. Most of them are just tea.
+- **Ruel Tinkpocket:** Halfling, M. A tinker whose coat is lined with pockets of small broken parts. Fixes cheap trinkets while he haggles.
+- **Podge Ashborn:** Halfling, M. Round, cheerful and covered in soot, he sells secondhand pots, lanterns and anything that's been near a fire.
+- **Uther Nine-Debts:** Human, M. Owes nine debts to nine people, and keeps careful count. Sells fast and cheap to stay one step ahead of all nine.
+
+#### The road peddlers
+
+They follow the Wandering Clerk's road through the Kingdom, setting up wherever the Clerk stops, and take their turns at the capital stall when the road brings them back. Some of them travel the Woodland Road with the merchants, as far as Stoutwell.
+
+- **Wobble:** Halfling, M. Walks with a rolling gait and pushes a cart with one bad wheel. The first to unpack, the last to leave.
+- **Pruneface Yorik:** Human, M. Wrinkled, scowling and older than he admits. A miser who drives the hardest bargains on the road.
+- **Tansy Ninefingers:** Human, F. Lost a finger to something in a sack she shouldn't have opened. Has turned up more real relics than any other peddler, and asks the fewest questions.
+- **Old Corrin:** Human, M. The oldest peddler on the road. Knows every waystation, every shortcut and every story, most of them true.
+- **Tam Pockets:** Human, M. Young and quick-handed, his coat is more pocket than coat. Nobody is quite sure what's in all of them.
+- **Squint:** Halfling, F. Nearsighted and unwilling to admit it. Inspects every coin so closely that she's never been cheated.
+- **Nan Gullyfoot:** Halfling, F. A grandmotherly peddler with tired feet and a pack of knitted goods. Feeds anyone who looks hungry, whether they buy or not.
+- **Kettle:** Human, F. Hauls a clanking pack of pots and tea things, and always has a kettle on. Gossips over every cup.
+- **Sella Windrags:** Human, F. Sells cloth, scarves and rags that flap from every part of her pack, so you can see her coming a mile down the road.
 
 ### Glumtom, the Kingdom's artificer
 
