@@ -16,6 +16,7 @@ It's built so any place, person or idea can be lifted out and used on its own: i
 | [`working-notes.md`](working-notes.md) | **Village Hero.** The full working notes behind the draft, including ideas still being weighed. | Mixed, marked per section |
 | [`midkemia.md`](midkemia.md) | **World of Midkemia.** The world of Rose's homebrew D&D campaign that Arandur plays in: the quest for the missing queen, its places and gods, the linked world Aetherwyn, and the party. | DM lore |
 | [`resources.md`](resources.md) | **Resources.** Every item and resource, sorted by category and then type: enchanted items, materials, tools, weapons and armor, food and drink, coin. The Explorer's Items and Resources tabs read it live. | Marked per entry |
+| [`bestiary.md`](bestiary.md) | **GuildScribe's Bestiary.** Where GuildScribe's adventurers hunt, duel and get robbed in Verrowen (the arena, the market, the roads, the Monster Wood, the deep woods), the lines the bots post there, and Verrowen's own creatures with stat lines. The GuildScribe bots read it live from `main`: only sections marked **(Your idea)** reach them. | Marked per section |
 | [`lore.md`](lore.md) | The condensed lore the Wake in Verrowen narrator reads every turn. | Decided only |
 | [`maps/`](maps/) | Rough region and village maps. | Rough draft |
 
@@ -38,7 +39,7 @@ Every character in the Tavernworks examples comes from this universe.
 | The Scribe | GuildScribe's own voice in chat: the replies, the grumbles when tagged, and the fine for `!rob @GuildScribeBot`. |
 | The peddlers (Tansy Ninefingers and the rest) | GuildScribe's market stall (`!stall`, `!haggle`) and The Wandering Clerk's merchants. |
 | The Wandering Clerk | The Wandering Clerk bot (GuildBreak: Hunt & Hoard). |
-| Everyone in `lore.md` | People the player can meet in [Wake in Verrowen](https://tavernworks.dev/verrowen/). |
+| Everyone in `lore.md` | People the player can meet in [Wake in Verrowen](https://tavernworks.dev/verrowen/). GuildScribe's AI replies (the Scribe, the peddlers' `!haggle`, `!npc` characters) also read `lore.md` live. |
 
 When a character changes here, check those examples still fit.
 
