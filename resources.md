@@ -88,7 +88,7 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 
 ### Regalia
 
-#### 👑 Embercrown (Pitch)
+#### 👑 Embercrown (Your idea)
 
 - **Note:** From a lore-keeper chat, 2026-11-06
 - **Does:** A delicate metal crown set with gems, worn by Dor royals at official events. Worn outside formal occasions, it stirs whispers of court gossip and intrigue around the wearer.
