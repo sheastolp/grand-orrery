@@ -435,7 +435,7 @@ Each item shows how the rules work.
 - **Osric's surname:** Osric's hidden surname could belong to one of these houses. If it's the house that keeps the rolls, the man who leads Stoutwell is kin to the family that decides who the Kingdom can see. *(A hook. Which house, and how close the kinship is, stays open.)*
 - **Not a villain on a throne:** The corruption isn't one wicked ruler. It's an old machine that rewards the people who run it, which is harder to fight and makes a better story.
 
-### Who the Kingdom can draft (Pitch)
+### Who the Kingdom can draft (Your idea)
 
 - **Registered citizens:** Anyone on the rolls. Registration has real perks: protection under the Kingdom's law, the right to trade in the capital's markets, a guild parchment, a claim to bounty coin. The price is the draft.
 - **What the draft takes:** Soldiers for the Kingdom's garrisons, labor for its walls and roads, and anyone with a rare skill. Artificers are the rarest skill there is.
