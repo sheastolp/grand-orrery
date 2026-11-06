@@ -791,3 +791,30 @@ As one enters the mystical realm called Verrowen, familiarity and discomfort oft
         - Past the woods lies a land of constant threats;
     - The woodland road leads towards Stoutwell, though there are many dangers along its path
         - Some try to explore while others return early but are met by harsh encounters every now and then
+
+### I need items for this universe (Pitch)
+
+<!-- review-key: lore-keeper:be57d35a-8cdf-4304-bb6a-caf5d63b94de -->
+_From a lore-keeper chat, 2026-11-06 · Regions & places._
+
+**Embercrown**
+Name
+A delicate metal crown adorned with precious gems
+Kind 
+Dor royalty only
+The rule
+Only worn by Dor royals during official events and ceremonies.
+How it works
+The Embercrown generates subtle whispers of court gossip and intrigue among those nearby when used outside of formal occasions.
+Costs and limits
+Requires rare materials to craft and maintain its fire-starting properties.
+Who it affects
+Members of Dor royal family and occasional guests at official functions.
+What it changes
+Increases perception of wearer's influence and authority within the Kingdom.
+Clashes with canon None
+Open questions 
+Is there a designated storage or hiding place for the Embercrown when not being worn?
+
+In the world
+As King Pedgar ascended to his throne, he carefully placed the Embercrown upon his head, its gemstones flashing softly beneath the chandeliers. During the ceremony, the whispered conversations began - speculations on alliances, promises of favor, and hidden rivalries all swirled around him like smoke. Meanwhile, Queen Taileflaith looked on from her seat beside him, a faint smile playing on her lips as she leaned forward to whisper something discreetly into her advisor's ear.
