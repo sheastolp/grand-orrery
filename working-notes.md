@@ -443,7 +443,7 @@ Each item shows how the rules work.
 - **Why Murrow hides:** That's exactly what Murrow fears. A 550-year-old artificer who can channel other people's magic would be the most valuable name the register ever held.
 - **Licensed items:** Enchanted items made in the Kingdom carry a mark from a registered artificer. Unmarked items aren't illegal to own, but they make people ask who made them. *(This could make Monstradius's goods a quiet risk if they ever reach the capital.)*
 
-### Why Stoutwell isn't on the rolls (Pitch)
+### Why Stoutwell isn't on the rolls (Your idea)
 
 - **The deal at the edge:** The census takers stop at the Monster Wood. Stoutwell pays its Kingdom tax as one sum, carried home by the tax representative, instead of being counted name by name. The Kingdom gets its coin and Stoutwell's names stay off paper.
 - **Why the Kingdom allows it:** Sending census takers through the wood costs more than a small village is worth, and a lump sum is easy to count.
