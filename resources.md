@@ -153,7 +153,7 @@ Everyday things that get the work done.
 
 ### Fire-starting
 
-#### 🥫 Firing Tin (Pitch)
+#### 🥫 Firing Tin (Your idea)
 
 - **Note:** From a lore-keeper chat, 2026-11-06
 - **Does:** Starts a fire straight away, without embers.
