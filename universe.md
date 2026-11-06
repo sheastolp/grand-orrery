@@ -363,6 +363,60 @@ They follow the Wandering Clerk's road through the Kingdom, setting up wherever 
 - **Kettle:** Human, F. Hauls a clanking pack of pots and tea things, and always has a kettle on. Gossips over every cup.
 - **Sella Windrags:** Human, F. Sells cloth, scarves and rags that flap from every part of her pack, so you can see her coming a mile down the road.
 
+### GuildScribe's adventurers
+
+The adventurers written onto GuildScribe's parchments. Each one is a character the guild hall (the GuildScribe bot) made for a viewer in a stream's chat, and the name in brackets is the viewer who plays them (left out where the character goes by the viewer's own name).
+
+- **Where they are:** All of them are registered at the hall in the Kingdom's capital. They take bounties across the Kingdom, and the boldest hunt the Monster Wood from its western edge. Like every adventurer so far, none has made it past the blighted goblin lands, so none has reached Stoutwell.
+- **Who they are:** A wider mix of peoples than Stoutwell ever sees. Alongside humans, halflings, elves and gnomes, the hall's parchments list dwarves, drow, half-orcs, dragonborn and tieflings.
+- **Rank:** A parchment's rank rises as it fills: **Novice** (level 1 to 2), **Journeyman** (3 to 5), **Seasoned** (6 to 10) and **Veteran** (11 and up).
+- **Companies:** Science Club (Sun, MuzzledKitty, Blackass), Nuthaus (Xan, Briarpike), No Trolls Here (nobody, Momma_Enya), Touching (nobody, Momma_Enya, jeredth), the Dweebs (Fel) and Dev (Shadowflame).
+
+#### Veterans
+
+- **nobody** (e_paco): a mountain dwarf barbarian, level 12. Companies: No Trolls Here and Touching.
+- **Momma_Enya** (enya_celosia): a dragonborn warlock, level 12. Companies: No Trolls Here and Touching.
+- **Fel** (felivor): a drow elf fighter, level 12. Company: the Dweebs.
+- **MuzzledKitty** (fridaynytes): a tiefling wizard, level 12. Company: Science Club.
+- **Stabitha** (majornarsilion): a human rogue, level 12. No company.
+- **Sun** (sunaysaurus): a high elf monk, level 12. Company: Science Club.
+- **nogood59** (yesevil95): a forest gnome cleric, level 12. No company.
+- **Blackass** (strawberrystellas): a dragonborn druid, level 11. Company: Science Club.
+- **Xan** (xannyxia): a tiefling druid, level 11. Company: Nuthaus.
+
+#### Seasoned
+
+- **Briarpike** (rinkaneko): a forest gnome druid, level 8. Company: Nuthaus.
+- **Shadowflame** (stonedsheamus): a half-orc rogue, level 8. Company: Dev.
+- **Mistkettle** (trixiedahmer): a dragonborn bard, level 8. No company.
+- **Grimknot** (dnicholson1021): a stout halfling fighter, level 7. No company.
+- **jeredth**: a lightfoot halfling ranger, level 6. Company: Touching.
+
+#### Journeymen
+
+- **Quack** (a_ducky_on_quack): a stout halfling fighter, level 5. No company.
+- **Ryos** (married_with_consoles): a tiefling rogue, level 3. No company.
+- **smokeeeg**: a lightfoot halfling rogue, level 3. No company.
+- **Moonkettle** (theghrym): a dragonborn fighter, level 3. No company.
+
+#### Novices
+
+- **blickysnicky**: a lightfoot halfling monk, level 2. No company.
+- **Cinderfoot** (sirenwolfx): a dragonborn ranger, level 2. No company.
+- **antispinth1s**: a dragonborn sorcerer, level 1. No company.
+- **chaoticwaterdragon**: a lightfoot halfling monk, level 1. No company.
+- **Conanski** (conan9287): a lightfoot halfling bard, level 1. No company.
+- **Ironmantle** (humanoidrope): a blue dragonborn ranger, level 1. No company.
+- **itsrybread**: a half-orc bard, level 1. No company.
+- **Bramthistle** (kacearrito): a rock gnome wizard, level 1. No company.
+- **Mistcrest** (lyghtable): a half-orc rogue, level 1. No company.
+- **morathisshadowweaver**: a half-orc warlock, level 1. No company.
+- **Hawkthistle** (ninasmash): a half-orc wizard, level 1. No company.
+- **Thunderwing** (pahtoonyah_): a forest gnome warlock, level 1. No company.
+- **Bramblehelm** (sirleafytheslightlyinsane): a tiefling paladin, level 1. No company.
+- **undercovermario**: a tiefling ranger, level 1. No company.
+- **x3zero**: a tiefling cleric, level 1. No company.
+
 ### Glumtom, the Kingdom's artificer
 
 - **Rock gnome artificer,** gloomy-looking and quiet, who keeps to himself.

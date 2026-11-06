@@ -75,6 +75,46 @@ The guild hall's people. All of them live in the Kingdom or travel through it on
 | **Kettle** | Human, F | Always has a kettle on. Gossips over every cup. |
 | **Sella Windrags** | Human, F | Cloth and scarves flap from her pack. You can see her coming a mile off. |
 
+### The Kingdom: GuildScribe's adventurers
+
+Characters GuildScribe made for viewers, registered at the guild hall in the capital. None has reached Stoutwell.
+
+| Name | Played by | Race | Class | Level | Rank | Company |
+| --- | --- | --- | --- | --- | --- | --- |
+| **nobody** | e_paco | Mountain Dwarf | Barbarian | 12 | Veteran | No Trolls Here, Touching |
+| **Momma_Enya** | enya_celosia | Dragonborn | Warlock | 12 | Veteran | No Trolls Here, Touching |
+| **Fel** | felivor | Drow Elf | Fighter | 12 | Veteran | Dweebs |
+| **MuzzledKitty** | fridaynytes | Tiefling | Wizard | 12 | Veteran | Science Club |
+| **Stabitha** | majornarsilion | Human | Rogue | 12 | Veteran |  |
+| **Sun** | sunaysaurus | High Elf | Monk | 12 | Veteran | Science Club |
+| **nogood59** | yesevil95 | Forest Gnome | Cleric | 12 | Veteran |  |
+| **Blackass** | strawberrystellas | Dragonborn | Druid | 11 | Veteran | Science Club |
+| **Xan** | xannyxia | Tiefling | Druid | 11 | Veteran | Nuthaus |
+| **Briarpike** | rinkaneko | Forest Gnome | Druid | 8 | Seasoned | Nuthaus |
+| **Shadowflame** | stonedsheamus | Half-Orc | Rogue | 8 | Seasoned | Dev |
+| **Mistkettle** | trixiedahmer | Dragonborn | Bard | 8 | Seasoned |  |
+| **Grimknot** | dnicholson1021 | Stout Halfling | Fighter | 7 | Seasoned |  |
+| **jeredth** | jeredth | Lightfoot Halfling | Ranger | 6 | Seasoned | Touching |
+| **Quack** | a_ducky_on_quack | Stout Halfling | Fighter | 5 | Journeyman |  |
+| **Ryos** | married_with_consoles | Tiefling | Rogue | 3 | Journeyman |  |
+| **smokeeeg** | smokeeeg | Lightfoot Halfling | Rogue | 3 | Journeyman |  |
+| **Moonkettle** | theghrym | Dragonborn | Fighter | 3 | Journeyman |  |
+| **blickysnicky** | blickysnicky | Lightfoot Halfling | Monk | 2 | Novice |  |
+| **Cinderfoot** | sirenwolfx | Dragonborn | Ranger | 2 | Novice |  |
+| **antispinth1s** | antispinth1s | Dragonborn | Sorcerer | 1 | Novice |  |
+| **chaoticwaterdragon** | chaoticwaterdragon | Lightfoot Halfling | Monk | 1 | Novice |  |
+| **Conanski** | conan9287 | Lightfoot Halfling | Bard | 1 | Novice |  |
+| **Ironmantle** | humanoidrope | Blue Dragonborn | Ranger | 1 | Novice |  |
+| **itsrybread** | itsrybread | Half-Orc | Bard | 1 | Novice |  |
+| **Bramthistle** | kacearrito | Rock Gnome | Wizard | 1 | Novice |  |
+| **Mistcrest** | lyghtable | Half-Orc | Rogue | 1 | Novice |  |
+| **morathisshadowweaver** | morathisshadowweaver | Half-Orc | Warlock | 1 | Novice |  |
+| **Hawkthistle** | ninasmash | Half-Orc | Wizard | 1 | Novice |  |
+| **Thunderwing** | pahtoonyah_ | Forest Gnome | Warlock | 1 | Novice |  |
+| **Bramblehelm** | sirleafytheslightlyinsane | Tiefling | Paladin | 1 | Novice |  |
+| **undercovermario** | undercovermario | Tiefling | Ranger | 1 | Novice |  |
+| **x3zero** | x3zero | Tiefling | Cleric | 1 | Novice |  |
+
 ## Arandur's world
 
 An elven wood beside a growing human city. Not Verrowen.
