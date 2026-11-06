@@ -427,7 +427,6 @@ Each item shows how the rules work.
 - **The fishing village:** A small fishing settlement sits on the lake's far shore, across the water from Stoutwell, at the foot of the mountains. Usually only 5 to 10 people live there.
 - **What they do:** They fish. They aren't part of the village, but they're a source of food for it.
 - **Their secret:** They secretly protect and hide a passage through the mountains. It leads to some other place on the far side, still unknown and yet to be decided.
-- **Name ideas (Pitch):** Farshore, Netherwell, Reedmouth, Stillwater, Hookhaven.
 - **Still open:** Its name, who lives there, how far it is, how it gets along with Stoutwell (trade in fish for stout and smithing, for example), the name of the mountains, why the fishers keep the pass hidden, and what lies on the other side.
 
 ### The Ashen Reach (Your idea)
