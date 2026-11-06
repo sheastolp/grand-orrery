@@ -458,7 +458,7 @@ Each item shows how the rules work.
 - **The edge:** Small towns and waystations along the Clerk's road, getting poorer and less watched the farther east they go. The last waystation, where the Woodland Road leaves for Stoutwell, is where merchants hire their escorts.
 - **Peoples:** Humans are most of the Kingdom, with halflings and gnomes common in the towns. The capital draws everyone: the dwarves, drow, half-orcs, dragonborn and tieflings on GuildScribe's parchments are part of city life there, and almost unheard of in Stoutwell.
 
-### The Kingdom's history, in brief (Pitch)
+### The Kingdom's history, in brief (Your idea)
 
 - **How it grew:** The Kingdom grew outward from the capital over centuries, writing each new town into its rolls. It reached the Monster Wood and stopped, because the wood was cheaper to tax around than to cross.
 - **Stoutwell's place:** Stoutwell was either there before the Kingdom claimed it or grew up at the edge after. Either way, it falls under the Kingdom without ever having been counted. *(Open.)*
