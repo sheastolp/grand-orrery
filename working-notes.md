@@ -420,7 +420,7 @@ Each item shows how the rules work.
 - A real kingdom lies farther off, past the woods. The village falls under it but sits far out on its edge.
 - Like any kingdom, it has corruption: moral rot and all the terribleness that comes with power.
 
-### The Kingdom runs on paper (Pitch)
+### The Kingdom runs on paper (Your idea)
 
 - **The big idea:** The Kingdom's power is its rolls. A name written down can be taxed, drafted, fined or found. A name that isn't written down barely exists to it. Its corruption is mostly about paper: whose names get written, whose get lost, and who pays to move a name from one list to another.
 - **The rolls:** The census rolls, the tax rolls, the draft list, the register of artificers and GuildScribe's parchments all feed the same records in the capital. GuildScribe is one door into them. The census is another.
