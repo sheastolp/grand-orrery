@@ -67,7 +67,7 @@ How to add something:
 - **Limits:** It can't turn quickly. Step aside and it hits the nearest tree.
 - **Story:** Thornbacks are one of the beasts the Blight is pushing out of the deep woods. GuildScribe's bounty on them is new, and so is its bestiary page.
 
-#### 🦉 Gloamowl (Pitch)
+#### 🦉 Gloamowl (Your idea)
 
 - **Stats:** CR 1/2 · AC 13 · HP 16 · +4 to hit · 1d6+2
 - **Does:** A grey owl as big as a dog that hunts at dusk. It's one of the wood's very few true flyers.
