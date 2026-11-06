@@ -736,7 +736,6 @@ Pulled from his D&D Beyond sheet. There's no backstory, personality or appearanc
 - **The arrow:** A compass-like arrow is projected upward from the stone's surface and points toward the likely location of another artificer.
 - **Power:** It uses a mix of many mana types to detect artificers. Since artificers understand every type of magic, that may be the "signature" it picks up on.
 
-
 ### What the Kingdom uses him for (Your idea)
 
 The Kingdom is interested in him for bureaucratic and combat purposes, not for helping its citizens.
@@ -929,30 +928,3 @@ Excellent, excellent! Absolutely spot on. A lovely, perfectly succinct snapshot 
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
-
-### Elwen Cole (Pitch)
-
-<!-- review-key: verrowen:65c401eb-1e39-4a2b-a931-fee381c0f03a -->
-_From a Wake in Verrowen story, 2026-11-06 · Story._
-
-Name: Elwen Cole
-Race:
-Age: Unknown
-Appearance: 
-Magic: None known, but has affinity for wind magic
-Personality:
-
-Skills:
-Background:
-Key items:
-Who they met: Elara
-Places they've been: Burnt-out cottage on a hillside far from Verrowen
-Allies and enemies: Elara (potentially)
-Debts and promises: Unknown
-Wounds and scars: 
-Open mysteries: Origin of self, purpose here
-
-In a charred-upon-chars cottage, Elwen Cole slowly regained consciousness, surrounded by smoldering embers and ash. A ring too big for any finger lay nearby, alongside a torn map and a crude goblin-made knife. As they sat, trying to recall how they arrived there, a woman named Elara emerged from outside, her face obscured by a hood. She revealed no hostile intentions, merely observing you before asking if she might know your identity or circumstances – information you knew would come later. Your attention turned to exploring the space; inspecting various scraps of metalwork, cordage, and oddments that hinted at makeshift tools. You eventually decided not to investigate further.
-
-The story so far
-A young stranger woke up in a burnt-down cottage on a hillside far from the village of Stoutwell. No recollection of their past existed - only an unshakeable sense of being adrift. The air was thick with smoke, and remnants of charred cooking still lingered in pots. Nearby objects provided hints about possible connections: a large, mysterious ring too big to belong anywhere near them, along with fragments of an incomplete map ripped into several pieces and a crude blade crafted with little finesse. These relics indicated more than simple happenstance, but understanding the origin remained uncertain.
