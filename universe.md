@@ -63,9 +63,11 @@ A quiet way to find a child's element before they know it themselves:
 
 Rough sketches, not to scale.
 
-![Region map: the Kingdom, the Monster Wood with the Blight, the goblin lands and the adventurers' farthest reach, the Woodland Road, the croplands, Stoutwell, the Ashen Reach, the river and the mills](maps/region.png)
+![Region map: the Kingdom, the Monster Wood with the Blight, the goblin lands and the adventurers' farthest reach, the Woodland Road, the croplands, Stoutwell, the Ashen Reach, the river and the mills, the lake, the fishing settlement and the mountain wall](maps/region.png)
 
 ![Stoutwell village map: districts, the Gathering Hall, the dried well, the Wellhouse, Monstradius, Doric's smithy, the lumber yard and the river mills](maps/stoutwell.png)
+
+![Lake map: the lake where the river ends, the fishing settlement on the far shore, the corner of the mountain wall, the hidden pass and the Ashen Reach](maps/lake.png)
 
 ## Stoutwell
 
@@ -295,7 +297,10 @@ All five are halflings.
 - **The Woodland Road:** A path through the woods, outside the west gate, to the Kingdom. It's relatively safe, but still dangerous.
 - **Merchants:** Traders travel the road with safety escorts, so the village isn't cut off. The wealthier Hearthcircle trades with them most and gets the best goods, including most of its fine metalwork, from the Kingdom's capital.
 - **The tax representative:** Travels with the merchants to collect the Kingdom's tax. The role is chosen carefully to keep bias low, but the Kingdom's corruption can still creep in.
-- **The lake and the fishing village:** At the southern end of the river, it opens into a lake. A small fishing village stands on the lake's far shore, across the water from Stoutwell. Its name isn't decided yet.
+- **The lake:** The river flows south past the mills and opens into a lake at its southern end, southeast of Stoutwell.
+- **The mountain wall:** An impassable wall of mountains runs along the east and turns west along the south, and the lake lies in its corner. No one goes over it. Its southern arm runs past the Ashen Reach, so the training grounds sit between the village and the mountains.
+- **The fishing settlement:** A small fishing settlement on the lake's far shore, across the water from Stoutwell, at the foot of the mountains. Usually only 5 to 10 people live there. They fish, and they aren't part of the village, but their catch is a source of food for Stoutwell. Its name isn't decided yet.
+- **The hidden pass (secret):** The fishers secretly guard and hide a passage through the mountains. It leads to somewhere on the other side that no one in Stoutwell knows of. What's there is still to be decided.
 - **The Ashen Reach:** A plain of grey soil to the south of Stoutwell where nothing grows tall. It's the village's training grounds. The slums along the south wall sit right beside it: the ash and noise keep land there cheap, and the slums supply most of the Guard's recruits. Some say it's an old battlefield, others that a past Grand Orrery event touched down there.
 - **The divination tower:** A tower somewhere past the Kingdom, farther off than anywhere Stoutwell knows. Who keeps it, and what it sees, is still to be decided.
 
@@ -357,5 +362,6 @@ An elf ranger and pickpocket from a different world: an elven wood beside a grow
 - What are the large beasts of the deep woods?
 - Which artificers can open doorway rifts, and do Stoutwell's story and Arandur's ever cross?
 - What does Verrowen look like beyond the Kingdom and the Monster Wood?
+- What lies on the other side of the mountains, through the fishers' hidden pass, and why do they keep it secret?
 - Who keeps the divination tower, and how does divination fit with the known kinds of magic (elemental, strength, detection)?
 - What is Murrow, and who is his soft spot for?

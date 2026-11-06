@@ -19,9 +19,11 @@ Working notes for a new character and his story. Sections marked **Your idea** a
 
 Rough sketches of what's decided so far. They aren't to scale.
 
-![Region map: the Kingdom, the Monster Wood, the Woodland Road, the croplands, Stoutwell, the Ashen Reach, the river and the mills](maps/region.png)
+![Region map: the Kingdom, the Monster Wood, the Woodland Road, the croplands, Stoutwell, the Ashen Reach, the river and the mills, the lake, the fishing settlement and the mountain wall](maps/region.png)
 
 ![Stoutwell village map: districts, the Gathering Hall, the dried well, the Wellhouse, Monstradius, Doric's smithy, the lumber yard and the river mills](maps/stoutwell.png)
+
+![Lake map: the lake where the river ends, the fishing settlement on the far shore, the corner of the mountain wall, the hidden pass and the Ashen Reach](maps/lake.png)
 
 ## The Character (Your idea)
 
@@ -420,10 +422,13 @@ Each item shows how the rules work.
 
 ### The lake and the fishing village (Your idea)
 
-- **The lake:** The river opens into a lake at its southern end.
-- **The fishing village:** A small fishing village sits on the lake's far shore, across the water from Stoutwell.
+- **The lake:** The river opens into a lake at its southern end, in the southeast corner of the region.
+- **The mountain wall:** An impassable wall of mountains runs along the east and turns west along the south. The lake sits in the corner where the two arms meet. The southern arm runs past the Ashen Reach, on its far side from the village.
+- **The fishing village:** A small fishing settlement sits on the lake's far shore, across the water from Stoutwell, at the foot of the mountains. Usually only 5 to 10 people live there.
+- **What they do:** They fish. They aren't part of the village, but they're a source of food for it.
+- **Their secret:** They secretly protect and hide a passage through the mountains. It leads to some other place on the far side, still unknown and yet to be decided.
 - **Name ideas (Pitch):** Farshore, Netherwell, Reedmouth, Stillwater, Hookhaven.
-- **Still open:** Its name, who lives there, how far it is, and how it gets along with Stoutwell (trade in fish for stout and smithing, for example).
+- **Still open:** Its name, who lives there, how far it is, how it gets along with Stoutwell (trade in fish for stout and smithing, for example), the name of the mountains, why the fishers keep the pass hidden, and what lies on the other side.
 
 ### The Ashen Reach (Your idea)
 
