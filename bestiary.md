@@ -147,7 +147,7 @@ How to add something:
 - **Limits:** It needs soft, living soil to move through. The Blight's dry, grey ground is driving it out.
 - **Story:** The Blight killing the roots is what brought rootwyrms to the surface.
 
-#### 🌳 The Mosswarden (Pitch)
+#### 🌳 The Mosswarden (Your idea)
 
 - **Stats:** CR 15 · AC 18 · HP 210 · +11 to hit · 2d12+6
 - **Does:** A beast so old a small forest grows on its back. It walks so slowly that most people who see it think it's a hill.
