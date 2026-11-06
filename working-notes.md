@@ -656,8 +656,8 @@ What Arandur is living through now. The world, the story so far and the rest of 
 - **The quest:** The party is searching for the **missing Queen of Dannonirn**. They've been through the **Arena of Heroes** and **the maze**, been outfitted at the King's stables, and reached **Bitterbridge** and the carnival outside it. As of late August 2026 they were about to leave town.
 - **The wagon:** The party travels in a shared wagon, and each of them has a room in it.
 - **His loot:** The maze gave him a **bottomless quiver** with fire-charmed arrows that ignite when fired, plus magical armor.
-- **What he can't do:** Rose ruled that Arandur can't tell what a magic item does by looking at it.
-- **A way out (planned, not settled):** Rose's eventual plan is that finding the queen sets off a magical surge that opens a stable doorway in the far north, off the map. Going through it might mess with memories.
+- **What he can't do:** DungeonMistressrose ruled that Arandur can't tell what a magic item does by looking at it.
+- **A way out (planned, not settled):** DungeonMistressrose's eventual plan is that finding the queen sets off a magical surge that opens a stable doorway in the far north, off the map. Going through it might mess with memories.
 
 ### At the table (Your idea)
 
@@ -675,7 +675,7 @@ How you play him in Midkemia. These are running bits, not backstory.
 - **Trolls:** Trolls are natural to the deep woods of the Monster Wood. That gives Arandur's story and Stoutwell's a natural reason to collide.
 - **The transport:** A rift drops Arandur, in his youth, in a village near Stoutwell. The village's name will be decided later.
 - **Open:** How this jump fits with his backstory and his later jump to Midkemia isn't decided yet.
-- **Open:** Rose's northern doorway out of Midkemia could be his next jump, and its memory loss could explain gaps in what he remembers. He may also carry over into another campaign if he survives this one.
+- **Open:** DungeonMistressrose's northern doorway out of Midkemia could be his next jump, and its memory loss could explain gaps in what he remembers. He may also carry over into another campaign if he survives this one.
 
 ## Glumtom (Your D&D character, campaign not started yet)
 
