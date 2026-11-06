@@ -44,6 +44,7 @@ When a character changes here, check those examples still fit.
 ## Keeping it in sync
 
 - **Every change goes to the `review` branch, never straight to `main`.** `main` is the live Orrery: the Explorer, the lore-keeper and the Wake in Verrowen narrator read it. The owner checks what's waiting on the [Review Clone](https://tavernworks.dev/orrery/control/review/) and publishes it to `main` from there.
+- **`review` never falls behind `main`.** If something lands on `main` directly, the *Keep review up to date* GitHub Action brings `review` up to date: a fast-forward when nothing is waiting, or a merge that keeps the waiting changes. If the two conflict, the run fails and `review` is left alone to fix by hand.
 - The canonical, longer versions live in Sheamus's Claude docs, *Stoutwell & Beyond: Universe Draft* and *Village Hero: Character & Story Notes*. These files are copies of them as of 2026-11-05.
 - `lore.md` is what the game's narrator reads, and the game loads it straight from this repo. Only decided lore goes in it, never pitches. Keep it compact, since it's sent with every turn.
 - When the universe changes, update the doc, then the matching file here, then `lore.md` if the change is decided and matters to the game.

@@ -1,0 +1,59 @@
+# Keeps the review branch from falling behind main.
+#
+# Changes normally go to review first and the owner publishes them to main
+# from the Review Clone. When something lands on main another way (a direct
+# push), this brings review up to date so the Review Clone never shows an
+# older Orrery than the live one:
+# - review has nothing of its own: it fast-forwards to main.
+# - review has changes waiting: main is merged into it, and they keep waiting.
+# - the merge conflicts: the run fails and review is left alone to fix by hand.
+name: Keep review up to date
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-review
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Bring review up to date with main
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if ! git ls-remote --exit-code --heads origin review >/dev/null; then
+            echo "No review branch yet: creating it from main."
+            git push origin origin/main:refs/heads/review
+            exit 0
+          fi
+
+          git fetch origin review
+          if git merge-base --is-ancestor origin/main origin/review; then
+            echo "review already has everything on main."
+          elif git merge-base --is-ancestor origin/review origin/main; then
+            echo "review has nothing waiting: fast-forwarding it to main."
+            git push origin origin/main:refs/heads/review
+          else
+            echo "review has changes waiting: merging main into it."
+            git checkout -B review origin/review
+            if ! git merge --no-edit origin/main -m "Bring review up to date with main"; then
+              git merge --abort
+              echo "::error::main and review conflict. Merge main into review by hand."
+              exit 1
+            fi
+            git push origin review
+          fi
