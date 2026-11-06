@@ -116,7 +116,7 @@ How to add something:
 - **Limits:** It goes where the wind goes. A steady breeze leaves it drifting and harmless.
 - **Story:** Floating monsters like it are the reason Stoutwell's walls need human archers. The Blight is driving them west on the wind.
 
-#### 🦌 Hollowstag (Pitch)
+#### 🦌 Hollowstag (Your idea)
 
 - **Stats:** CR 5 · AC 14 · HP 90 · +7 to hit · 2d6+4
 - **Does:** A stag nearly fifteen feet tall at the antlers. Its antlers are hollow and whistle as it runs, which is how hunters hear it coming.
