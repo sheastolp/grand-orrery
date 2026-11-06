@@ -818,41 +818,6 @@ Is there a designated storage or hiding place for the Embercrown when not being 
 In the world
 As King Pedgar ascended to his throne, he carefully placed the Embercrown upon his head, its gemstones flashing softly beneath the chandeliers. During the ceremony, the whispered conversations began - speculations on alliances, promises of favor, and hidden rivalries all swirled around him like smoke. Meanwhile, Queen Taileflaith looked on from her seat beside him, a faint smile playing on her lips as she leaned forward to whisper something discreetly into her advisor's ear.
 
-### I want to add the kingdom and some of ots inhabitants. B… (Pitch)
-
-<!-- review-key: lore-keeper:7422a692-86b1-4ca2-9914-0d35de613e3b -->
-_From a lore-keeper chat, 2026-11-06 · Regions & places._
-
-Name
-Kingdom
-
-Kind (Regions & places)
-Eastern part of Verrowen
-
-The rule
-The Kingdom occupies approximately half of Verrowen's total land area.
-
-How it works
-Its geography varies from rolling hills and fertile plains to dense forests and rugged mountains. Cities have sprawling marketplaces and strong fortifications for defense.
-
-Costs and limits
-Cities like El'goroth and Eldrador serve as centers for commerce, innovation, and governance. This wealth can create tension between different districts and factions within the kingdom.
-
-Who it affects
-Citizens of the kingdom benefit from its trade agreements, but might be affected by internal power struggles or conflicts with neighboring regions.
-
-What it changes
-Stoutwell has limited interactions with the Kingdom due to their geographical distance.
-
-Clashes with canon
-(None)
-
-Open questions
-Suggested: A secret society exists within the capital city that manipulates events from behind the scenes, influencing the course of history. 
-
-In the world
-In the bustling marketplace of El'goroth, merchants eagerly haggle over prices while guardsmen from the King's Guard keep a watchful eye on potential thieves. The sound of hammering echoes through the air as blacksmiths work on fine pieces, including intricate armor adorned with the symbol of the Kingdom. As shoppers browse stalls selling everything from rare spices to enchanted trinkets, rumors spread about an upcoming festival in honor of the Kingdom's patron deity – will this event bring peace or prosperity?
-
 ### I want to add the kingdom and some of its inhabitants (Pitch)
 
 _From a lore-keeper chat, 2026-11-06 · I want to add the kingdom and some of ots inhabitants. B… · Open chat._
