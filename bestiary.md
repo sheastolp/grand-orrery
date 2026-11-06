@@ -85,7 +85,7 @@ How to add something:
   - The merchant's wagon creaks to a stop. Something is on the road ahead.
   - The Woodland Road bends east into the wood, toward a village no adventurer has reached.
 
-#### 🐻 Barrowbear (Pitch)
+#### 🐻 Barrowbear (Your idea)
 
 - **Stats:** CR 4 · AC 14 · HP 80 · +7 to hit · 1d12+4
 - **Does:** A moss-backed bear that digs its den into old earthworks along the road and treats the road as its own.
