@@ -15,6 +15,7 @@ It's built so any place, person or idea can be lifted out and used on its own: i
 | [`universe.md`](universe.md) | **Stoutwell & Beyond.** The universe draft: magic, Stoutwell, its people, the Monster Wood, the Kingdom and its guild hall GuildScribe (with its Scribe, the market peddlers and the Wandering Clerk), and characters from other worlds. | Decided |
 | [`working-notes.md`](working-notes.md) | **Village Hero.** The full working notes behind the draft, including ideas still being weighed. | Mixed, marked per section |
 | [`midkemia.md`](midkemia.md) | **World of Midkemia.** The world of Rose's homebrew D&D campaign that Arandur plays in: the quest for the missing queen, its places and gods, the linked world Aetherwyn, and the party. | DM lore |
+| [`resources.md`](resources.md) | **Resources.** Every item and resource, sorted by category and then type: enchanted items, materials, tools, weapons and armor, food and drink, coin. The Explorer's Items and Resources tabs read it live. | Marked per entry |
 | [`lore.md`](lore.md) | The condensed lore the Wake in Verrowen narrator reads every turn. | Decided only |
 | [`maps/`](maps/) | Rough region and village maps. | Rough draft |
 
