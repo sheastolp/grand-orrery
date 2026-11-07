@@ -24,7 +24,7 @@ Plain paragraphs under an entry show on its page too.
 
 ## Enchanted items
 
-Objects that hold someone's mana. Objects hold magic but don't make it, so every one of these runs dry and needs charging again. Enchanted items made in the Kingdom carry the mark of a registered artificer. Unmarked ones, like everything from Monstradius, aren't illegal, but they make people ask who made them.
+Enchanted items store mana, which depletes over time and requires recharging. Enchanted items made in the Kingdom carry the mark of a registered artificer. Unmarked ones, like everything from Monstradius, aren't illegal, but they make people ask who made them.
 
 ### Charged stones
 
@@ -299,7 +299,7 @@ What the Guard carries.
 
 #### 🧺 Guard tithe (Your idea)
 
-- **Does:** Pays for Stoutwell's Guard. Each household gives a share of its harvest, crafts or labor to keep the Guard fed, armed and paid.
+- **Does:** Pays for Stoutwell's Guard. Each household gives a share of its harvest, crafts or labour, or both, to keep the Guard fed, armed and paid.
 - **Limits:** Wealthier families, like the millers, give more, better quality, or both.
 - **Story:** A little skimming goes on, and Bertram's ledgers make it vanish on paper. A Truthglass is dangerous to anyone doing it.
 
@@ -321,7 +321,7 @@ What the Guard carries.
 
 ## Records & papers
 
-The Kingdom runs on paper: a name written down can be taxed, drafted, fined or found.
+The Kingdom relies on paper: a name written down can be taxed, drafted, fined, or lost.
 
 ### The Kingdom's records
 
@@ -342,7 +342,7 @@ The Kingdom runs on paper: a name written down can be taxed, drafted, fined or f
 
 ### Guild papers
 
-#### 📋 Adventurer's parchment (Your idea)
+#### 📋 Adventurers' parchments (Your idea)
 
 - **Where:** GuildScribe's hall in the capital.
 - **Does:** GuildScribe's record of one adventurer: name, race, trade, skill and deeds. Its rank rises as it fills: Novice, Journeyman, Seasoned, Veteran.
@@ -601,7 +601,7 @@ Rare finds the peddlers turn up now and then, in a bottomless sack or a barrel o
 
 #### 🪄 Rod of Seven Parts (6/7) (Your idea)
 
-- **Does:** Six of its seven parts. The peddler is still looking for the last one.
+- **Does:** Six of its seven components. The peddler is still searching for the final piece.
 - **Pitch:** the Rod of Seven Parts — six of seven, the peddler is 'still looking for the last one'
 - **Sold:** 60 gold · +2 WIS · relic
 
