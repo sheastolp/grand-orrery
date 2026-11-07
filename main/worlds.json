@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "built": "2026-11-07T20:21:37.760Z",
+  "branch": "main",
+  "commit": "2da26d4e6b577fbdb57617bc9db599fbb828d065",
+  "counts": {
+    "person": 72,
+    "role": 11,
+    "world": 2
+  },
+  "entities": [
+    {
+      "id": "verrowen",
+      "type": "world",
+      "name": "Verrowen",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 7
+      }
+    },
+    {
+      "id": "arandurs-world",
+      "type": "world",
+      "name": "Arandur's world",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 119
+      }
+    }
+  ]
+}

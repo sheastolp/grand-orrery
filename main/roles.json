@@ -1,0 +1,123 @@
+{
+  "schema": 1,
+  "built": "2026-11-07T20:21:37.760Z",
+  "branch": "main",
+  "commit": "2da26d4e6b577fbdb57617bc9db599fbb828d065",
+  "counts": {
+    "person": 72,
+    "role": 11,
+    "world": 2
+  },
+  "entities": [
+    {
+      "id": "role-stoutwells-two-healers-both-human",
+      "type": "role",
+      "name": "Stoutwell's two healers (both human)",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 133
+      }
+    },
+    {
+      "id": "role-the-tanner",
+      "type": "role",
+      "name": "The tanner",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 134
+      }
+    },
+    {
+      "id": "role-the-woodworker-s",
+      "type": "role",
+      "name": "The woodworker(s)",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 135
+      }
+    },
+    {
+      "id": "role-farmers-and-herders",
+      "type": "role",
+      "name": "Farmers and herders",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 136
+      }
+    },
+    {
+      "id": "role-notable-guard-shield-bearers-and-archers",
+      "type": "role",
+      "name": "Notable Guard shield-bearers and archers",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 137
+      }
+    },
+    {
+      "id": "role-the-millers-one-of-the-wealthier-families",
+      "type": "role",
+      "name": "The millers (one of the wealthier families)",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 138
+      }
+    },
+    {
+      "id": "role-the-kingdoms-tax-representative",
+      "type": "role",
+      "name": "The Kingdom's tax representative",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 139
+      }
+    },
+    {
+      "id": "role-a-regular-merchant-and-their-escort",
+      "type": "role",
+      "name": "A regular merchant and their escort",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 140
+      }
+    },
+    {
+      "id": "role-the-fishers-of-the-lakes-settlement-5-to-10-of-them",
+      "type": "role",
+      "name": "The fishers of the lake's settlement (5 to 10 of them)",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 141
+      }
+    },
+    {
+      "id": "role-the-kingdoms-monarch",
+      "type": "role",
+      "name": "The Kingdom's monarch",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 142
+      }
+    },
+    {
+      "id": "role-the-head-of-house-harrowmere-who-holds-the-highwrit",
+      "type": "role",
+      "name": "The head of House Harrowmere, who holds the Highwrit",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 143
+      }
+    }
+  ]
+}
