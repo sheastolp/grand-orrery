@@ -1,0 +1,1471 @@
+{
+  "schema": 1,
+  "built": "2026-11-07T20:37:38.903Z",
+  "branch": "review",
+  "commit": "6db0876a7525e45dcd383dce37823f9bb86f6814",
+  "counts": {
+    "person": 72,
+    "role": 11,
+    "world": 2
+  },
+  "entities": [
+    {
+      "id": "osric",
+      "type": "person",
+      "name": "Osric",
+      "race": "Halfling",
+      "sex": "male",
+      "age": 142,
+      "role": "Leader of the Elderhold",
+      "line": "Rose from near-peasant through the Guard. Warm in public, calculating underneath, careful with every word.",
+      "world": "verrowen",
+      "section": "Stoutwell: the Elderhold",
+      "place": "stoutwell",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 15
+      }
+    },
+    {
+      "id": "wendeline-brackenford",
+      "type": "person",
+      "name": "Wendeline Brackenford",
+      "race": "Halfling",
+      "sex": "female",
+      "age": 149,
+      "role": "Elder (peace)",
+      "line": "The eldest. Keeper of customs. Gentle but stubborn.",
+      "world": "verrowen",
+      "section": "Stoutwell: the Elderhold",
+      "place": "stoutwell",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 16
+      }
+    },
+    {
+      "id": "fenwick-larkspur",
+      "type": "person",
+      "name": "Fenwick Larkspur",
+      "race": "Halfling",
+      "sex": "male",
+      "age": 145,
+      "role": "Elder (survival)",
+      "line": "Ex-Guard. Blunt and practical. Respects Hesketh.",
+      "world": "verrowen",
+      "section": "Stoutwell: the Elderhold",
+      "place": "stoutwell",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 17
+      }
+    },
+    {
+      "id": "bertram-quillby",
+      "type": "person",
+      "name": "Bertram Quillby",
+      "race": "Halfling",
+      "sex": "male",
+      "age": 138,
+      "role": "Elder (research)",
+      "line": "Keeps the records, ledgers and tithe counts. Precise and polite.",
+      "world": "verrowen",
+      "section": "Stoutwell: the Elderhold",
+      "place": "stoutwell",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 18
+      }
+    },
+    {
+      "id": "ysolde-ambergate",
+      "type": "person",
+      "name": "Ysolde Ambergate",
+      "race": "Halfling",
+      "sex": "female",
+      "age": 133,
+      "role": "Elder (survival)",
+      "line": "Oversees harvest stores and rationing. Charming and persuasive.",
+      "world": "verrowen",
+      "section": "Stoutwell: the Elderhold",
+      "place": "stoutwell",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 19
+      }
+    },
+    {
+      "id": "clementine-rook",
+      "type": "person",
+      "name": "Clementine Rook",
+      "race": "Halfling",
+      "sex": "female",
+      "age": 131,
+      "role": "Elder (research)",
+      "line": "The newest Elder. Curious about magic. Deals with Murrow.",
+      "world": "verrowen",
+      "section": "Stoutwell: the Elderhold",
+      "place": "stoutwell",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 20
+      }
+    },
+    {
+      "id": "tobin-ashby",
+      "type": "person",
+      "name": "Tobin Ashby",
+      "race": "Halfling",
+      "sex": "male",
+      "age": 33,
+      "role": "Blacksmith's apprentice (the hero)",
+      "line": "Born into a smithing family. Determined, loyal, efficient. A homebody pulled toward danger. Minor strength enhancement.",
+      "world": "verrowen",
+      "section": "Stoutwell: the village",
+      "place": "stoutwell",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 26
+      }
+    },
+    {
+      "id": "doric",
+      "type": "person",
+      "name": "Doric",
+      "race": "Halfling",
+      "sex": "male",
+      "age": 67,
+      "role": "Master blacksmith, SE slums",
+      "line": "Strict because he hates mistakes, proud of his work. Advises the Hearthcircle on metal. Forges Murrow's Featherhooks.",
+      "world": "verrowen",
+      "section": "Stoutwell: the village",
+      "place": "stoutwell",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 27
+      }
+    },
+    {
+      "id": "hesketh-reeve",
+      "type": "person",
+      "name": "Hesketh Reeve",
+      "race": "Human",
+      "sex": "male",
+      "age": 48,
+      "role": "Captain of the Guard",
+      "line": "A human over a mostly halfling Guard. Harsh but fair, not corrupt. Dislikes weregild but upholds it.",
+      "world": "verrowen",
+      "section": "Stoutwell: the village",
+      "place": "stoutwell",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 28
+      }
+    },
+    {
+      "id": "murrow",
+      "type": "person",
+      "name": "Murrow",
+      "race": "Unknown",
+      "sex": "male",
+      "age": "550+",
+      "role": "Artificer, owner of Monstradius",
+      "line": "Hidden under a deep hood. Cold and businesslike, never mean. Channels other people's magic, never his own.",
+      "world": "verrowen",
+      "section": "Stoutwell: the village",
+      "place": "stoutwell",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 29
+      }
+    },
+    {
+      "id": "the-wellhouse-family",
+      "type": "person",
+      "name": "The Wellhouse family",
+      "race": "Elves",
+      "role": "Owners of the Wellhouse tavern",
+      "line": "Wealthy, came centuries ago out of a soft spot for sharing. Ostracized. Keep to the tavern.",
+      "world": "verrowen",
+      "section": "Stoutwell: the village",
+      "place": "stoutwell",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 30
+      }
+    },
+    {
+      "id": "burn",
+      "type": "person",
+      "name": "Burn",
+      "race": "Human",
+      "sex": "male",
+      "age": "about 45",
+      "role": "The Wellhouse's regular",
+      "line": "Short, mustached, red cap. Drops one-line roasts from his bar stool, only when it's funny, about what people do and never who they are. The Wellhouses' one friend. Swears red-capped mushrooms make you grow. A little fire magic.",
+      "world": "verrowen",
+      "section": "Stoutwell: the village",
+      "place": "stoutwell",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 31
+      }
+    },
+    {
+      "id": "glumtom",
+      "type": "person",
+      "name": "Glumtom",
+      "race": "Rock gnome",
+      "sex": "male",
+      "role": "The Kingdom's artificer (Reanimator)",
+      "line": "Gloomy lifelong tinkerer, drafted as a registered citizen. Heals, builds and raises undead laborers. Works *for* the Kingdom, not *with* it.",
+      "world": "verrowen",
+      "section": "The Kingdom",
+      "place": "the-kingdom",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 37
+      }
+    },
+    {
+      "id": "the-scribe",
+      "type": "person",
+      "name": "The Scribe",
+      "race": "Human",
+      "sex": "female",
+      "age": "old",
+      "role": "GuildScribe's senior guildscribe",
+      "where": "The capital, above the hall",
+      "line": "Sour, unimpressed, always comparing things to her day. Scolds young adventurers for not eating. Secretly cares a little. Fines would-be robbers into the swear jar.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 45
+      }
+    },
+    {
+      "id": "the-wandering-clerk",
+      "type": "person",
+      "name": "The Wandering Clerk",
+      "race": "Unknown",
+      "role": "A guildscribe who broke from the hall",
+      "where": "The Clerk's road, out to the Woodland Road",
+      "line": "Keeps a ledger of their own, swears in adventurers where there's no guild, posts bounties.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 46
+      }
+    },
+    {
+      "id": "bregga-stumpteeth",
+      "type": "person",
+      "name": "Bregga Stumpteeth",
+      "race": "Human",
+      "sex": "female",
+      "line": "Gap-toothed hawker whose voice carries across the square.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The capital peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 52
+      }
+    },
+    {
+      "id": "widow-hesk",
+      "type": "person",
+      "name": "Widow Hesk",
+      "race": "Human",
+      "sex": "female",
+      "line": "\"Recently widowed\" for as long as anyone remembers. Sells on sympathy. No relation to Hesketh Reeve.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The capital peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 53
+      }
+    },
+    {
+      "id": "fenwick-loose-coin",
+      "type": "person",
+      "name": "Fenwick Loose-Coin",
+      "race": "Halfling",
+      "sex": "male",
+      "line": "Always a copper short and owes a little to everyone. No relation to Fenwick Larkspur.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The capital peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 54
+      }
+    },
+    {
+      "id": "marda-the-reformed-cutpurse",
+      "type": "person",
+      "name": "Marda the Reformed Cutpurse",
+      "race": "Human",
+      "sex": "female",
+      "line": "A former pickpocket gone straight, who won't let anyone forget it.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The capital peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 55
+      }
+    },
+    {
+      "id": "grithnall-the-threadbare",
+      "type": "person",
+      "name": "Grithnall the Threadbare",
+      "race": "Human",
+      "sex": "male",
+      "line": "Patched from hat to boots. Claims his coat was once a lord's.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The capital peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 56
+      }
+    },
+    {
+      "id": "ossop-the-unlucky",
+      "type": "person",
+      "name": "Ossop the Unlucky",
+      "race": "Human",
+      "sex": "male",
+      "line": "Everything at his stall goes wrong. Buyers pity him into sales.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The capital peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 57
+      }
+    },
+    {
+      "id": "beren-halfcoat",
+      "type": "person",
+      "name": "Beren Halfcoat",
+      "race": "Halfling",
+      "sex": "male",
+      "line": "Lost half his coat, story varies. The most honest haggler in the square.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The capital peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 58
+      }
+    },
+    {
+      "id": "ivy-scraptongue",
+      "type": "person",
+      "name": "Ivy Scraptongue",
+      "race": "Human",
+      "sex": "female",
+      "line": "Trades insults with buyers and wins. Deals in scrap and workshop salvage.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The capital peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 59
+      }
+    },
+    {
+      "id": "doras-milkbeard",
+      "type": "person",
+      "name": "Doras Milkbeard",
+      "race": "Human",
+      "sex": "male",
+      "line": "White-bearded seller of \"remedies\" that are mostly tea.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The capital peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 60
+      }
+    },
+    {
+      "id": "ruel-tinkpocket",
+      "type": "person",
+      "name": "Ruel Tinkpocket",
+      "race": "Halfling",
+      "sex": "male",
+      "line": "A tinker with pockets full of broken parts. Fixes trinkets while he haggles.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The capital peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 61
+      }
+    },
+    {
+      "id": "podge-ashborn",
+      "type": "person",
+      "name": "Podge Ashborn",
+      "race": "Halfling",
+      "sex": "male",
+      "line": "Round, cheerful and sooty. Secondhand pots, lanterns and fire-scorched goods.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The capital peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 62
+      }
+    },
+    {
+      "id": "uther-nine-debts",
+      "type": "person",
+      "name": "Uther Nine-Debts",
+      "race": "Human",
+      "sex": "male",
+      "line": "Owes nine debts to nine people. Sells fast to stay ahead of all nine.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The capital peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 63
+      }
+    },
+    {
+      "id": "wobble",
+      "type": "person",
+      "name": "Wobble",
+      "race": "Halfling",
+      "sex": "male",
+      "line": "Rolling gait, a cart with one bad wheel. First to unpack, last to leave.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The road peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 69
+      }
+    },
+    {
+      "id": "pruneface-yorik",
+      "type": "person",
+      "name": "Pruneface Yorik",
+      "race": "Human",
+      "sex": "male",
+      "line": "Wrinkled, scowling miser who drives the hardest bargains on the road.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The road peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 70
+      }
+    },
+    {
+      "id": "tansy-ninefingers",
+      "type": "person",
+      "name": "Tansy Ninefingers",
+      "race": "Human",
+      "sex": "female",
+      "line": "Lost a finger to a sack she shouldn't have opened. Turns up the most real relics.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The road peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 71
+      }
+    },
+    {
+      "id": "old-corrin",
+      "type": "person",
+      "name": "Old Corrin",
+      "race": "Human",
+      "sex": "male",
+      "line": "The oldest on the road. Knows every waystation, shortcut and story.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The road peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 72
+      }
+    },
+    {
+      "id": "tam-pockets",
+      "type": "person",
+      "name": "Tam Pockets",
+      "race": "Human",
+      "sex": "male",
+      "line": "Young and quick-handed. His coat is more pocket than coat.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The road peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 73
+      }
+    },
+    {
+      "id": "squint",
+      "type": "person",
+      "name": "Squint",
+      "race": "Halfling",
+      "sex": "female",
+      "line": "Nearsighted and won't admit it. Inspects every coin, never cheated.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The road peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 74
+      }
+    },
+    {
+      "id": "nan-gullyfoot",
+      "type": "person",
+      "name": "Nan Gullyfoot",
+      "race": "Halfling",
+      "sex": "female",
+      "line": "Grandmotherly, sells knitted goods, feeds anyone who looks hungry.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The road peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 75
+      }
+    },
+    {
+      "id": "kettle",
+      "type": "person",
+      "name": "Kettle",
+      "race": "Human",
+      "sex": "female",
+      "line": "Always has a kettle on. Gossips over every cup.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The road peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 76
+      }
+    },
+    {
+      "id": "sella-windrags",
+      "type": "person",
+      "name": "Sella Windrags",
+      "race": "Human",
+      "sex": "female",
+      "line": "Cloth and scarves flap from her pack. You can see her coming a mile off.",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe",
+      "place": "the-kingdom",
+      "group": "The road peddlers",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 77
+      }
+    },
+    {
+      "id": "nobody",
+      "type": "person",
+      "name": "nobody",
+      "played_by": "e_paco",
+      "race": "Mountain Dwarf",
+      "class": "Barbarian",
+      "level": 12,
+      "rank": "Veteran",
+      "companies": [
+        "No Trolls Here",
+        "Touching"
+      ],
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 85
+      }
+    },
+    {
+      "id": "momma-enya",
+      "type": "person",
+      "name": "Momma_Enya",
+      "played_by": "enya_celosia",
+      "race": "Dragonborn",
+      "class": "Warlock",
+      "level": 12,
+      "rank": "Veteran",
+      "companies": [
+        "No Trolls Here",
+        "Touching"
+      ],
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 86
+      }
+    },
+    {
+      "id": "fel",
+      "type": "person",
+      "name": "Fel",
+      "played_by": "felivor",
+      "race": "Drow Elf",
+      "class": "Fighter",
+      "level": 12,
+      "rank": "Veteran",
+      "companies": [
+        "Dweebs"
+      ],
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 87
+      }
+    },
+    {
+      "id": "muzzledkitty",
+      "type": "person",
+      "name": "MuzzledKitty",
+      "played_by": "fridaynytes",
+      "race": "Tiefling",
+      "class": "Wizard",
+      "level": 12,
+      "rank": "Veteran",
+      "companies": [
+        "Science Club"
+      ],
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 88
+      }
+    },
+    {
+      "id": "stabitha",
+      "type": "person",
+      "name": "Stabitha",
+      "played_by": "majornarsilion",
+      "race": "Human",
+      "class": "Rogue",
+      "level": 12,
+      "rank": "Veteran",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 89
+      }
+    },
+    {
+      "id": "sun",
+      "type": "person",
+      "name": "Sun",
+      "played_by": "sunaysaurus",
+      "race": "High Elf",
+      "class": "Monk",
+      "level": 12,
+      "rank": "Veteran",
+      "companies": [
+        "Science Club"
+      ],
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 90
+      }
+    },
+    {
+      "id": "nogood59",
+      "type": "person",
+      "name": "nogood59",
+      "played_by": "yesevil95",
+      "race": "Forest Gnome",
+      "class": "Cleric",
+      "level": 12,
+      "rank": "Veteran",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 91
+      }
+    },
+    {
+      "id": "blackass",
+      "type": "person",
+      "name": "Blackass",
+      "played_by": "strawberrystellas",
+      "race": "Dragonborn",
+      "class": "Druid",
+      "level": 11,
+      "rank": "Veteran",
+      "companies": [
+        "Science Club"
+      ],
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 92
+      }
+    },
+    {
+      "id": "xan",
+      "type": "person",
+      "name": "Xan",
+      "played_by": "xannyxia",
+      "race": "Tiefling",
+      "class": "Druid",
+      "level": 11,
+      "rank": "Veteran",
+      "companies": [
+        "Nuthaus"
+      ],
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 93
+      }
+    },
+    {
+      "id": "briarpike",
+      "type": "person",
+      "name": "Briarpike",
+      "played_by": "rinkaneko",
+      "race": "Forest Gnome",
+      "class": "Druid",
+      "level": 8,
+      "rank": "Seasoned",
+      "companies": [
+        "Nuthaus"
+      ],
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 94
+      }
+    },
+    {
+      "id": "shadowflame",
+      "type": "person",
+      "name": "Shadowflame",
+      "played_by": "stonedsheamus",
+      "race": "Half-Orc",
+      "class": "Rogue",
+      "level": 8,
+      "rank": "Seasoned",
+      "companies": [
+        "Dev"
+      ],
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 95
+      }
+    },
+    {
+      "id": "mistkettle",
+      "type": "person",
+      "name": "Mistkettle",
+      "played_by": "trixiedahmer",
+      "race": "Dragonborn",
+      "class": "Bard",
+      "level": 8,
+      "rank": "Seasoned",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 96
+      }
+    },
+    {
+      "id": "grimknot",
+      "type": "person",
+      "name": "Grimknot",
+      "played_by": "dnicholson1021",
+      "race": "Stout Halfling",
+      "class": "Fighter",
+      "level": 7,
+      "rank": "Seasoned",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 97
+      }
+    },
+    {
+      "id": "jeredth",
+      "type": "person",
+      "name": "jeredth",
+      "played_by": "jeredth",
+      "race": "Lightfoot Halfling",
+      "class": "Ranger",
+      "level": 6,
+      "rank": "Seasoned",
+      "companies": [
+        "Touching"
+      ],
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 98
+      }
+    },
+    {
+      "id": "quack",
+      "type": "person",
+      "name": "Quack",
+      "played_by": "a_ducky_on_quack",
+      "race": "Stout Halfling",
+      "class": "Fighter",
+      "level": 5,
+      "rank": "Journeyman",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 99
+      }
+    },
+    {
+      "id": "ryos",
+      "type": "person",
+      "name": "Ryos",
+      "played_by": "married_with_consoles",
+      "race": "Tiefling",
+      "class": "Rogue",
+      "level": 3,
+      "rank": "Journeyman",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 100
+      }
+    },
+    {
+      "id": "smokeeeg",
+      "type": "person",
+      "name": "smokeeeg",
+      "played_by": "smokeeeg",
+      "race": "Lightfoot Halfling",
+      "class": "Rogue",
+      "level": 3,
+      "rank": "Journeyman",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 101
+      }
+    },
+    {
+      "id": "moonkettle",
+      "type": "person",
+      "name": "Moonkettle",
+      "played_by": "theghrym",
+      "race": "Dragonborn",
+      "class": "Fighter",
+      "level": 3,
+      "rank": "Journeyman",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 102
+      }
+    },
+    {
+      "id": "blickysnicky",
+      "type": "person",
+      "name": "blickysnicky",
+      "played_by": "blickysnicky",
+      "race": "Lightfoot Halfling",
+      "class": "Monk",
+      "level": 2,
+      "rank": "Novice",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 103
+      }
+    },
+    {
+      "id": "cinderfoot",
+      "type": "person",
+      "name": "Cinderfoot",
+      "played_by": "sirenwolfx",
+      "race": "Dragonborn",
+      "class": "Ranger",
+      "level": 2,
+      "rank": "Novice",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 104
+      }
+    },
+    {
+      "id": "antispinth1s",
+      "type": "person",
+      "name": "antispinth1s",
+      "played_by": "antispinth1s",
+      "race": "Dragonborn",
+      "class": "Sorcerer",
+      "level": 1,
+      "rank": "Novice",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 105
+      }
+    },
+    {
+      "id": "chaoticwaterdragon",
+      "type": "person",
+      "name": "chaoticwaterdragon",
+      "played_by": "chaoticwaterdragon",
+      "race": "Lightfoot Halfling",
+      "class": "Monk",
+      "level": 1,
+      "rank": "Novice",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 106
+      }
+    },
+    {
+      "id": "conanski",
+      "type": "person",
+      "name": "Conanski",
+      "played_by": "conan9287",
+      "race": "Lightfoot Halfling",
+      "class": "Bard",
+      "level": 1,
+      "rank": "Novice",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 107
+      }
+    },
+    {
+      "id": "ironmantle",
+      "type": "person",
+      "name": "Ironmantle",
+      "played_by": "humanoidrope",
+      "race": "Blue Dragonborn",
+      "class": "Ranger",
+      "level": 1,
+      "rank": "Novice",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 108
+      }
+    },
+    {
+      "id": "itsrybread",
+      "type": "person",
+      "name": "itsrybread",
+      "played_by": "itsrybread",
+      "race": "Half-Orc",
+      "class": "Bard",
+      "level": 1,
+      "rank": "Novice",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 109
+      }
+    },
+    {
+      "id": "bramthistle",
+      "type": "person",
+      "name": "Bramthistle",
+      "played_by": "kacearrito",
+      "race": "Rock Gnome",
+      "class": "Wizard",
+      "level": 1,
+      "rank": "Novice",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 110
+      }
+    },
+    {
+      "id": "mistcrest",
+      "type": "person",
+      "name": "Mistcrest",
+      "played_by": "lyghtable",
+      "race": "Half-Orc",
+      "class": "Rogue",
+      "level": 1,
+      "rank": "Novice",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 111
+      }
+    },
+    {
+      "id": "morathisshadowweaver",
+      "type": "person",
+      "name": "morathisshadowweaver",
+      "played_by": "morathisshadowweaver",
+      "race": "Half-Orc",
+      "class": "Warlock",
+      "level": 1,
+      "rank": "Novice",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 112
+      }
+    },
+    {
+      "id": "hawkthistle",
+      "type": "person",
+      "name": "Hawkthistle",
+      "played_by": "ninasmash",
+      "race": "Half-Orc",
+      "class": "Wizard",
+      "level": 1,
+      "rank": "Novice",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 113
+      }
+    },
+    {
+      "id": "thunderwing",
+      "type": "person",
+      "name": "Thunderwing",
+      "played_by": "pahtoonyah_",
+      "race": "Forest Gnome",
+      "class": "Warlock",
+      "level": 1,
+      "rank": "Novice",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 114
+      }
+    },
+    {
+      "id": "bramblehelm",
+      "type": "person",
+      "name": "Bramblehelm",
+      "played_by": "sirleafytheslightlyinsane",
+      "race": "Tiefling",
+      "class": "Paladin",
+      "level": 1,
+      "rank": "Novice",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 115
+      }
+    },
+    {
+      "id": "undercovermario",
+      "type": "person",
+      "name": "undercovermario",
+      "played_by": "undercovermario",
+      "race": "Tiefling",
+      "class": "Ranger",
+      "level": 1,
+      "rank": "Novice",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 116
+      }
+    },
+    {
+      "id": "x3zero",
+      "type": "person",
+      "name": "x3zero",
+      "played_by": "x3zero",
+      "race": "Tiefling",
+      "class": "Cleric",
+      "level": 1,
+      "rank": "Novice",
+      "world": "verrowen",
+      "section": "The Kingdom: GuildScribe's adventurers",
+      "place": "the-kingdom",
+      "kind": "adventurer",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 117
+      }
+    },
+    {
+      "id": "arandur",
+      "type": "person",
+      "name": "Arandur",
+      "race": "Elf",
+      "sex": "male",
+      "role": "Ranger and pickpocket",
+      "line": "Abandoned, landless, self-taught archer. Buries everything under contempt. Talks down magic, fears trolls but can't hate them. Since pulled into another world (Midkemia, a D&D campaign world).",
+      "world": "arandurs-world",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 125
+      }
+    },
+    {
+      "id": "silwen",
+      "type": "person",
+      "name": "Silwen",
+      "race": "Elf",
+      "sex": "female",
+      "role": "Arandur's mother, a hunter",
+      "line": "Taught him stealth and tracking, told him troll tales. Vanished on a \"hunt.\"",
+      "world": "arandurs-world",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 126
+      }
+    },
+    {
+      "id": "faelan",
+      "type": "person",
+      "name": "Faelan",
+      "race": "Elf",
+      "sex": "male",
+      "role": "Arandur's father",
+      "line": "Distant and rarely present. Vanished with Silwen.",
+      "world": "arandurs-world",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 127
+      }
+    },
+    {
+      "id": "role-stoutwells-two-healers-both-human",
+      "type": "role",
+      "name": "Stoutwell's two healers (both human)",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 133
+      }
+    },
+    {
+      "id": "role-the-tanner",
+      "type": "role",
+      "name": "The tanner",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 134
+      }
+    },
+    {
+      "id": "role-the-woodworker-s",
+      "type": "role",
+      "name": "The woodworker(s)",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 135
+      }
+    },
+    {
+      "id": "role-farmers-and-herders",
+      "type": "role",
+      "name": "Farmers and herders",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 136
+      }
+    },
+    {
+      "id": "role-notable-guard-shield-bearers-and-archers",
+      "type": "role",
+      "name": "Notable Guard shield-bearers and archers",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 137
+      }
+    },
+    {
+      "id": "role-the-millers-one-of-the-wealthier-families",
+      "type": "role",
+      "name": "The millers (one of the wealthier families)",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 138
+      }
+    },
+    {
+      "id": "role-the-kingdoms-tax-representative",
+      "type": "role",
+      "name": "The Kingdom's tax representative",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 139
+      }
+    },
+    {
+      "id": "role-a-regular-merchant-and-their-escort",
+      "type": "role",
+      "name": "A regular merchant and their escort",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 140
+      }
+    },
+    {
+      "id": "role-the-fishers-of-the-lakes-settlement-5-to-10-of-them",
+      "type": "role",
+      "name": "The fishers of the lake's settlement (5 to 10 of them)",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 141
+      }
+    },
+    {
+      "id": "role-the-kingdoms-monarch",
+      "type": "role",
+      "name": "The Kingdom's monarch",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 142
+      }
+    },
+    {
+      "id": "role-the-head-of-house-harrowmere-who-holds-the-highwrit",
+      "type": "role",
+      "name": "The head of House Harrowmere, who holds the Highwrit",
+      "status": "open",
+      "source": {
+        "file": "roster.md",
+        "line": 143
+      }
+    },
+    {
+      "id": "verrowen",
+      "type": "world",
+      "name": "Verrowen",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 7
+      }
+    },
+    {
+      "id": "arandurs-world",
+      "type": "world",
+      "name": "Arandur's world",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 119
+      }
+    }
+  ]
+}
