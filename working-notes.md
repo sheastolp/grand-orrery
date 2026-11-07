@@ -1026,7 +1026,7 @@ _Made up by the AI in auto mode, 2026-11-07 · about a creature of the Monster W
 
 - A lone halfling woman uses detection magic to detect danger within the Monster Wood, acting as a living early warning system for Stoutwell, despite being ostracized by the village.
 
-### Guard’s Ritual (Pitch)
+### Guard’s Ritual (Your idea)
 
 <!-- review-key: rest:idea-mw6ylddp -->
 <!-- added by the AI -->
