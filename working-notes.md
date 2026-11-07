@@ -1042,7 +1042,7 @@ _Made up by the AI in auto mode, 2026-11-07 · about something about the Guard: 
 
 - Every month, after their shift ends and before retiring for the night, each member of the Guard must spend precisely five minutes meticulously polishing their shield with river clay – a ritual overseen by Captain Hesketh himself. It’s believed this process strengthens not just the metal, but also the bond between the soldier and his protection, warding against ill fortune and ensuring vigilance during the next patrol. This habit stems from an obscure Elderhold tradition dating back to the village's founding, when a particularly brutal goblin raid was repelled thanks to a newly polished shield reflecting moonlight directly into the attackers’ eyes. The practice now serves as both a practical maintenance task and a visible demonstration of discipline and loyalty within the Guard ranks, subtly reinforcing its authority.
 
-### Murrow’s Secret (Pitch)
+### Murrow’s Secret (Your idea)
 
 <!-- review-key: rest:idea-mw7073rc -->
 <!-- added by the AI -->
