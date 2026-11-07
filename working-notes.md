@@ -929,6 +929,36 @@ _From a lore-keeper chat, 2026-11-07 · Regions & places._
 
 **Who it Affects:** Primarily Stoutwell's young Guardsmen undergoing training. It also hosts gatherings for larger-scale combat practice.
 
+### Chromatic Drake – Xan’s Wildshape (Pitch)
+
+<!-- review-key: lore-keeper:4e0771f5-3f66-4e0b-869e-ac88e9355e23 -->
+_From a lore-keeper chat, 2026-11-07 · Items & inventions._
+
+**Name:** Chromatic Drake – Xan’s Wildshape
+
+**Kind:** Items & Inventions - A temporary transformation utilizing a native race of mana-draining monsters.
+
+**The Rule:** Xan can transform into a shifting, multi-colored drake fueled by stolen mana from other creatures.
+
+**How it Works:** Xan channels ambient mana through his body, stimulating the latent presence of Silvari within him—manifesting them as scales and features before transforming fully. He actively drains mana from nearby animals or people to sustain the form, amplifying its power.
+
+**Costs and Limits:** Requires significant concentration and stamina. Prolonged use risks mental instability in both Xan and anyone nearby. Drakes lasts approximately fifteen minutes before requiring a full recharge (dependent on drained mana). The effectiveness is directly tied to the amount of mana stolen. Only those who possess a naturally high affinity for magic (primarily elves and artificers) are capable of initiating the shift.
+
+**Who it Affects:** Primarily affects any creature within range of Xan's attack/drain; also causes vivid hallucinations. Can disrupt magical workings and potentially damage artifacts sensitive to mana fluctuations. Guards find themselves disoriented when near him.
+
+**What it Changes:** Alters the environment with shimmering distortions, induces hallucinations, and physically shifts the terrain due to displaced elemental energy – briefly creating areas of intense cold or heat. It’s dangerous but powerful.
+
+**Clashes with Canon:** None
+
+**Open Questions:** (suggested) - What is the origin of the Silvari? Are they remnants of another world?
+
+
+
+---
+In the World: 
+
+The rain hammered against the thick stone walls of Monstradius, mirroring the drumming anxiety beneath Murrow’s workbench. He meticulously adjusted the calibration runes around his Truthglass—a delicate operation designed to authenticate a shipment of gold coming from Stoutwell. Suddenly, a ripple distorted the lens as Xan entered, dripping wet and visibly agitated. “It’s… changing,” he gasped, gesturing wildly towards the shimmering scales forming on his arm. A nearby halfling apprentice stumbled back, clutching his head in confusion, muttering about shifting colors and impossible geometries before collapsing onto the floor. Murrow cursed softly, quickly sealing off the workspace while checking for residual magic–the air felt strangely charged, humming with stolen potential.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
