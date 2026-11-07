@@ -856,13 +856,6 @@ _Made up by the AI in rest mode, 2026-11-07 · about a piece of Stoutwell's or t
 - **How it works:** Stoutwell is off the Kingdom's rolls, so the nearest thing to a written roster is Bertram's ledgers and tithe counts, which is one more reason a guild ledger in the village would matter.
 - **Still to name:** The tanner, the woodworkers, farmers and herders, the millers and notable members of the Guard.
 
-### Riverstone Charm (Pitch)
-
-<!-- review-key: rest:idea-mw6m9ia1 -->
-_Made up by the AI in rest mode, 2026-11-07 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
-
-- **Label:** A smooth, grey river stone etched with faint swirling lines that glow faintly when held by someone experiencing mild stress or discomfort.
-
 ### Whisperwind (Pitch)
 
 <!-- review-key: rest:idea-mw6n1sw6 -->
