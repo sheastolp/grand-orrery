@@ -947,7 +947,7 @@ In the World:
 
 The rain hammered against the thick stone walls of Monstradius, mirroring the drumming anxiety beneath Murrow’s workbench. He meticulously adjusted the calibration runes around his Truthglass—a delicate operation designed to authenticate a shipment of gold coming from Stoutwell. Suddenly, a ripple distorted the lens as Xan entered, dripping wet and visibly agitated. “It’s… changing,” he gasped, gesturing wildly towards the shimmering scales forming on his arm. A nearby halfling apprentice stumbled back, clutching his head in confusion, muttering about shifting colors and impossible geometries before collapsing onto the floor. Murrow cursed softly, quickly sealing off the workspace while checking for residual magic–the air felt strangely charged, humming with stolen potential.
 
-### Marda the Reformed Cutpurse (Pitch)
+### Marda the Reformed Cutpurse (Your idea)
 
 <!-- review-key: lore-keeper:1e224fef-b487-49fb-bd90-9aa0a1588ac0 -->
 _From a lore-keeper chat, 2026-11-07 · Characters._
