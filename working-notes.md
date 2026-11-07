@@ -464,13 +464,6 @@ Each item shows how the rules work.
 - **Stoutwell's place:** Stoutwell was either there before the Kingdom claimed it or grew up at the edge after. Either way, it falls under the Kingdom without ever having been counted. *(Open.)*
 - **What the archives might hold:** The Rolls House is old. It might hold the only written record of Stoutwell's founding, or of the year the well died. Murrow was likely around for that, and won't speak of it.
 
-### Names to pick from (Pitch)
-
-- **Nobody on the edge uses it:** The Kingdom has a proper name, the way the world is called Verrowen, but common folk on the edge just say "the Kingdom." Stoutwell would, too.
-- **For the Kingdom:** Aldmarch, Vessary, Harrowmere, or the Crown of Calder.
-- **For the capital:** Rollsgate, Highwrit, Kingsward, or Calder's Seat.
-- **For the last waystation:** Lastpost, the Woodgate Inn, or Escort's Rest.
-
 ### Still open in the Kingdom (Not decided yet)
 
 - Who sits on the throne, and is anyone really ruling?
