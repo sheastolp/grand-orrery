@@ -875,3 +875,11 @@ _Made up by the AI in rest mode, 2026-11-07 · about a creature of the Monster W
 _Made up by the AI in rest mode, 2026-11-07 · about a place in the Kingdom's capital or on the Kingdom's roads._
 
 - **Label:** A protective charm found near Stoutwell’s lake, tied to the fishing settlement’s secret passage.
+
+### The Silent Well (Pitch)
+
+<!-- review-key: rest:idea-mw6onwcy -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-07 · about a piece of Stoutwell's or the Kingdom's history._
+
+- For centuries, the villagers of Stoutwell have known the well dried up due to the blight, but only recently did Murrow’s irrigation bring water back – now, a single, unsettling detail about that event has surfaced through Doric’s smithing tales.
