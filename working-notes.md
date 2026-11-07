@@ -870,7 +870,7 @@ Characters made in Wake in Verrowen and sent in for review. Nothing here is deci
 
 <!-- Ideas the laptop's AI came up with on its own in rest mode or auto mode, then judged against the canon like every pitch. In a comment, so the lore catch-up only reads the ideas themselves. -->
 
-### Village Roster (Pitch)
+### Village Roster (Your idea)
 
 <!-- review-key: rest:idea-mw5vc4bn -->
 _Made up by the AI in rest mode, 2026-11-07 · about a piece of Stoutwell's or the Kingdom's history._
