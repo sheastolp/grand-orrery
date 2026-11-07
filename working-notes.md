@@ -865,3 +865,33 @@ Let's go through this! Perfect, perfect. 😊
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
+
+## From rest mode
+
+<!-- Ideas the laptop's AI came up with on its own in rest mode or auto mode, then judged against the canon like every pitch. In a comment, so the lore catch-up only reads the ideas themselves. -->
+
+### Village Roster (Pitch)
+
+<!-- review-key: rest:idea-mw5vc4bn -->
+_Made up by the AI in rest mode, 2026-11-07 · about a piece of Stoutwell's or the Kingdom's history._
+
+- **Label:** A list of all the villagers' names.
+- Doric
+- Burn
+- Murrow
+- Tobin Ashby
+- Wendeline Brackenford
+- Fenwick Larkspur
+- Bertram Quillby
+- Ysolde Ambergate
+- Clementine Rook
+- Osric
+- Hesketh Reeve
+- Elders' families (Wellhouse, unknown)
+- Other Guard members (short-term visitors from outside the village)
+- **Who:** Most inhabitants are human or halfling; there are two elves living in Stoutwell.
+- **When:** No set time frame is mentioned for this roster update.
+- **Where:** Stoutwell, within its walls and surrounding lands.
+- **How it works:** The wellspring of information for this roster could come from any member of the village who knows everyone else by name, such as a respected elder like Wendeline or a skilled guard captain like Hesketh.
+- **Limits:** It does not cover those with unclear roles (i.e., unaffiliated individuals), such as travelers passing through Stoutwell. Only an individual's basic role is listed here - details on background may be known only to them themselves.
+- **Ties:** Village Workers: Doric's smithy; Herders: Burn & the Wellhouse family; Farmers: mostly at the Grain mill; Gatherers: Tobin Ashby; Hearthcircle: all leaders except Osric; Elderhold: all five members; the rest have various skills tied directly to their job title.
