@@ -876,7 +876,7 @@ _Made up by the AI in rest mode, 2026-11-07 · about a place in the Kingdom's ca
 
 - **Label:** A protective charm found near Stoutwell’s lake, tied to the fishing settlement’s secret passage.
 
-### The Silent Well (Pitch)
+### The Silent Well (Your idea)
 
 <!-- review-key: rest:idea-mw6onwcy -->
 <!-- added by the AI -->
