@@ -853,3 +853,10 @@ _Made up by the AI in rest mode, 2026-11-07 · about a piece of Stoutwell's or t
 - **Where:** Inside the walls. The fishing settlement on the lake isn't part of the village, and none of GuildScribe's people live in Stoutwell.
 - **How it works:** Stoutwell is off the Kingdom's rolls, so the nearest thing to a written roster is Bertram's ledgers and tithe counts, which is one more reason a guild ledger in the village would matter.
 - **Still to name:** The tanner, the woodworkers, farmers and herders, the millers and notable members of the Guard.
+
+### Stoutwell’s Silent Oath (Pitch)
+
+<!-- review-key: rest:idea-mw6lhmvg -->
+_Made up by the AI in rest mode, 2026-11-07 · about a custom, saying, food or rule of daily life in Stoutwell._
+
+- **Label:** A custom saying used by Stoutwell’s guards before every patrol, meant to ward off misfortune and ensure safe passage through the Monster Wood.
