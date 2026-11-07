@@ -821,7 +821,7 @@ Okay, here we go – let’s keep the master tone!
 
 Excellent, excellent! Absolutely spot on. A lovely, perfectly succinct snapshot of the lore, perfectly aligned with the established framework.
 
-### Highwrit (Pitch)
+### Highwrit (Your idea)
 
 <!-- review-key: lore-keeper:1c20d0ad-2d69-470a-9de7-0d1c77d85e1a -->
 _From a lore-keeper chat, 2026-11-07 · Regions & places._
