@@ -34,7 +34,7 @@ All halflings. The five Elders vote; Osric speaks for them and doesn't.
 
 | Name | Race, sex, age | Role | In a line | Secret |
 | --- | --- | --- | --- | --- |
-| **Glumtom** | Rock gnome, M | The Kingdom's artificer (Reanimator) | Gloomy lifelong tinkerer, drafted as a registered citizen. Heals, builds and raises undead laborers. Works *for* the Kingdom, not *with* it. | Distant family to Murrow. Carries a Seeker's Lodestone that could find him, but isn't looking. |
+| **Glumtom** | Rock gnome, M | The Kingdom's artificer (Reanimator) | Gloomy lifelong tinkerer, drafted as a registered citizen. Heals, builds and raises undead laborers. Works *for* the Kingdom, not *with* it. | Distant family to Murrow. Made the Seeker's Lodestone, which could find him, but isn't looking. |
 
 ### The Kingdom: GuildScribe
 
@@ -128,8 +128,9 @@ An elven wood beside a growing human city. Not Verrowen.
 
 ## Roles still to fill
 
-From the working notes' village roster. These exist in the world but nobody has been named yet:
+From the working notes' village roster and the lore. These exist in the world but nobody has been named yet:
 
+- Stoutwell's two healers (both human)
 - The tanner
 - The woodworker(s)
 - Farmers and herders
@@ -137,3 +138,6 @@ From the working notes' village roster. These exist in the world but nobody has 
 - The millers (one of the wealthier families)
 - The Kingdom's tax representative
 - A regular merchant and their escort
+- The fishers of the lake's settlement (5 to 10 of them)
+- The Kingdom's monarch
+- The head of House Harrowmere, who holds the Highwrit
