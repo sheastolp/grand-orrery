@@ -833,6 +833,40 @@ _From a lore-keeper chat, 2026-11-07 · Regions & places. Rewritten to fit the c
 - **Ties:** The Kingdom runs on paper, and the Highwrit is its polish. The Scribe thinks little of the Rolls House clerks, and less of the Highwrit's.
 - **Still open:** Who the current Lord Harrowmere is, and whether the office's polish has ever been used to dress up a forged name.
 
+### Highwrit House (Pitch)
+
+<!-- review-key: lore-keeper:344ebe0c-039a-402a-99f2-b6f7ce4154c1 -->
+_From a lore-keeper chat, 2026-11-07 · Regions & places._
+
+**Name:** Highwrit House
+**Kind:** Regions & Places - Political Structure/Information Hub
+**The Rule:** The Highwrit House controls access to verified information throughout the kingdom, essentially dictating truth within Veridium.
+**How it Works:** Scribes meticulously copy and verify documents—decrees, tax rolls, maps—using standardized scripts and seals. Errors are corrected through rigorous review by multiple scribes, creating a layered system of checks and balances designed to prevent manipulation. Truthhounds support their work.
+**Costs and Limits:** Requires significant mana expenditure for copying and verifying materials (particularly large volumes). Dependent on skilled scribes – a shortage leads to errors and delays. Vulnerable to bribery or threats to disrupt operations. Their seals have limited value outside the capital.
+**Who it Affects:** Primarily impacts anyone needing official documentation – merchants seeking trade licenses, landowners requesting tax assessments, nobles vying for positions. Indirectly affects all citizens reliant on the Crown’s decrees.
+**What it Changes:** Shapes public perception by controlling what is recorded and disseminated, subtly influencing decisions and reinforcing royal authority. Constantly shifts power dynamics due to control over information flow.
+**Clashes with canon:** None
+**Open questions:** (suggested) – How much influence do the "Truthhounds" *really* wield?
+
+
+
+**Name:** Weaver's Guild
+**Kind:** Regions & Places - Economic Powerhouse/Royal Service
+**The Rule:** The Weaver's Guild controls the production and distribution of all fabrics used in the Kingdom’s banners, uniforms, and other textiles.
+**How it Works:** Skilled weavers use specialized looms powered by waterwheels and sometimes elemental magic to produce cloth from locally grown flax and wool. They adhere to strict standards dictated by the Crown, ensuring uniformity and quality.
+**Costs and Limits:** Requires substantial investment in loom maintenance and raw materials; prone to disruptions if supply chains are interrupted. Guild membership is hereditary and fiercely guarded. Can be exploited through inflated prices or restricted access. 
+**Who it Affects:** Directly affects the Royal Guard, nobility, wealthy merchants, and anyone requiring official garments.  Indirectly impacts farmers supplying wool and flax.
+**What it Changes:** Determines the visual identity of the kingdom—shaping how the monarchy presents itself both domestically and abroad. Influences fashion trends within Veridium based on royal mandates. 
+**Clashes with canon:** None
+**Open questions:** (suggested) – Are there any rival weaving guilds that challenge their dominance?
+
+
+
+
+In the world:
+
+Rain pattered softly against the slate roof of Master Bramwell's workshop as he oversaw a young apprentice painstakingly embroidering a banner for Lord Varick. The air hung thick with the scent of dyes and beeswax, punctuated by the rhythmic clatter of the loom. Scribes from the Highwrit House were meticulously examining every stitch under a magnifying glass, verifying the colors and symbols before stamping them with an official seal – a small but potent symbol of power and control contained within this bustling corner of Veridium’s heart. It was a necessary process, ensuring only *true* loyalty graced the banners flown throughout the kingdom.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
