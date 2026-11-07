@@ -929,7 +929,7 @@ _From a lore-keeper chat, 2026-11-07 · Regions & places._
 
 **Who it Affects:** Primarily Stoutwell's young Guardsmen undergoing training. It also hosts gatherings for larger-scale combat practice.
 
-### Chromatic Drake – Xan’s Wildshape (Pitch)
+### Chromatic Drake – Xan’s Wildshape (Your idea)
 
 <!-- review-key: lore-keeper:4e0771f5-3f66-4e0b-869e-ac88e9355e23 -->
 _From a lore-keeper chat, 2026-11-07 · Items & inventions._
