@@ -947,6 +947,26 @@ In the World:
 
 The rain hammered against the thick stone walls of Monstradius, mirroring the drumming anxiety beneath Murrow’s workbench. He meticulously adjusted the calibration runes around his Truthglass—a delicate operation designed to authenticate a shipment of gold coming from Stoutwell. Suddenly, a ripple distorted the lens as Xan entered, dripping wet and visibly agitated. “It’s… changing,” he gasped, gesturing wildly towards the shimmering scales forming on his arm. A nearby halfling apprentice stumbled back, clutching his head in confusion, muttering about shifting colors and impossible geometries before collapsing onto the floor. Murrow cursed softly, quickly sealing off the workspace while checking for residual magic–the air felt strangely charged, humming with stolen potential.
 
+### Marda the Reformed Cutpurse (Pitch)
+
+<!-- review-key: lore-keeper:1e224fef-b487-49fb-bd90-9aa0a1588ac0 -->
+_From a lore-keeper chat, 2026-11-07 · Characters._
+
+Name: Marda the Reformed Cutpurse
+Race: Human
+Sex: Female
+Age: 37 (suggested)
+Role: Peddler – specializes in small tools & lockpicks (legally obtained), offering surprisingly sharp advice alongside her wares.
+Lives in: Stoutwell - occupies a stall in the central market square.
+Appearance: Lean build, perpetually smudged hands, dark eyes that seem to assess everything. Wears practical leather trousers and a worn tunic over a chainmail shirt beneath. Carries several pouches filled with tools and trinkets. A faint scar traces across her left hand.
+Personality: Pragmatic, cynical but possesses a dry wit and an unexpected sense of justice. She’s fiercely independent and distrustful of authority figures. Despite her past, she strives to be honest—though sometimes her honesty is delivered with a cutting remark.
+Magic: Limited detection magic – primarily used to identify locks and detect subtle alterations or tampering. It's unreliable and drains mana quickly.
+Connections: Glumtom (occasional dealings regarding enchanted components); Osric (a wary respect; he occasionally seeks out her expertise for seemingly innocuous tasks). The Elderhold (avoidance; they view her profession with suspicion.)
+Secret: Formerly a skilled cutpurse operating within the capital before turning herself in to the Guard. She still retains some of those skills, though rarely uses them overtly.
+Story Hooks: 1) A wealthy merchant suspects Marda of being involved in a recent theft targeting his valuables. 2) An artifact stolen from the capital arrives in Stoutwell, and its thief is believed to have connections to Marda. 3) Osric needs her assistance decoding a complex mechanism found during a dig site – one that may hold dangerous secrets.
+
+Who they are: Marda is a survivor, forged by hardship and regret. Her former life as a thief instilled in her a keen eye for detail, a knack for unlocking things (both literal and figurative), and a deep-seated distrust of power. Now, she runs a modest stall offering tools and advice, attempting to use her unique skillset for honest gain while perpetually looking over her shoulder. Her past haunts her, fueling both her cynicism and her desire to atone—though whether she truly believes she’s earned redemption remains an open question.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
