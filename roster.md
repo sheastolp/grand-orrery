@@ -118,17 +118,17 @@ Characters GuildScribe made for viewers, registered at the guild hall in the cap
 
 ## Arandur's world
 
-An elven wood beside a growing human city. Not Verrowen.
+A small forest bordering Stoutwell, where a human city is beginning to grow. It isn’t Verrowen.
 
 | Name | Race, sex | Role | In a line | Secret |
 | --- | --- | --- | --- | --- |
-| **Arandur** | Elf, M | Ranger and pickpocket | Abandoned, landless, self-taught archer. Buries everything under contempt. Talks down magic, fears trolls but can't hate them. Since pulled into another world (Midkemia, a D&D campaign world). | His flickers of magic may be Silwen acting through him. |
-| **Silwen** | Elf, F | Arandur's mother, a hunter | Taught him stealth and tracking, told him troll tales. Vanished on a "hunt." | Possibly the formless spectre that trained him: bound and voiceless, not gone. |
+| **Arandur** | Elf, M | Ranger and pickpocket | Abandoned, landless, self-taught archer. Buries everything under contempt. Talks down magic, fears trolls but can't hate them. Since pulled into another world (Midkemia, a D&D campaign world). | His magical abilities might be echoes of his mother, Silwen, influencing him. |
+| **Silwen** | Elf, F | Arandur's mother, a hunter | Taught him stealth and tracking, told him troll tales. Vanished on a "hunt." | Perhaps it was the same voiceless spirit that taught him tracking, still present but unable to speak or move freely. |
 | **Faelan** | Elf, M | Arandur's father | Distant and rarely present. Vanished with Silwen. | |
 
 ## Roles still to fill
 
-From the working notes' village roster and the lore. These exist in the world but nobody has been named yet:
+From the working notes' village roster and the lore. These roles exist within Stoutwell, though no names have yet been assigned for them.
 
 - Stoutwell's two healers (both human)
 - The tanner
