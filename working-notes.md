@@ -883,3 +883,11 @@ _Made up by the AI in rest mode, 2026-11-07 · about a place in the Kingdom's ca
 _Made up by the AI in auto mode, 2026-11-07 · about a piece of Stoutwell's or the Kingdom's history._
 
 - For centuries, the villagers of Stoutwell have known the well dried up due to the blight, but only recently did Murrow’s irrigation bring water back – now, a single, unsettling detail about that event has surfaced through Doric’s smithing tales.
+
+### Guard’s Routine (Pitch)
+
+<!-- review-key: rest:idea-mw6qczj5 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-07 · about something about the Guard: a post, a habit, a piece of gear or a person._
+
+- Every fourth day, after the evening meal and before tending the walls, Hesketh Reeve gathers all members of the Guard for “The Stitching.” This involves meticulously inspecting each shield – patching cracks with hardened river clay, reinforcing weak points with strips of leather salvaged from damaged armor, and sharpening the edges with Doric’s finest steel. It’s believed that a well-maintained shield reflects poorly on the Guard’s vigilance, and Hesketh takes this responsibility very seriously. Ties: Connects directly to Hesketh Reeve and Doric, highlighting their working relationship and emphasizing the practical, almost obsessive nature of defensive preparedness within Stoutwell.
