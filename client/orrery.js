@@ -27,6 +27,31 @@
 //   githubToken     optional, for a higher GitHub API limit
 //   fetch           a fetch to use instead of the global one
 
+/**
+ * One thing in the universe. Every entity has these; the rest of its fields
+ * depend on its type (see the README's "The database").
+ * @typedef {{ id: string, type: string, name: string, status?: string, [field: string]: any }} OrreryEntity
+ */
+/**
+ * @typedef {object} OrreryMeta
+ * @property {number} schema
+ * @property {string} built        when it was built (ISO time)
+ * @property {string | null} branch the grand-orrery branch it was built from
+ * @property {string | null} commit the grand-orrery commit it was built from
+ * @property {Record<string, number>} counts how many of each type
+ */
+/**
+ * @typedef {object} OrreryOptions
+ * @property {string} [repo]
+ * @property {string} [branch]
+ * @property {boolean} [secrets]
+ * @property {number} [refreshMinutes]
+ * @property {{ entities: OrreryEntity[] } | null} [fallback]
+ * @property {string | null} [githubToken]
+ * @property {(url: string, init?: RequestInit) => Promise<Response>} [fetch]
+ */
+
+/** @type {Required<Omit<OrreryOptions, "fetch">>} */
 const DEFAULTS = {
   repo: "sheastolp/grand-orrery",
   branch: "main",
@@ -39,7 +64,7 @@ const DEFAULTS = {
 const norm = (s) => String(s ?? "").normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/\*+/g, "").trim();
 
 export class Orrery {
-  /** @param {Partial<typeof DEFAULTS> & { fetch?: typeof fetch }} [options] */
+  /** @param {OrreryOptions} [options] */
   constructor(options = {}) {
     this.options = { ...DEFAULTS, ...options };
     this._fetch = options.fetch || globalThis.fetch.bind(globalThis);
@@ -62,27 +87,37 @@ export class Orrery {
     }
   }
 
-  /** Resolves once the first read is done: true if the Orrery was read. */
+  /** Resolves once the first read is done: true if the Orrery was read.
+   * @returns {Promise<boolean>} */
   async ready() { await this._first; return this._data !== null && !this._data.__fallback; }
 
-  /** When it was built, from which branch and commit, and how many of each type. */
+  /** When it was built, from which branch and commit, and how many of each type.
+   * @returns {OrreryMeta | null} */
   get meta() {
     if (!this._data) return null;
     const { entities, ...meta } = this._data;
     return meta;
   }
 
-  /** Every entity, or every one of a type, matching every field in `where`. */
+  /** Every entity, or every one of a type, matching every field in `where`.
+   * @param {string} [type]
+   * @param {Record<string, unknown>} [where]
+   * @returns {OrreryEntity[]} */
   list(type, where = {}) {
     const all = this._data?.entities || [];
     return all.filter((e) => (!type || e.type === type) && Object.entries(where).every(([k, v]) =>
       Array.isArray(e[k]) ? e[k].includes(v) : e[k] === v));
   }
 
-  /** One thing by its id, or undefined. */
+  /** One thing by its id, or undefined.
+   * @param {string} id
+   * @returns {OrreryEntity | undefined} */
   get(id) { return this._byId.get(id); }
 
-  /** Things whose name matches, best first: exact, then starts with, then contains. */
+  /** Things whose name matches, best first: exact, then starts with, then contains.
+   * @param {string} name
+   * @param {string} [type]
+   * @returns {OrreryEntity[]} */
   find(name, type) {
     const q = norm(name);
     if (!q) return [];
@@ -90,13 +125,16 @@ export class Orrery {
     return this.list(type).map((e) => [score(e), e]).filter(([s]) => s < 3).sort((a, b) => a[0] - b[0]).map(([, e]) => e);
   }
 
-  /** Calls `fn(orrery)` whenever a new build is read. Returns an unsubscribe. */
+  /** Calls `fn(orrery)` whenever a new build is read. Returns an unsubscribe.
+   * @param {(orrery: Orrery) => void} fn
+   * @returns {() => void} */
   onChange(fn) { this._listeners.add(fn); return () => this._listeners.delete(fn); }
 
   /** Stop refreshing. */
   close() { clearInterval(this._timer); this._timer = null; }
 
-  /** Checks for a new build now. Never throws; true if something new was read. */
+  /** Checks for a new build now. Never throws; true if something new was read.
+   * @returns {Promise<boolean>} */
   async refresh() {
     try {
       const { repo, branch, secrets } = this.options;
