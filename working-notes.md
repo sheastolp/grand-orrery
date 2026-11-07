@@ -843,7 +843,7 @@ Okay, here’ a snippet showcasing the ideal text:
 
 Let's go through this! Perfect, perfect. 😊
 
-### Highwrit (Pitch)
+### Highwrit (Your idea)
 
 _From a lore-keeper chat, 2026-11-07 · Highwrit · Open chat._
 
