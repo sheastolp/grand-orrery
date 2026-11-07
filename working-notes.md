@@ -1054,7 +1054,7 @@ _Made up by the AI in auto mode, 2026-11-07 · about a person who lives in Stout
 - **How it works:** The Seeker's Lodestone functions through detecting faint traces of lingering magical energy – specifically, it responds strongest to events tied to significant shifts in the world’s structure like those caused by rifts. It doesn’t actively *find* things; rather, it guides Murrow towards locations where such energies are concentrated. Using it requires careful concentration and a steady hand, draining the user’s mana rapidly—a single prolonged scan could leave someone weak and dizzy.  Murrow seems to be using Doric's iron featherhooks to help channel this process, creating specific patterns on the stone that amplify the lodestone’s detection abilities, but he refuses to explain how.
 - **Limits:** The Seeker’s Lodestone is highly sensitive and easily disrupted by other sources
 
-### The Silent Offering (Pitch)
+### The Silent Offering (Your idea)
 
 <!-- review-key: rest:idea-mw70zdzo -->
 <!-- added by the AI -->
