@@ -25,6 +25,8 @@ Rough sketches of what's decided so far. They aren't to scale.
 
 ![Lake map: the lake where the river ends, the fishing settlement on the far shore, the corner of the mountain wall, the hidden pass and the Ashen Reach](maps/lake.png)
 
+![The Kingdom's capital: the old wall with the Crown's seat and the Rolls House, the mint, GuildScribe, the market square, the workshop quarter and Glumtom's workshop inside; the poor quarters and newer walls outside; the heartland's farms and river towns; the Clerk's road east](maps/capital.png)
+
 ## The Character (Your idea)
 
 - **Gender / age:** Male, 33. That's young but fully grown for a halfling.
@@ -293,10 +295,10 @@ They're short, but they're not stupid. The village is skilled and self-sufficien
 
 ### Monstradius items (Your idea)
 
-- **Hearthstones:** Stones charged with fire magic that keep a stove warm all night with no wood. They're rare and pricey, so the Hearthcircle probably owns them.
+- **Hearthstones:** Stones charged with fire magic that keep a stove warm all night without new wood, though they still need embers. They're rare and pricey, so the Hearthcircle probably owns them.
 - **Featherhooks:** Hooks enchanted with wind magic that make a log weigh half as much. A big help on dead-tree runs.
 - **Wardbells:** Bells on the walls that ring by themselves when something big comes out of the Monster Wood.
-- **Truthglass:** A lens that shows whether a coin or seal is real. Useful against shady merchants or a crooked tax collector.
+- **Truthglass:** A lens that shows whether a coin, seal or signed paper is real. Useful against shady merchants or a crooked tax collector.
 - **Rift compass:** A secret project that points toward where the worlds are thin. It ties into Arandur and the wider universe.
 
 ### More everyday magic (Your idea)
