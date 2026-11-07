@@ -13,7 +13,7 @@ An orrery is a clockwork model of the heavens. **The Grand Orrery** is the artif
 - **Scope:** A universe of several worlds that can tie together. Most of this draft takes place on one of them, Verrowen, centered on the walled village of Stoutwell.
 - **Tone:** Medieval fantasy, with D&D-style monsters.
 - **Linked worlds:** The worlds connect through **rifts**, random tears that open and close and pull in people, monsters or even whole buildings. That's why the same monsters turn up on different worlds. Arandur, an elf thief, was pulled out of his own world into another (see Characters from Other Worlds).
-- **Doorway rifts:** Some artificers can open a rift on purpose, using a doorway as the boundaries for the magic.
+- **Doorway rifts:** Some artificers can open rifts on purpose, using a doorway as their boundary for the magic.
 
 ## How Magic Works
 
@@ -77,7 +77,7 @@ A small, self-sufficient walled village of simple wooden homes, about **600 year
 
 ### The people
 
-- **Population:** About 220.
+- **Population:** Approximately 220.
 - **Halflings and humans:** Roughly 72% human (about 158) and 28% halfling (about 62). Halflings reach adulthood around 20 and live to about 150, while humans rarely pass 100, so halflings have children less often and are the shortest in any crowd.
 - **Elves:** The Wellhouse family, the only elves in the village. They keep to the tavern and are generally ostracized.
 - **Halflings:** Short, stout and tougher than they look, with thick skin and natural heat resistance. They're homebodies at heart who love good food and a warm hearth, but they're quick, quiet and lucky when it counts.
@@ -119,11 +119,11 @@ Unofficially, Stoutwell is known for its **ale** and its **blacksmithing**.
 
 ### Layout
 
-- **Walls:** Short, but not too short, since some monsters are tall.
+- **Walls:** Short, but substantial enough for most monsters
 - **Gates:** One in each wall: north, east, south and west.
 - **The west gate:** The croplands, the Woodland Road and the Monster Wood all lie outside it. It's the busiest gate, the most dangerous, and the one goblin raiders hit hardest.
 - **The south side:** The Ashen Reach, Stoutwell's training grounds, lies to the south. The slums run along the south wall, right beside it.
-- **Why the slums are by the training grounds:** Ash dust and the noise of the drills make the south wall the least wanted land in the village, so it's where poorer families could afford to live. The slums also supply most of the Guard's recruits, so trainees live a short walk from the grounds.
+- **Why the slums are by the training grounds:** Ash dust and the noise of the drills make the south wall the least wanted land in the village, so it's where poorer families could afford to live. The slums provided the majority of recruits for the Guard; trainee soldiers lived within walking distance of the training grounds.
 - **Neighborhoods:** The wealth gap shows on the map. There are slums, where poorer families live packed into plainer homes, and a nicer area of better-kept homes and shops.
 
 **Districts:**
@@ -137,8 +137,8 @@ Unofficially, Stoutwell is known for its **ale** and its **blacksmithing**.
 
 ### History
 
-- The Monster Wood has always been dangerous, even at the founding.
-- The story of how Stoutwell was founded was learned once, but never retold. The founders' children were known in their day, but nothing about the founding was passed down.
+- The Monster Wood had always been dangerous.
+- The founding stories were never passed down. The founders' children were known in their day, but nothing about the founding was passed down.
 
 ## Life in Stoutwell
 
@@ -306,7 +306,7 @@ All five are halflings.
 
 - An old blight that has been eating through the deep woods for at least 550 years. It's what killed Stoutwell's well.
 - It has finally reached the goblins' part of the forest. They're fleeing it, desperate for a safe place. They can't get past the walls, so they raid the fields for food and survival.
-- Whether the blight is natural or deliberate is still unknown.
+- Its origins remain shrouded in mystery, though some whisper of an ancient artificer's experiment gone awry.
 
 ## Beyond the Village
 
@@ -461,7 +461,7 @@ The adventurers written onto GuildScribe's parchments. Each one is a character t
 
 ### Arandur
 
-An elf ranger and pickpocket from a different world: an elven wood beside a growing human city.
+An elf ranger and pickpocket from another world—an elven wood beside a growing human city.
 
 - **Childhood:** He grew up in an isolated cabin, raised by his hunter mother **Silwen**, who taught him stealth and tracking and told him warning tales about trolls. His father, **Faelan**, was distant.
 - **Loss:** His parents went out "hunting" and never came back. The nearby elven village abandoned him, and the city seized his family's land.
