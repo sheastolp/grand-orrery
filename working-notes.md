@@ -988,7 +988,7 @@ _Made up by the AI in auto mode, 2026-11-07 · about something about the Guard: 
 
 - Every fourth day, after the evening meal and before tending the walls, Hesketh Reeve gathers all members of the Guard for “The Stitching,” which involved meticulously inspecting each shield—patching cracks with hardened river clay, reinforcing weak points with strips of leather salvaged from damaged armor, and sharpening the edges with Doric’s finest steel. Ties: Connects directly to Hesketh Reeve and Doric, highlighting their working relationship and emphasizing the practical, almost obsessive nature of defensive preparedness within Stoutwell.
 
-### Whisperwind’s Watch (Pitch)
+### Whisperwind’s Watch (Your idea)
 
 <!-- review-key: rest:idea-mw6v766v -->
 <!-- added by the AI -->
