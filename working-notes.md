@@ -92,7 +92,7 @@ Unofficially, Stoutwell is known for two things: **its ales and its blacksmithin
 
 **Where the name comes from (Your idea):** Stoutwell is named after its well, which was once the source of the village's amazing ale.
 
-**When the well died:** About 550 years ago, after the village had already gotten its name. **The blight caused it to dry up.**
+**When the well died:** Approximately five centuries prior, following the village’s founding **The Blight was responsible for its demise.**
 
 **Water through the centuries (Your idea):**
 
@@ -108,7 +108,7 @@ Unofficially, Stoutwell is known for two things: **its ales and its blacksmithin
 
 - **Age:** Stoutwell is about 600 years old.
 - **The woods:** The Monster Wood has always been dangerous, even when the village was founded.
-- **Lost founding stories:** The stories of how Stoutwell was founded were learned but never retold. The founders' children would have been known in their day, but nothing about the founding was passed on.
+- **Lost founding stories:** The stories of how Stoutwell was founded were learned but never retold. Their descendants were familiar figures during their time, yet no record of the village’s origins remained.
 
 ### Neighborhoods (Your idea)
 
@@ -131,13 +131,13 @@ The wealth gap shows on the map. Inside the walls, the village splits into poore
 
 The village is a safe place where the monsters can't get in.
 
-- **Walls:** The village is walled in. The walls are on the shorter side, but not too short, because some monsters are tall.
+- **Walls:** The village is walled in. Despite being relatively compact, the walls provided sufficient protection against a variety of threats.
 - **The Guard (halflings):** Stout halflings who fight from behind big shields. Being short means they can tuck almost completely behind them.
 - **Archers (humans):** Humans with bows on the walls, there to shoot down the floating monsters (and the few that fly).
 
 ### The Guard rotation (Your idea)
 
-Villagers take turns on the Guard rotation a couple of days a month, not a few times a year. The rotation moves between four posts:
+Rotational duty within the Guard system occurs twice monthly. The rotation moves between four posts:
 
 1. **Inside the village:** helping the villagers within the walls.
 2. **The croplands:** protecting the farmers outside the walls, where the goblins raid.
@@ -146,7 +146,7 @@ Villagers take turns on the Guard rotation a couple of days a month, not a few t
 
 **Full-time guards:** Some guards serve full time as part of a larger Guard group, and the rotation fills in around them. The Guard includes both men and women. The only requirement for full-time guards is strength.
 
-**A small halfling Guard (Your idea):** Halflings are only about 28% of the village (around 62 people), so the halfling shield Guard stays small. Being so few leaves them more fatigued, which raises overall stress and defiance in the Guard. Defiance stays minimal, though, because the punishments are extreme. It mostly shows up as a little skimming and some shift dodging.
+**A small halfling Guard (Your idea):** Halflings are only about 28% of the village (around 62 people), so the halfling shield Guard stays small. Their limited numbers resulted in increased fatigue, contributing to heightened tension and occasional insubordination among the ranks. Defiance stays minimal, though, because the punishments are extreme. It mostly shows up as a little skimming and some shift dodging.
 
 **The Guard Captain:** A human. Putting a human in charge of a Guard that's mostly halfling shield-bearers is part of the village's built-in bias. He's fair: harsh, but not corrupt. His name is Hesketh Reeve. He's 48.
 
@@ -347,7 +347,7 @@ The **Monster Wood** (that's the name for now) is a dark wood near the village w
 
 1. **Common but weak:** Most people have a little magic. Very few have a lot.
 2. **It assists, it doesn't do:** Magic makes work easier, but people still do the work. A fire user lights the stove, and someone still cooks.
-3. **Low ceiling:** A fire user who can boil a pot of water counts as super skilled.
+3. **Low ceiling:** A fire user capable of boiling water demonstrates considerable skill.
 4. **Types:** Elemental magic (wind, fire, earth) is the everyday kind. Strength enhancement is fairly common, and detection magic also exists.
 5. **By race:** Elves are the most magical, then humans, then halflings. Humans are more attuned to elemental magic.
 6. **Latent magic:** People can have abilities they don't know about.
@@ -463,7 +463,7 @@ Each item shows how the rules work.
 ### The Kingdom's history, in brief (Your idea)
 
 - **How it grew:** The Kingdom grew outward from the capital over centuries, writing each new town into its rolls. It reached the Monster Wood and stopped, because the wood was cheaper to tax around than to cross.
-- **Stoutwell's place:** Stoutwell was either there before the Kingdom claimed it or grew up at the edge after. Either way, it falls under the Kingdom without ever having been counted. *(Open.)*
+- **Stoutwell's place:** Stoutwell was either there before the Kingdom claimed it or grew up at the edge after. Either way, it fell under the Kingdom without ever having been counted. *(Open.)*
 - **What the archives might hold:** The Rolls House is old. It might hold the only written record of Stoutwell's founding, or of the year the well died. Murrow was likely around for that, and won't speak of it.
 
 ### Still open in the Kingdom (Not decided yet)
@@ -948,7 +948,7 @@ _Made up by the AI in rest mode, 2026-11-07 · about a piece of Stoutwell's or t
 - **The Guard:** Hesketh Reeve, its Captain, over the full-time Guard of villagers picked for strength, with every villager taking a turn on the rotation.
 - **Outside the groups:** Murrow, the artificer of Monstradius. The Wellhouse family, Stoutwell's only elves, who own the tavern and do nothing for the village beyond it. Burn, the Wellhouse's regular, an outsider who came down the Woodland Road about fifteen years ago.
 - **Who:** About 220 people, roughly 72% human and 28% halfling, plus the Wellhouse elves.
-- **Where:** Inside the walls. The fishing settlement on the lake isn't part of the village, and none of GuildScribe's people live in Stoutwell.
+- **Where:** Within the walls. The fishing settlement on the lake is not part of the village, and none of GuildScribe’s people live in Stoutwell.
 - **How it works:** Stoutwell is off the Kingdom's rolls, so the nearest thing to a written roster is Bertram's ledgers and tithe counts, which is one more reason a guild ledger in the village would matter.
 - **Still to name:** The tanner, the woodworkers, farmers and herders, the millers and notable members of the Guard.
 
@@ -963,7 +963,7 @@ _Made up by the AI in rest mode, 2026-11-07 · about a creature of the Monster W
 - **Where:** Specifically found within pockets of the Monster Wood characterized by unusually high humidity—particularly around fallen logs, stagnant pools, and deep ravines where the sunlight struggles to penetrate. Their dens are typically constructed within hollowed-out tree roots or beneath dense tangles of vines.
 - **How it Works:** The Silken Stalker doesn't rely on sight or sound; instead, it detects its prey (small animals, birds, even unwary travelers) using specialized organs located along its flanks that sense minute changes in air pressure caused by movement. These ‘pressure whispers’ allow it to pinpoint targets with incredible accuracy, effectively creating a 3D “map” of its surroundings.  It can also use this ability defensively, releasing a concentrated burst of compressed air as a disorienting shockwave.
 - **Limits:** Its sensitivity is heavily affected by strong winds or turbulent airflow – making open spaces perilous. Magical interference, especially spells that create sonic vibrations, severely disrupts its sensory system, causing intense pain and disorientation. Prolonged exposure to fire causes its fur to burn rapidly, stripping away its camouflage and leaving it vulnerable. It cannot reliably track magic users - they simply appear as static noise.
-- **Ties:** Murrow has observed the Silken Stalkers during his research
+- **Ties:** Murrow has been observing the Silken Stalkers during his research
 
 ### Riverstone Charm (Your idea)
 
@@ -994,4 +994,4 @@ _Made up by the AI in auto mode, 2026-11-07 · about something about the Guard: 
 <!-- added by the AI -->
 _Made up by the AI in auto mode, 2026-11-07 · about a creature of the Monster Wood: where it lives, what it does, its limits._
 
-- A lone halfling woman uses wind magic to detect danger within the Monster Wood, acting as a living early warning system for Stoutwell, despite being ostracized by the village.
+- A lone halfling woman uses detection magic to detect danger within the Monster Wood, acting as a living early warning system for Stoutwell, despite being ostracized by the village.
