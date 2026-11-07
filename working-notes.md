@@ -231,7 +231,7 @@ They're short, but they're not stupid. The village is skilled and self-sufficien
 - **Woodworkers:** They make weapon parts like hilts and specialize in ornate structures.
 - **Farmers:** They grow the crops, and the croplands take up the most space.
 - **Herders:** Mainly cattle, raised for food and for leather.
-- **The Elders' scenic cows:** The Elders keep a couple of cows just to look at and enjoy. Keeping animals that aren't for food or leather is rare.
+- **The Elders' scenic cows:** The Elders keep a couple of cows simply for their aesthetic value; keeping animals solely for display is uncommon.
 
 **Mills & the lumber yard (Your idea):**
 
@@ -558,7 +558,7 @@ Each item shows how the rules work.
 
 ## Village Roster
 
-Every villager gets a full profile, so any of them can be pulled out and used on their own. People to build:
+Each resident receives a complete record, allowing them to be mobilized if needed. Notable individuals include
 
 - **The hero:** Tobin Ashby, the halfling blacksmith's apprentice
 - **The blacksmith:** Doric, Tobin's master
@@ -986,4 +986,4 @@ _Made up by the AI in auto mode, 2026-11-07 · about a piece of Stoutwell's or t
 <!-- added by the AI -->
 _Made up by the AI in auto mode, 2026-11-07 · about something about the Guard: a post, a habit, a piece of gear or a person._
 
-- Every fourth day, after the evening meal and before tending the walls, Hesketh Reeve gathers all members of the Guard for “The Stitching.” This involves meticulously inspecting each shield – patching cracks with hardened river clay, reinforcing weak points with strips of leather salvaged from damaged armor, and sharpening the edges with Doric’s finest steel. It’s believed that a well-maintained shield reflects poorly on the Guard’s vigilance, and Hesketh takes this responsibility very seriously. Ties: Connects directly to Hesketh Reeve and Doric, highlighting their working relationship and emphasizing the practical, almost obsessive nature of defensive preparedness within Stoutwell.
+- Every fourth day, after the evening meal and before tending the walls, Hesketh Reeve gathers all members of the Guard for “The Stitching,” which involved meticulously inspecting each shield—patching cracks with hardened river clay, reinforcing weak points with strips of leather salvaged from damaged armor, and sharpening the edges with Doric’s finest steel. Ties: Connects directly to Hesketh Reeve and Doric, highlighting their working relationship and emphasizing the practical, almost obsessive nature of defensive preparedness within Stoutwell.
