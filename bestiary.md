@@ -113,7 +113,7 @@ How to add something:
 
 - **Stats:** CR 3 · AC 12 · HP 58 · +6 to hit · 1d10+3
 - **Does:** A floating gasbag the size of a cart, drifting just above the canopy and trailing sticky tendrils that haul prey up into its mouth.
-- **Limits:** It goes where the wind goes. A steady breeze leaves it drifting and harmless.
+- **Limits:** It goes where the wind goes. A strong wind makes it drift and harmless
 - **Story:** Floating monsters like it are the reason Stoutwell's walls need human archers. The Blight is driving them west on the wind.
 
 #### 🦌 Hollowstag (Your idea)
@@ -121,7 +121,7 @@ How to add something:
 - **Stats:** CR 5 · AC 14 · HP 90 · +7 to hit · 2d6+4
 - **Does:** A stag nearly fifteen feet tall at the antlers. Its antlers are hollow and whistle as it runs, which is how hunters hear it coming.
 - **Limits:** Too tall for thick woods, it keeps to clearings and old roads.
-- **Story:** One of the tall monsters, the reason Stoutwell's walls can't be short. A hollowstag antler would be the first proof of the deep woods' beasts ever brought to GuildScribe.
+- **Story:** One of the tall monsters, which explains why Stoutwell's walls need human archers. A hollowstag antler would be the first proof of the deep woods' beasts ever brought to GuildScribe.
 
 ## The deep woods (Your idea)
 
@@ -129,10 +129,10 @@ How to add something:
 - **For:** raids
 - **Levels:** 13-20
 - **Lines:**
-  - Something has come out of the deep woods, and GuildScribe has posted a raid quest for it.
+  - GuildScribe has posted a raid quest for something that came from the deep woods.
   - Out of the deep woods, where no adventurer has ever been, something big is moving west.
-  - The Blight drove it out of the deep woods. Now it's the Kingdom's problem.
-  - The guildscribes have a blank bestiary page ready for whatever this is.
+  - The Blight drove it out of the deep woods; now the Kingdom faces its consequences.
+  - GuildScribe has prepared a blank bestiary page for whatever emerges from the deep woods.
 
 #### 🧌 Trolls (Your idea)
 
@@ -152,4 +152,4 @@ How to add something:
 - **Stats:** CR 15 · AC 18 · HP 210 · +11 to hit · 2d12+6
 - **Does:** A beast so old a small forest grows on its back. It walks so slowly that most people who see it think it's a hill.
 - **Limits:** It almost never runs, and it stops to root itself every season.
-- **Story:** It has walked the deep woods longer than Stoutwell has stood. If the Blight has driven even the Mosswarden out, things are worse in there than anyone knows. Murrow might remember it.
+- **Story:** It has wandered the deep woods since Stoutwell was founded. If the Blight has driven even the Mosswarden out, things are worse in there than anyone knows. Murrow might remember it.
