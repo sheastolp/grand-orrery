@@ -867,7 +867,7 @@ In the world:
 
 Rain pattered softly against the slate roof of Master Bramwell's workshop as he oversaw a young apprentice painstakingly embroidering a banner for Lord Varick. The air hung thick with the scent of dyes and beeswax, punctuated by the rhythmic clatter of the loom. Scribes from the Highwrit House were meticulously examining every stitch under a magnifying glass, verifying the colors and symbols before stamping them with an official seal – a small but potent symbol of power and control contained within this bustling corner of Veridium’s heart. It was a necessary process, ensuring only *true* loyalty graced the banners flown throughout the kingdom.
 
-### Brackwood Fringe (Pitch)
+### Brackwood Fringe (Your idea)
 
 <!-- review-key: lore-keeper:11c80ec7-c42e-4cb9-b3a5-04ea31183ba6 -->
 _From a lore-keeper chat, 2026-11-07 · Regions & places._
