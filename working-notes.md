@@ -848,8 +848,6 @@ _From a lore-keeper chat, 2026-11-07 · Regions & places._
 **Clashes with canon:** None
 **Open questions:** (suggested) – How much influence do the "Truthhounds" *really* wield?
 
-
-
 **Name:** Weaver's Guild
 **Kind:** Regions & Places - Economic Powerhouse/Royal Service
 **The Rule:** The Weaver's Guild controls the production and distribution of all fabrics used in the Kingdom’s banners, uniforms, and other textiles.
@@ -859,9 +857,6 @@ _From a lore-keeper chat, 2026-11-07 · Regions & places._
 **What it Changes:** Determines the visual identity of the kingdom—shaping how the monarchy presents itself both domestically and abroad. Influences fashion trends within Veridium based on royal mandates. 
 **Clashes with canon:** None
 **Open questions:** (suggested) – Are there any rival weaving guilds that challenge their dominance?
-
-
-
 
 In the world:
 
@@ -890,8 +885,6 @@ _From a lore-keeper chat, 2026-11-07 · Regions & places._
 
 **Open Questions:** (suggested) What specific creatures inhabit the Brackwood Fringe?
 
-
-
 ---
 
 **Name:** Silverstream Reach
@@ -911,9 +904,6 @@ _From a lore-keeper chat, 2026-11-07 · Regions & places._
 **Clashes with Canon:** None
 
 **Open Questions:** (suggested) What kind of fortifications exist in the ruined watchtower?
-
-
-
 
 ---
 
@@ -951,8 +941,6 @@ _From a lore-keeper chat, 2026-11-07 · Items & inventions._
 **Clashes with Canon:** None
 
 **Open Questions:** (suggested) - What is the origin of the Silvari? Are they remnants of another world?
-
-
 
 ---
 In the World: 
@@ -1033,16 +1021,3 @@ _Made up by the AI in auto mode, 2026-11-07 · about a creature of the Monster W
 _Made up by the AI in auto mode, 2026-11-07 · about something about the Guard: a post, a habit, a piece of gear or a person._
 
 - Every month, after their shift ends and before retiring for the night, each member of the Guard must spend precisely five minutes meticulously polishing their shield with river clay – a ritual overseen by Captain Hesketh himself. It’s believed this process strengthens not just the metal, but also the bond between the soldier and his protection, warding against ill fortune and ensuring vigilance during the next patrol. This habit stems from an obscure Elderhold tradition dating back to the village's founding, when a particularly brutal goblin raid was repelled thanks to a newly polished shield reflecting moonlight directly into the attackers’ eyes. The practice now serves as both a practical maintenance task and a visible demonstration of discipline and loyalty within the Guard ranks, subtly reinforcing its authority.
-
-### Murrow’s Whisperstone (Pitch)
-
-<!-- review-key: rest:idea-mw6zdwcp -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-07 · about something GuildScribe's guild hall keeps, does or is known for._
-
-- **What it is:** A smooth, grey stone about the size of a clenched fist, discovered by Murrow amongst some discarded mirrorstone from the Ashen Reach. It faintly vibrates when held near other artificer items or individuals with latent magic, acting like a very sensitive detector for mana signatures.
-- **Who:** Primarily used by Murrow himself, though he occasionally allows Doric to examine it for unusual smithing materials. He keeps it locked within his workshop Monstradius, accessible only through a complex series of hand gestures and whispered incantations - none of which he willingly teaches. The Wellhouse elves sometimes bring it to him as a gift, believing its vibrations soothe their anxieties.
-- **Where:** Located within a hidden compartment behind a bookshelf in Murrow's research building – a room filled with strange contraptions, bubbling vials, and half-disassembled magical devices. Its original discovery site is believed to be among the rubble left after a particularly strong rift opening on the edge of the Ashen Reach, possibly caused by one of the floating drake creatures.
-- **How it works:** When brought close to someone who possesses even a small amount of innate magical ability (even just a heightened sensitivity to elemental forces), the stone emits a rapid, almost imperceptible vibration that increases in intensity based on the strength of the magic detected. These vibrations are strongest near sources of pure mana; conversely, the stone becomes noticeably silent around areas devoid of magical energy. It doesn’t “read” spells or identify elements directly but merely registers the *presence* of magical power.
-- **Limits:** The Whisperstone has limited range—approximately 10 feet at most—and can become overwhelmed by intense concentrations of magic. Overuse causes severe headaches for those holding it, leading to temporary dizziness and mana deprivation. Furthermore, it seems strangely resistant to detection by other artificers' tools, suggesting a deliberate countermeasure built into its creation.
-- **Ties:** The stone’s unusual properties drew Murrow’s attention back when he was studying the effects of rifts. He believes it might hold a clue as to how to control them – a theory he keeps fiercely guarded, fearing the Kingdom would
