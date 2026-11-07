@@ -867,6 +867,68 @@ In the world:
 
 Rain pattered softly against the slate roof of Master Bramwell's workshop as he oversaw a young apprentice painstakingly embroidering a banner for Lord Varick. The air hung thick with the scent of dyes and beeswax, punctuated by the rhythmic clatter of the loom. Scribes from the Highwrit House were meticulously examining every stitch under a magnifying glass, verifying the colors and symbols before stamping them with an official seal – a small but potent symbol of power and control contained within this bustling corner of Veridium’s heart. It was a necessary process, ensuring only *true* loyalty graced the banners flown throughout the kingdom.
 
+### Brackwood Fringe (Pitch)
+
+<!-- review-key: lore-keeper:11c80ec7-c42e-4cb9-b3a5-04ea31183ba6 -->
+_From a lore-keeper chat, 2026-11-07 · Regions & places._
+
+**Name:** Brackwood Fringe
+
+**Kind:** Regions & Places - A perpetually damp, gnarled woodland bordering the southern edge of former farmland.
+
+**The Rule:** It's a zone of dense, mutated wilderness rife with dangerous wildlife and remnants of forgotten settlements, challenging navigation and requiring specialized equipment or skilled trackers to traverse safely.
+
+**How it Works:** The terrain itself is inherently hostile due to fungal growth, unusual animal mutations stemming from the blight’s impact, and persistent fog that reduces visibility – all amplified by its isolation.
+
+**Costs and Limits:** Navigation requires either a seasoned tracker (3 Mana/day) or Featherhooks (5 silver coins per trip). Injury within the fringe incurs a 1 Mana cost. Travel time significantly increases without proper preparation.
+
+**Who it Affects:** Primarily travelers, hunters, and those seeking lost artifacts. Stoutwell villagers avoid it entirely. The Guard patrols occasionally, but rarely ventures deep.
+
+**What it Changes:** Represents a significant barrier to trade and communication between Verrowen and other regions.  It forces reliance on local resources and knowledge, potentially shifting power dynamics within Stoutwell.
+
+**Clashes with Canon:** None
+
+**Open Questions:** (suggested) What specific creatures inhabit the Brackwood Fringe?
+
+
+
+---
+
+**Name:** Silverstream Reach
+
+**Kind:** Regions & Places - A broad valley carved by the Silverstream River reliant on river trading and livestock.
+
+**The Rule:** It's a relatively fertile region prone to insect swarms and aggressive cattle, supporting small hamlets dependent on fishing and trade along the Silverstream route.
+
+**How it Works:** The river provides transport and sustenance, but also attracts dangerous wildlife adapted to the aquatic environment and carries contaminants affecting livestock health. Constant vigilance is needed against both natural threats and opportunistic bandits.
+
+**Costs and Limits:** River travel costs 1 Mana per day. Insect swarms necessitate protective gear or Mana expenditure for repelling them. Cattle attacks require either strong weapons or tracking skills.
+
+**Who it Affects:** Primarily farmers, fishermen, traders, and inhabitants of the scattered settlements that rely on the Silverstream’s bounty. The Kingdom maintains occasional patrols.
+
+**What it Changes:** Provides an alternative supply line for Stoutwell and represents a potential staging ground for military operations – a strategic choke point between Verrowen and other territories.
+
+**Clashes with Canon:** None
+
+**Open Questions:** (suggested) What kind of fortifications exist in the ruined watchtower?
+
+
+
+
+---
+
+**Name:** Ashen Reach
+
+**Kind:** Regions & Places - A plain of grey soil where nothing grows tall near the mountains; Stoutwell's training grounds.
+
+**The Rule:** This desolate expanse serves as Stoutwell's primary training area, utilizing its barren landscape for combat drills and exercises due to limited arable land.
+
+**How it Works:** The reach's stony soil drains mana more quickly than most environments, making spellcasting significantly less effective. Limited cover provides minimal protection from ranged attacks. Regular use has created subtle shifts in the earth — hidden pits and unstable footing adding danger.
+
+**Costs and Limits:** Spellcasting is hindered here by 20% Mana drain. Travel without careful footwork incurs a minor fatigue penalty (1 Mana). Exposure risks heatstroke and exhaustion.
+
+**Who it Affects:** Primarily Stoutwell's young Guardsmen undergoing training. It also hosts gatherings for larger-scale combat practice.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
