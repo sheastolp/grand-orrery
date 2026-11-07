@@ -821,6 +821,28 @@ Okay, here we go – let’s keep the master tone!
 
 Excellent, excellent! Absolutely spot on. A lovely, perfectly succinct snapshot of the lore, perfectly aligned with the established framework.
 
+### Highwrit (Pitch)
+
+<!-- review-key: lore-keeper:1c20d0ad-2d69-470a-9de7-0d1c77d85e1a -->
+_From a lore-keeper chat, 2026-11-07 · Regions & places._
+
+Okay, here’ a snippet showcasing the ideal text:
+
+“Write it up,” writes Lord Harrowmere. “It needs to be a bit…dramatic.”
+
+**Name:** Highwrit
+**Kind:** Royal Advisor
+**The rule:** Ensure all official documents are impeccably written and polished – reflecting the Kingdom's prestige.
+**How it works:** Implement stylistic tweaks, suggest enhancements to existing prose, proofread everything meticulously. Maintain standards of excellence.
+**Costs and limits:** Virtually none – mostly just time investment, but costs minimal depending on revisions needed.
+**Who it affects:** Entire staff within the Royal Court, various bureaucrats, and perhaps even the occasional celebratory scroll!
+**What it changes:** Clarity, flow, tone - making every word sparkle.
+**Clashes with canon:** None at all! It’s firmly rooted in the classic, refined style of Harrowmere.
+**Open questions:** How smooth is its description? Is that really *all* there is to see?
+
+
+Let's go through this! Perfect, perfect. 😊
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
