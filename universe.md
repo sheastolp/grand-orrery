@@ -32,7 +32,7 @@ Magic is everywhere, but it's small. It helps people work. It doesn't do the wor
 ### Healers
 
 - **Very rare, and only human:** Healing specialists come strictly from the human race, because of humans' affinity for it.
-- **How many:** A small or medium village may have 2 or 3 at a time. Stoutwell has 2.
+- **How many:** A small or medium village may have 2 or 3 at a time. Stoutwell has two.
 - **How they heal:** Their magic helps the body heal itself. It doesn't replace natural healing.
 - **Artificers:** They aren't healers, but they can still heal. That's how Murrow and Glumtom do it. Artificers lean on natural healing and on using other people's healing magic, often more nefariously.
 
@@ -77,8 +77,8 @@ A small, self-sufficient walled village of simple wooden homes, about **600 year
 
 ### The people
 
-- **Population:** Approximately 220.
-- **Halflings and humans:** Roughly 72% human (about 158) and 28% halfling (about 62). Halflings reach adulthood around 20 and live to about 150, while humans rarely pass 100, so halflings have children less often and are the shortest in any crowd.
+- **Population:** about 220
+- **Halflings and humans:** Roughly 72% human (about 158) and 28% halfling (about 62). Halflings reach adulthood around 20 and live to about 150, while humans rarely pass 100, meaning halflings have fewer children and are shorter than humans.
 - **Elves:** The Wellhouse family, the only elves in the village. They keep to the tavern and are generally ostracized.
 - **Halflings:** Short, stout and tougher than they look, with thick skin and natural heat resistance. They're homebodies at heart who love good food and a warm hearth, but they're quick, quiet and lucky when it counts.
 - **Work and gender:** Heavy manual work like smithing tends to fall to men because of muscle mass. That's a tendency, not a rule. Nothing is formally restricted.
@@ -99,12 +99,12 @@ Unofficially, Stoutwell is known for its **ale** and its **blacksmithing**.
 
 ### Burn, the Wellhouse's regular
 
-- **Who he is:** A short, stout human man of about 45 with a big mustache and a battered red cap, so short he's often taken for a halfling. He's tired of being asked. Everyone calls him **Burn**, for his burns: the one-line roasts he drops from his stool at the Wellhouse bar. Nobody in Stoutwell knows his real name.
+- **Who he is:** A short, stout human man of about 45 with a big mustache and a battered red cap, so short he's often taken for a halfling. He's tired of being asked. Everyone calls him **Burn**, for his burns: the one-line roasts he drops from his stool at the Wellhouse bar. No one in Stoutwell knows his true name.
 - **How he got here:** He came down the Woodland Road with the merchants about fifteen years ago, took a stool at the Wellhouse, and never left. He tells a different story about where he's from every time he's asked. He's one of the few outsiders who lives in Stoutwell.
 - **His manner:** Friendly, quick and dry, a little teasing, and never trying too hard. He's been there so long he knows every running joke. He only speaks up when something is actually funny. When he does, it's one line, built on the exact thing someone just said or did, and then he goes back to his stout. He never explains a joke and never tells two in a row.
 - **His rules:** He roasts what people say and do, never who they are: not their looks, their people, or their station. He only roasts what he saw or heard himself, and he never makes things up about anyone. Asked straight out who he really is, he won't lie; he makes a joke and changes the subject.
 - **The Wellhouses:** He's the one regular who sits and talks with the Wellhouse elves as friends, and they've quietly let his tab run for years. He's warm under the teasing, and the village's mood about the elves is the one thing he's never joked about.
-- **Mushrooms:** He swears by the red-capped mushrooms the gatherers bring in from the forest edge and says they make a man grow. They don't. He eats them anyway.
+- **Mushrooms:** He claims the red-capped mushrooms brought in by the gatherers can cause growth, though this is untrue. He continues to eat them regardless.
 - **Magic:** A little fire. With a snap of his fingers he can light a pipe, a candle or a wick, never more. He's nowhere near boiling a pot of water. On a night with too many snaps he gets cold and sits nearer the hearth.
 - **His secret:** He was a jester at court in the Kingdom's capital until a joke landed on the wrong noble. He ran down the Woodland Road before they could find out where he'd gone, and he's been hiding in Stoutwell ever since.
 - **Story hooks:** A merchant or the tax representative on the Woodland Road could be someone who saw him at court. Having worked the capital's court, he may know Kingdom names that Stoutwell doesn't, maybe even the surname Osric hides.
@@ -138,7 +138,7 @@ Unofficially, Stoutwell is known for its **ale** and its **blacksmithing**.
 ### History
 
 - The Monster Wood had always been dangerous.
-- The founding stories were never passed down. The founders' children were known in their day, but nothing about the founding was passed down.
+- The Monster Wood had always been dangerous. The founding stories were never passed down.
 
 ## Life in Stoutwell
 
@@ -461,16 +461,16 @@ The adventurers written onto GuildScribe's parchments. Each one is a character t
 
 ### Arandur
 
-An elf ranger and pickpocket from another world—an elven wood beside a growing human city.
+an elf ranger and pickpocket from another world, raised in an isolated cabin near a growing human city.
 
 - **Childhood:** He grew up in an isolated cabin, raised by his hunter mother **Silwen**, who taught him stealth and tracking and told him warning tales about trolls. His father, **Faelan**, was distant.
-- **Loss:** His parents went out "hunting" and never came back. The nearby elven village abandoned him, and the city seized his family's land.
-- **The spectre:** A speechless, formless spectre taught him to track and kill. He suspects it was Silwen, bound and voiceless but not gone.
+- **Loss:** His parents vanished while hunting. The nearby elven village abandoned him, and the city seized his family's land.
+- **The spectre:** A silent, spectral entity taught him to track and kill. He suspected it was Silwen, trapped between worlds.
 - **The streets:** Homeless and shut out of work as a foreigner, he became a thief and taught himself archery by watching soldiers.
 - **Two in one:** His small flickers of magic may not be his own. They may be Silwen acting through him.
 - **Personality:** He buries everything under contempt and silence. He talks down magic loudly. He fears trolls but can't fully hate them.
 - **Verrowen:** In his youth, a rift dropped him in a village near Stoutwell. The village's name is still to be decided.
-- **Now:** He has been pulled out of his world into another: **Midkemia**, where he travels in a wagon with a party searching for the missing Queen of Dannonirn. Midkemia has its own document, [`midkemia.md`](midkemia.md).
+- **Now:** He has been pulled out of his world into another: **Midkemia**, where he travels in a wagon with a party searching for the missing Queen of Dannonirn. Midkemia exists within a separate universe.
 - **At the table:** He's fixated on fire and trolls, wears clicking high heels and steals from his own party for fun.
 
 ## Still Being Developed
