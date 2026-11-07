@@ -833,7 +833,7 @@ _From a lore-keeper chat, 2026-11-07 · Regions & places. Rewritten to fit the c
 - **Ties:** The Kingdom runs on paper, and the Highwrit is its polish. The Scribe thinks little of the Rolls House clerks, and less of the Highwrit's.
 - **Still open:** Who the current Lord Harrowmere is, and whether the office's polish has ever been used to dress up a forged name.
 
-### Highwrit House (Pitch)
+### Highwrit House (Your idea)
 
 <!-- review-key: lore-keeper:344ebe0c-039a-402a-99f2-b6f7ce4154c1 -->
 _From a lore-keeper chat, 2026-11-07 · Regions & places._
