@@ -30,10 +30,10 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 
 #### 🔥 Hearthstone (Your idea)
 
-- **Where:** Made and sold at Monstradius, Murrow's shop in Stoutwell.
+- **Where:** Crafted and sold at Monstradius and Murrow's workshop in Stoutwell.
 - **Does:** Keeps a stove warm through the night without new wood.
 - **Made:** A fire user charges a smooth river stone in Murrow's shop. Murrow sets the charge so it releases slowly instead of all at once.
-- **Limits:** It lasts one night per charge and still needs embers to work with. It warms the fire but doesn't replace it. Rare and pricey.
+- **Limits:** It provides warmth for one night before requiring re-charging and embers. It warms the fire but doesn't replace it. Rare and pricey.
 - **Rules:** Magic needs something to work with, and objects hold magic but don't make it.
 - **Made by:** Murrow
 - **Also called:** Hearthstones
@@ -79,7 +79,7 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 
 - **Note:** Murrow's secret project
 - **Where:** Monstradius, kept secret.
-- **Does:** Points toward places where the worlds are thin.
+- **Does:** Indicates locations where the boundaries between dimensions are weak.
 - **Made:** Unknown, even to Murrow. It may use a kind of magic nobody in the village has.
 - **Limits:** About 80% complete, and still a secret.
 - **Story:** It ties the village to Arandur, the rifts, and the wider universe.
@@ -89,7 +89,7 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 
 - **Note:** Glumtom's secret
 - **Where:** With Glumtom, in Glumtom's workshop in the Kingdom's capital.
-- **Does:** An arrow of light rises from it and points toward another artificer.
+- **Does:** A beam of energy emanates from it, directing towards other artificers.
 - **Made:** A perfectly round, flat disc of mirrorstone, shaped by magic and drawn by a blend of many mana types.
 - **Limits:** It only finds artificers. Glumtom could find Murrow with it, but he isn't looking, and Murrow doesn't know it exists.
 - **Made by:** Glumtom
@@ -99,7 +99,7 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 
 - **Note:** Murrow's research, not made yet
 - **Where:** Murrow's research, at Monstradius.
-- **Does:** Would hold Murrow's spell that hides him from magical detection, so it no longer wears off.
+- **Does:** Would store Murrow’s time-limited Nondetection spell, preventing its immediate expiration.
 - **Made:** Not yet. The *Nondetection*-style spell he casts himself only lasts so long, and he's working out how to put it into an item.
 - **Limits:** Until it's finished, nothing hides him from the Seeker's Lodestone for long.
 - **Made by:** Murrow
@@ -109,7 +109,7 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 #### 🔏 Artificer's mark (Your idea)
 
 - **Where:** On enchanted items made in the Kingdom; the register it answers to is kept in the Rolls House.
-- **Does:** The mark a registered artificer puts on every enchanted item made in the Kingdom.
+- **Does:** The identifying symbol an artificer inscribes onto any magically enhanced item created within the Kingdom.
 - **Rules:** Every artificer the Kingdom finds goes into the register of artificers and is put to work, the way Glumtom was.
 - **Limits:** Unmarked items aren't illegal to own, but they make people ask who made them. Nothing from Monstradius carries one.
 - **Story:** Murrow's goods are a quiet risk if they ever reach the capital.
@@ -126,7 +126,7 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 
 ## Materials
 
-What the village builds and makes things from.
+Materials used by Stoutwell’s builders and craftspeople.
 
 ### Stone & glass
 
