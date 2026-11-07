@@ -869,7 +869,7 @@ _Made up by the AI in rest mode, 2026-11-07 · about a creature of the Monster W
 - **Limits:** Its sensitivity is heavily affected by strong winds or turbulent airflow – making open spaces perilous. Magical interference, especially spells that create sonic vibrations, severely disrupts its sensory system, causing intense pain and disorientation. Prolonged exposure to fire causes its fur to burn rapidly, stripping away its camouflage and leaving it vulnerable. It cannot reliably track magic users - they simply appear as static noise.
 - **Ties:** Murrow has observed the Silken Stalkers during his research
 
-### Riverstone Charm (Pitch)
+### Riverstone Charm (Your idea)
 
 <!-- review-key: rest:idea-mw6ntuw3 -->
 _Made up by the AI in rest mode, 2026-11-07 · about a place in the Kingdom's capital or on the Kingdom's roads._
