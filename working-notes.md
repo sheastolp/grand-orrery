@@ -875,3 +875,10 @@ _Made up by the AI in rest mode, 2026-11-07 · about a creature of the Monster W
 - **How it Works:** The Silken Stalker doesn't rely on sight or sound; instead, it detects its prey (small animals, birds, even unwary travelers) using specialized organs located along its flanks that sense minute changes in air pressure caused by movement. These ‘pressure whispers’ allow it to pinpoint targets with incredible accuracy, effectively creating a 3D “map” of its surroundings.  It can also use this ability defensively, releasing a concentrated burst of compressed air as a disorienting shockwave.
 - **Limits:** Its sensitivity is heavily affected by strong winds or turbulent airflow – making open spaces perilous. Magical interference, especially spells that create sonic vibrations, severely disrupts its sensory system, causing intense pain and disorientation. Prolonged exposure to fire causes its fur to burn rapidly, stripping away its camouflage and leaving it vulnerable. It cannot reliably track magic users - they simply appear as static noise.
 - **Ties:** Murrow has observed the Silken Stalkers during his research
+
+### Riverstone Charm (Pitch)
+
+<!-- review-key: rest:idea-mw6ntuw3 -->
+_Made up by the AI in rest mode, 2026-11-07 · about a place in the Kingdom's capital or on the Kingdom's roads._
+
+- **Label:** A protective charm found near Stoutwell’s lake, tied to the fishing settlement’s secret passage.
