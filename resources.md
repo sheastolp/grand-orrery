@@ -88,6 +88,23 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 - **Made by:** Glumtom
 - **Also called:** Lodestone
 
+#### 🌫️ Lasting hiding charm (Your idea)
+
+- **Note:** Murrow's research, not made yet
+- **Does:** Would hold Murrow's spell that hides him from magical detection, so it no longer wears off.
+- **Made:** Not yet. The *Nondetection*-style spell he casts himself only lasts so long, and he's working out how to put it into an item.
+- **Limits:** Until it's finished, nothing hides him from the Seeker's Lodestone for long.
+- **Made by:** Murrow
+
+### Marks
+
+#### 🔏 Artificer's mark (Your idea)
+
+- **Does:** The mark a registered artificer puts on every enchanted item made in the Kingdom.
+- **Rules:** Every artificer the Kingdom finds goes into the register of artificers and is put to work, the way Glumtom was.
+- **Limits:** Unmarked items aren't illegal to own, but they make people ask who made them. Nothing from Monstradius carries one.
+- **Story:** Murrow's goods are a quiet risk if they ever reach the capital.
+
 ### Regalia
 
 #### 👑 Embercrown (Your idea)
@@ -135,12 +152,33 @@ What the village builds and makes things from.
 - **Made:** Dead-tree runs drag fallen trees back from the forest edge, with wind users lightening the load. The lumber mill on the river cuts them, and the lumber yard by the east gate stores them.
 - **Also called:** lumber
 
+#### 🌳 Ash wood (Your idea)
+
+- **Does:** Dense, tough wood the woodworkers prize for tool handles, weapon hilts and arrow shafts.
+- **Made:** From the few short, twisted ash trees that grow on the Ashen Reach, the grey plain south of Stoutwell.
+- **Limits:** Nothing grows tall on the Reach, so it's too short for beams. The village's timber still comes from the dead-tree runs.
+- **Story:** Still open: whether the trees are what's left of a wood that grew there before the Reach turned grey, and who's allowed to cut them on the Guard's training grounds.
+
+#### 🪓 Firewood (Your idea)
+
+- **Does:** Fuel for the wood stoves that heat every home in Stoutwell, so it's constant work.
+- **Made:** One or two villagers with detection magic find dead trees near the forest edge, and a group drags them out with wind users lightening the load, under a Guard escort. Humans do about 70% of the chopping, halflings the rest.
+- **Also called:** wood
+
 ### Hides
 
 #### 🐄 Leather (Your idea)
 
 - **Does:** Clothing.
 - **Made:** From the herders' cattle, worked at the tannery.
+
+### Beast parts
+
+#### 🦴 Hollowstag antler (Your idea)
+
+- **Does:** A hollow antler from a hollowstag, the stag of the deep woods nearly fifteen feet tall. It whistles when the beast runs.
+- **Limits:** Nobody has one. No company has yet brought GuildScribe proof of the deep woods' great beasts.
+- **Story:** The first company to bring one back to the hall would make its name, and fill a blank page in the guildscribes' bestiary.
 
 ## Tools
 
@@ -162,6 +200,15 @@ Everyday things that get the work done.
 - **Made:** A tin filled with gunpowder sparks, lit by striking two metal pins together for a brief flame.
 - **Limits:** One light, then it needs refilling and upkeep.
 - **Story:** Murrow keeps one on his workbench, and the village would lean on it come winter.
+
+### Water
+
+#### 🚰 Murrow's irrigation (Your idea)
+
+- **Does:** Brings river water into Stoutwell, which ended the centuries of water runs to refill the dried well.
+- **Made:** Built recently by Murrow, out of his research, from the river to his research building in the NE district.
+- **Story:** More water could mean more ale for the first time in centuries. Who controls that is still open.
+- **Made by:** Murrow
 
 ## Weapons & armor
 
@@ -188,6 +235,12 @@ What the Guard carries.
 #### 🌾 Flour (Your idea)
 
 - **Made:** The grain mill on the river grinds the harvest into flour.
+
+### Meat
+
+#### 🥩 Beef (Your idea)
+
+- **Made:** From the herders' cattle, which are raised for food and for leather. The Elders keep a couple of cows just to look at, and those aren't eaten.
 
 ### Fish
 
@@ -218,6 +271,76 @@ What the Guard carries.
 
 - **Does:** What GuildScribe's bounty board pays in. Murrow takes coin or barter, on the same terms for everyone.
 - **Also called:** coin, coins, copper
+
+### Dues and payments
+
+#### 🧺 Guard tithe (Your idea)
+
+- **Does:** Pays for Stoutwell's Guard. Each household gives a share of its harvest, crafts or labor to keep the Guard fed, armed and paid.
+- **Limits:** Wealthier families, like the millers, give more, better quality, or both.
+- **Story:** A little skimming goes on, and Bertram's ledgers make it vanish on paper. A Truthglass is dangerous to anyone doing it.
+
+#### ⚖️ Weregild (Your idea)
+
+- **Does:** A payment accepted in place of a punishment, under Stoutwell's law.
+- **Story:** Hesketh Reeve dislikes it, but accepts it because it's the law.
+
+#### 💰 The lump-sum tax (Your idea)
+
+- **Does:** Stoutwell's Kingdom tax, paid as one sum and carried home by the tax representative, instead of counting the village name by name.
+- **Story:** It's why no one in Stoutwell has ever been drafted, and why Murrow can live there unregistered. One guild ledger could end the deal. The sum is a number someone in the capital sets.
+
+#### 🏺 GuildScribe's swear jar (Your idea)
+
+- **Does:** Where GuildScribe's hall collects its fines. Anyone who tries to rob the Scribe is fined into it.
+
+## Records & papers
+
+The Kingdom runs on paper: a name written down can be taxed, drafted, fined or found.
+
+### The Kingdom's records
+
+#### 🗂️ The Kingdom's rolls (Your idea)
+
+- **Does:** The census, the tax rolls, the draft list, the register of artificers and GuildScribe's parchments, all feeding the same records.
+- **Made:** Kept in the Rolls House, beside the Crown's seat in the capital.
+- **Story:** The Kingdom's corruption is mostly about whose names get written, lost or moved for a bribe. Stoutwell has never been on them.
+- **Also called:** rolls, the census, the draft list, the register of artificers
+
+#### 🔖 The Highwrit's seal (Your idea)
+
+- **Does:** Goes on every decree, writ and letter that leaves the court, after the Highwrit's clerks have copied, polished and proofread it.
+- **Made by:** House Harrowmere, which holds the Highwrit
+- **Limits:** It makes a document look right; it never checks that it's true. A Truthglass can tell whether the seal is real, not whether the words under it are honest.
+
+### Guild papers
+
+#### 📋 Adventurer's parchment (Your idea)
+
+- **Does:** GuildScribe's record of one adventurer: name, race, trade, skill and deeds. Its rank rises as it fills: Novice, Journeyman, Seasoned, Veteran.
+- **Made:** Written by the guildscribes when an adventurer joins the hall in the capital.
+- **Story:** It puts your name on the Kingdom's books, and registered citizens can be drafted.
+- **Also called:** parchment, parchments
+
+#### 📌 Bounty notice (Your idea)
+
+- **Does:** A monster bounty, paid in Kingdom coin: gold, silver and copper. GuildScribe's board is covered in them; at a waystation on the Kingdom's edge, the board is one nail and one notice.
+- **Made by:** The Scribe, The Wandering Clerk
+- **Also called:** bounty, bounties
+
+#### 📓 The Wandering Clerk's ledger (Your idea)
+
+- **Does:** The ledger of their own the Wandering Clerk keeps on the Kingdom's roads, swearing in adventurers where there's no guild.
+- **Made by:** The Wandering Clerk
+- **Story:** By way of the Woodland Road, it could be the first guild ledger to reach Stoutwell, and put villagers' names on paper the Kingdom might read.
+
+### Village papers
+
+#### 📒 Bertram's ledgers (Your idea)
+
+- **Does:** Stoutwell's records, ledgers and tithe counts, and the nearest thing the village has to a written roster.
+- **Made by:** Bertram Quillby
+- **Story:** They make tithe skimming vanish on paper: a small copy of how the whole Kingdom works.
 
 ## Peddlers' wares
 

@@ -6,7 +6,7 @@ A working draft of a medieval fantasy universe, built so any place, person or id
 
 ## The Universe: The Grand Orrery
 
-An orrery is a clockwork model of the heavens. **The Grand Orrery** is the artificers' name for the universe, picturing its worlds as moving parts in one great mechanism. Only high-ranking and special people, those with a wide enough view to name more than their own world, know it. Most people, Stoutwell's villagers included, have never heard the name.
+An orrery is a clockwork model of the heavens. **The Grand Orrery** is the artificers' name for the universe, picturing its worlds as moving parts in one great mechanism. Only high-ranking and learned people, those with a wide enough view to name more than their own world, know it. Most people, Stoutwell's villagers included, have never heard the name.
 
 **The world of Verrowen:** Stoutwell's world is called **Verrowen**. It's a scholarly name, recorded in books. Small villages own only a few books, and only kingdoms keep libraries, so most common folk simply call it "the world" or "the land."
 
@@ -69,6 +69,8 @@ Rough sketches, not to scale.
 
 ![Lake map: the lake where the river ends, the fishing settlement on the far shore, the corner of the mountain wall, the hidden pass and the Ashen Reach](maps/lake.png)
 
+![The Kingdom's capital: the old wall with the Crown's seat and the Rolls House, the mint, GuildScribe, the market square, the workshop quarter and Glumtom's workshop inside; the poor quarters and newer walls outside; the heartland's farms and river towns; the Clerk's road east](maps/capital.png)
+
 ## Stoutwell
 
 A small, self-sufficient walled village of simple wooden homes, about **600 years old**. Its people live off the land and make what they need.
@@ -76,7 +78,7 @@ A small, self-sufficient walled village of simple wooden homes, about **600 year
 ### The people
 
 - **Population:** About 220.
-- **Halflings and humans:** Roughly 72% human (about 158) and 28% halfling (about 62). Halflings live much longer, around 150 years against a human's less than 100, so they have children less often.
+- **Halflings and humans:** Roughly 72% human (about 158) and 28% halfling (about 62). Halflings reach adulthood around 20 and live to about 150, while humans rarely pass 100, so halflings have children less often and are the shortest in any crowd.
 - **Elves:** The Wellhouse family, the only elves in the village. They keep to the tavern and are generally ostracized.
 - **Halflings:** Short, stout and tougher than they look, with thick skin and natural heat resistance. They're homebodies at heart who love good food and a warm hearth, but they're quick, quiet and lucky when it counts.
 - **Work and gender:** Heavy manual work like smithing tends to fall to men because of muscle mass. That's a tendency, not a rule. Nothing is formally restricted.
@@ -161,6 +163,7 @@ Unofficially, Stoutwell is known for its **ale** and its **blacksmithing**.
 - **Blacksmith:** Doric and his apprentice, Tobin.
 - **Tannery:** Leather for clothing.
 - **Woodworkers:** Weapon hilts and ornate structures.
+- **Ash wood:** A few short, twisted ash trees grow on the Ashen Reach. Their wood is too short for beams, so timber still comes from the dead-tree runs, but it's dense and tough, and the woodworkers prize it for tool handles, weapon hilts and arrow shafts.
 - **Farmers and herders:** Crops and cattle.
 - **The Elders' scenic cows:** A couple of cows kept just to be looked at, which is a rare luxury.
 
@@ -269,7 +272,7 @@ All five are halflings.
 ### Murrow, the Artificer
 
 - **Race:** Unknown. He's neither human nor halfling, and he hides his figure under heavy robes and a hood so deep it looks like a permanent scowl.
-- **Age:** Over 550 years. He has been in Stoutwell longer than anyone can remember. No one knows how he got there. He won't say, and nobody asks.
+- **Age:** Over 550 years. He has been in Stoutwell longer than anyone can remember. No one knows how he got there. He won't say, and nobody asks. He was likely there when the well died, and he won't speak of that either.
 - **The shop:** **Monstradius**, his workshop and storefront in the nicer part of the village.
 - **His home:** About three blocks from the shop, in the NW housing district, hidden in plain sight among the other homes. It's comfortable but unremarkable, and no one knows it's his.
 - **Personality:** Cold and businesslike, the "let me fix this and get out of my hair" type. Never mean. Completely closed off about himself.
@@ -288,6 +291,7 @@ All five are halflings.
 - **Wardbells:** Bells on the walls with a detection user's sense set into the metal, pointed at the Monster Wood. They ring on their own when something large comes out, but can't tell goblins from trolls, only big from small, and need a detection user to refresh them every few weeks.
 - **Truthglass:** A rare piece of clear quartz charged with detection magic. It shows whether a coin, seal or signed paper is real, but only answers real or fake, never who forged it or why. Dangerous for anyone skimming the guard tithe, or for a crooked tax representative.
 - **The Rift compass:** A secret project, about 80% complete. It points toward places where the worlds are thin. How it works is unknown even to Murrow, and it may use a kind of magic nobody in the village has.
+- **A lasting hiding charm (research):** His spell that hides him from magical detection wears off. He's working on an item that would hold it for good. It isn't made yet.
 
 ## The Monster Wood
 
@@ -309,9 +313,11 @@ All five are halflings.
 - **The Kingdom:** A real kingdom farther off, past the woods. Stoutwell sits on its far edge. Like any kingdom, it carries moral corruption and the cruelty that comes with power. The full notes are in [`working-notes.md`](working-notes.md) under Beyond the Village.
 - **The Kingdom runs on paper:** Its power is its rolls: the census, the tax rolls, the draft list, the register of artificers and GuildScribe's parchments, all kept in the **Rolls House** beside the Crown's seat. A name on paper can be taxed, drafted, fined or found. Its corruption is mostly about whose names get written, lost or moved.
 - **The Crown and the great houses:** The monarch is a distant banner. A handful of noble houses hold the offices that matter (keeper of the rolls, master of the mint, warden of the roads, master of the draft) and pass them down like property. Osric's hidden surname could belong to one of them.
+- **The Highwrit:** The court office whose clerks copy, polish and proofread the decrees, writs and letters of the Crown and the Rolls House. Nothing leaves the court without its seal. **House Harrowmere** holds it and passes it down. It makes a document look right; it never checks that it's true, and a Truthglass can tell whether the seal is real, not whether the words under it are honest.
 - **The draft and the register:** Registered citizens get the Kingdom's law, its markets and bounty coin, and can be drafted. Every artificer the Kingdom finds is written into the register and put to work, the way Glumtom was. Enchanted items made in the Kingdom carry a registered artificer's mark.
 - **The deal at the edge:** The census stops at the Monster Wood. Stoutwell pays its Kingdom tax as one lump sum through the tax representative instead of being counted name by name, so no one there has ever been drafted, and Murrow can live there unregistered. One guild ledger could end the arrangement.
-- **The capital and the heartland:** The capital is a walled city west of the Monster Wood, at the far end of the Woodland Road and the Clerk's road. Around it lies the heartland's farmland and river towns, the source of grain, wool and timber; coin is minted in the capital. Inside are the Crown's seat and the Rolls House, the mint, the workshop quarter where the Hearthcircle's fine metalwork is made, GuildScribe's hall and arena, the market square with the peddlers' stall, and Glumtom's workshop. The poor quarters sit outside the old wall. Eastward, the towns and waystations grow poorer and less watched. Merchants hire their escorts at the last waystation, where the Woodland Road leaves for Stoutwell.
+- **The capital and the heartland:** The capital is a walled city west of the Monster Wood, at the far end of the Woodland Road and the Clerk's road. Around it lies the heartland's farmland and river towns, the source of grain, wool and timber; coin is minted in the capital. Inside are the Crown's seat and the Rolls House, the mint, the workshop quarter where the Hearthcircle's fine metalwork is made, GuildScribe's hall and arena, the market square with the peddlers' stall, and Glumtom's workshop. The poor quarters sit outside the old wall, where newer walls, some built by Glumtom's undead, are still going up. Eastward, the towns and waystations grow poorer and less watched. Merchants hire their escorts at the last waystation, where the Woodland Road leaves for Stoutwell.
+- **Peoples:** Most of the Kingdom is human, with halflings and gnomes common in the towns. The capital draws everyone, including the dwarves, drow, half-orcs, dragonborn and tieflings on GuildScribe's parchments.
 - **History:** The Kingdom grew outward from the capital over centuries, writing each new town into its rolls, until it reached the Monster Wood and stopped, because the wood was cheaper to tax around than to cross.
 - **The Woodland Road:** A path through the woods, outside the west gate, to the Kingdom. It's relatively safe, but still dangerous.
 - **Merchants:** Traders travel the road with safety escorts, so the village isn't cut off. The wealthier Hearthcircle trades with them most and gets the best goods, including most of its fine metalwork, from the Kingdom's capital.
@@ -320,7 +326,7 @@ All five are halflings.
 - **The mountain wall:** An impassable wall of mountains runs along the east and turns west along the south, and the lake lies in its corner. No one goes over it. Its southern arm runs past the Ashen Reach, so the training grounds sit between the village and the mountains.
 - **The fishing settlement:** A small fishing settlement on the lake's far shore, across the water from Stoutwell, at the foot of the mountains. Usually only 5 to 10 people live there. They fish, and they aren't part of the village, but their catch is a source of food for Stoutwell. Its name isn't decided yet.
 - **The hidden pass (secret):** The fishers secretly guard and hide a passage through the mountains. It leads to somewhere on the other side that no one in Stoutwell knows of. What's there is still to be decided.
-- **The Ashen Reach:** A plain of grey soil to the south of Stoutwell where nothing grows tall. It's the village's training grounds. The slums along the south wall sit right beside it: the ash and noise keep land there cheap, and the slums supply most of the Guard's recruits. Some say it's an old battlefield, others that a past Grand Orrery event touched down there.
+- **The Ashen Reach:** A plain of grey soil to the south of Stoutwell where nothing grows tall. It's the village's training grounds. The slums along the south wall sit right beside it: the ash and noise keep land there cheap, and the slums supply most of the Guard's recruits. A few short, twisted ash trees grow there. Some say it's an old battlefield, others that a past Grand Orrery event touched down there.
 - **The divination tower:** A tower somewhere past the Kingdom, farther off than anywhere Stoutwell knows. Who keeps it, and what it sees, is still to be decided.
 
 ### GuildScribe, the Kingdom's guild hall
@@ -449,7 +455,7 @@ The adventurers written onto GuildScribe's parchments. Each one is a character t
 
 - A secret artificer-made item, known only among artificers, that locates other artificers. The Kingdom doesn't know it exists.
 - It's a perfectly round, flat disc of *mirrorstone*, a rare black glass with a reflective surface, shaped by magic. An arrow of light rises from it and points toward another artificer, drawn by a blend of many mana types.
-- Glumtom has one. He could find Murrow, but he isn't looking, and Murrow doesn't know the Lodestone exists.
+- Glumtom made it and keeps it. He could find Murrow with it, but he isn't looking, and Murrow doesn't know the Lodestone exists.
 
 ## Characters from Other Worlds
 

@@ -1,0 +1,263 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" font-family="GFS Baskerville, FreeSerif, serif">
+<defs>
+<radialGradient id="parch" cx="50%" cy="50%" r="75%"><stop offset="0" stop-color="#f3e6c4"/><stop offset="0.8" stop-color="#e6d09f"/><stop offset="1" stop-color="#c9a96a"/></radialGradient>
+<pattern id="crop" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(20)"><rect width="16" height="16" fill="#d9c27a"/><line x1="0" y1="8" x2="16" y2="8" stroke="#a98d3e" stroke-width="2"/></pattern>
+<pattern id="crop2" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(-35)"><rect width="16" height="16" fill="#c9cf86"/><line x1="0" y1="8" x2="16" y2="8" stroke="#8f9a4e" stroke-width="2"/></pattern>
+<pattern id="wool" width="22" height="22" patternUnits="userSpaceOnUse"><rect width="22" height="22" fill="#cfd8a0"/><circle cx="7" cy="8" r="2.6" fill="#f4f1ea" stroke="#8a8a70" stroke-width="0.8"/><circle cx="17" cy="17" r="2.6" fill="#f4f1ea" stroke="#8a8a70" stroke-width="0.8"/></pattern>
+<marker id="arrk" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3b2a1a"/></marker>
+</defs>
+<rect width="1600" height="1100" fill="url(#parch)"/>
+<rect x="14" y="14" width="1572" height="1072" fill="none" stroke="#5a3d1e" stroke-width="4"/><rect x="24" y="24" width="1552" height="1052" fill="none" stroke="#5a3d1e" stroke-width="1.5"/>
+<rect x="380" y="34" width="840" height="78" rx="6" fill="#f3e6c4" fill-opacity="0.85" stroke="#5a3d1e" stroke-width="1.5"/>
+<text x="800" y="72" font-size="34" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">THE KINGDOM'S CAPITAL</text>
+<text x="800" y="98" font-size="15" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">West of the Monster Wood. What's inside the walls is decided; where each place sits isn't. Rough sketch, not to scale.</text>
+<path d="M120,1076 C220,960 260,880 240,780 C220,680 290,600 330,520 C370,430 300,330 330,240 C350,180 420,140 470,24" fill="none" stroke="#4f7fa8" stroke-width="12" stroke-linecap="round"/><path d="M120,1076 C220,960 260,880 240,780 C220,680 290,600 330,520 C370,430 300,330 330,240 C350,180 420,140 470,24" fill="none" stroke="#8fb6d4" stroke-width="7" stroke-linecap="round"/>
+<text x="205" y="700" font-size="15" fill="#2f5778" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">a heartland river</text>
+<rect x="420" y="170" width="120" height="80" transform="rotate(-8 480.0 210.0)" fill="url(#crop)" stroke="#8a7440" stroke-width="1.2"/>
+<rect x="560" y="150" width="110" height="70" transform="rotate(6 615.0 185.0)" fill="url(#crop2)" stroke="#8a7440" stroke-width="1.2"/>
+<rect x="1060" y="150" width="120" height="80" transform="rotate(-5 1120.0 190.0)" fill="url(#crop)" stroke="#8a7440" stroke-width="1.2"/>
+<rect x="1190" y="180" width="110" height="90" transform="rotate(8 1245.0 225.0)" fill="url(#wool)" stroke="#8a7440" stroke-width="1.2"/>
+<rect x="400" y="800" width="130" height="90" transform="rotate(7 465.0 845.0)" fill="url(#wool)" stroke="#8a7440" stroke-width="1.2"/>
+<rect x="560" y="870" width="120" height="80" transform="rotate(-6 620.0 910.0)" fill="url(#crop)" stroke="#8a7440" stroke-width="1.2"/>
+<rect x="1080" y="880" width="130" height="80" transform="rotate(5 1145.0 920.0)" fill="url(#crop2)" stroke="#8a7440" stroke-width="1.2"/>
+<rect x="1230" y="820" width="110" height="90" transform="rotate(-7 1285.0 865.0)" fill="url(#crop)" stroke="#8a7440" stroke-width="1.2"/>
+
+<rect x="1290" y="330" width="100" height="110" transform="rotate(6 1340.0 385.0)" fill="url(#crop2)" stroke="#8a7440" stroke-width="1.2"/>
+<rect x="1300" y="560" width="90" height="100" transform="rotate(-5 1345.0 610.0)" fill="url(#wool)" stroke="#8a7440" stroke-width="1.2"/>
+<rect x="700" y="930" width="140" height="70" transform="rotate(3 770.0 965.0)" fill="url(#crop)" stroke="#8a7440" stroke-width="1.2"/>
+<g transform="translate(260,916)"><rect x="-6" y="-4" width="12" height="9" fill="#b07a4a" stroke="#3b2a1a" stroke-width="1.2"/><path d="M-8,-4 L0,-11 L8,-4 Z" fill="#8a2b1d" stroke="#3b2a1a" stroke-width="1.2"/></g>
+<g transform="translate(276,912)"><rect x="-6" y="-4" width="12" height="9" fill="#b07a4a" stroke="#3b2a1a" stroke-width="1.2"/><path d="M-8,-4 L0,-11 L8,-4 Z" fill="#8a2b1d" stroke="#3b2a1a" stroke-width="1.2"/></g>
+<g transform="translate(270,928)"><rect x="-6" y="-4" width="12" height="9" fill="#b07a4a" stroke="#3b2a1a" stroke-width="1.2"/><path d="M-8,-4 L0,-11 L8,-4 Z" fill="#8a2b1d" stroke="#3b2a1a" stroke-width="1.2"/></g>
+<g transform="translate(284,926)"><rect x="-6" y="-4" width="12" height="9" fill="#b07a4a" stroke="#3b2a1a" stroke-width="1.2"/><path d="M-8,-4 L0,-11 L8,-4 Z" fill="#8a2b1d" stroke="#3b2a1a" stroke-width="1.2"/></g>
+<text x="272" y="952" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">a river town</text>
+<g transform="translate(345,416)"><rect x="-6" y="-4" width="12" height="9" fill="#b07a4a" stroke="#3b2a1a" stroke-width="1.2"/><path d="M-8,-4 L0,-11 L8,-4 Z" fill="#8a2b1d" stroke="#3b2a1a" stroke-width="1.2"/></g>
+<g transform="translate(361,412)"><rect x="-6" y="-4" width="12" height="9" fill="#b07a4a" stroke="#3b2a1a" stroke-width="1.2"/><path d="M-8,-4 L0,-11 L8,-4 Z" fill="#8a2b1d" stroke="#3b2a1a" stroke-width="1.2"/></g>
+<g transform="translate(355,428)"><rect x="-6" y="-4" width="12" height="9" fill="#b07a4a" stroke="#3b2a1a" stroke-width="1.2"/><path d="M-8,-4 L0,-11 L8,-4 Z" fill="#8a2b1d" stroke="#3b2a1a" stroke-width="1.2"/></g>
+<g transform="translate(369,426)"><rect x="-6" y="-4" width="12" height="9" fill="#b07a4a" stroke="#3b2a1a" stroke-width="1.2"/><path d="M-8,-4 L0,-11 L8,-4 Z" fill="#8a2b1d" stroke="#3b2a1a" stroke-width="1.2"/></g>
+<text x="357" y="452" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">a river town</text>
+<g transform="translate(390,146)"><rect x="-6" y="-4" width="12" height="9" fill="#b07a4a" stroke="#3b2a1a" stroke-width="1.2"/><path d="M-8,-4 L0,-11 L8,-4 Z" fill="#8a2b1d" stroke="#3b2a1a" stroke-width="1.2"/></g>
+<g transform="translate(406,142)"><rect x="-6" y="-4" width="12" height="9" fill="#b07a4a" stroke="#3b2a1a" stroke-width="1.2"/><path d="M-8,-4 L0,-11 L8,-4 Z" fill="#8a2b1d" stroke="#3b2a1a" stroke-width="1.2"/></g>
+<g transform="translate(400,158)"><rect x="-6" y="-4" width="12" height="9" fill="#b07a4a" stroke="#3b2a1a" stroke-width="1.2"/><path d="M-8,-4 L0,-11 L8,-4 Z" fill="#8a2b1d" stroke="#3b2a1a" stroke-width="1.2"/></g>
+<g transform="translate(414,156)"><rect x="-6" y="-4" width="12" height="9" fill="#b07a4a" stroke="#3b2a1a" stroke-width="1.2"/><path d="M-8,-4 L0,-11 L8,-4 Z" fill="#8a2b1d" stroke="#3b2a1a" stroke-width="1.2"/></g>
+<text x="402" y="182" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">a river town</text>
+<text x="150" y="560" font-size="20" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">THE HEARTLAND</text>
+<text x="150" y="582" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">farms and river towns:</text>
+<text x="150" y="598" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">grain, wool, timber</text>
+<path d="M129,247 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M168,238 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M154,270 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M97,286 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M94,278 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M98,240 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M141,321 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M105,255 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M165,334 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M159,274 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M207,235 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M193,262 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M107,243 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M127,320 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M112,294 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M167,271 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M156,237 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<path d="M97,253 l-7,14 h14 z" fill="#4f7a3c" stroke="#2f4a24" stroke-width="1"/>
+<text x="150" y="370" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">timber</text>
+<path d="M1157,540 L1169,602 L1130,657 L1099,715 L1039,761 L950,769 L876,786 L800,833 L720,797 L645,777 L545,775 L508,711 L442,667 L436,601 L416,540 L457,482 L454,417 L487,357 L565,323 L630,281 L714,263 L800,286 L887,258 L965,287 L1025,332 L1068,382 L1160,412 L1164,479 Z" fill="#d6c3a0" stroke="#7a6446" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="477" y="609" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(9 481 612)"/>
+<rect x="461" y="614" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-8 465 617)"/>
+<rect x="928" y="760" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(20 932 763)"/>
+<rect x="561" y="387" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(8 565 390)"/>
+<rect x="695" y="749" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(20 699 752)"/>
+<rect x="565" y="386" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-20 569 389)"/>
+<rect x="945" y="342" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-18 949 345)"/>
+<rect x="911" y="752" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-19 915 755)"/>
+<rect x="852" y="305" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(17 856 308)"/>
+<rect x="978" y="333" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(20 982 336)"/>
+<rect x="714" y="750" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-15 718 753)"/>
+<rect x="491" y="599" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(15 495 602)"/>
+<rect x="712" y="310" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-6 716 313)"/>
+<rect x="495" y="519" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(16 499 522)"/>
+<rect x="829" y="300" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-2 833 303)"/>
+<rect x="526" y="709" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-20 530 712)"/>
+<rect x="877" y="792" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-17 881 795)"/>
+<rect x="444" y="587" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(5 448 590)"/>
+<rect x="504" y="656" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-8 508 659)"/>
+<rect x="852" y="308" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-15 856 311)"/>
+<rect x="683" y="742" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(6 687 745)"/>
+<rect x="812" y="311" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-5 816 314)"/>
+<rect x="716" y="324" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(9 720 327)"/>
+<rect x="886" y="318" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(15 890 321)"/>
+<rect x="921" y="762" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-12 925 765)"/>
+<rect x="514" y="653" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(5 518 656)"/>
+<rect x="521" y="647" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-3 525 650)"/>
+<rect x="1032" y="338" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(17 1036 341)"/>
+<rect x="678" y="782" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-7 682 785)"/>
+<rect x="934" y="781" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(18 938 784)"/>
+<rect x="604" y="362" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-11 608 365)"/>
+<rect x="868" y="763" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(19 872 766)"/>
+<rect x="645" y="743" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-16 649 746)"/>
+<rect x="1075" y="640" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(20 1079 643)"/>
+<rect x="811" y="784" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(3 815 787)"/>
+<rect x="575" y="380" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(17 579 383)"/>
+<rect x="463" y="562" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(4 467 565)"/>
+<rect x="923" y="745" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-6 927 748)"/>
+<rect x="926" y="326" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-8 930 329)"/>
+<rect x="980" y="746" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(15 984 749)"/>
+<rect x="914" y="785" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(10 918 788)"/>
+<rect x="537" y="392" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-14 541 395)"/>
+<rect x="1052" y="691" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-4 1056 694)"/>
+<rect x="821" y="788" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-4 825 791)"/>
+<rect x="485" y="661" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(11 489 664)"/>
+<rect x="712" y="757" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-16 716 760)"/>
+<rect x="1026" y="710" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(19 1030 713)"/>
+<rect x="557" y="384" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-7 561 387)"/>
+<rect x="794" y="313" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(6 798 316)"/>
+<rect x="510" y="612" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-9 514 615)"/>
+<rect x="730" y="776" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-12 734 779)"/>
+<rect x="1054" y="661" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(8 1058 664)"/>
+<rect x="675" y="307" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-12 679 310)"/>
+<rect x="496" y="397" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(10 500 400)"/>
+<rect x="1085" y="402" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-18 1089 405)"/>
+<rect x="454" y="565" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(0 458 568)"/>
+<rect x="995" y="707" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(8 999 710)"/>
+<rect x="466" y="465" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-12 470 468)"/>
+<rect x="891" y="285" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(2 895 288)"/>
+<rect x="1079" y="660" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-16 1083 663)"/>
+<rect x="1020" y="364" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-19 1024 367)"/>
+<rect x="1015" y="351" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(19 1019 354)"/>
+<rect x="627" y="335" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-20 631 338)"/>
+<rect x="560" y="395" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(20 564 398)"/>
+<rect x="1032" y="691" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(6 1036 694)"/>
+<rect x="752" y="301" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(17 756 304)"/>
+<rect x="480" y="600" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(14 484 603)"/>
+<rect x="1094" y="665" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-19 1098 668)"/>
+<rect x="683" y="746" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-19 687 749)"/>
+<rect x="838" y="787" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(11 842 790)"/>
+<rect x="860" y="291" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(11 864 294)"/>
+<rect x="785" y="758" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-1 789 761)"/>
+<rect x="1005" y="731" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(13 1009 734)"/>
+<rect x="967" y="765" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(8 971 768)"/>
+<rect x="482" y="539" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(5 486 542)"/>
+<rect x="639" y="339" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(7 643 342)"/>
+<rect x="910" y="297" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-8 914 300)"/>
+<rect x="1032" y="375" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(17 1036 378)"/>
+<rect x="1071" y="427" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-12 1075 430)"/>
+<rect x="446" y="543" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-18 450 546)"/>
+<rect x="710" y="282" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-3 714 285)"/>
+<rect x="930" y="334" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(10 934 337)"/>
+<rect x="747" y="764" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(6 751 767)"/>
+<rect x="551" y="701" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(0 555 704)"/>
+<rect x="722" y="285" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(19 726 288)"/>
+<rect x="505" y="603" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-18 509 606)"/>
+<rect x="737" y="781" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-3 741 784)"/>
+<rect x="508" y="436" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(16 512 439)"/>
+<rect x="507" y="599" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-3 511 602)"/>
+<rect x="820" y="763" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-17 824 766)"/>
+<rect x="1053" y="692" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(20 1057 695)"/>
+<rect x="922" y="291" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-8 926 294)"/>
+<rect x="899" y="767" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-9 903 770)"/>
+<rect x="719" y="289" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(14 723 292)"/>
+<rect x="727" y="314" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-3 731 317)"/>
+<rect x="855" y="296" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(13 859 299)"/>
+<rect x="436" y="536" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-10 440 539)"/>
+<rect x="523" y="696" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-6 527 699)"/>
+<rect x="1100" y="673" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(4 1104 676)"/>
+<rect x="1020" y="712" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(20 1024 715)"/>
+<rect x="1024" y="393" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(15 1028 396)"/>
+<rect x="476" y="428" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(1 480 431)"/>
+<rect x="466" y="593" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-7 470 596)"/>
+<rect x="1082" y="688" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-13 1086 691)"/>
+<rect x="877" y="791" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-15 881 794)"/>
+<rect x="877" y="310" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-19 881 313)"/>
+<rect x="619" y="720" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(8 623 723)"/>
+<rect x="618" y="737" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-3 622 740)"/>
+<rect x="495" y="554" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-16 499 557)"/>
+<rect x="524" y="633" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(14 528 636)"/>
+<rect x="619" y="757" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(-12 623 760)"/>
+<rect x="442" y="586" width="8" height="6" fill="#a88a64" stroke="#5a4632" stroke-width="0.8" transform="rotate(13 446 589)"/>
+<path d="M495,728 L487,720 L479,713 L471,705 L464,696 L457,688 L451,679 L444,671 L439,662 L433,653 L428,644 L424,635 L420,625 L416,616 L413,606 L410,597 L408,587 L406,577 L404,567 L403,558 L403,548 L403,538 L403,528 L404,518 L405,509 L406,499 L409,489 L411,480 L414,470 L417,460 L421,451 L426,442 L430,433 L435,424 L441,415 L447,406 L453,397 L460,389 L467,380 L474,372" fill="none" stroke="#8a8072" stroke-width="6" stroke-linecap="round"/>
+<path d="M474,372 L478,368 L482,365 L485,361 L489,358 L493,354 L497,350 L501,347 L505,344 L510,340 L514,337 L518,334 L523,330 L527,327 L532,324 L536,321 L541,318 L546,315 L551,312 L556,309 L560,307 L565,304 L571,301 L576,298 L581,296 L586,293 L591,291 L597,289 L602,286 L607,284 L613,282 L618,280 L624,278 L630,276 L635,274 L641,272 L647,270 L652,268 L658,267 L664,265" fill="none" stroke="#5e5850" stroke-width="5" stroke-linecap="round" stroke-dasharray="4 10"/>
+<path d="M903,257 L911,259 L918,261 L926,262 L933,264 L941,266 L948,269 L956,271 L963,273 L970,276 L978,278 L985,281 L992,284 L999,287 L1006,290 L1012,293 L1019,296 L1026,299 L1032,303 L1039,306 L1045,310 L1051,313 L1058,317 L1064,321 L1070,325 L1075,329 L1081,333 L1087,337 L1092,342 L1098,346 L1103,350 L1108,355 L1113,360 L1118,364 L1123,369 L1127,374 L1132,379 L1136,384 L1140,389 L1144,394" fill="none" stroke="#8a8072" stroke-width="6" stroke-linecap="round"/>
+<path d="M1144,394 L1146,396 L1148,398 L1149,401 L1151,403 L1153,405 L1154,408 L1156,410 L1158,412 L1159,415 L1161,417 L1162,419 L1164,422 L1165,424 L1166,427 L1168,429 L1169,431 L1170,434 L1172,436 L1173,439 L1174,441 L1175,444 L1176,446 L1178,449 L1179,451 L1180,454 L1181,456 L1182,459 L1183,461 L1184,464 L1185,466 L1186,469 L1186,471 L1187,474 L1188,476 L1189,479 L1189,481 L1190,484 L1191,487 L1191,489" fill="none" stroke="#5e5850" stroke-width="5" stroke-linecap="round" stroke-dasharray="4 10"/>
+<path d="M999,793 L991,797 L983,800 L975,803 L967,805 L959,808 L951,811 L943,813 L934,815 L926,818 L917,820 L909,821 L900,823 L892,825 L883,826 L874,827 L866,829 L857,830 L848,830 L839,831 L830,832 L821,832 L812,832 L804,833 L795,833 L786,832 L777,832 L768,832 L759,831 L750,830 L742,829 L733,828 L724,827 L715,826 L707,824 L698,823 L689,821 L681,819 L672,817 L664,815" fill="none" stroke="#5e5850" stroke-width="5" stroke-linecap="round" stroke-dasharray="4 10"/>
+<g transform="translate(534,307)"><circle cy="-6" r="3.4" fill="#e8e2d0" stroke="#3b2a1a" stroke-width="1"/><path d="M0,-2 L0,8 M-5,2 L5,2 M0,8 L-4,15 M0,8 L4,15" stroke="#3b2a1a" stroke-width="1.6" fill="none"/></g>
+<g transform="translate(601,271)"><circle cy="-6" r="3.4" fill="#e8e2d0" stroke="#3b2a1a" stroke-width="1"/><path d="M0,-2 L0,8 M-5,2 L5,2 M0,8 L-4,15 M0,8 L4,15" stroke="#3b2a1a" stroke-width="1.6" fill="none"/></g>
+<g transform="translate(1169,414)"><circle cy="-6" r="3.4" fill="#e8e2d0" stroke="#3b2a1a" stroke-width="1"/><path d="M0,-2 L0,8 M-5,2 L5,2 M0,8 L-4,15 M0,8 L4,15" stroke="#3b2a1a" stroke-width="1.6" fill="none"/></g>
+<text x="470" y="215" font-size="1" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round"></text>
+<text x="560" y="262" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">newer walls, still going up,</text>
+<text x="560" y="278" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">some built by Glumtom's undead</text>
+<text x="1075" y="742" font-size="17" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">THE POOR QUARTERS</text>
+<text x="1075" y="760" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">outside the old wall</text>
+<path d="M1058,540 L1056,573 L1045,606 L1028,637 L999,663 L969,688 L925,699 L887,717 L846,731 L800,730 L754,730 L714,713 L672,703 L638,682 L603,662 L577,635 L566,603 L552,572 L547,540 L541,506 L555,474 L583,448 L600,417 L639,399 L671,376 L714,367 L757,360 L800,347 L844,358 L886,366 L932,372 L968,392 L994,420 L1028,443 L1041,475 L1055,507 Z" fill="#e9dbb8" stroke="#4a3f33" stroke-width="9" stroke-linejoin="round"/>
+<path d="M1058,540 L1056,573 L1045,606 L1028,637 L999,663 L969,688 L925,699 L887,717 L846,731 L800,730 L754,730 L714,713 L672,703 L638,682 L603,662 L577,635 L566,603 L552,572 L547,540 L541,506 L555,474 L583,448 L600,417 L639,399 L671,376 L714,367 L757,360 L800,347 L844,358 L886,366 L932,372 L968,392 L994,420 L1028,443 L1041,475 L1055,507 Z" fill="none" stroke="#a39684" stroke-width="4" stroke-dasharray="10 8"/>
+<rect x="1050" y="532" width="16" height="16" fill="#a39684" stroke="#4a3f33" stroke-width="2"/>
+<rect x="991" y="655" width="16" height="16" fill="#a39684" stroke="#4a3f33" stroke-width="2"/>
+<rect x="838" y="723" width="16" height="16" fill="#a39684" stroke="#4a3f33" stroke-width="2"/>
+<rect x="664" y="695" width="16" height="16" fill="#a39684" stroke="#4a3f33" stroke-width="2"/>
+<rect x="558" y="595" width="16" height="16" fill="#a39684" stroke="#4a3f33" stroke-width="2"/>
+<rect x="547" y="466" width="16" height="16" fill="#a39684" stroke="#4a3f33" stroke-width="2"/>
+<rect x="663" y="368" width="16" height="16" fill="#a39684" stroke="#4a3f33" stroke-width="2"/>
+<rect x="836" y="350" width="16" height="16" fill="#a39684" stroke="#4a3f33" stroke-width="2"/>
+<rect x="986" y="412" width="16" height="16" fill="#a39684" stroke="#4a3f33" stroke-width="2"/>
+
+<line x1="800" y1="540" x2="1056" y2="540" stroke="#cdbb95" stroke-width="10" stroke-linecap="round"/>
+<line x1="800" y1="540" x2="544" y2="540" stroke="#cdbb95" stroke-width="10" stroke-linecap="round"/>
+<line x1="800" y1="540" x2="800" y2="350" stroke="#cdbb95" stroke-width="10" stroke-linecap="round"/>
+<line x1="800" y1="540" x2="800" y2="730" stroke="#cdbb95" stroke-width="10" stroke-linecap="round"/>
+<circle cx="1056" cy="540" r="11" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="3"/>
+<circle cx="544" cy="540" r="11" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="3"/>
+<circle cx="800" cy="350" r="11" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="3"/>
+<circle cx="800" cy="730" r="11" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="3"/>
+<rect x="730" y="502" width="140" height="76" fill="#dccaa0" stroke="#7a6446" stroke-width="1.5"/>
+<text x="800" y="528" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">The market square</text>
+<text x="800" y="544" font-size="12.5" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">the peddlers' open stall</text>
+<g transform="translate(800,562)"><rect x="-16" y="-3" width="32" height="8" fill="#b07a4a" stroke="#3b2a1a"/><path d="M-20,-3 L-12,-12 L12,-12 L20,-3 Z" fill="#8a2b1d" stroke="#3b2a1a"/></g>
+<rect x="655.0" y="398.0" width="140" height="64" rx="6" fill="#f1e5c6" stroke="#3b2a1a" stroke-width="2"/>
+<text x="725" y="418.0" font-size="15" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">The Crown's seat</text>
+<text x="725" y="436.0" font-size="12.5" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">the Highwrit's seal</text>
+<text x="725" y="451.0" font-size="12.5" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">goes on what leaves</text>
+<rect x="805.0" y="398.0" width="140" height="64" rx="6" fill="#f1e5c6" stroke="#3b2a1a" stroke-width="2"/>
+<text x="875" y="418.0" font-size="15" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">The Rolls House</text>
+<text x="875" y="436.0" font-size="12.5" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">census, tax, draft list,</text>
+<text x="875" y="451.0" font-size="12.5" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">register of artificers</text>
+
+<rect x="565.0" y="528.0" width="130" height="64" rx="6" fill="#f1e5c6" stroke="#3b2a1a" stroke-width="2"/>
+<text x="630" y="548.0" font-size="15" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">The mint</text>
+<text x="630" y="566.0" font-size="12.5" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">the Kingdom's</text>
+<text x="630" y="581.0" font-size="12.5" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">gold, silver, copper</text>
+<rect x="905.0" y="528.0" width="140" height="64" rx="6" fill="#f1e5c6" stroke="#3b2a1a" stroke-width="2"/>
+<text x="975" y="548.0" font-size="15" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">GuildScribe</text>
+<text x="975" y="566.0" font-size="12.5" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">hall, arena and Archives;</text>
+<text x="975" y="581.0" font-size="12.5" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">the Scribe lives above</text>
+<rect x="620.0" y="636.0" width="170" height="58" rx="6" fill="#f1e5c6" stroke="#3b2a1a" stroke-width="2"/>
+<text x="705" y="656.0" font-size="15" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">The workshop quarter</text>
+<text x="705" y="674.0" font-size="12.5" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">the Hearthcircle's fine metalwork</text>
+<rect x="835.0" y="636.0" width="150" height="58" rx="6" fill="#f1e5c6" stroke="#3b2a1a" stroke-width="2"/>
+<text x="910" y="656.0" font-size="15" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">Glumtom's workshop</text>
+<text x="910" y="674.0" font-size="12.5" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">cluttered; undead laborers</text>
+<path d="M1056,540 C1180,530 1300,560 1560,534" fill="none" stroke="#f3e6c4" stroke-width="9"/>
+<path d="M1056,540 C1180,530 1300,560 1560,534" fill="none" stroke="#7a5a3a" stroke-width="4" stroke-dasharray="14 8" marker-end="url(#arrk)"/>
+<text x="1370" y="476" font-size="16" fill="#5a3d1e" text-anchor="middle" font-style="italic" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">the Clerk's road, east</text>
+<text x="1370" y="494" font-size="13" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">small towns and waystations, poorer</text>
+<text x="1370" y="509" font-size="13" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">and less watched the farther east;</text>
+<text x="1370" y="524" font-size="13" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">at the last one the Woodland Road leaves</text>
+<text x="1370" y="539" font-size="13" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">through the Monster Wood for Stoutwell</text>
+<g transform="translate(1460,190)"><circle r="34" fill="#f3e6c4" stroke="#3b2a1a" stroke-width="2"/><path d="M0,-30 L7,0 L0,30 L-7,0 Z" fill="#3b2a1a"/><path d="M-30,0 L0,-6 L30,0 L0,6 Z" fill="#8a7a5a"/></g>
+<text x="1460" y="150" font-size="16" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">N</text>
+<text x="1412" y="196" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">W</text>
+<text x="1508" y="196" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">E</text>
+<rect x="48" y="960" width="560" height="112" fill="#f3e6c4" fill-opacity="0.85" stroke="#5a3d1e" stroke-width="1.5"/>
+<line x1="62" y1="984" x2="102" y2="984" stroke="#4a3f33" stroke-width="7"/>
+<text x="114" y="989" font-size="14" fill="#3b2a1a" text-anchor="start" font-style="" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">the old wall</text>
+<line x1="62" y1="1012" x2="80" y2="1012" stroke="#8a8072" stroke-width="6" stroke-linecap="round"/><line x1="86" y1="1012" x2="104" y2="1012" stroke="#5e5850" stroke-width="5" stroke-dasharray="4 8"/>
+<text x="114" y="1017" font-size="14" fill="#3b2a1a" text-anchor="start" font-style="" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">newer walls (dotted: still going up)</text>
+<line x1="62" y1="1040" x2="102" y2="1040" stroke="#7a5a3a" stroke-width="4" stroke-dasharray="14 8"/>
+<text x="114" y="1045" font-size="14" fill="#3b2a1a" text-anchor="start" font-style="" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">the road east</text>
+<rect x="330" y="976" width="34" height="18" fill="url(#crop)" stroke="#8a7440"/>
+<text x="374" y="989" font-size="14" fill="#3b2a1a" text-anchor="start" font-style="" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">grain</text>
+<rect x="330" y="1004" width="34" height="18" fill="url(#wool)" stroke="#8a7440"/>
+<text x="374" y="1017" font-size="14" fill="#3b2a1a" text-anchor="start" font-style="" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">sheep (wool)</text>
+<rect x="330" y="1032" width="34" height="18" fill="#d6c3a0" stroke="#7a6446" stroke-dasharray="5 4"/>
+<text x="374" y="1045" font-size="14" fill="#3b2a1a" text-anchor="start" font-style="" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">the poor quarters</text>
+<text x="590" y="360" font-size="14" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">THE OLD WALL</text>
+</svg>
