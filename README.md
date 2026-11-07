@@ -56,7 +56,7 @@ Everything below reads this repo's `main` straight from GitHub. None of them kee
 | --- | --- | --- |
 | [Orrery Explorer](https://tavernworks.dev/orrery/) | Every file and map | On open |
 | [Wake in Verrowen](https://tavernworks.dev/verrowen/) narrator | `lore.md` | Every turn |
-| GuildScribe (Twitch bot, `dnd-twitch-bot`) | `lore.md` (AI replies), `bestiary.md` (where fights happen, Verrowen's beasts), `roster.md` (the peddlers, and the Scribe's and peddlers' lines) | Every 5 minutes, and at once when the Orrery publishes |
+| GuildScribe (Twitch bot, `dnd-twitch-bot`) | `lore.md` (AI replies), `bestiary.md` (where fights happen, Verrowen's beasts), and [the database](#the-database) for its people (the peddlers, and the Scribe's and peddlers' lines), through the shared client | Every 5 minutes, and at once when the Orrery publishes |
 | GuildScribe (Discord bot, `guildscribe-discord`) | The same as the Twitch bot: it runs the Twitch bot's game code, synced every 15 minutes | Same |
 | The Wandering Clerk | `roster.md` (the road peddlers) | Each run, then every 30 minutes |
 | UndercoverBurn | `roster.md` (Burn) | At start-up, then every 30 minutes |
@@ -83,6 +83,7 @@ The Orrery is meant to be the database of everything in the universe, and every 
   ```
 
 - **Ids:** made from the name (`Tansy Ninefingers` → `tansy-ninefingers`, a role → `role-the-tanner`). Two things with the same id fail the build, and a rename changes the id, so apps should look things up by id but expect renames.
+- **Who reads it:** GuildScribe (its people). The other apps still read the documents and move over one at a time.
 - **What's in it so far:** `roster.md` only (the pilot): every person (72), the worlds they're in, and the roles nobody fills yet. Places, creatures, items, factions, gods and events join next, each document getting its own parser in `tools/build.mjs`.
 
 To check the documents still compile, run `node tools/build.mjs --check`; `node tools/build.mjs` writes the files into `dist/`.
