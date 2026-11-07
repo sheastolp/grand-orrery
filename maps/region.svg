@@ -2159,7 +2159,7 @@
 <path d="M803,1299 L809,1286 L813,1299 Z" fill="#5a7841" stroke="#2f4424" stroke-width="0.8"/>
 <ellipse cx="700" cy="400" rx="240" ry="210" fill="url(#blight)"/>
 <path d="M800,300 C880,280 960,330 960,420 C965,520 880,560 800,540 C760,520 740,470 745,420 C750,360 760,315 800,300 Z" fill="#8a2b1d" fill-opacity="0.12" stroke="#8a2b1d" stroke-width="2.5" stroke-dasharray="8 5"/>
-<path d="M455,210 C500,300 505,420 470,520 C455,580 470,640 500,690" fill="none" stroke="#1f3f6e" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round"/>
+<path d="M455,210 C500,300 505,420 470,520 C455,600 480,660 545,688 C640,712 745,690 790,615 C805,590 830,570 860,556" fill="none" stroke="#1f3f6e" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round"/>
 <path d="M1150,380 L1235,370 L1240,700 L1160,720 C1130,640 1140,480 1150,380 Z" fill="url(#crop)" stroke="#8a7333" stroke-width="2"/>
 <path d="M200,640 C300,660 380,700 470,720 C600,750 760,760 900,730 C1040,700 1190,600 1240,495" fill="none" stroke="#f3e6c4" stroke-width="9"/>
 <path d="M200,640 C300,660 380,700 470,720 C600,750 760,760 900,730 C1040,700 1190,600 1240,495" fill="none" stroke="#7a5230" stroke-width="3.5" stroke-dasharray="14 8"/>
@@ -2267,17 +2267,20 @@
 <text x="770" y="168" font-size="30" fill="#2f4424" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">THE MONSTER WOOD</text>
 <text x="700" y="345" font-size="24" fill="#3a2a3e" text-anchor="middle" font-style="italic" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">The Blight</text>
 <text x="700" y="425" font-size="15" fill="#3a2a3e" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">large beasts of the deep woods</text>
-<text x="700" y="445" font-size="14" fill="#3a2a3e" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">(no bestiary entry yet)</text>
+<text x="700" y="445" font-size="14" fill="#3a2a3e" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">hollowstags, rootwyrms,</text>
+<text x="700" y="463" font-size="14" fill="#3a2a3e" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">the Mosswarden</text>
 <text x="870" y="400" font-size="21" fill="#8a2b1d" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">Goblin lands</text>
 <text x="870" y="422" font-size="15" fill="#8a2b1d" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">blight reached them;</text>
 <text x="870" y="440" font-size="15" fill="#8a2b1d" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">goblins flee east</text>
 <text x="450" y="190" font-size="15" fill="#1f3f6e" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">farthest any adventurer</text>
 <text x="450" y="208" font-size="15" fill="#1f3f6e" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">has made it</text>
+<text x="660" y="672" font-size="15" fill="#1f3f6e" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">by the road, to the goblin lands' edge</text>
 <text x="300" y="300" font-size="16" fill="#1f3f6e" text-anchor="start" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">a few adventurers</text>
 <text x="300" y="318" font-size="16" fill="#1f3f6e" text-anchor="start" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">hunt from the west</text>
 <text x="170" y="712" font-size="24" fill="#3b2a1a" text-anchor="middle" font-style="" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">THE KINGDOM</text>
 <text x="170" y="736" font-size="15" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">the capital: GuildScribe,</text>
 <text x="170" y="754" font-size="15" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">Glumtom's workshop</text>
+<text x="170" y="772" font-size="15" fill="#3b2a1a" text-anchor="middle" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">the Rolls House · the heartland</text>
 <text x="60" y="240" font-size="15" fill="#3b2a1a" text-anchor="start" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">lies the divination tower</text>
 <text x="60" y="222" font-size="15" fill="#3b2a1a" text-anchor="start" font-style="italic" font-weight="normal" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">far past the Kingdom</text>
 <text x="700" y="790" font-size="21" fill="#5a3d1e" text-anchor="middle" font-style="italic" font-weight="bold" paint-order="stroke" stroke="#f3e6c4" stroke-width="4" stroke-linejoin="round">The Woodland Road</text>

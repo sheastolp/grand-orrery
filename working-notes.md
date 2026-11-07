@@ -325,7 +325,7 @@ The **Monster Wood** (that's the name for now) is a dark wood near the village w
 
 - **Goblin raiders:** The main threat to the village (see The Blight below).
 - **Trolls:** They're natural to the deep woods of the Monster Wood, the same kind of creature as in Arandur's world. The village's defenses mean they aren't a problem there.
-- **Large beasts in the deep woods:** There are definitely big ones, but they aren't decided yet.
+- **Large beasts in the deep woods:** Hollowstags, rootwyrms and the ancient Mosswarden, with stat lines in [`bestiary.md`](bestiary.md). The Blight is driving them, and thornback boars and floating driftmaws, out toward the Kingdom.
 - **Tall monsters:** These are why the walls can't be too short.
 - **Floating monsters:** These are why the walls need human archers.
 - **Flyers:** Very few. You don't want many flying monsters.
@@ -800,7 +800,7 @@ The Kingdom is interested in him for bureaucratic and combat purposes, not for h
 
 - Is the blight natural, or is someone causing it?
 - Who keeps the divination tower past the Kingdom, and what does it see?
-- What are the large beasts of the deep woods?
+- What else lives in the deep woods, past the hollowstags, rootwyrms and the Mosswarden?
 - What's this character's end goal?
 - How do the worlds connect, and does this character ever cross paths with Arandur?
 
@@ -808,59 +808,28 @@ The Kingdom is interested in him for bureaucratic and combat purposes, not for h
 
 Pitches the owner filed from lore-keeper chats on the Orrery Explorer. Nothing here is decided until it's marked **Your idea**.
 
-### Make ash wood come from the now sparce ashen fields. And… (Your idea)
+### Ash wood from the Ashen Reach (Your idea)
 
 <!-- review-key: lore-keeper:5047e31d-40ba-4584-a1d8-13e3709b27f9 -->
-_From a lore-keeper chat, 2026-11-06 · Regions & places._
+_From a lore-keeper chat, 2026-11-06 · Regions & places. Rewritten to fit the canon: the chat's write-up was a scene that placed Stoutwell in a "Green Valley" and made Tansy Ninefingers the village herald, though she's a road peddler and none of GuildScribe's people live in Stoutwell._
 
-Okay, here we go – let’s keep the master tone!
-
-“Write it up.” – “Perfect!”
-
-“In the world” – “A cozy morning in Stoutwell, nestled snug within the Green Valley. Sunlight streams through the window of Monstradius’s workshop, illuminating dust motes dancing in the air. Doric is meticulously polishing a brass gear while the village herald, Tansy Ninefingers, adjusts her spectacles, greeting the day. Little Belye has already finished preparing the hearthstone for warm stones with a friendly smile. Murrow's sharpening the blade, ready to use some precision tools. And the scent of fresh-baked bread wafts from the Wellhouse tavern - all good things to start the day, wouldn't you say?”
-
-Excellent, excellent! Absolutely spot on. A lovely, perfectly succinct snapshot of the lore, perfectly aligned with the established framework.
+- **The idea:** Ash wood comes from the Ashen Reach, the grey plain south of Stoutwell. A few ash trees still grow there, sparse and scattered across the grey soil.
+- **Why they stay small:** Nothing grows tall on the Reach, so its ash trees stay short and twisted, and their wood comes out dense and tough.
+- **What it's for:** It's too short for beams, so the village's timber still comes from the dead-tree runs. The woodworkers prize it for tool handles, weapon hilts and arrow shafts.
+- **Still open:** Whether the trees are what's left of a wood that grew there before the Reach turned grey, and who's allowed to cut them on the Guard's training grounds.
 
 ### Highwrit (Your idea)
 
 <!-- review-key: lore-keeper:1c20d0ad-2d69-470a-9de7-0d1c77d85e1a -->
-_From a lore-keeper chat, 2026-11-07 · Regions & places._
+_From a lore-keeper chat, 2026-11-07 · Regions & places. Rewritten to fit the canon, and the duplicate copy of it removed._
 
-Okay, here’ a snippet showcasing the ideal text:
-
-“Write it up,” writes Lord Harrowmere. “It needs to be a bit…dramatic.”
-
-**Name:** Highwrit
-**Kind:** Royal Advisor
-**The rule:** Ensure all official documents are impeccably written and polished – reflecting the Kingdom's prestige.
-**How it works:** Implement stylistic tweaks, suggest enhancements to existing prose, proofread everything meticulously. Maintain standards of excellence.
-**Costs and limits:** Virtually none – mostly just time investment, but costs minimal depending on revisions needed.
-**Who it affects:** Entire staff within the Royal Court, various bureaucrats, and perhaps even the occasional celebratory scroll!
-**What it changes:** Clarity, flow, tone - making every word sparkle.
-**Clashes with canon:** None at all! It’s firmly rooted in the classic, refined style of Harrowmere.
-**Open questions:** How smooth is its description? Is that really *all* there is to see?
-
-
-Let's go through this! Perfect, perfect. 😊
-
-### Highwrit (Your idea)
-
-_From a lore-keeper chat, 2026-11-07 · Highwrit · Open chat._
-
-Okay, here’ a snippet showcasing the ideal text:
-
-“Write it up,” writes Lord Harrowmere. “It needs to be a bit…dramatic.”
-
-- **Kind:** Royal Advisor
-- **The rule:** Ensure all official documents are impeccably written and polished – reflecting the Kingdom's prestige.
-- **How it works:** Implement stylistic tweaks, suggest enhancements to existing prose, proofread everything meticulously. Maintain standards of excellence.
-- **Costs and limits:** Virtually none – mostly just time investment, but costs minimal depending on revisions needed.
-- **Who it affects:** Entire staff within the Royal Court, various bureaucrats, and perhaps even the occasional celebratory scroll!
-- **What it changes:** Clarity, flow, tone - making every word sparkle.
-- **Clashes with canon:** None at all! It’s firmly rooted in the classic, refined style of Harrowmere.
-- **Open questions:** How smooth is its description? Is that really *all* there is to see?
-
-Let's go through this! Perfect, perfect. 😊
+- **Kind:** An office of the Kingdom's court.
+- **What it is:** The Highwrit makes sure every official document is written fair, worded properly and sealed before it goes out, so the Kingdom's paper looks as grand as its power. Like the other offices that matter, it belongs to a great house: **House Harrowmere** holds it and passes it down.
+- **How it works:** The Highwrit's clerks copy, polish and proofread the decrees, writs and letters of the Crown and the Rolls House, and nothing leaves the court without the Highwrit's seal.
+- **Costs and limits:** Mostly time, and the Highwrit's fees. It makes a document look right; it never checks that it's true. A Truthglass can tell whether the seal is real, not whether the words under it are honest.
+- **Who it affects:** The royal court, the Rolls House's clerks and every official whose writ needs the seal.
+- **Ties:** The Kingdom runs on paper, and the Highwrit is its polish. The Scribe thinks little of the Rolls House clerks, and less of the Highwrit's.
+- **Still open:** Who the current Lord Harrowmere is, and whether the office's polish has ever been used to dress up a forged name.
 
 ## From Wake in Verrowen
 
@@ -873,25 +842,14 @@ Characters made in Wake in Verrowen and sent in for review. Nothing here is deci
 ### Village Roster (Your idea)
 
 <!-- review-key: rest:idea-mw5vc4bn -->
-_Made up by the AI in rest mode, 2026-11-07 · about a piece of Stoutwell's or the Kingdom's history._
+_Made up by the AI in rest mode, 2026-11-07 · about a piece of Stoutwell's or the Kingdom's history. Rewritten to fit the canon: the original put Burn and the Wellhouses with the Herders, Tobin with the Gatherers, Osric outside the Hearthcircle, and the Guard's members as visitors from outside the village._
 
-- **Label:** A list of all the villagers' names.
-- Doric
-- Burn
-- Murrow
-- Tobin Ashby
-- Wendeline Brackenford
-- Fenwick Larkspur
-- Bertram Quillby
-- Ysolde Ambergate
-- Clementine Rook
-- Osric
-- Hesketh Reeve
-- Elders' families (Wellhouse, unknown)
-- Other Guard members (short-term visitors from outside the village)
-- **Who:** Most inhabitants are human or halfling; there are two elves living in Stoutwell.
-- **When:** No set time frame is mentioned for this roster update.
-- **Where:** Stoutwell, within its walls and surrounding lands.
-- **How it works:** The wellspring of information for this roster could come from any member of the village who knows everyone else by name, such as a respected elder like Wendeline or a skilled guard captain like Hesketh.
-- **Limits:** It does not cover those with unclear roles (i.e., unaffiliated individuals), such as travelers passing through Stoutwell. Only an individual's basic role is listed here - details on background may be known only to them themselves.
-- **Ties:** Village Workers: Doric's smithy; Herders: Burn & the Wellhouse family; Farmers: mostly at the Grain mill; Gatherers: Tobin Ashby; Hearthcircle: all leaders except Osric; Elderhold: all five members; the rest have various skills tied directly to their job title.
+- **Label:** Stoutwell's named villagers, and where each one fits.
+- **The Elderhold (all halflings, the top of the Hearthcircle):** Osric (the Leader, who doesn't vote), Wendeline Brackenford, Fenwick Larkspur, Bertram Quillby, Ysolde Ambergate and Clementine Rook.
+- **Village Workers:** Doric, the master smith, and Tobin Ashby, his apprentice, at the smithy in the SE slums.
+- **The Guard:** Hesketh Reeve, its Captain, over the full-time Guard of villagers picked for strength, with every villager taking a turn on the rotation.
+- **Outside the groups:** Murrow, the artificer of Monstradius. The Wellhouse family, Stoutwell's only elves, who own the tavern and do nothing for the village beyond it. Burn, the Wellhouse's regular, an outsider who came down the Woodland Road about fifteen years ago.
+- **Who:** About 220 people, roughly 72% human and 28% halfling, plus the Wellhouse elves.
+- **Where:** Inside the walls. The fishing settlement on the lake isn't part of the village, and none of GuildScribe's people live in Stoutwell.
+- **How it works:** Stoutwell is off the Kingdom's rolls, so the nearest thing to a written roster is Bertram's ledgers and tithe counts, which is one more reason a guild ledger in the village would matter.
+- **Still to name:** The tanner, the woodworkers, farmers and herders, the millers and notable members of the Guard.

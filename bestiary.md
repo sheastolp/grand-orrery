@@ -94,7 +94,7 @@ How to add something:
 
 ## The goblin lands (Your idea)
 
-- **Where:** Deeper in the Monster Wood, where the Blight has reached and the goblins are fleeing from it. No adventurer has made it past them.
+- **Where:** The Monster Wood's eastern reaches, between the deep woods and Stoutwell's croplands, where the Blight has reached and the goblins are fleeing it east. Adventurers get this far by following the Woodland Road through the wood, and none has made it past them.
 - **For:** hunts
 - **Levels:** 6-14
 - **Lines:**
@@ -125,7 +125,7 @@ How to add something:
 
 ## The deep woods (Your idea)
 
-- **Where:** The heart of the Monster Wood, past the goblin lands, where the Blight started. No adventurer has been there. Only what comes out of it is known.
+- **Where:** The heart of the Monster Wood, north of the Woodland Road and west of the goblin lands, where the Blight started. No adventurer has been there. Only what comes out of it is known.
 - **For:** raids
 - **Levels:** 13-20
 - **Lines:**

@@ -63,7 +63,7 @@ A quiet way to find a child's element before they know it themselves:
 
 Rough sketches, not to scale.
 
-![Region map: the Kingdom, the Monster Wood with the Blight, the goblin lands and the adventurers' farthest reach, the Woodland Road, the croplands, Stoutwell, the Ashen Reach, the river and the mills, the lake, the fishing settlement and the mountain wall](maps/region.png)
+![Region map: the Kingdom and its capital, the Monster Wood with the Blight over the deep woods and their beasts, the goblin lands and the adventurers' farthest reach, the Woodland Road, the croplands, Stoutwell, the Ashen Reach, the river and the mills, the lake, the fishing settlement and the mountain wall](maps/region.png)
 
 ![Stoutwell village map: districts, the Gathering Hall, the dried well, the Wellhouse, Monstradius, Doric's smithy, the lumber yard and the river mills](maps/stoutwell.png)
 
@@ -294,8 +294,9 @@ All five are halflings.
 - A dark wood to the west of Stoutwell where monsters spawn. It has always been dangerous.
 - **Goblin raiders:** The main threat. They raid the croplands outside the walls.
 - **Trolls:** They're natural to the deep woods, the same kind of creature as in Arandur's world. The village's defenses keep them from being a problem.
-- **Large beasts:** They live in the deep woods. Their kind is still to be revealed.
-- **Tall and floating monsters:** These shaped the walls and the archers. True flyers are rare.
+- **Large beasts:** They live in the deep woods. The ones known so far are **hollowstags** (stags nearly fifteen feet tall at the antlers, whose hollow antlers whistle as they run), **rootwyrms** (serpents as thick as a mill wheel that live in the roots under the deep woods) and the ancient **Mosswarden**, a beast so old a small forest grows on its back. Their stat lines are in [`bestiary.md`](bestiary.md).
+- **Tall and floating monsters:** These shaped the walls and the archers. Hollowstags are the tall kind; **driftmaws**, cart-sized gasbags that drift above the canopy trailing sticky tendrils, are the floating kind. True flyers are rare; the **gloamowl**, a dog-sized owl that hunts at dusk, is one of the few.
+- **Driven out by the Blight:** As the Blight kills the roots and dries the ground, it's pushing the deep woods' creatures, **thornback boars** among them, out toward the edges and west toward the Kingdom.
 
 ### The Blight
 
@@ -305,7 +306,13 @@ All five are halflings.
 
 ## Beyond the Village
 
-- **The Kingdom:** A real kingdom farther off, past the woods. Stoutwell sits on its far edge. Like any kingdom, it carries moral corruption and the cruelty that comes with power.
+- **The Kingdom:** A real kingdom farther off, past the woods. Stoutwell sits on its far edge. Like any kingdom, it carries moral corruption and the cruelty that comes with power. The full notes are in [`working-notes.md`](working-notes.md) under Beyond the Village.
+- **The Kingdom runs on paper:** Its power is its rolls: the census, the tax rolls, the draft list, the register of artificers and GuildScribe's parchments, all kept in the **Rolls House** beside the Crown's seat. A name on paper can be taxed, drafted, fined or found. Its corruption is mostly about whose names get written, lost or moved.
+- **The Crown and the great houses:** The monarch is a distant banner. A handful of noble houses hold the offices that matter (keeper of the rolls, master of the mint, warden of the roads, master of the draft) and pass them down like property. Osric's hidden surname could belong to one of them.
+- **The draft and the register:** Registered citizens get the Kingdom's law, its markets and bounty coin, and can be drafted. Every artificer the Kingdom finds is written into the register and put to work, the way Glumtom was. Enchanted items made in the Kingdom carry a registered artificer's mark.
+- **The deal at the edge:** The census stops at the Monster Wood. Stoutwell pays its Kingdom tax as one lump sum through the tax representative instead of being counted name by name, so no one there has ever been drafted, and Murrow can live there unregistered. One guild ledger could end the arrangement.
+- **The capital and the heartland:** The capital is a walled city west of the Monster Wood, at the far end of the Woodland Road and the Clerk's road. Around it lies the heartland's farmland and river towns, the source of grain, wool and timber; coin is minted in the capital. Inside are the Crown's seat and the Rolls House, the mint, the workshop quarter where the Hearthcircle's fine metalwork is made, GuildScribe's hall and arena, the market square with the peddlers' stall, and Glumtom's workshop. The poor quarters sit outside the old wall. Eastward, the towns and waystations grow poorer and less watched. Merchants hire their escorts at the last waystation, where the Woodland Road leaves for Stoutwell.
+- **History:** The Kingdom grew outward from the capital over centuries, writing each new town into its rolls, until it reached the Monster Wood and stopped, because the wood was cheaper to tax around than to cross.
 - **The Woodland Road:** A path through the woods, outside the west gate, to the Kingdom. It's relatively safe, but still dangerous.
 - **Merchants:** Traders travel the road with safety escorts, so the village isn't cut off. The wealthier Hearthcircle trades with them most and gets the best goods, including most of its fine metalwork, from the Kingdom's capital.
 - **The tax representative:** Travels with the merchants to collect the Kingdom's tax. The role is chosen carefully to keep bias low, but the Kingdom's corruption can still creep in.
@@ -327,7 +334,7 @@ All five are halflings.
 - **The Kingdom's hand:** The hall serves the Kingdom first. Its records and its corruption both belong to the Kingdom.
 - **The draft pool:** Joining the guild puts your name on the Kingdom's books, and registered citizens can be drafted. A census every season catches everyone who never joined, so they end up in the draft pool too.
 - **Adventurers in the wood:** Only a few adventurers hunt the Monster Wood, coming in from the west on the Kingdom's side. None have made it past the blighted section where the goblins live, so none have reached Stoutwell.
-- **The bestiary's blank page:** The large beasts of the deep woods have no entry yet. The first company to bring back proof would make its name.
+- **The bestiary's blank page:** GuildScribe has posted bounties for the beasts the Blight is driving out, but no one has ever brought back proof of the deep woods' great beasts. The first company to return with a hollowstag antler would make its name.
 
 ### The Scribe, the peddlers and the Wandering Clerk
 
@@ -463,7 +470,7 @@ An elf ranger and pickpocket from a different world: an elven wood beside a grow
 ## Still Being Developed
 
 - Is the blight natural, or is someone behind it?
-- What are the large beasts of the deep woods?
+- What else lives in the deep woods, past the hollowstags, rootwyrms and the Mosswarden?
 - Which artificers can open doorway rifts, and do Stoutwell's story and Arandur's ever cross?
 - What does Verrowen look like beyond the Kingdom and the Monster Wood?
 - What lies on the other side of the mountains, through the fishers' hidden pass, and why do they keep it secret?

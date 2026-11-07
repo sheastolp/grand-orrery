@@ -16,12 +16,14 @@ How to add something:
   - **Made by:** roster names, comma-separated (Doric, Murrow)
   - **Also called:** other names it's written under, comma-separated
   - **Note:** a short label shown under the name
+  - **Sold:** price · bonus, for GuildScribe's peddlers' stall (3 copper · +1 CON); end with · relic for a rare find
+  - **Pitch:** how a peddler hawks it at the stall
 Plain paragraphs under an entry show on its page too.
 -->
 
 ## Enchanted items
 
-Objects that hold someone's mana. Objects hold magic but don't make it, so every one of these runs dry and needs charging again.
+Objects that hold someone's mana. Objects hold magic but don't make it, so every one of these runs dry and needs charging again. Enchanted items made in the Kingdom carry the mark of a registered artificer. Unmarked ones, like everything from Monstradius, aren't illegal, but they make people ask who made them.
 
 ### Charged stones
 
@@ -91,10 +93,10 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 #### 👑 Embercrown (Your idea)
 
 - **Note:** From a lore-keeper chat, 2026-11-06
-- **Does:** A delicate metal crown set with gems, worn by Dor royals at official events. Worn outside formal occasions, it stirs whispers of court gossip and intrigue around the wearer.
-- **Made:** Needs rare materials to craft and to keep its fire-starting properties.
-- **Limits:** Royals only, and only for ceremonies.
-- **Story:** Raises how much influence and authority people see in the wearer. Open question: where is it kept when it isn't worn?
+- **Does:** A delicate metal crown set with gems that glow like embers, worn by the Kingdom's royals at official events in the capital. Worn outside formal occasions, it stirs whispers of court gossip and intrigue around the wearer.
+- **Made:** Needs rare materials to craft. The ember glow is a fire user's mana stored in the gems, so like every enchanted item it runs dry and has to be charged again.
+- **Limits:** Royals only, and only for ceremonies. The edge of the realm never sees it, and most of the capital only ever sees the Crown's banner.
+- **Story:** Raises how much influence and authority people see in the wearer. Who charges it is a question for the register of artificers. Open question: where is it kept when it isn't worn? The Crown's seat beside the Rolls House is the obvious guess.
 
 ## Materials
 
@@ -148,7 +150,7 @@ Everyday things that get the work done.
 
 #### 🔨 Smith's hammer (Your idea)
 
-- **Does:** Hammering hot steel. Doric uses a strength enhancement to hammer harder.
+- **Does:** Hammering hot steel. Tobin uses a strength enhancement to hammer harder.
 - **Made by:** Doric
 
 ### Fire-starting
@@ -193,6 +195,13 @@ What the Guard carries.
 
 - **Made:** Caught by the small fishing settlement on the lake's far shore, which isn't part of the village but feeds it.
 
+### Forage
+
+#### 🍄 Red-capped mushrooms (Your idea)
+
+- **Does:** Edible mushrooms the gatherers bring in from the forest edge. Burn swears they make a man grow. They don't. He eats them anyway.
+- **Made:** Foraged at the edge of the Monster Wood by the Gatherers, under Guard escort.
+
 ### Drink
 
 #### 🍺 Stout ale (Your idea)
@@ -209,3 +218,278 @@ What the Guard carries.
 
 - **Does:** What GuildScribe's bounty board pays in. Murrow takes coin or barter, on the same terms for everyone.
 - **Also called:** coin, coins, copper
+
+## Peddlers' wares
+
+What the capital's and the road's peddlers sell off blankets, crates and barrels at the open stall in the capital's market square, and wherever the Wandering Clerk's road stops: secondhand, cheap, and mostly what it looks like. Magic in Verrowen is weak and objects hold mana but don't make it, so whatever a ware is said to do, it does about as much as anything else on the blanket. The peddlers' patter is the real enchantment. GuildScribe's merchant stocks its stall from this file. Any decided entry with a **Sold:** line can turn up there at that price, and its bonus goes onto the buyer's character sheet. **Pitch:** is how the peddler hawks it.
+
+### Odds and ends
+
+#### 🥣 Empty wooden bowl (Your idea)
+
+- **Does:** A plain bowl, good for stew, alms or catching a leak in the roof.
+- **Made:** Turned from offcuts in a workshop in the capital.
+- **Pitch:** an empty wooden bowl, licked clean by the last owner's dog
+- **Sold:** 1 copper · +1 WIS
+
+#### 🫗 Dented tin flask (Your idea)
+
+- **Does:** Holds one good swallow of something strong.
+- **Pitch:** a dented tin flask that swears it once held dragon's-breath brandy
+- **Sold:** 3 copper · +1 CON
+
+#### 🪢 Goblin-rated rope (Your idea)
+
+- **Does:** A coil of rope. It holds one goblin. Nobody has tested two.
+- **Pitch:** a coil of rope, guaranteed to hold at least one goblin
+- **Sold:** 6 copper · +1 STR
+
+#### 🕯️ Blue-flame candle (Your idea)
+
+- **Does:** A half-melted candle that burns blue, for reasons the peddler won't go into.
+- **Pitch:** a half-melted candle that burns a suspicious shade of blue
+- **Sold:** 1 copper · +1 INT
+
+#### 🎲 Badly loaded dice (Your idea)
+
+- **Does:** Loaded so badly they roll straight off the table.
+- **Pitch:** a set of loaded dice, badly loaded — they just roll off the table
+- **Sold:** 2 copper · +1 CHA
+
+#### 🧭 Tavern-seeking compass (Your idea)
+
+- **Does:** A tarnished brass compass. The peddler swears it points to the nearest tavern. It points north, and in the capital there's usually a tavern that way too.
+- **Pitch:** a tarnished brass compass that always points toward the nearest tavern
+- **Sold:** 3 copper · +1 WIS
+
+#### 🧵 Glowing string (Your idea)
+
+- **Does:** A coil of string that glows faintly. Where it came from is anyone's guess.
+- **Pitch:** a coil of faintly glowing string, source unknown, no refunds
+- **Sold:** 5 copper · +1 DEX
+
+### Charms and curios
+
+#### 🖍️ Warding chalk (Your idea)
+
+- **Does:** Chalk sticks for drawing warding sigils. Most are still whole.
+- **Pitch:** a bundle of chalk sticks for warding sigils, mostly unbroken
+- **Sold:** 2 copper · +1 WIS
+
+#### 🐇 Lucky rabbit's foot (Your idea)
+
+- **Does:** For luck. It still twitches now and then.
+- **Pitch:** one (1) lucky rabbit's foot, still faintly twitching
+- **Sold:** 5 copper · +1 DEX
+
+#### 🪞 Cracked scrying mirror (Your idea)
+
+- **Does:** Sold as a scrying mirror that shows yesterday. Divination isn't one of the known kinds of magic, so what it mostly shows is the buyer's face.
+- **Pitch:** a cracked scrying mirror that only ever shows yesterday
+- **Sold:** 1 silver · +1 INT
+
+#### 🫙 Pickled owlbear whiskers (Your idea)
+
+- **Does:** A jar of whiskers, kept for luck. Allegedly.
+- **Pitch:** a jar of pickled owlbear whiskers (for luck, allegedly)
+- **Sold:** 8 copper · +1 CON
+
+#### ⚜️ Rusty holy symbol (Your idea)
+
+- **Does:** The holy symbol of a god nobody quite remembers anymore.
+- **Pitch:** a rusty holy symbol of a god nobody quite remembers anymore
+- **Sold:** 3 copper · +1 WIS
+
+#### 📜 Scorched spellbook page (Your idea)
+
+- **Does:** Half of what claims to be a fireball spell. The other half burned. In a world where boiling a pot of water makes a fire user famous, the missing half wouldn't help much either.
+- **Pitch:** a scorched spellbook page with half a fireball recipe on it
+- **Sold:** 7 copper · +1 INT
+
+#### 📿 'Gnomish gemstones' (Your idea)
+
+- **Does:** A sack of glass beads, sold in good faith as gnomish gemstones.
+- **Pitch:** a sack of glass beads, sold in good faith as 'gnomish gemstones'
+- **Sold:** 6 copper · +1 CHA
+
+#### 🦗 Wish-granting cricket (Your idea)
+
+- **Does:** A caged cricket said to grant wishes if it's fed enough.
+- **Pitch:** a caged cricket claimed to grant wishes if fed enough
+- **Sold:** 2 copper · +1 WIS
+
+#### 🦎 'Dragon' scales (Your idea)
+
+- **Does:** A stack of "authentic" dragon scales. They're dyed lizard.
+- **Pitch:** a stack of 'authentic' dragon scales (dyed lizard, don't tell anyone)
+- **Sold:** 4 copper · +1 CON
+
+#### 💧 Maybe-enchanted river water (Your idea)
+
+- **Does:** A vial of river water that might be enchanted.
+- **Pitch:** a vial of river water that 'might' be enchanted
+- **Sold:** 4 copper · +2 max HP
+
+### Kit and clothing
+
+#### 🧥 Moth-eaten cloak (Your idea)
+
+- **Does:** Almost passes for mysterious.
+- **Pitch:** a moth-eaten cloak that almost passes for 'mysterious'
+- **Sold:** 4 copper · +1 CHA
+
+#### 🗡️ Whittled wooden dagger (Your idea)
+
+- **Does:** For show only. Please don't stab anyone with it.
+- **Pitch:** a whittled wooden dagger, purely for show — please don't stab anyone
+- **Sold:** 1 copper · +1 CHA
+
+#### 🥾 Single fine boot (Your idea)
+
+- **Does:** A single boot, left foot, very fine make.
+- **Pitch:** a single boot, left foot, very fine make
+- **Sold:** 2 copper · +5 ft speed
+
+#### 🩹 Patchwork healer's kit (Your idea)
+
+- **Does:** A healer's kit missing only the important bits.
+- **Pitch:** a patchwork healer's kit missing only the important bits
+- **Sold:** 9 copper · +3 max HP
+
+#### 🛡️ Hand-me-down shield (Your idea)
+
+- **Does:** A secondhand shield, already dented, so someone else did the work.
+- **Pitch:** a hand-me-down shield, already dented — someone else did the work for you
+- **Sold:** 1 silver 2 copper · +4 max HP
+
+### Stall food
+
+#### 🍞 Questionable trail rations (Your idea)
+
+- **Does:** A satchel of trail rations that are mostly still rations.
+- **Pitch:** a satchel of trail rations that are 'mostly' still rations
+- **Sold:** 5 copper · +2 max HP
+
+### Relics
+
+Rare finds the peddlers turn up now and then, in a bottomless sack or a barrel of turnips, and can never say where they came from. Some may have come out of the Monster Wood. Others may have come through a rift from another world, where they had other names and maybe real power. In Verrowen, objects hold mana but don't make it, and a charged item works only for whoever's mana is in it, so whatever a relic once did, it's asleep now. Nobody at the stall knows how to wake one. The peddlers have no idea what they've got, so they price on a hunch: dear for a curiosity, a steal if any of it is real.
+
+#### 🦞 Apparatus of Kwalish (Your idea)
+
+- **Does:** A lobster-shaped iron submersible.
+- **Pitch:** the Apparatus of Kwalish, a lobster-shaped iron submersible, 'only slightly rusted shut'
+- **Sold:** 90 gold · +2 CON, +5 max HP · relic
+
+#### ⚱️ Iron Flask (Your idea)
+
+- **Does:** A flask etched with sigils that hums, and rattles whenever you look away.
+- **Pitch:** an Iron Flask etched with sigils, humming faintly and rattling whenever you look away
+- **Sold:** 75 gold · +2 WIS · relic
+
+#### 🧊 Cubic Gate (Your idea)
+
+- **Does:** A small stone cube with a doorway carved into each of its six faces. Doorway rifts are an artificer's work, so in anyone else's hands it's a very handsome paperweight.
+- **Pitch:** a Cubic Gate, a small stone cube with six faces, each one a door to somewhere else
+- **Sold:** 120 gold · +2 INT, +10 ft speed · relic
+
+#### 💍 Ring of Three Wishes (Your idea)
+
+- **Does:** A ring of wishes. The peddler swears at least two are left.
+- **Pitch:** the Ring of Three Wishes — the peddler swears it has 'at least two left'
+- **Sold:** 150 gold · +2 CHA, +1 WIS, +5 max HP · relic
+
+#### ⚔️ Fragarach (Your idea)
+
+- **Does:** The Sword of Answering. It sulks in its sheath until someone lies to it.
+- **Pitch:** Fragarach, the Sword of Answering, which sulks in its sheath until someone lies to it
+- **Sold:** 110 gold · +2 STR, +5 max HP · relic
+
+#### 🪕 Anstruth Harp (Your idea)
+
+- **Does:** A bard's instrument from a lost college, still tuned to a forgotten song.
+- **Pitch:** an Anstruth Harp, a bardic instrument of a lost college, still tuned to a forgotten song
+- **Sold:** 85 gold · +2 CHA · relic
+
+#### 🌟 Talisman of Pure Good (Your idea)
+
+- **Does:** Glows warmly and makes the nearby chickens behave.
+- **Pitch:** a Talisman of Pure Good that glows warmly and makes the nearby chickens behave
+- **Sold:** 95 gold · +2 WIS, +5 max HP · relic
+
+#### 💀 Talisman of Ultimate Evil (Your idea)
+
+- **Does:** Kept in a lead-lined pickle jar, for everyone's safety.
+- **Pitch:** a Talisman of Ultimate Evil, kept in a lead-lined pickle jar for everyone's safety
+- **Sold:** 40 gold · +2 CHA · relic
+
+#### 🔮 Mirror of Life Trapping (Your idea)
+
+- **Does:** A cracked mirror that gives off a distinct sense of being watched.
+- **Pitch:** a Mirror of Life Trapping with a crack down one side and a distinct sense of being watched
+- **Sold:** 70 gold · +2 INT · relic
+
+#### 🫥 Cloak of Invisibility (Your idea)
+
+- **Does:** Sold as seen. Nobody has seen it yet.
+- **Pitch:** the Cloak of Invisibility, 'sold as seen' (nobody has seen it yet)
+- **Sold:** 100 gold · +2 DEX, +5 max HP · relic
+
+#### 👘 Robe of the Archmagi (Your idea)
+
+- **Does:** Patched at the elbows and reeking of ozone.
+- **Pitch:** the Robe of the Archmagi, patched at the elbows and reeking of ozone
+- **Sold:** 130 gold · +2 INT, +8 max HP · relic
+
+#### 🐉 Orb of Dragonkind (Your idea)
+
+- **Does:** Goes cold whenever a dragon is within a thousand miles.
+- **Pitch:** an Orb of Dragonkind that goes cold whenever a dragon is within a thousand miles
+- **Sold:** 140 gold · +2 CHA, +8 max HP · relic
+
+#### 🪄 Rod of Seven Parts (6/7) (Your idea)
+
+- **Does:** Six of its seven parts. The peddler is still looking for the last one.
+- **Pitch:** the Rod of Seven Parts — six of seven, the peddler is 'still looking for the last one'
+- **Sold:** 60 gold · +2 WIS · relic
+
+#### ⚡ Staff of the Magi (Your idea)
+
+- **Does:** A splintered old staff that crackles whenever it hears the word "counterspell".
+- **Pitch:** the Staff of the Magi, a splintered old staff that crackles whenever it hears the word 'counterspell'
+- **Sold:** 125 gold · +2 INT, +8 max HP · relic
+
+#### 👻 Plate Armor of Etherealness (Your idea)
+
+- **Does:** Pale, oddly light plate armor. The peddler warns it vanishes entirely if you get excited. Nobody has been excited enough to test it.
+- **Pitch:** a Plate Armor of Etherealness that vanishes entirely, the peddler warns, 'if you get excited'
+- **Sold:** 115 gold · +15 max HP · relic
+
+#### 🌑 Sword of Kas (Your idea)
+
+- **Does:** A pitch-black blade that whispers rude things about its former owner.
+- **Pitch:** the Sword of Kas, a pitch-black blade that whispers rude things about its former owner
+- **Sold:** 80 gold · +2 STR · relic
+
+#### 🍀 Luck Blade (Your idea)
+
+- **Does:** A sword with a sheepish grin and exactly one wish left.
+- **Pitch:** a Luck Blade with a sheepish grin and exactly one wish remaining
+- **Sold:** 105 gold · +2 DEX, +5 max HP · relic
+
+#### 💠 Ioun Stone of Mastery (Your idea)
+
+- **Does:** Spins lazily in the air, bothering no one. Someone's wind mana is stored in it, the way a stone turns weightless in Murrow's Elemental Test. When that runs out, it'll drop.
+- **Pitch:** an Ioun Stone of Mastery spinning lazily in the air above the table, bothering no one
+- **Sold:** 65 gold · +1 INT, +1 WIS · relic
+
+#### ⚒️ Hammer of Thunderbolts (Your idea)
+
+- **Does:** A dwarven masterwork the peddler took for a really good doorstop.
+- **Pitch:** the Hammer of Thunderbolts, a dwarven masterwork the peddler mistook for a 'really good doorstop'
+- **Sold:** 135 gold · +2 STR, +8 max HP · relic
+
+#### 📃 Scroll of Protection from Everything (Your idea)
+
+- **Does:** Written in a language that only exists in dreams.
+- **Pitch:** the Scroll of Protection from Everything, written in a language that only exists in dreams
+- **Sold:** 55 gold · +12 max HP · relic
