@@ -55,7 +55,7 @@ How to add something:
 - **For:** hunts
 - **Levels:** 1-10
 - **Lines:**
-  - Into the Monster Wood from the west, the way every adventurer comes.
+  - Into the blighted goblin lands, as far as any adventurer has gotten.
   - The trees close in a mile past the Kingdom's last fence.
   - On the Monster Wood's western edge, where GuildScribe's bounties are thickest.
   - The wood is quiet here. The guildscribes say that's when to worry.
@@ -113,15 +113,15 @@ How to add something:
 
 - **Stats:** CR 3 · AC 12 · HP 58 · +6 to hit · 1d10+3
 - **Does:** A floating gasbag the size of a cart, drifting just above the canopy and trailing sticky tendrils that haul prey up into its mouth.
-- **Limits:** It goes where the wind goes. A strong wind makes it drift and harmless
-- **Story:** Floating monsters like it are the reason Stoutwell's walls need human archers. The Blight is driving them west on the wind.
+- **Limits:** Its movement is dictated by prevailing winds; a strong gust can easily carry it away.
+- **Story:** Floating monsters like it are the reason Stoutwell's walls need human archers. The westward migration of these creatures is attributed to the expansion of the Blight’s influence.
 
 #### 🦌 Hollowstag (Your idea)
 
 - **Stats:** CR 5 · AC 14 · HP 90 · +7 to hit · 2d6+4
 - **Does:** A stag nearly fifteen feet tall at the antlers. Its antlers are hollow and whistle as it runs, which is how hunters hear it coming.
 - **Limits:** Too tall for thick woods, it keeps to clearings and old roads.
-- **Story:** One of the tall monsters, which explains why Stoutwell's walls need human archers. A hollowstag antler would be the first proof of the deep woods' beasts ever brought to GuildScribe.
+- **Story:** This towering creature necessitates Stoutwell’s reliance on ranged weaponry for defense. A hollowstag antler would be the first proof of the deep woods' beasts ever brought to GuildScribe.
 
 ## The deep woods (Your idea)
 
@@ -129,7 +129,7 @@ How to add something:
 - **For:** raids
 - **Levels:** 13-20
 - **Lines:**
-  - GuildScribe has posted a raid quest for something that came from the deep woods.
+  - GuildScribe has issued a bounty for any recovered specimens originating from the depths of the Monster Wood.
   - Out of the deep woods, where no adventurer has ever been, something big is moving west.
   - The Blight drove it out of the deep woods; now the Kingdom faces its consequences.
   - GuildScribe has prepared a blank bestiary page for whatever emerges from the deep woods.
