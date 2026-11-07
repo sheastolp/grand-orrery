@@ -918,7 +918,7 @@ _Made up by the AI in auto mode, 2026-11-07 · about a piece of Stoutwell's or t
 
 - For centuries, the villagers of Stoutwell have known the well dried up due to the blight, but only recently did Murrow’s irrigation bring water back – now, a single, unsettling detail about that event has surfaced through Doric’s smithing tales.
 
-### Guard’s Routine (Pitch)
+### Guard’s Routine (Your idea)
 
 <!-- review-key: rest:idea-mw6qczj5 -->
 <!-- added by the AI -->
