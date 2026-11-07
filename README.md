@@ -22,6 +22,7 @@ It's built so any place, person or idea can be lifted out and used on its own: i
 | [`bestiary.md`](bestiary.md) | **GuildScribe's Bestiary.** Where GuildScribe's adventurers hunt, duel and get robbed in Verrowen (the arena, the market, the roads, the Monster Wood, the deep woods), the lines the bots post there, and Verrowen's own creatures with stat lines. The GuildScribe bots read it live from `main`: only sections marked **(Your idea)** reach them. | Marked per section |
 | [`lore.md`](lore.md) | The condensed lore the Wake in Verrowen narrator reads every turn. | Decided only |
 | [`maps/`](maps/) | Rough maps: the region, Stoutwell, the lake and the Kingdom's capital. | Rough draft |
+| [`tools/`](tools/), [`client/`](client/) | The database: the build that compiles the documents into JSON, and the client every app reads it with. See [The database](#the-database). | |
 
 ### Reading the working notes
 
@@ -60,7 +61,31 @@ Everything below reads this repo's `main` straight from GitHub. None of them kee
 | The Wandering Clerk | `roster.md` (the road peddlers) | Each run, then every 30 minutes |
 | UndercoverBurn | `roster.md` (Burn) | At start-up, then every 30 minutes |
 
-Only decided content reaches them: `lore.md` and `roster.md` hold nothing else, and in `bestiary.md` only sections tagged **(Your idea)** or **(DM lore)** count. Secrets stay out of the bots' prompts. To add a new project, have it read from here the same way rather than copying anything in.
+Only decided content reaches them: `lore.md` and `roster.md` hold nothing else, and in `bestiary.md` only sections tagged **(Your idea)** or **(DM lore)** count. Secrets stay out of the bots' prompts. To add a new project, have it read [the database](#the-database) rather than copying anything in or parsing the documents itself.
+
+## The database
+
+The Orrery is meant to be the database of everything in the universe, and every app should get its people, places and things from it. The documents are still where things get written, by hand or by the review page. The *Build the Orrery database* action ([`.github/workflows/build-data.yml`](.github/workflows/build-data.yml)) runs [`tools/build.mjs`](tools/build.mjs) on every push, which compiles them into JSON: every thing as one record with a stable id, a type and its fields.
+
+- **Where it lives:** the `data` branch, one folder per source branch: `main/` for the live Orrery and `review/` for what's waiting. Nothing is ever committed to `main` or `review` by the build, so it can't get in the way of the review page's writes.
+- **The files:** `entities.public.json` holds everything with every secret taken out, and is what bots and AI prompts read. `entities.json` is the same with secrets, for the owner's tools only. There's also one public file per type (`people.json`, `roles.json`, `worlds.json`).
+- **Reading it:** use [`client/orrery.js`](client/orrery.js) instead of parsing anything. It works the same in Deno, Node and the browser, refreshes on its own, reads the exact newest build rather than the raw server's lagging copy, and never throws: until the first good read, lookups return nothing (or the app's fallback).
+
+  ```js
+  import { Orrery } from "https://cdn.jsdelivr.net/gh/sheastolp/grand-orrery@<commit>/client/orrery.js";
+
+  const orrery = new Orrery();               // main, no secrets, checks every 5 minutes
+  await orrery.ready();
+  orrery.get("tansy-ninefingers");           // { id, type: "person", name, race, sex, line, group, … }
+  orrery.list("person", { group: "The road peddlers" });
+  orrery.find("fenwick");                    // both Fenwicks, best match first
+  orrery.onChange(() => { /* a new build landed */ });
+  ```
+
+- **Ids:** made from the name (`Tansy Ninefingers` → `tansy-ninefingers`, a role → `role-the-tanner`). Two things with the same id fail the build, and a rename changes the id, so apps should look things up by id but expect renames.
+- **What's in it so far:** `roster.md` only (the pilot): every person (72), the worlds they're in, and the roles nobody fills yet. Places, creatures, items, factions, gods and events join next, each document getting its own parser in `tools/build.mjs`.
+
+To check the documents still compile, run `node tools/build.mjs --check`; `node tools/build.mjs` writes the files into `dist/`.
 
 ## Keeping it in sync
 

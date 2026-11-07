@@ -1,2 +1,5 @@
 # Lore that isn't shared yet. Stays on this computer.
 private/
+
+# The database build. CI publishes it to the data branch.
+dist/

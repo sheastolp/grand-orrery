@@ -1,0 +1,72 @@
+# Builds the Orrery's database and publishes it to the `data` branch.
+#
+# tools/build.mjs compiles the documents into JSON: every thing in the
+# universe as one record with a stable id. Apps read that JSON instead of
+# parsing the markdown themselves.
+#
+# - A push to main or review builds it and puts it on the `data` branch,
+#   under a folder named after the branch (data/main/…, data/review/…).
+#   Nothing is committed to main or review, so the review page's writes
+#   never race a build.
+# - Any other branch or pull request only checks that the documents still
+#   parse: a roster row with no name, or two things with the same id, fails.
+name: Build the Orrery database
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-data-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Check the documents parse
+        run: node tools/build.mjs --check
+
+      - name: Build
+        if: github.event_name != 'pull_request' && (github.ref_name == 'main' || github.ref_name == 'review')
+        run: node tools/build.mjs --out "../out/${GITHUB_REF_NAME}"
+
+      - name: Publish to the data branch
+        if: github.event_name != 'pull_request' && (github.ref_name == 'main' || github.ref_name == 'review')
+        run: |
+          set -euo pipefail
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cd ..
+          if git -C "$GITHUB_WORKSPACE" ls-remote --exit-code --heads origin data >/dev/null; then
+            git clone --quiet --depth 1 --branch data "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git" data
+          else
+            git init --quiet -b data data
+            git -C data remote add origin "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git"
+            printf '# The Orrery database\n\nBuilt from `main` and `review` by the *Build the Orrery database* action. Never edit by hand: change the documents on `review` instead.\n' > data/README.md
+          fi
+          rm -rf "data/${GITHUB_REF_NAME}"
+          cp -r "out/${GITHUB_REF_NAME}" "data/${GITHUB_REF_NAME}"
+          cd data
+          git add -A
+          # A new build time or commit alone isn't a change worth a commit.
+          if git diff --cached --quiet -I '"built":' -I '"commit":'; then
+            echo "Nothing changed in the database."
+            exit 0
+          fi
+          git commit --quiet -m "Build ${GITHUB_REF_NAME} at ${GITHUB_SHA::7}"
+          for i in 1 2 3; do
+            git push --quiet origin data && exit 0
+            git pull --quiet --rebase origin data
+          done
+          exit 1
