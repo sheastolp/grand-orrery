@@ -13,6 +13,7 @@ How to add something:
   - **Limits:** what it can't do, or what it costs
   - **Rules:** which rules of the world it shows
   - **Story:** how it can be used in a story
+  - **Where:** where it's found, kept or made, naming places the maps show (Monstradius, the Rolls House)
   - **Made by:** roster names, comma-separated (Doric, Murrow)
   - **Also called:** other names it's written under, comma-separated
   - **Note:** a short label shown under the name
@@ -29,6 +30,7 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 
 #### 🔥 Hearthstone (Your idea)
 
+- **Where:** Made and sold at Monstradius, Murrow's shop in Stoutwell.
 - **Does:** Keeps a stove warm through the night without new wood.
 - **Made:** A fire user charges a smooth river stone in Murrow's shop. Murrow sets the charge so it releases slowly instead of all at once.
 - **Limits:** It lasts one night per charge and still needs embers to work with. It warms the fire but doesn't replace it. Rare and pricey.
@@ -40,6 +42,7 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 
 #### 🪝 Featherhook (Your idea)
 
+- **Where:** Forged at Doric's smithy and imprinted at Monstradius; used on the dead-tree runs at the edge of the Monster Wood.
 - **Does:** Cuts a log's weight about in half while it's being dragged.
 - **Made:** Iron hooks forged by Doric, then imprinted by Murrow with a wind pattern.
 - **Limits:** It draws on the latent wind in whoever holds it, so it works better for humans than halflings. Holding it for too long leaves you winded.
@@ -51,6 +54,7 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 
 #### 🔔 Wardbell (Your idea)
 
+- **Where:** On Stoutwell's walls, facing the Monster Wood.
 - **Does:** Rings by itself when something large comes out of the Monster Wood.
 - **Made:** A detection user's sense is set into the bell's metal and pointed toward the wood.
 - **Limits:** It needs a detection user to refresh it every few weeks. It can't tell goblins from trolls, only big from small.
@@ -62,6 +66,7 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 
 #### 🔍 Truthglass (Your idea)
 
+- **Where:** Monstradius, Murrow's shop.
 - **Does:** Shows whether a coin, seal or signed paper is real.
 - **Made:** A rare piece of clear quartz, charged with detection magic.
 - **Limits:** It only answers real or fake. It can't tell you who forged something or why.
@@ -73,6 +78,7 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 #### 🧭 Rift compass (Your idea)
 
 - **Note:** Murrow's secret project
+- **Where:** Monstradius, kept secret.
 - **Does:** Points toward places where the worlds are thin.
 - **Made:** Unknown, even to Murrow. It may use a kind of magic nobody in the village has.
 - **Limits:** About 80% complete, and still a secret.
@@ -82,6 +88,7 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 #### 🪞 Seeker's Lodestone (Your idea)
 
 - **Note:** Glumtom's secret
+- **Where:** With Glumtom, in Glumtom's workshop in the Kingdom's capital.
 - **Does:** An arrow of light rises from it and points toward another artificer.
 - **Made:** A perfectly round, flat disc of mirrorstone, shaped by magic and drawn by a blend of many mana types.
 - **Limits:** It only finds artificers. Glumtom could find Murrow with it, but he isn't looking, and Murrow doesn't know it exists.
@@ -91,6 +98,7 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 #### 🌫️ Lasting hiding charm (Your idea)
 
 - **Note:** Murrow's research, not made yet
+- **Where:** Murrow's research, at Monstradius.
 - **Does:** Would hold Murrow's spell that hides him from magical detection, so it no longer wears off.
 - **Made:** Not yet. The *Nondetection*-style spell he casts himself only lasts so long, and he's working out how to put it into an item.
 - **Limits:** Until it's finished, nothing hides him from the Seeker's Lodestone for long.
@@ -100,6 +108,7 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 
 #### 🔏 Artificer's mark (Your idea)
 
+- **Where:** On enchanted items made in the Kingdom; the register it answers to is kept in the Rolls House.
 - **Does:** The mark a registered artificer puts on every enchanted item made in the Kingdom.
 - **Rules:** Every artificer the Kingdom finds goes into the register of artificers and is put to work, the way Glumtom was.
 - **Limits:** Unmarked items aren't illegal to own, but they make people ask who made them. Nothing from Monstradius carries one.
@@ -141,6 +150,7 @@ What the village builds and makes things from.
 
 #### ⚙️ Iron (Your idea)
 
+- **Where:** Doric's smithy.
 - **Does:** What Doric forges, from the Featherhooks' hooks to the village's ornate smithing.
 - **Made by:** Doric
 
@@ -148,12 +158,14 @@ What the village builds and makes things from.
 
 #### 🪵 Timber (Your idea)
 
+- **Where:** Cut at the lumber mill on the river and stored in the Lumber yard by Stoutwell's east gate.
 - **Does:** Boards and beams for the village's wooden homes and construction.
 - **Made:** Dead-tree runs drag fallen trees back from the forest edge, with wind users lightening the load. The lumber mill on the river cuts them, and the lumber yard by the east gate stores them.
 - **Also called:** lumber
 
 #### 🌳 Ash wood (Your idea)
 
+- **Where:** The Ashen Reach, south of Stoutwell.
 - **Does:** Dense, tough wood the woodworkers prize for tool handles, weapon hilts and arrow shafts.
 - **Made:** From the few short, twisted ash trees that grow on the Ashen Reach, the grey plain south of Stoutwell.
 - **Limits:** Nothing grows tall on the Reach, so it's too short for beams. The village's timber still comes from the dead-tree runs.
@@ -161,6 +173,7 @@ What the village builds and makes things from.
 
 #### 🪓 Firewood (Your idea)
 
+- **Where:** Dead trees near the edge of the Monster Wood.
 - **Does:** Fuel for the wood stoves that heat every home in Stoutwell, so it's constant work.
 - **Made:** One or two villagers with detection magic find dead trees near the forest edge, and a group drags them out with wind users lightening the load, under a Guard escort. Humans do about 70% of the chopping, halflings the rest.
 - **Also called:** wood
@@ -176,6 +189,7 @@ What the village builds and makes things from.
 
 #### 🦴 Hollowstag antler (Your idea)
 
+- **Where:** On the hollowstags of the deep woods, in the Monster Wood. None has been brought out.
 - **Does:** A hollow antler from a hollowstag, the stag of the deep woods nearly fifteen feet tall. It whistles when the beast runs.
 - **Limits:** Nobody has one. No company has yet brought GuildScribe proof of the deep woods' great beasts.
 - **Story:** The first company to bring one back to the hall would make its name, and fill a blank page in the guildscribes' bestiary.
@@ -188,6 +202,7 @@ Everyday things that get the work done.
 
 #### 🔨 Smith's hammer (Your idea)
 
+- **Where:** Doric's smithy.
 - **Does:** Hammering hot steel. Tobin uses a strength enhancement to hammer harder.
 - **Made by:** Doric
 
@@ -196,6 +211,7 @@ Everyday things that get the work done.
 #### 🥫 Firing Tin (Your idea)
 
 - **Note:** From a lore-keeper chat, 2026-11-06
+- **Where:** On Murrow's workbench at Monstradius.
 - **Does:** Starts a fire straight away, without embers.
 - **Made:** A tin filled with gunpowder sparks, lit by striking two metal pins together for a brief flame.
 - **Limits:** One light, then it needs refilling and upkeep.
@@ -205,6 +221,7 @@ Everyday things that get the work done.
 
 #### 🚰 Murrow's irrigation (Your idea)
 
+- **Where:** From the river into Stoutwell, to Murrow's research building in the NE district.
 - **Does:** Brings river water into Stoutwell, which ended the centuries of water runs to refill the dried well.
 - **Made:** Built recently by Murrow, out of his research, from the river to his research building in the NE district.
 - **Story:** More water could mean more ale for the first time in centuries. Who controls that is still open.
@@ -218,6 +235,7 @@ What the Guard carries.
 
 #### 🛡️ Guard shield (Your idea)
 
+- **Where:** With the Guard on Stoutwell's walls, in the croplands and on gathering escorts.
 - **Does:** The big shields the halfling shield-bearers fight from behind, almost fully hidden.
 - **Also called:** shields
 
@@ -225,6 +243,7 @@ What the Guard carries.
 
 #### 🏹 Archer's bow (Your idea)
 
+- **Where:** On Stoutwell's walls, and with the escorts of dead-tree runs.
 - **Does:** Carried by the human archers on Stoutwell's walls, and by the archer or two who escort dead-tree runs.
 - **Also called:** archers, bows
 
@@ -246,12 +265,14 @@ What the Guard carries.
 
 #### 🐟 The lake's catch (Your idea)
 
+- **Where:** The fishing settlement on the lake's far shore.
 - **Made:** Caught by the small fishing settlement on the lake's far shore, which isn't part of the village but feeds it.
 
 ### Forage
 
 #### 🍄 Red-capped mushrooms (Your idea)
 
+- **Where:** The edge of the Monster Wood. Burn eats them at the Wellhouse.
 - **Does:** Edible mushrooms the gatherers bring in from the forest edge. Burn swears they make a man grow. They don't. He eats them anyway.
 - **Made:** Foraged at the edge of the Monster Wood by the Gatherers, under Guard escort.
 
@@ -259,6 +280,7 @@ What the Guard carries.
 
 #### 🍺 Stout ale (Your idea)
 
+- **Where:** Served at the Wellhouse.
 - **Does:** What Stoutwell is known for, along with its ornate smithing.
 - **Story:** More water from Murrow's irrigation could mean more ale for the first time in centuries. Who controls that is still open.
 - **Also called:** ale
@@ -269,6 +291,7 @@ What the Guard carries.
 
 #### 🪙 Gold, silver and copper (Your idea)
 
+- **Where:** Minted at the mint in the Kingdom's capital.
 - **Does:** What GuildScribe's bounty board pays in. Murrow takes coin or barter, on the same terms for everyone.
 - **Also called:** coin, coins, copper
 
@@ -287,11 +310,13 @@ What the Guard carries.
 
 #### 💰 The lump-sum tax (Your idea)
 
+- **Where:** Carried along the Woodland Road by the tax representative.
 - **Does:** Stoutwell's Kingdom tax, paid as one sum and carried home by the tax representative, instead of counting the village name by name.
 - **Story:** It's why no one in Stoutwell has ever been drafted, and why Murrow can live there unregistered. One guild ledger could end the deal. The sum is a number someone in the capital sets.
 
 #### 🏺 GuildScribe's swear jar (Your idea)
 
+- **Where:** GuildScribe's hall in the capital.
 - **Does:** Where GuildScribe's hall collects its fines. Anyone who tries to rob the Scribe is fined into it.
 
 ## Records & papers
@@ -302,6 +327,7 @@ The Kingdom runs on paper: a name written down can be taxed, drafted, fined or f
 
 #### 🗂️ The Kingdom's rolls (Your idea)
 
+- **Where:** The Rolls House, beside the Crown's seat.
 - **Does:** The census, the tax rolls, the draft list, the register of artificers and GuildScribe's parchments, all feeding the same records.
 - **Made:** Kept in the Rolls House, beside the Crown's seat in the capital.
 - **Story:** The Kingdom's corruption is mostly about whose names get written, lost or moved for a bribe. Stoutwell has never been on them.
@@ -309,6 +335,7 @@ The Kingdom runs on paper: a name written down can be taxed, drafted, fined or f
 
 #### 🔖 The Highwrit's seal (Your idea)
 
+- **Where:** The Crown's seat: nothing leaves the court without it.
 - **Does:** Goes on every decree, writ and letter that leaves the court, after the Highwrit's clerks have copied, polished and proofread it.
 - **Made by:** House Harrowmere, which holds the Highwrit
 - **Limits:** It makes a document look right; it never checks that it's true. A Truthglass can tell whether the seal is real, not whether the words under it are honest.
@@ -317,6 +344,7 @@ The Kingdom runs on paper: a name written down can be taxed, drafted, fined or f
 
 #### 📋 Adventurer's parchment (Your idea)
 
+- **Where:** GuildScribe's hall in the capital.
 - **Does:** GuildScribe's record of one adventurer: name, race, trade, skill and deeds. Its rank rises as it fills: Novice, Journeyman, Seasoned, Veteran.
 - **Made:** Written by the guildscribes when an adventurer joins the hall in the capital.
 - **Story:** It puts your name on the Kingdom's books, and registered citizens can be drafted.
@@ -324,12 +352,14 @@ The Kingdom runs on paper: a name written down can be taxed, drafted, fined or f
 
 #### 📌 Bounty notice (Your idea)
 
+- **Where:** GuildScribe's bounty board in the capital, and the waystations on the Clerk's road.
 - **Does:** A monster bounty, paid in Kingdom coin: gold, silver and copper. GuildScribe's board is covered in them; at a waystation on the Kingdom's edge, the board is one nail and one notice.
 - **Made by:** The Scribe, The Wandering Clerk
 - **Also called:** bounty, bounties
 
 #### 📓 The Wandering Clerk's ledger (Your idea)
 
+- **Where:** Wherever the Wandering Clerk is, on the Kingdom's roads and down the Woodland Road.
 - **Does:** The ledger of their own the Wandering Clerk keeps on the Kingdom's roads, swearing in adventurers where there's no guild.
 - **Made by:** The Wandering Clerk
 - **Story:** By way of the Woodland Road, it could be the first guild ledger to reach Stoutwell, and put villagers' names on paper the Kingdom might read.
