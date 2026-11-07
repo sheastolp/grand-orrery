@@ -860,3 +860,16 @@ _Made up by the AI in rest mode, 2026-11-07 · about a piece of Stoutwell's or t
 _Made up by the AI in rest mode, 2026-11-07 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
 
 - **Label:** A smooth, grey river stone etched with faint swirling lines that glow faintly when held by someone experiencing mild stress or discomfort.
+
+### Whisperwind (Pitch)
+
+<!-- review-key: rest:idea-mw6n1sw6 -->
+_Made up by the AI in rest mode, 2026-11-07 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- **Label:** A creature adapted to the damp, echoing depths of the Monster Wood, it communicates through subtle shifts in air pressure and uses this ability for both hunting and defense.
+- **What it is:** A "Silken Stalker," a small, serpentine predator about the size of a large dog – roughly three feet long - covered in moss-like fur that blends perfectly with the Monster Wood’s undergrowth. It possesses delicate, membranous wings allowing short bursts of gliding flight.
+- **Who:** Native to the deepest sections of the Monster Wood, primarily dwelling amongst ancient, decaying trees near areas saturated with moisture and shadow. They are solitary creatures, rarely interacting with each other or venturing far from their chosen territories.
+- **Where:** Specifically found within pockets of the Monster Wood characterized by unusually high humidity—particularly around fallen logs, stagnant pools, and deep ravines where the sunlight struggles to penetrate. Their dens are typically constructed within hollowed-out tree roots or beneath dense tangles of vines.
+- **How it Works:** The Silken Stalker doesn't rely on sight or sound; instead, it detects its prey (small animals, birds, even unwary travelers) using specialized organs located along its flanks that sense minute changes in air pressure caused by movement. These ‘pressure whispers’ allow it to pinpoint targets with incredible accuracy, effectively creating a 3D “map” of its surroundings.  It can also use this ability defensively, releasing a concentrated burst of compressed air as a disorienting shockwave.
+- **Limits:** Its sensitivity is heavily affected by strong winds or turbulent airflow – making open spaces perilous. Magical interference, especially spells that create sonic vibrations, severely disrupts its sensory system, causing intense pain and disorientation. Prolonged exposure to fire causes its fur to burn rapidly, stripping away its camouflage and leaving it vulnerable. It cannot reliably track magic users - they simply appear as static noise.
+- **Ties:** Murrow has observed the Silken Stalkers during his research
