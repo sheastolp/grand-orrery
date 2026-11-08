@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T21:23:18.372Z",
+  "built": "2026-11-08T21:23:50.087Z",
   "branch": "review",
-  "commit": "69be4ef8cbd42494f81d3b717a9c45648f6778f1",
+  "commit": "b8d4803e909fccf985f4b25afef015feb184dace",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 16,
     "lore": 30,
-    "note": 187
+    "note": 186
   },
   "entities": [
     {
@@ -115,8 +115,7 @@
         "universe-murrows-items",
         "working-notes-monstradius-items",
         "working-notes-constructed-items",
-        "working-notes-rooks-watch",
-        "working-notes-the-silent-offering-2"
+        "working-notes-rooks-watch"
       ]
     },
     {
@@ -1946,7 +1945,7 @@
       },
       "review_key": "lore-keeper:ebb8356f-32f4-4bdd-a147-bd8363d608b9",
       "filed": "2026-11-08",
-      "body": "_From a lore-keeper chat, 2026-11-08 · Items & inventions._\n\n**Name:** Resonance Stone Device\n\n**Kind:** Items & Inventions – A handheld device utilizing a resonance stone to passively amplify ambient magical signatures.\n\n**The Rule:** This device allows a single operator to detect nearby magic through enhanced sensory input, providing rudimentary awareness of their surroundings.\n\n**How it Works:** A finely-tuned resonator chamber within the device captures and amplifies subtle magical emanations, translating them into tactile sensations - warmth, pressure, slight vibrations – relayed directly to the operator’s nervous system via fine copper wiring connected to gloves. \n\n**Costs and Limits:** Three weeks of skilled smithing labor (Doric's work), approximately 25 silver coins for components, three days extracting a resonance stone from the Monster Wood, limited range dependent on surrounding mana strength, drains stone quickly with prolonged use, susceptible to feedback loops at overuse. \n\n**Who it Affects:** Primarily intended for individuals sensitive to magic—likely those untrained or inexperienced in detection—potentially useful for guards, scouts, and investigators needing basic situational awareness. It could also be used by Murrow himself for reconnaissance.\n\n**What it Changes:** Shifts perception; transforms passive observation into active sensing. Doesn't grant true \"detection\" but augments existing sensitivity, making users more attuned to fluctuations in magical energy.\n\n**Clashes with Canon:** None.\n\n**Open Questions:** (Suggested) The specific type of ‘sensations’ experienced will vary greatly depending on ambient magic; is there a way to standardize this? How does Glumtom’s Reanimator technology interact with such amplified signatures?\n\n\n\nIn the world:\n\nThe rain hammered against the slate roof of Monstradius as Murrow adjusted the Resonance Stone Device, its grey surface gleaming faintly beneath the workshop’s single oil lamp. A young Guard recruit, Tobin Ashby, stood awkwardly beside him, clad in leather gloves connected to the device.  Tobin shifted nervously, his face etched with concentration – a faint flush warming his cheeks as he described the subtle vibrations - “Like a swarm of tiny bees buzzing…almost.” Murrow nodded gravely, meticulously adjusting a copper coil. This wasn't grand detection magic, just a carefully calibrated link between human senses and the chaotic whispers of Verrowen's inherent magic, a start toward understanding something far greater.",
+      "body": "_From a lore-keeper chat, 2026-11-08 · Items & inventions._\n\n**Name:** Resonance Stone Device\n\n**Kind:** Items & Inventions – A handheld device utilizing a resonance stone to passively amplify ambient magical signatures.\n\n**The Rule:** This device allows a single operator to detect nearby magic through enhanced sensory input, providing rudimentary awareness of their surroundings.\n\n**How it Works:** A finely-tuned resonator chamber within the device captures and amplifies subtle magical emanations, translating them into tactile sensations - warmth, pressure, slight vibrations – relayed directly to the operator’s nervous system via fine copper wiring connected to gloves. \n\n**Costs and Limits:** Three weeks of skilled smithing labor (Doric's work), approximately 25 silver coins for components, three days extracting a resonance stone from the Monster Wood, limited range dependent on surrounding mana strength, drains stone quickly with prolonged use, susceptible to feedback loops at overuse. \n\n**Who it Affects:** Primarily intended for individuals sensitive to magic—likely those untrained or inexperienced in detection—potentially useful for guards, scouts, and investigators needing basic situational awareness. It could also be used by Murrow himself for reconnaissance.\n\n**What it Changes:** Shifts perception; transforms passive observation into active sensing. Doesn't grant true \"detection\" but augments existing sensitivity, making users more attuned to fluctuations in magical energy.\n\n**Clashes with Canon:** None.\n\n**Open Questions:** (Suggested) The specific type of ‘sensations’ experienced will vary greatly depending on ambient magic; is there a way to standardize this? How does Glumtom’s Reanimator technology interact with such amplified signatures?\n\nIn the world:\n\nThe rain hammered against the slate roof of Monstradius as Murrow adjusted the Resonance Stone Device, its grey surface gleaming faintly beneath the workshop’s single oil lamp. A young Guard recruit, Tobin Ashby, stood awkwardly beside him, clad in leather gloves connected to the device.  Tobin shifted nervously, his face etched with concentration – a faint flush warming his cheeks as he described the subtle vibrations - “Like a swarm of tiny bees buzzing…almost.” Murrow nodded gravely, meticulously adjusting a copper coil. This wasn't grand detection magic, just a carefully calibrated link between human senses and the chaotic whispers of Verrowen's inherent magic, a start toward understanding something far greater.",
       "notes": [
         "working-notes-resonance-stone-device"
       ],
@@ -1980,7 +1979,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1454
+        "line": 1449
       }
     },
     {
@@ -2007,7 +2006,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1501
+        "line": 1483
       }
     }
   ]

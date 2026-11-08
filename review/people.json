@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T21:23:18.372Z",
+  "built": "2026-11-08T21:23:50.087Z",
   "branch": "review",
-  "commit": "69be4ef8cbd42494f81d3b717a9c45648f6778f1",
+  "commit": "b8d4803e909fccf985f4b25afef015feb184dace",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 16,
     "lore": 30,
-    "note": 187
+    "note": 186
   },
   "entities": [
     {
@@ -291,8 +291,7 @@
         "working-notes-village-roster-2",
         "working-notes-guards-routine",
         "working-notes-murrows-secret",
-        "working-notes-rooks-watch",
-        "working-notes-the-silent-offering-2"
+        "working-notes-rooks-watch"
       ]
     },
     {
@@ -2087,7 +2086,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1258
+        "line": 1253
       }
     }
   ]
