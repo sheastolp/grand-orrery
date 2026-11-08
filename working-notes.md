@@ -993,6 +993,35 @@ _From a lore-keeper chat, 2026-11-08 · Regions & places._
 
 In the world, Master Tobin Ashby stood at the edge of the Scarred Pass, his face weathered by wind and sun. His apprentice, young Elias, nervously adjusted the featherhook strapped to his wrist as they prepared to descend into the ravine. A thick fog clung to the mountain slopes, muting sound and obscuring vision - a familiar hazard intensified by the presence of the elusive Stonekin, whose low growls echoed faintly through the rock. He consulted Murrow’s Lodestone, its mirrorstone surface swirling with faint patterns indicating movement within the stone; it was time to proceed carefully, lest they trigger an ancient conflict.
 
+### Greyhaven (Pitch)
+
+<!-- review-key: lore-keeper:93b3380c-7946-4a31-9040-fade47812824 -->
+_From a lore-keeper chat, 2026-11-08 · Regions & places._
+
+**Name:** Greyhaven
+
+**Kind:** Regions & Places - A district within Stoutwell, bordering the Ashen Reach and the Guard Training Grounds.
+
+**The Rule:** Greyhaven is defined by its proximity to the training grounds and the constant flow of ash dust from the Ashen Reach, creating a perpetually gritty environment inhabited primarily by those unable to afford better housing.
+
+**How It Works:**  The district’s economy relies on scavenging, repair work, and informal trade facilitated by Doric's smithy, benefiting directly from discarded materials and surplus equipment from the Guard's training exercises.
+
+**Costs and Limits:** Accessing Greyhaven requires navigating dangerous conditions – ash inhalation causing chronic illness, frequent flooding, and potential encounters with wild beasts drawn to the exposed area. Mana expenditure is minimal here, mostly related to simple repairs or warding against minor environmental hazards. 
+
+**Who It Affects:** Primarily impoverished human families, some halflings, former Guard recruits, and occasional itinerant laborers seeking temporary employment. The Elderhold maintains nominal oversight but exerts little direct control. 
+
+**What It Changes:** Greyhaven subtly shifts Stoutwell’s social dynamic, acting as a visible reminder of inequality and providing a steady stream of low-skilled labor for the kingdom (and occasionally, unfortunately, for criminal enterprises). 
+
+**Clashes With Canon:** None. 
+
+**Open Questions:** (Suggested) - *What specific illnesses are prevalent in Greyhaven due to the ash?*
+
+
+---
+In the world:
+
+Rain hammered down on the corrugated iron roof of Silas’s workshop, drumming out a relentless rhythm alongside the clang of his hammer. He was painstakingly repairing a shattered shield for Corporal Garin, one of the newest Guardsmen emerging from the drills below. A fine layer of grey dust coated everything—Silas’s hands, his tools, even the meager meal he'd eaten before starting.  The smell of burnt timber mingled with the damp earth; the familiar scent of Greyhaven – a grim testament to Stoutwell’s edges. Murrow would soon be by, demanding an inventory report for Doric’s materials.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
