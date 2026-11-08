@@ -1079,3 +1079,11 @@ _Made up by the AI in auto mode, 2026-11-07 · about a small everyday magic item
 - **How it works:** The shard doesn’t actively locate other artificers like the full Lodestone. Instead, when held aloft and focused upon, it subtly amplifies the user’s inherent ability to sense latent magic - specifically, the magical resonance left behind by another artificer. This manifests as a faint visual distortion around the target, appearing as a ripple in the air or a subtle shift in color – akin to seeing heat shimmering off a hot stone.  The effect requires concentration; prolonged use drains mana quickly.
 - **Limits:** The shard only detects *active* traces of artificing magic, not dormant power. It's also incredibly sensitive: strong elemental magic or powerful divine spells can overwhelm its signal, rendering it useless. Furthermore, Murrow warns that overuse leads to "echoes" – brief flashes of fragmented memories from other artificers, potentially overwhelming the user with foreign thoughts and sensations. Finally, because it is a piece of mirrorstone itself, it cannot be charged by any external source, relying entirely on the user’s own Mana.
 - **Ties:** The shard was initially intended for tracking down Glumtom, but after Murrow discovered the Kingdom’s interest (and suspicion) regarding his activities he modified its function, using it primarily to detect potential threats within Stoutwell—namely, anyone attempting to replicate his work, such as Doric and his smithing secrets. He believes Hesketh has been paying attention to him, too, due to his unusual knowledge about Rift compass design.
+
+### Whisperwind’s Watch (Pitch)
+
+<!-- review-key: rest:idea-mw72o20l -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- The village guard utilizes a wind-sensitive bell system that warns them of approaching danger within the Monster Wood, relying heavily on a single, dedicated watcher.
