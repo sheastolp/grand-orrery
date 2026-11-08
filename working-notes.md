@@ -990,7 +990,6 @@ _From a lore-keeper chat, 2026-11-08 · Regions & places._
 
 **Open Questions:** (Suggested) – What is the nature of the Stonekin’s resistance? How do the wyvern populations relate to other known monstrous threats in Verrowen?
 
-
 In the world, Master Tobin Ashby stood at the edge of the Scarred Pass, his face weathered by wind and sun. His apprentice, young Elias, nervously adjusted the featherhook strapped to his wrist as they prepared to descend into the ravine. A thick fog clung to the mountain slopes, muting sound and obscuring vision - a familiar hazard intensified by the presence of the elusive Stonekin, whose low growls echoed faintly through the rock. He consulted Murrow’s Lodestone, its mirrorstone surface swirling with faint patterns indicating movement within the stone; it was time to proceed carefully, lest they trigger an ancient conflict.
 
 ### Greyhaven (Your idea)
@@ -1015,7 +1014,6 @@ _From a lore-keeper chat, 2026-11-08 · Regions & places._
 **Clashes With Canon:** None. 
 
 **Open Questions:** (Suggested) - *What specific illnesses are prevalent in Greyhaven due to the ash?*
-
 
 ---
 In the world:
@@ -1045,40 +1043,6 @@ Open questions: (suggested) What specific creatures inhabit the deeper coves nea
 
 In the world:
 The rain hammered against the timbers of Silas’s small fishing boat as he hauled in his evening catch - mostly sea-slugs and phosphorescent shrimp. The wind howled off the cliffs, carrying spray that stung his face. Old Man Hemlock, mending nets beside him, grunted, "Stormbreaker's holding true tonight, boy. Best build in Verrowen hasn't seen conditions like this in a generation." A flash of blue light briefly illuminated from beneath the waves before disappearing into the dark depths--a common sight around Saltwind Reach, but always unsettling enough to make Silas check his hooks twice.
-
-### Conduit Staff (Your idea)
-
-<!-- review-key: lore-keeper:dfd29695-28bb-4f1e-a60d-5ccfa50f6295 -->
-_From a lore-keeper chat, 2026-11-08 · Anything._
-
-Here's the compiled output from our discussion regarding wizard staffs, formatted as requested:
-
-**Name:** Conduit Staff
-**Kind:** Amplification Focus
-**What it is:** A polished obsidian staff designed to channel and intensify existing magical energies.
-**Details:** Core crafted from rare obsidian, channeling ambient mana into focused blasts or shields – favored by fire users. It drains mana rapidly if overused, growing noticeably colder when depleted. Murrow would oversee its creation, demanding substantial labor. 
-**Clashes with Canon:** None
-**Open Questions:** Obsidian brittleness (suggested: Doric could potentially reinforce the core with interwoven strands of mithril—a risky but powerful addition). 
-
-**Name:** Resonance Staff
-**Kind:** Manipulation Focus
-**What it is:** An ashwood staff allowing for subtle manipulation of ambient magic.
-**Details:** Crafted from seasoned Ash wood harvested from the Ashen Reach, skilled users can dampen earth tremors or disrupt other spellcasters. Requires intense concentration and carries risk of uncontrolled amplification. Cost: Primarily dependent on Doric’s skill in treating the wood against weather damage. 
-**Clashes with Canon:** None
-**Open Questions:** Monster Wood sensitivity - does manipulating ambient energy attract unwanted attention? (suggested:  Investigate rumors surrounding a specific grove within the Monster Wood known for attracting aberrant creatures.) 
-
-**Name:** Echo Staff
-**Kind:** Temporal Conduit
-**What it is:** A dragonbone staff that briefly replays past magical events within the Monster Wood.
-**Details:** Utilizes petrified dragonbone to create ghostly illusions and limited conjurations – reliant on understanding the woods' history through ritualistic activation. Requires significant knowledge of the Monster Wood’s lore.
-**Clashes with Canon:** None
-**Open Questions:** Activation Ritual - What specifically triggers this replay effect beyond simply holding the staff? (suggested: Research Murrow’s notes—he hinted at using specific runes etched into the bone).
-
-
-
-In the world: 
-
-The rain hammered against Monstradius's workshop door as Murrow meticulously polished the obsidian core of the Conduit Staff. The air hung thick with the smell of oil and heated stone, illuminated by a single flickering lantern casting long shadows across his cluttered workbench. He muttered incantations under his breath, painstakingly weaving strands of silver thread around the core, attempting to reinforce its structure before adding the final focusing lens he had crafted himself. A young apprentice, Tobin, nervously adjusted his smithing hammer, watching Murrow intently, aware that one misplaced touch could shatter the potentially valuable device – or worse.  He paused, wiping sweat from his brow, glancing towards the east wall where Stoutwell was already beginning preparations for supper.
 
 ## From Wake in Verrowen
 
@@ -1115,13 +1079,6 @@ _Made up by the AI in rest mode, 2026-11-07 · about a creature of the Monster W
 - **How it Works:** The Silken Stalker doesn't rely on sight or sound; instead, it detects its prey (small animals, birds, even unwary travelers) using specialized organs located along its flanks that sense minute changes in air pressure caused by movement. These ‘pressure whispers’ allow it to pinpoint targets with incredible accuracy, effectively creating a 3D “map” of its surroundings.  It can also use this ability defensively, releasing a concentrated burst of compressed air as a disorienting shockwave.
 - **Limits:** Its sensitivity is heavily affected by strong winds or turbulent airflow – making open spaces perilous. Magical interference, especially spells that create sonic vibrations, severely disrupts its sensory system, causing intense pain and disorientation. Prolonged exposure to fire causes its fur to burn rapidly, stripping away its camouflage and leaving it vulnerable. It cannot reliably track magic users - they simply appear as static noise.
 - **Ties:** Murrow has been observing the Silken Stalkers during his research
-
-### Riverstone Charm (Your idea)
-
-<!-- review-key: rest:idea-mw6ntuw3 -->
-_Made up by the AI in rest mode, 2026-11-07 · about a place in the Kingdom's capital or on the Kingdom's roads._
-
-- **Label:** A protective charm found near Stoutwell’s lake, tied to the fishing settlement’s secret passage.
 
 ### The Silent Well (Your idea)
 
@@ -1180,19 +1137,6 @@ _Made up by the AI in auto mode, 2026-11-07 · about a custom, saying, food or r
 - **Limits:** The effectiveness of this “offering” is entirely based on belief and tradition; there's no demonstrable magical effect. However, the ritual serves as a focal point for community goodwill and represents a tangible connection to the past and their ancestors.  The offering only has power if the person offering it *believes* it will work. If someone doubts it, nothing happens.
 - **Ties:** This custom directly links to the founding story of Stoutwell - the legend says the well dried up because the villagers forgot to offer respect to the spirit of the water. The elves’ arrival centuries ago was seen as a sign that their dedication would restore prosperity. Burn’s frequent presence at the well further solidifies the custom within the village’s culture.
 
-### Murrow’s Shard (Your idea)
-
-<!-- review-key: rest:idea-mw71tngd -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-07 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
-
-- **What it is:** A palm-sized disc of mirrorstone, intricately etched with swirling silver lines that faintly shimmer when held near a source of heat – essentially a miniature version of the Seeker’s Lodestone.
-- **Who:** It was crafted by Murrow himself, over decades of painstaking work, utilizing techniques he claims were “borrowed” from forgotten artificer traditions. He keeps it close, almost as if it were a familiar, rarely letting others touch it.
-- **Where:** Currently resides within Murrow’s cluttered workshop Monstradius, nestled amongst his bizarre collection of salvaged components and arcane devices.
-- **How it works:** The shard doesn’t actively locate other artificers like the full Lodestone. Instead, when held aloft and focused upon, it subtly amplifies the user’s inherent ability to sense latent magic - specifically, the magical resonance left behind by another artificer. This manifests as a faint visual distortion around the target, appearing as a ripple in the air or a subtle shift in color – akin to seeing heat shimmering off a hot stone.  The effect requires concentration; prolonged use drains mana quickly.
-- **Limits:** The shard only detects *active* traces of artificing magic, not dormant power. It's also incredibly sensitive: strong elemental magic or powerful divine spells can overwhelm its signal, rendering it useless. Furthermore, Murrow warns that overuse leads to "echoes" – brief flashes of fragmented memories from other artificers, potentially overwhelming the user with foreign thoughts and sensations. Finally, because it is a piece of mirrorstone itself, it cannot be charged by any external source, relying entirely on the user’s own Mana.
-- **Ties:** The shard was initially intended for tracking down Glumtom, but after Murrow discovered the Kingdom’s interest (and suspicion) regarding his activities he modified its function, using it primarily to detect potential threats within Stoutwell—namely, anyone attempting to replicate his work, such as Doric and his smithing secrets. He believes Hesketh has been paying attention to him, too, due to his unusual knowledge about Rift compass design.
-
 ### Whisperwind’s Watch (Your idea)
 
 <!-- review-key: rest:idea-mw72o20l -->
@@ -1201,32 +1145,6 @@ _Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster W
 
 - The village guard utilizes a wind-sensitive bell system that warns them of approaching danger within the Monster Wood, relying heavily on a single, dedicated watcher.
 
-### Murrow’s Shard (Your idea)
-
-<!-- review-key: rest:idea-mw740tb7 -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-08 · about a piece of Stoutwell's or the Kingdom's history._
-
-- **What it is:** A perfectly smooth, obsidian shard about the size of a robin’s egg – Murrow’s Shard – that faintly pulses with residual mana when held by someone attuned to artificing, specifically revealing faint traces of other people’s past magic use within a limited radius (approximately 10 feet). It doesn't reveal *who* used the magic, only the *type* and intensity.  It requires a detection user every few weeks to refresh its ability.
-- **Who:** Primarily Murrow, but can be briefly activated by any skilled artificer or even someone with unusually strong latent magical abilities. The shard appears to have been created during a particularly violent rift opening near the Ashen Reach centuries ago - possibly linked to the initial construction of Stoutwell's defenses.
-- **Where:** Initially discovered embedded deep within the crumbling foundations of Monstradius, Murrow's primary research building, shortly after he began experimenting with stabilizing small, controlled rifts. It's now kept locked away in his most secure cabinet alongside the Seeker's Lodestone.
-- **How it works:** Holding the shard causes a brief surge of warmth followed by a visual overlay showing spectral “threads” of energy connected to objects and locations within range. These threads intensify where significant magical activity has occurred recently. The stronger the original spell cast, the more prominent the thread becomes. A healer’s touch shows as a bright orange, while a simple earth-loosening enchantment might appear as a faint grey. Overuse quickly drains the shard's power, requiring a "refresh" – typically involving a focused detection spell – performed by a skilled magic user (or, reluctantly, by Murrow himself).
-- **Limits:**  The shard only reveals *traces* of past magic; it doesn’t show detailed spells or complex rituals. Its effective radius is limited, shrinking drastically when used extensively. It also cannot detect old magic that’s long decayed—the residue fades over centuries. Furthermore, attempting to force its use without an attuned mind results in painful feedback and disorientation.
-- **Ties:** This discovery reinforces Murrow's suspicion that the Blight wasn
-
-### Murrow’s Shard (Your idea)
-
-<!-- review-key: rest:idea-mw74vl26 -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers' relics and the story they tell about it._
-
-- **What it is:** A smooth, palm-sized fragment of mirrorstone – a rare black glass - that faintly hums with residual elemental energy, particularly wind. It appears to have been deliberately shaped by someone familiar with artificing techniques.
-- **Who:** Primarily Murrow himself, though he occasionally allows other skilled artisans like Doric to examine it closely. He believes it holds a key to understanding how he can store mana within objects without direct expenditure.
-- **Where:** Initially found amongst the debris after a minor rift opened briefly near the Ashen Reach during a storm, then kept hidden within his most secure workshop room in Monstradius.
-- **How it works:** When held, the shard subtly amplifies any existing ambient wind magic nearby—a slight breeze suddenly becomes noticeable, tools seem lighter for a moment, or even provides a momentary boost to a fire user struggling against weak winds.  The effect isn't powerful enough to actively create wind, but rather enhances what already exists; using it requires focus and exertion from the wielder, draining their own mana slowly. After prolonged use (about five minutes), the shard grows noticeably colder, mirroring Murrow’s dwindling mana reserves. The cold intensifies dramatically as it empties, becoming intensely painful to touch.
-- **Limits:** Its effectiveness is directly tied to surrounding wind magic. In areas devoid of air currents, it offers no benefit whatsoever. Overuse leads to severe mana deprivation – dizziness, shivering, and eventual unconsciousness if not carefully monitored. It only functions reliably with someone attuned to elemental magic - elves are naturally better at wielding its power than humans. Doric has made several attempts to replicate its construction, unable to understand how this simple shard can hold so much potential.
-- **Ties:** Directly connected to Murrow’s research into creating self-sustaining magical items. He believes the Shard represents an “echo” of the original rift opening event, capturing a fleeting fragment of the world-tear's chaotic energy. It also mirrors his suspicion that some artificers deliberately manipulate rifts for personal gain—a dangerous theory he guards closely. He occasionally consults Hesketh about the local weather patterns when working
-
 ### Rook’s Watch (Your idea)
 
 <!-- review-key: rest:idea-mw75pi6h -->
@@ -1234,42 +1152,3 @@ _Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers'
 _Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._
 
 - The Guard maintains a nightly watch over Whisperwind, using a series of strategically placed Wardbells that detect movement within a fifty-foot radius – however, only the trained ears of Hesketh Reeve can reliably interpret their frantic ringing, distinguishing between a startled rabbit and a potential threat.
-
-### Murrow’s Shard (Your idea)
-
-<!-- review-key: rest:idea-mw76k4sn -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's guild hall keeps, does or is known for._
-
-- **What it is:** A seemingly unremarkable piece of polished mirrorstone – about the size of a robin’s egg – that Murrow keeps locked within a specially constructed alcove in his shop, Monstradius. It subtly shifts color depending on the ambient light and emanates a faint hum only detectable by someone with latent magical sensitivity.
-- **Who:** Primarily Murrow, but he occasionally allows select villagers (usually Burn or Clementine Rook) a brief glimpse under strict supervision for testing purposes. He refuses to explain its function directly, claiming “the universe whispers secrets to those who listen.”
-- **Where:** Within a hidden compartment built into the far wall of Murrow’s workshop, Monstradius, located in Stoutwell’s Northwest district. The compartment itself is shielded by a minor warding spell – simple enough for Murrow to maintain, though easily disrupted.
-- **How it works:** When held near a source of strong magic (an active rift, a concentrated elemental blast, even a particularly potent healing ritual), the shard amplifies the magic’s effect—doubling the range of a wind gust summoned by a skilled user, strengthening an earth-based attack, or briefly increasing the potency of a healer's touch. However, this amplification comes at a cost; the holder suffers a significant mana drain – roughly equivalent to a full day's worth of exertion – and experiences a disorientation similar to mild vertigo.
-- **Limits:** The amplified effect lasts only a few seconds before fading completely. Overuse rapidly depletes the user's mana reserves. Furthermore, the Shard cannot *create* magic, merely focus and magnify what already exists. It doesn’t work on constructs created with mundane means (like Doric’s metalwork). Finally, if someone attempts to forcefully manipulate the shard without understanding its purpose, they risk a backlash - a surge of uncontrolled magical energy that can cause severe burns or temporary madness.
-- **Ties:**  The Shard’s creation dates back to a time when Murrow was attempting to replicate the effects of the Rift Compass. He discovered that certain mirrorstone formations resonated with ambient magical energies in ways he hadn
-
-### Murrow’s Shard (Your idea)
-
-<!-- review-key: rest:idea-mw77got8 -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-08 · about a person who lives in Stoutwell._
-
-- **What it is:** A seemingly unremarkable shard of mirrorstone – about the size of a thumb – that Murrow keeps within his personal workshop, Monstradius. It pulses with faint warmth when held near another artificer’s tools or magic items.
-- **Who:** Murrow, the artificer over 550 years old, discovered and obsessively studies this particular shard.
-- **Where:** Within Murrow's cluttered research building at Monstradius, nestled amongst disassembled devices, charts depicting dimensional rifts, and vials containing strange powders.
-- **How it works:** The shard acts as a localized amplifier for ambient mana, particularly focused on detecting traces of other artificers and their creations. When close to something imbued with significant magical energy—like Doric's Featherhooks or the Wardbells—the shard glows brighter, allowing Murrow to pinpoint its composition and even trace the user’s lingering mana signature across short distances. This allows him to track where someone like Tobin Ashby was using wind-enhanced smithing techniques. However, prolonged use drains Murrow’s own limited mana reserves significantly; he describes it as “a whisper of exhaustion.” He believes it can eventually be used to open small, controlled rifts, though he has yet to successfully accomplish this.
-- **Limits:** The shard’s range is approximately 30 feet maximum. Its effectiveness diminishes rapidly beyond that distance, and repeated usage leaves Murrow severely weakened. It primarily detects *residual* magic – not actively cast spells – making it less useful against directly powerful effects. Overuse by Murrow causes weakness, dizziness, and temporary memory loss - symptoms he keeps hidden from everyone but himself.
-- **Ties:** The shard’s origins are linked to a failed attempt by a previous artificer (likely an ancestor of Murrow’s) to stabilize a minor rift opening near the Ashen Reach centuries ago. The resulting surge overloaded the mirrorstone, creating the shard which now holds some echoes of the original event. Because of his isolation, Murrow suspects Glumtom in the capital uses similar shards for their reanimation research; he fears they're attempting to replicate the same destabilizing
-
-### Murrow’s Shard (Your idea)
-
-<!-- review-key: rest:idea-mw789zj2 -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-08 · about a custom, saying, food or rule of daily life in Stoutwell._
-
-- **What it is:** A smooth, grey shard of mirrorstone – roughly the size of a thumb – that Murrow keeps tucked inside his cloak pocket. It doesn't appear magical outwardly, but when held near another artificer or item with stored mana, it faintly pulses with a cool, blue light.
-- **Who:** Primarily Murrow, though he occasionally allows Doric to examine it for diagnostics due to their long working relationship.
-- **Where:** Always within Murrow’s immediate reach - typically in his left coat pocket during shop work, or on his workbench alongside his other tools.
-- **How it works:** The shard acts as a “resonance key.” When activated by proximity to another magically-charged object or person, it briefly amplifies the flow of available mana between them, allowing Murrow to sense its exact quantity and type. He uses this information to diagnose malfunctioning items or determine if someone is subtly manipulating mana—a crucial skill given the potential for misuse. It does not amplify *his* mana, simply reveals what others are doing with theirs.
-- **Limits:** The resonance only lasts for a brief moment (no more than five seconds) and requires direct physical contact. The shard can only detect active use of mana; static magic—like wards or enchantments—won’t register. Overuse leads to headaches and dizziness for Murrow. Also, the shard’s detection range is limited to about 10 feet.
-- **Ties:** This shard was originally part of an incomplete Rift Compass, created before Murrow's current age when he was apprenticed to a travelling artificer named Silas Brightstone. Silas disappeared mysteriously while attempting to complete the compass, leaving behind a collection of damaged artifacts – including the shard, which Murrow salvaged out of necessity, using it to repair his own instruments, eventually becoming central to his work.
