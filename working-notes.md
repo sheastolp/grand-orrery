@@ -1044,7 +1044,7 @@ Open questions: (suggested) What specific creatures inhabit the deeper coves nea
 In the world:
 The rain hammered against the timbers of Silas’s small fishing boat as he hauled in his evening catch - mostly sea-slugs and phosphorescent shrimp. The wind howled off the cliffs, carrying spray that stung his face. Old Man Hemlock, mending nets beside him, grunted, "Stormbreaker's holding true tonight, boy. Best build in Verrowen hasn't seen conditions like this in a generation." A flash of blue light briefly illuminated from beneath the waves before disappearing into the dark depths--a common sight around Saltwind Reach, but always unsettling enough to make Silas check his hooks twice.
 
-### Brackwood Fringe (Pitch)
+### Brackwood Fringe (Your idea)
 
 <!-- review-key: lore-keeper:6521acef-9bc6-4a1d-b7a1-2955c0f8eaf7 -->
 _From a lore-keeper chat, 2026-11-08 · Physics & nature._
