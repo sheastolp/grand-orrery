@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T18:30:51.067Z",
+  "built": "2026-11-08T18:31:30.314Z",
   "branch": "review",
-  "commit": "05a163cc13324c0780bfc1b18168d1ad70bb4d48",
+  "commit": "9d366cc4c817b2512350eed843042a9e9afadd74",
   "counts": {
     "person": 87,
     "role": 11,
@@ -3060,7 +3060,7 @@
       "type": "note",
       "name": "Mana Affinity Items – Stabilized Tools",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From the lore-keeper",
       "origin": "lore-keeper",
       "review_key": "lore-keeper:e2dae667-c82c-4bf6-a89d-ab6172743cdc",
@@ -3083,7 +3083,7 @@
       "type": "note",
       "name": "Resonance Stone Device",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From the lore-keeper",
       "origin": "lore-keeper",
       "review_key": "lore-keeper:ebb8356f-32f4-4bdd-a147-bd8363d608b9",
