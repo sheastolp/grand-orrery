@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T18:19:18.885Z",
+  "built": "2026-11-08T18:30:51.067Z",
   "branch": "review",
-  "commit": "d80297ea6c390bd5e9e3e164d77743d925a76f88",
+  "commit": "05a163cc13324c0780bfc1b18168d1ad70bb4d48",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 91,
+    "item": 92,
     "place": 7,
     "creature": 9,
     "lore": 30,
-    "note": 180
+    "note": 181
   },
   "entities": [
     {
@@ -1920,6 +1920,36 @@
       }
     },
     {
+      "id": "resonance-stone-device",
+      "type": "item",
+      "name": "Resonance Stone Device",
+      "icon": "💡",
+      "category": "Sent in from the chat",
+      "kind": "From the lore-keeper",
+      "origin": "lore-keeper",
+      "status": "pitch",
+      "fields": {
+        "kind": "Items & Inventions – A handheld device utilizing a resonance stone to passively amplify ambient magical signatures.",
+        "does": "This device allows a single operator to detect nearby magic through enhanced sensory input, providing rudimentary awareness of their surroundings.",
+        "made": "A finely-tuned resonator chamber within the device captures and amplifies subtle magical emanations, translating them into tactile sensations - warmth, pressure, slight vibrations – relayed directly to the operator’s nervous system via fine copper wiring connected to gloves.",
+        "limits": "Three weeks of skilled smithing labor (Doric's work), approximately 25 silver coins for components, three days extracting a resonance stone from the Monster Wood, limited range dependent on surrounding mana strength, drains stone quickly with prolonged use, susceptible to feedback loops at overuse.",
+        "who_it_affects": "Primarily intended for individuals sensitive to magic—likely those untrained or inexperienced in detection—potentially useful for guards, scouts, and investigators needing basic situational awareness. It could also be used by Murrow himself for reconnaissance.",
+        "story": "Shifts perception; transforms passive observation into active sensing. Doesn't grant true \"detection\" but augments existing sensitivity, making users more attuned to fluctuations in magical energy.",
+        "clashes_with_canon": "None.",
+        "open_questions": "(Suggested) The specific type of ‘sensations’ experienced will vary greatly depending on ambient magic; is there a way to standardize this? How does Glumtom’s Reanimator technology interact with such amplified signatures?"
+      },
+      "review_key": "lore-keeper:ebb8356f-32f4-4bdd-a147-bd8363d608b9",
+      "filed": "2026-11-08",
+      "body": "_From a lore-keeper chat, 2026-11-08 · Items & inventions._\n\n**Name:** Resonance Stone Device\n\n**Kind:** Items & Inventions – A handheld device utilizing a resonance stone to passively amplify ambient magical signatures.\n\n**The Rule:** This device allows a single operator to detect nearby magic through enhanced sensory input, providing rudimentary awareness of their surroundings.\n\n**How it Works:** A finely-tuned resonator chamber within the device captures and amplifies subtle magical emanations, translating them into tactile sensations - warmth, pressure, slight vibrations – relayed directly to the operator’s nervous system via fine copper wiring connected to gloves. \n\n**Costs and Limits:** Three weeks of skilled smithing labor (Doric's work), approximately 25 silver coins for components, three days extracting a resonance stone from the Monster Wood, limited range dependent on surrounding mana strength, drains stone quickly with prolonged use, susceptible to feedback loops at overuse. \n\n**Who it Affects:** Primarily intended for individuals sensitive to magic—likely those untrained or inexperienced in detection—potentially useful for guards, scouts, and investigators needing basic situational awareness. It could also be used by Murrow himself for reconnaissance.\n\n**What it Changes:** Shifts perception; transforms passive observation into active sensing. Doesn't grant true \"detection\" but augments existing sensitivity, making users more attuned to fluctuations in magical energy.\n\n**Clashes with Canon:** None.\n\n**Open Questions:** (Suggested) The specific type of ‘sensations’ experienced will vary greatly depending on ambient magic; is there a way to standardize this? How does Glumtom’s Reanimator technology interact with such amplified signatures?\n\n\n\nIn the world:\n\nThe rain hammered against the slate roof of Monstradius as Murrow adjusted the Resonance Stone Device, its grey surface gleaming faintly beneath the workshop’s single oil lamp. A young Guard recruit, Tobin Ashby, stood awkwardly beside him, clad in leather gloves connected to the device.  Tobin shifted nervously, his face etched with concentration – a faint flush warming his cheeks as he described the subtle vibrations - “Like a swarm of tiny bees buzzing…almost.” Murrow nodded gravely, meticulously adjusting a copper coil. This wasn't grand detection magic, just a carefully calibrated link between human senses and the chaotic whispers of Verrowen's inherent magic, a start toward understanding something far greater.",
+      "notes": [
+        "working-notes-resonance-stone-device"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1167
+      }
+    },
+    {
       "id": "murrows-quiet-watch",
       "type": "item",
       "name": "Murrow’s Quiet Watch",
@@ -1944,7 +1974,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1367
+        "line": 1396
       }
     }
   ]
