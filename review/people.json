@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T16:23:13.553Z",
+  "built": "2026-11-08T16:46:16.971Z",
   "branch": "review",
-  "commit": "742aadf15db0f3e2710891ca01793d88dcf9adf5",
+  "commit": "ed30ed0ad11cf868edbbb2e3309c94aed4fe27d7",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 87,
+    "item": 91,
     "place": 7,
     "creature": 9,
     "lore": 18,
-    "note": 176
+    "note": 177
   },
   "entities": [
     {
@@ -343,7 +343,8 @@
         "working-notes-the-silent-well",
         "working-notes-murrows-secret",
         "working-notes-whisperwinds-watch-3",
-        "working-notes-murrows-offering"
+        "working-notes-murrows-offering",
+        "working-notes-monstradiuss-secret"
       ]
     },
     {
