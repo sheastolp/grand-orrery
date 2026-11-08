@@ -1134,8 +1134,6 @@ _From a lore-keeper chat, 2026-11-08 · Magic._
 
 **Open Questions:** (Suggested) How does this affect the efficiency of artificer created works vs. natural ones?
 
-
-
 ---
 In the world:
 
@@ -1332,11 +1330,3 @@ _Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's gui
 - **How it works:** Murrow believes the egg holds a fragment of Xan’s wildshape magic, potentially a source for understanding and controlling similar abilities, though he acknowledges its immense instability. He uses detection magic daily on the egg and the case to maintain containment, layering protections against accidental activation – any attempt to breach the ward causes localized tremors and minor elemental surges. The chill temperature slows the growth process, allowing him to study the creature without immediate danger.
 - **Limits:** The egg's volatile nature means prolonged exposure to warmth or strong magical energy could trigger an explosive release; opening the case requires precise timing and a specific sequence of runes known only to Murrow, as even a slight misstep could unleash a torrent of chromatic drake essence.
 - **Ties:** This project stems from Murrow's secretive obsession with preventing another Rift disaster like the "Floating Men" incident where a structure was pulled through. Silas Blackwood discovered fragments of this expedition during a recent inventory, prompting a renewed focus on containing anomalous materials before they become dangerous again. It connects directly to Murrow’s reluctance to reveal details about his origins or past expeditions, hinting at a far more extensive history than anyone suspects.
-
-### Silas Blackwood (Pitch)
-
-<!-- review-key: rest:idea-mw8359yp -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-08 · about a person who lives in Stoutwell._
-
-- Silas Blackwood, a halfling cartographer, is 68 years old and spends his days meticulously charting the rough edges of the Brackwood Fringe with charcoal and ash wood, hoping to find a way out of Stoutwell’s borders. His greatest want is to map the unknown territories beyond the Ashen Reach, fueled by tales whispered by traveling merchants, while his deepest fear is that he will die without ever seeing the world beyond the mountains—a fear intensified by his age and increasingly failing eyesight. He maintains a tenuous connection with Murrow, occasionally trading sketches for rare pigments used in his maps, and often seeks the artificer’s counsel regarding strange atmospheric disturbances near the mountain range – phenomena Murrow dismisses as “minor fluctuations.”
