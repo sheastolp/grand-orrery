@@ -1,7 +1,7 @@
 // node --test tools/
 import test from "node:test";
 import assert from "node:assert/strict";
-import { walkSections, parseBestiary, parseResources, parseLore, statsOf, build, proseParser, ideaKind, makeStatLine, placeCreatures } from "./build.mjs";
+import { walkSections, parseBestiary, parseResources, parseLore, statsOf, build, proseParser, ideaKind, makeStatLine, placeCreatures, joinChatNotes } from "./build.mjs";
 
 test("an item idea sent in from the chat is an item too, beside its note", () => {
   const md = [
@@ -125,5 +125,16 @@ test("auto mode's creature topic needs the write-up to describe a creature", () 
   assert.equal(ideaKind("- A lone halfling woman keeps watch.", topic), null);
   assert.equal(ideaKind("**Kind:** Regions & Places - A damp wood.", ""), "place");
   assert.equal(ideaKind("Name: Marda\nRace: Human\nRole: Peddler", ""), "person");
-  assert.equal(ideaKind("**Kind:** An office of the Kingdom's court.", ""), null);
+
+});
+
+test("an accepted office becomes a canon record, and a write-up about a canon thing joins it", () => {
+  assert.equal(ideaKind("- **Kind:** An office of the Kingdom's court.", ""), "institution");
+  const { entities } = build();
+  const highwrit = entities.find((e) => e.id === "place-highwrit");
+  assert.equal(highwrit?.kind, "institution");
+  assert.equal(highwrit?.status, "decided");
+  const ash = entities.find((e) => e.id === "ash-wood");
+  assert.ok(ash.notes.includes("working-notes-ash-wood-from-the-ashen-reach"));
+  assert.equal(entities.find((e) => e.id === "working-notes-ash-wood-from-the-ashen-reach").belongs_to, "ash-wood");
 });

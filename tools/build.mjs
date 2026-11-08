@@ -399,6 +399,8 @@ export function ideaKind(block, topic = "") {
     return null;
   }
   if (/^\s*regions?\s*(?:&|and)\s*places/i.test(kindLabel) || /^\s*regions?\s*(?:&|and)\s*places/i.test(prof.kind || "")) return "place";
+  // An office, guild or other body of people is a place too: where it sits and what it does.
+  if (/^\s*(?:an?\s+|the\s+)?(?:\w+\s+){0,2}(office|court|guild|order|institution|council|ministry|chancery|bureau)\b/i.test(prof.kind || "")) return "institution";
   if (prof.race && (prof.role || prof.lives_in || prof.personality)) return "person";
   return null;
 }
@@ -433,16 +435,19 @@ function chatThings(s, note, file) {
       const stats = (s.fields.stats && blocksOf(s.body).length === 1 ? s.fields.stats : prof.stats) || "";
       if (stats) fields.stats = String(stats).replace(/`/g, "");
       e = { id: slug(name), type: "creature", ...base, icon: creatureIcon(`${name} ${prof.kind || ""}`, `${prof.what_it_is || prof.label || ""} ${block}`), fields };
-    } else if (kind === "place") {
+    } else if (kind === "place" || kind === "institution") {
       const fields = {};
       const kindText = (prof.kind || "").replace(/^\s*regions?\s*(?:&|and)\s*places\s*[-–—:]?\s*/i, "");
-      const where = prof.where || kindText;
+      const where = prof.where || (kind === "place" ? kindText : "");
       if (where) fields.where = where;
       if (prof.the_rule || prof.what_it_is) fields.what = prof.the_rule || prof.what_it_is;
+      if (kind === "institution" && prof.kind) fields.kind = prof.kind;
       if (prof.how_it_works) fields.how = prof.how_it_works;
       if (prof.costs_and_limits || prof.costs_limits) fields.limits = prof.costs_and_limits || prof.costs_limits;
       if (prof.who_it_affects) fields.who = prof.who_it_affects;
-      e = { id: "place-" + slug(name), type: "place", kind: "region", ...base, fields };
+      if (prof.ties) fields.ties = prof.ties;
+      if (prof.still_open) fields.still_open = prof.still_open;
+      e = { id: "place-" + slug(name), type: "place", kind: kind === "institution" ? "institution" : "region", ...base, fields };
     } else {
       const p = { id: slug(name), type: "person", ...base, kind: "chat-character" };
       if (prof.race) p.race = prof.race;
@@ -718,6 +723,7 @@ export function build() {
     seen.set(e.id, e);
   }
   for (let i = entities.length - 1; i >= 0; i--) if (merged.has(entities[i])) entities.splice(i, 1);
+  joinChatNotes(entities);
   linkMentions(entities);
 
   const counts = {};
@@ -731,6 +737,24 @@ export function build() {
     counts,
   };
   return { meta, entities, problems };
+}
+
+// A write-up from the chat about something already written into the canon by
+// hand ("Ash wood from the Ashen Reach" → the Ash wood in resources.md) joins
+// that record as one of its notes, instead of standing on its own.
+export function joinChatNotes(entities) {
+  const promoted = new Set(entities.filter((e) => e.type !== "note").flatMap((e) => e.notes || []));
+  const canon = entities.filter((e) => ["person", "item", "creature", "place"].includes(e.type) && !e[SOFT] && e.name && e.name.length >= 4)
+    .sort((a, b) => b.name.length - a.name.length);
+  const key = (n) => n.toLowerCase().replace(/^the\s+/, "").replace(/[’']/g, "'");
+  for (const n of entities) {
+    if (n.type !== "note" || !n.origin || promoted.has(n.id)) continue;
+    const t = key(n.name);
+    const hit = canon.find((e) => { const k = key(e.name); return t === k || t.startsWith(k + " "); });
+    if (!hit) continue;
+    hit.notes = [...new Set([...(hit.notes || []), n.id])];
+    n.belongs_to = hit.id;
+  }
 }
 
 // Which people, items, creatures and places each note talks about, and back:
