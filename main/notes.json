@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T22:39:35.316Z",
+  "built": "2026-11-08T23:00:30.575Z",
   "branch": "main",
-  "commit": "534e0b5c2d546658d7b5994409b05d45f31d3266",
+  "commit": "bcbeea95a344b7f41c4f5ff4c0d16c9f2be7d27b",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 16,
     "lore": 32,
-    "note": 188
+    "note": 189
   },
   "entities": [
     {
@@ -3733,6 +3733,37 @@
         "line": 1520
       },
       "world": "verrowen"
+    },
+    {
+      "id": "working-notes-monstradius-peculiar-pipe",
+      "type": "note",
+      "name": "Monstradius’ Peculiar Pipe",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8folpd",
+      "filed": "2026-11-08",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Murrow, the artificer, keeps a meticulously crafted pipe carved from ashwood harvested from the Ashen Reach – a place known for producing unusually dense timber. It isn't just any pipe; it subtly manipulates ambient mana to create incredibly smooth, even smoke when lit with a single ember.",
+        "who": "Primarily Murrow uses the pipe during his solitary research sessions within Monstradius, occasionally offering a puff to Hesketh Reeve if the Guard Captain happens to be visiting.",
+        "where": "The pipe resides permanently within Monstradius’ cluttered workshop - specifically on a shelf near the Rift Compass, nestled amongst various disassembled clockwork devices and strange stones.",
+        "how_it_works": "The pipe itself contains a series of tiny, intricately etched resonators made from Mirrorstone (a rare black glass). These resonators don't *produce* magic, but they act as conduits, drawing in stray mana from the surrounding environment—primarily elemental wind. This collected mana is then channeled through a carefully calibrated series of chambers within the pipe’s stem, creating a sustained flow of smoothly tempered smoke that doesn't dissipate quickly or produce harsh odors. It requires no fuel beyond the initial ember, passively sustaining its function.  The effect takes several minutes to establish once lit.",
+        "limits": "The amount of mana the pipe can draw depends heavily on the local concentration of elemental wind – areas near open rifts are noticeably more potent. Furthermore, prolonged use drains Murrow's own personal mana reserves slightly, though this impact is minimal compared to other magical effects. If he attempts to draw too much power without sufficient ambient mana, the pipe sputters and produces only erratic puffs of cold air.",
+        "ties": "The pipe has a complicated history tied to Silas Blackwood; after Murrow discovered Silas was smuggling artifacts out of Stoutwell into the Kingdom, he used the pipe to subtly disrupt Silas’ spellcasting when dealing with a particularly tricky Rootwraith - a risky maneuver that left Silas severely weakened. The ash wood itself represents a connection to the Ashen Reach and the potential dangers lurking there."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- **What it is:** Murrow, the artificer, keeps a meticulously crafted pipe carved from ashwood harvested from the Ashen Reach – a place known for producing unusually dense timber. It isn't just any pipe; it subtly manipulates ambient mana to create incredibly smooth, even smoke when lit with a single ember.\n- **Who:** Primarily Murrow uses the pipe during his solitary research sessions within Monstradius, occasionally offering a puff to Hesketh Reeve if the Guard Captain happens to be visiting.\n- **Where:** The pipe resides permanently within Monstradius’ cluttered workshop - specifically on a shelf near the Rift Compass, nestled amongst various disassembled clockwork devices and strange stones.\n- **How it works:** The pipe itself contains a series of tiny, intricately etched resonators made from Mirrorstone (a rare black glass). These resonators don't *produce* magic, but they act as conduits, drawing in stray mana from the surrounding environment—primarily elemental wind. This collected mana is then channeled through a carefully calibrated series of chambers within the pipe’s stem, creating a sustained flow of smoothly tempered smoke that doesn't dissipate quickly or produce harsh odors. It requires no fuel beyond the initial ember, passively sustaining its function.  The effect takes several minutes to establish once lit.\n- **Limits:** The amount of mana the pipe can draw depends heavily on the local concentration of elemental wind – areas near open rifts are noticeably more potent. Furthermore, prolonged use drains Murrow's own personal mana reserves slightly, though this impact is minimal compared to other magical effects. If he attempts to draw too much power without sufficient ambient mana, the pipe sputters and produces only erratic puffs of cold air.\n- **Ties:** The pipe has a complicated history tied to Silas Blackwood; after Murrow discovered Silas was smuggling artifacts out of Stoutwell into the Kingdom, he used the pipe to subtly disrupt Silas’ spellcasting when dealing with a particularly tricky Rootwraith - a risky maneuver that left Silas severely weakened. The ash wood itself represents a connection to the Ashen Reach and the potential dangers lurking there.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1533
+      },
+      "world": "verrowen",
+      "mentions": [
+        "hesketh-reeve",
+        "murrow",
+        "mirrorstone"
+      ]
     },
     {
       "id": "midkemia-the-campaign",

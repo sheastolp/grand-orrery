@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T22:39:35.316Z",
+  "built": "2026-11-08T23:00:30.575Z",
   "branch": "main",
-  "commit": "534e0b5c2d546658d7b5994409b05d45f31d3266",
+  "commit": "bcbeea95a344b7f41c4f5ff4c0d16c9f2be7d27b",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 16,
     "lore": 32,
-    "note": 188
+    "note": 189
   },
   "entities": [
     {
@@ -292,7 +292,8 @@
         "working-notes-village-roster-2",
         "working-notes-guards-routine",
         "working-notes-murrows-secret",
-        "working-notes-rooks-watch"
+        "working-notes-rooks-watch",
+        "working-notes-monstradius-peculiar-pipe"
       ]
     },
     {
@@ -371,7 +372,8 @@
         "working-notes-the-hearthstones-hum",
         "working-notes-murrows-quiet-watch",
         "working-notes-monstradiuss-quiet-watch",
-        "working-notes-murrows-peculiar-pipe"
+        "working-notes-murrows-peculiar-pipe",
+        "working-notes-monstradius-peculiar-pipe"
       ]
     },
     {
