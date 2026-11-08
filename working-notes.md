@@ -1075,7 +1075,7 @@ The rain hammered down relentlessly as Tobin Ashby wrestled with his tracking st
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
 
-### Silas Blackwood (Pitch)
+### Silas Blackwood (Your idea)
 
 <!-- review-key: verrowen:ac2ff160-77fd-4a15-8a85-cce9f8c1588c -->
 _From a Wake in Verrowen story, 2026-11-08 · Story._
