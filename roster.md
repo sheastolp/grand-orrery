@@ -126,6 +126,27 @@ A small forest bordering Stoutwell, where a new human settlement is growing.
 | **Silwen** | Elf, F | Arandur's mother, a hunter | Taught him stealth and tracking, told him troll tales. Vanished on a "hunt." | Perhaps Silwen’s lingering magic influenced his abilities. |
 | **Faelan** | Elf, M | Arandur's father | Distant and rarely present. Vanished with Silwen. | |
 
+## Midkemia (DM lore)
+
+Rose's homebrew D&D campaign world, which Arandur was pulled into. Everything here comes from the Dungeon Master and is only changed from there; the full lore is in [`midkemia.md`](midkemia.md).
+
+| Name | Race, sex, age | Role | In a line |
+| --- | --- | --- | --- |
+| **Belenos** | Half-elf, M, 26 | Warlock of Lugh, from Aetherwyn | Nobility raised among pirates and thieves in a port city, kind by upbringing. Can take the form of a blink dog. Spots Arandur's sticky fingers. |
+| **Ulfgar Luttenheim** | Dwarf, M | Barbarian | Wild magic and a natural affinity for stones. |
+| **Órla** | Elf, F | Cleric | The party's healer. Carries Lindwurm. |
+| **Theron** | | Holy symbol, high Arcana | Has enough Arcana to read magic items. |
+| **Kaelreth Graveborn** | | Necromancer | Casts illusions, rides Gravehoof, keeps a notebook. His room in the wagon is the one nobody wants to enter. |
+| **Sebastian** | | Bard | A full bard who leans on persuasion spells. |
+| **Styx** | Goblin | Party member | Based on the hero of the *Styx* stealth games. |
+| **Queen Taileflaith** | Unknown, F | Dannonirn's missing ruler | Took the throne very young. Also called Queen Tali. Her disappearance is the party's quest. |
+| **King Pedgar** | Unknown, M | Dannonirn's new king, from Kegamosa | Married the queen less than a year before she vanished. His power is still unstable. |
+| **The Ringmaster** | Unknown, F | Runs the carnival | Carries a whip and is "whatever she wants to be." Has a warlock pact with the fey. |
+| **Lugh** | God | Trickster and weather god | Belenos's fey patron, and patron and friend of the pirate kingdom. |
+| **Morrigan** | Goddess, F | Goddess of magic and death | Death's spouse. Blessed Bitterbridge against harmful fire. |
+| **Mourgause** | Goddess, F | Morrigan's sister, the witch of the world | Cursed Bitterbridge's fruit bitter for five years. |
+| **Morgana** | Goddess, F | Morrigan's third sister | Under her, crows and ravens turn on the people of Bitterbridge. |
+
 ## Roles still to fill
 
 From the working notes' village roster and the lore. These roles exist within Stoutwell, though no names have yet been assigned for them.

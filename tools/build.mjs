@@ -93,15 +93,17 @@ export function parseRoster(text, file = "roster.md") {
   const problems = [];
   const lines = text.split(/\r?\n/);
   let world = null, section = null, lead = null;
-  let header = null;
+  let header = null, worldStatus = null;
 
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
     const at = { file, line: i + 1 };
 
     if (/^##\s/.test(line)) {
-      const h = stripHeading(line);
+      // "## Midkemia (DM lore)": a world's tag sets its people's status.
+      const { title: h, status } = splitTag(stripHeading(line));
       world = /still to fill/i.test(h) ? null : h;
+      worldStatus = status;
       section = null; lead = null; header = null;
       if (/still to fill/i.test(h)) {
         // The roles that exist in the world with nobody named for them yet.
@@ -141,7 +143,7 @@ export function parseRoster(text, file = "roster.md") {
     }
     if (lead) p.group = lead;
     if (p.played_by) p.kind = "adventurer";
-    p.status = "decided"; // roster.md only holds decided characters
+    p.status = worldStatus || "decided"; // roster.md only holds decided characters, and DM lore
     p.source = at;
     out.push(p);
   }
@@ -150,8 +152,9 @@ export function parseRoster(text, file = "roster.md") {
   const worlds = new Map();
   for (const p of out) if (p.world && !worlds.has(p.world)) worlds.set(p.world, p);
   for (const [id] of worlds) {
-    const h = lines.findIndex((l) => /^##\s/.test(l) && slug(stripHeading(l)) === id);
-    out.push({ id, type: "world", name: stripHeading(lines[h]), status: "decided", source: { file, line: h + 1 } });
+    const h = lines.findIndex((l) => /^##\s/.test(l) && slug(splitTag(stripHeading(l)).title) === id);
+    const { title, status } = splitTag(stripHeading(lines[h]));
+    out.push({ id, type: "world", name: title, status: status || "decided", source: { file, line: h + 1 } });
   }
 
   return { entities: out, problems };
@@ -480,7 +483,9 @@ export function build() {
 // Which people, items, creatures and places each note talks about, and back:
 // so any app can gather everything written about one thing.
 function linkMentions(entities) {
-  const named = entities.filter((e) => ["person", "item", "creature", "place"].includes(e.type) && !e[SOFT] && e.name);
+  // An all-lowercase handle ("nobody") would match the everyday word, so only
+  // names with a capital letter, a digit or an underscore are looked for.
+  const named = entities.filter((e) => ["person", "item", "creature", "place"].includes(e.type) && !e[SOFT] && e.name && /[A-Z0-9_]/.test(e.name));
   const pats = named.map((e) => {
     const esc = e.name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/['’]/g, "['’]");
     // "Hearthstone" also finds "Hearthstones" and "Hearthstone's".
