@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T21:22:18.583Z",
+  "built": "2026-11-08T21:23:18.372Z",
   "branch": "review",
-  "commit": "37ad5d43223a7bd4689e6316def4faa6a595fc67",
+  "commit": "69be4ef8cbd42494f81d3b717a9c45648f6778f1",
   "counts": {
     "person": 87,
     "role": 11,
@@ -9198,7 +9198,7 @@
       "type": "note",
       "name": "Silas Blackwood",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw899q1i",
