@@ -1090,6 +1090,27 @@ _From a lore-keeper chat, 2026-11-08 · Items & inventions._
 
 In the world, the afternoon sun cast long shadows across the newly reinforced section of the Stoutwell Gatehouse as Tobin Ashby hammered a final rivet into place. The air still carried a faint scent of smoke – a subtle reminder of Murrow's careful work. A couple of grizzled guardsmen shifted uneasily, checking their shields, while Murrow adjusted his spectacles, meticulously examining the grain pattern of the oak for any signs of distress. The rhythmic clang of metal against metal mingled with the shouts of the slum workers hauling timber nearby, creating an oddly ordered scene amidst the rough-hewn village, solidifying the fortified frontier against the looming Monster Wood.
 
+### Give xab's character a joke Pot of Greed. Make it functi… (Pitch)
+
+<!-- review-key: lore-keeper:f384cb65-8f5a-4fae-a4ab-24250d8c1ddf -->
+_From a lore-keeper chat, 2026-11-08 · Characters._
+
+**Xan**
+
+Race: Dragonborn
+Sex: Male
+Age: Approximately 58 (appears younger due to lessened magic)
+Role: Wandering Peddler / Occasional Observer (Burn's 'regular')
+Lives in: The capital city – specifically, the sprawling marketplace known as “The Hub” – though he has a small workshop near the GuildScribe Hall.
+Appearance: Lean build, scaled dark grey-blue like polished obsidian, unusually short horns that curve backwards sharply over his brow. Wears a mismatched collection of travel clothes - mostly patched leather and faded silks - layered beneath a worn brown cloak. Always carries the Pot of Greed prominently displayed within a simple cloth pouch at his belt. He favors spectacles perched on his nose (badly made).
+Personality: Dry wit, cynical observation, unnervingly calm even under pressure. Possesses an unsettling habit of staring intently without blinking, often accompanied by a subtle smirk. A master of understated sarcasm and enjoys nothing more than observing human folly.  (Suggested - He possesses a deep, almost painful melancholy masked by his sharp tongue.)
+Magic: Limited elemental manipulation—primarily focused on minor illusions and creating fleeting visual distractions. His skill is low; only capable of producing brief flashes of light or shimmering mirages. When using it, he gets noticeably colder.
+Connections: The Wellhouse elves (a reluctant acquaintance), Murrow (his creator/occasional supplier), Hesketh Reeve (Captain of the Guard) – with whom he maintains a strained truce via Burn’s observations. The Scribe (through gossip about the GuildScribe's adventurers), Glumtom (the Reanimator in the capital)
+Secret: Knows the location of one of the hidden passages leading from the mountain wall into Verrowen—though he refuses to reveal its purpose or destination. 
+Story Hooks: Rumors persist that Xan was once part of a royal expedition sent to investigate strange rifts opening across the kingdom. He claims to have “seen things” he can barely articulate. He’s been seen discreetly collecting information regarding the Elderhold’s activities.
+
+**Who they are:** Xan is an enigma wrapped in cynicism and a ludicrously useless trinket. He drifts through the bustling marketplace of the capital like a shadow, observing everyone with unsettling intensity. Having spent decades chasing shadows and rumors, his true motivations remain deliberately obscure, obscured by layers of carefully constructed irony. Despite his sardonic demeanor, there’s a palpable sadness beneath the surface - a lingering echo of something lost or perhaps never fully possessed. It's this quiet melancholy which makes him such a strangely compelling fixture in Stoutwell’s world – and particularly within Burn’s orbit.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
