@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T19:37:43.211Z",
+  "built": "2026-11-08T19:59:19.942Z",
   "branch": "review",
-  "commit": "08fd01bfb67e8df166531fd0779fc063cd5c9885",
+  "commit": "3fcbe0a54ca94964e61e4637009964fcb144c0a7",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 15,
     "lore": 30,
-    "note": 183
+    "note": 184
   },
   "entities": [
     {
@@ -3605,6 +3605,27 @@
         "murrow",
         "burn",
         "seekers-lodestone"
+      ]
+    },
+    {
+      "id": "working-notes-silas-blackwood-2",
+      "type": "note",
+      "name": "Silas Blackwood",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw899q1i",
+      "filed": "2026-11-08",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-08 · about a person who lives in Stoutwell._\n\n- Silas Blackwood, a halfling clockmaker aged 68, lives amongst the slums south of Stoutwell’s center, where he crafts intricate timepieces – not for profit, but to meticulously track shifts in the wind and the position of the stars. He wants to understand why the village well dried up centuries ago, believing the answer lies hidden within the movements of celestial bodies. His greatest fear is that his obsessive work will ultimately reveal nothing, leaving him trapped in a cycle of fruitless observation. He maintains a wary friendship with Burn, the Wellhouse tavern regular, exchanging stories (and occasionally, spare gears) over tankards of stout ale.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1480
+      },
+      "world": "verrowen",
+      "mentions": [
+        "burn"
       ]
     },
     {
