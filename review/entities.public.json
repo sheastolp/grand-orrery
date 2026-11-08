@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T21:31:57.951Z",
+  "built": "2026-11-08T22:13:23.245Z",
   "branch": "review",
-  "commit": "fd1da0b1bc868bb98b70f2f0fcad2e7a3ca59a6b",
+  "commit": "ccf262479b3bbf744777fb7d357fa965ae3a98a9",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 93,
+    "item": 94,
     "place": 15,
     "creature": 16,
     "lore": 31,
-    "note": 186
+    "note": 187
   },
   "entities": [
     {
@@ -9344,6 +9344,60 @@
         "hp": 80,
         "to_hit": 6,
         "damage": "2d8+3"
+      }
+    },
+    {
+      "id": "working-notes-silass-stone",
+      "type": "note",
+      "name": "Silas’s Stone",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8e23yr",
+      "filed": "2026-11-08",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "A smooth, grey river stone etched with faint swirling patterns that faintly glow when held by someone experiencing intense emotion – primarily fear or grief. It seems to draw out these feelings before dampening them.",
+        "who": "Silas Blackwood, an elderly halfling peddler known for his oddly calming presence and unsettlingly accurate predictions about people’s moods. He acquired the stone from a wandering cleric during a particularly violent storm fifty years ago.",
+        "where": "Silas keeps the stone displayed prominently inside his wagon near the entrance to Stoutwell’s market square. He claims it helps him “understand” customers better, though some whisper he uses it to manipulate their desires.",
+        "how_it_works": "When someone holds the stone, they experience a brief surge of heightened emotional awareness—a sudden flood of sadness, anxiety, or even overwhelming joy. This intensity quickly subsides as the stone subtly absorbs the excess energy, leaving the user feeling strangely calm and detached. The stone doesn’t *cause* the emotions, merely amplifies them momentarily, then neutralizes the effect. Because magic in Verrowen is weak, this amplification relies on an existing wellspring of emotion within the holder.  It requires approximately 1 mana per minute of sustained use; prolonged exposure leads to exhaustion and dizziness.",
+        "limits": "The stone only affects those with a significant level of emotional vulnerability. Those shielded by strong willpower or practiced control will find it inert. It can also be overwhelmed by exceptionally intense emotions (like witnessing a horrific event), causing a feedback loop that drains the user's mana rapidly. Furthermore, once a person has experienced its full effect, they are temporarily immune - needing another twenty-four hours for the stone's influence to reassert itself.",
+        "ties": "Silas acquired the Stone from Father Benedict, who was tasked with comforting villagers during the Great Flood fifty years prior – Benedict vanished after the storm, his fate unknown but rumored to have been taken by one of the many monsters emerging from the Monster Wood. The swirling patterns etched into the stone bear a faint resemblance to maps depicting the routes used by lost travelers in the woods—a detail Silas never explains."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** A smooth, grey river stone etched with faint swirling patterns that faintly glow when held by someone experiencing intense emotion – primarily fear or grief. It seems to draw out these feelings before dampening them.\n- **Who:** Silas Blackwood, an elderly halfling peddler known for his oddly calming presence and unsettlingly accurate predictions about people’s moods. He acquired the stone from a wandering cleric during a particularly violent storm fifty years ago.\n- **Where:** Silas keeps the stone displayed prominently inside his wagon near the entrance to Stoutwell’s market square. He claims it helps him “understand” customers better, though some whisper he uses it to manipulate their desires.\n- **How it works:** When someone holds the stone, they experience a brief surge of heightened emotional awareness—a sudden flood of sadness, anxiety, or even overwhelming joy. This intensity quickly subsides as the stone subtly absorbs the excess energy, leaving the user feeling strangely calm and detached. The stone doesn’t *cause* the emotions, merely amplifies them momentarily, then neutralizes the effect. Because magic in Verrowen is weak, this amplification relies on an existing wellspring of emotion within the holder.  It requires approximately 1 mana per minute of sustained use; prolonged exposure leads to exhaustion and dizziness.\n- **Limits:** The stone only affects those with a significant level of emotional vulnerability. Those shielded by strong willpower or practiced control will find it inert. It can also be overwhelmed by exceptionally intense emotions (like witnessing a horrific event), causing a feedback loop that drains the user's mana rapidly. Furthermore, once a person has experienced its full effect, they are temporarily immune - needing another twenty-four hours for the stone's influence to reassert itself.\n- **Ties:** Silas acquired the Stone from Father Benedict, who was tasked with comforting villagers during the Great Flood fifty years prior – Benedict vanished after the storm, his fate unknown but rumored to have been taken by one of the many monsters emerging from the Monster Wood. The swirling patterns etched into the stone bear a faint resemblance to maps depicting the routes used by lost travelers in the woods—a detail Silas never explains.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1507
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "silass-stone",
+      "type": "item",
+      "name": "Silas’s Stone",
+      "icon": "🏺",
+      "category": "Peddlers' wares",
+      "kind": "Relics",
+      "origin": "rest",
+      "status": "pitch",
+      "fields": {
+        "does": "A smooth, grey river stone etched with faint swirling patterns that faintly glow when held by someone experiencing intense emotion – primarily fear or grief. It seems to draw out these feelings before dampening them.",
+        "made_by": "Silas Blackwood, an elderly halfling peddler known for his oddly calming presence and unsettlingly accurate predictions about people’s moods. He acquired the stone from a wandering cleric during a particularly violent storm fifty years ago.",
+        "where": "Silas keeps the stone displayed prominently inside his wagon near the entrance to Stoutwell’s market square. He claims it helps him “understand” customers better, though some whisper he uses it to manipulate their desires.",
+        "made": "When someone holds the stone, they experience a brief surge of heightened emotional awareness—a sudden flood of sadness, anxiety, or even overwhelming joy. This intensity quickly subsides as the stone subtly absorbs the excess energy, leaving the user feeling strangely calm and detached. The stone doesn’t *cause* the emotions, merely amplifies them momentarily, then neutralizes the effect. Because magic in Verrowen is weak, this amplification relies on an existing wellspring of emotion within the holder.  It requires approximately 1 mana per minute of sustained use; prolonged exposure leads to exhaustion and dizziness.",
+        "limits": "The stone only affects those with a significant level of emotional vulnerability. Those shielded by strong willpower or practiced control will find it inert. It can also be overwhelmed by exceptionally intense emotions (like witnessing a horrific event), causing a feedback loop that drains the user's mana rapidly. Furthermore, once a person has experienced its full effect, they are temporarily immune - needing another twenty-four hours for the stone's influence to reassert itself.",
+        "ties": "Silas acquired the Stone from Father Benedict, who was tasked with comforting villagers during the Great Flood fifty years prior – Benedict vanished after the storm, his fate unknown but rumored to have been taken by one of the many monsters emerging from the Monster Wood. The swirling patterns etched into the stone bear a faint resemblance to maps depicting the routes used by lost travelers in the woods—a detail Silas never explains."
+      },
+      "review_key": "rest:idea-mw8e23yr",
+      "filed": "2026-11-08",
+      "body": "_Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** A smooth, grey river stone etched with faint swirling patterns that faintly glow when held by someone experiencing intense emotion – primarily fear or grief. It seems to draw out these feelings before dampening them.\n- **Who:** Silas Blackwood, an elderly halfling peddler known for his oddly calming presence and unsettlingly accurate predictions about people’s moods. He acquired the stone from a wandering cleric during a particularly violent storm fifty years ago.\n- **Where:** Silas keeps the stone displayed prominently inside his wagon near the entrance to Stoutwell’s market square. He claims it helps him “understand” customers better, though some whisper he uses it to manipulate their desires.\n- **How it works:** When someone holds the stone, they experience a brief surge of heightened emotional awareness—a sudden flood of sadness, anxiety, or even overwhelming joy. This intensity quickly subsides as the stone subtly absorbs the excess energy, leaving the user feeling strangely calm and detached. The stone doesn’t *cause* the emotions, merely amplifies them momentarily, then neutralizes the effect. Because magic in Verrowen is weak, this amplification relies on an existing wellspring of emotion within the holder.  It requires approximately 1 mana per minute of sustained use; prolonged exposure leads to exhaustion and dizziness.\n- **Limits:** The stone only affects those with a significant level of emotional vulnerability. Those shielded by strong willpower or practiced control will find it inert. It can also be overwhelmed by exceptionally intense emotions (like witnessing a horrific event), causing a feedback loop that drains the user's mana rapidly. Furthermore, once a person has experienced its full effect, they are temporarily immune - needing another twenty-four hours for the stone's influence to reassert itself.\n- **Ties:** Silas acquired the Stone from Father Benedict, who was tasked with comforting villagers during the Great Flood fifty years prior – Benedict vanished after the storm, his fate unknown but rumored to have been taken by one of the many monsters emerging from the Monster Wood. The swirling patterns etched into the stone bear a faint resemblance to maps depicting the routes used by lost travelers in the woods—a detail Silas never explains.",
+      "notes": [
+        "working-notes-silass-stone"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1507
       }
     },
     {
