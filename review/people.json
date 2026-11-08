@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T16:54:54.500Z",
+  "built": "2026-11-08T16:55:19.598Z",
   "branch": "review",
-  "commit": "ce075c4b507c751b29c29934d6e1a447e53e3eb4",
+  "commit": "5f4b53b3f6ccc500e57ca9ed838da08adaea2ba9",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 91,
+    "item": 90,
     "place": 7,
     "creature": 9,
     "lore": 18,
-    "note": 178
+    "note": 176
   },
   "entities": [
     {
@@ -245,8 +245,7 @@
         "working-notes-village-roster-2",
         "working-notes-the-silent-well",
         "working-notes-guards-routine",
-        "working-notes-murrows-secret",
-        "working-notes-murrows-offering"
+        "working-notes-murrows-secret"
       ]
     },
     {
@@ -345,7 +344,6 @@
         "working-notes-the-silent-well",
         "working-notes-murrows-secret",
         "working-notes-whisperwinds-watch-3",
-        "working-notes-murrows-offering",
         "working-notes-monstradiuss-secret"
       ]
     },

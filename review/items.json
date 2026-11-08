@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T16:54:54.500Z",
+  "built": "2026-11-08T16:55:19.598Z",
   "branch": "review",
-  "commit": "ce075c4b507c751b29c29934d6e1a447e53e3eb4",
+  "commit": "5f4b53b3f6ccc500e57ca9ed838da08adaea2ba9",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 91,
+    "item": 90,
     "place": 7,
     "creature": 9,
     "lore": 18,
-    "note": 178
+    "note": 176
   },
   "entities": [
     {
@@ -1901,33 +1901,6 @@
       "source": {
         "file": "working-notes.md",
         "line": 1068
-      }
-    },
-    {
-      "id": "murrows-offering",
-      "type": "item",
-      "name": "Murrow’s Offering",
-      "icon": "🏺",
-      "category": "Peddlers' wares",
-      "kind": "Relics",
-      "origin": "rest",
-      "status": "pitch",
-      "fields": {
-        "does": "A small, intricately carved wooden bird – a raven – that emits faint warmth when held by someone with a waning mana supply. It doesn’t actively *restore* magic, but provides a comforting flicker against the encroaching cold and dizziness caused by depleted reserves.",
-        "made_by": "Murrow, the artificer, crafted it over five centuries ago using ash wood from the Ashen Reach. He imbued it with a carefully controlled release of his own stored mana—a minuscule amount designed for momentary comfort rather than significant healing. The item was originally intended as a tool for navigating particularly treacherous areas where prolonged exposure to elemental energies could drain a mage’s strength, or perhaps simply used on himself if he were feeling weak after research.",
-        "where": "The raven resides within Murrow’s cluttered workshop in Stoutwell, displayed prominently amongst his collection of strange artifacts and partially disassembled devices. Doric occasionally polishes it, admiring its craftsmanship while grumbling about “frivolous trinkets.”",
-        "made": "When held by a person experiencing low mana levels (indicated by chills, dizziness, or weakness), the raven radiates a subtle heat and a soft, pulsing glow. This effect isn't immediately potent; initially, it only offers minor relief - easing muscle stiffness or sharpening focus slightly. However, as the holder’s mana dwindles further, the warmth intensifies, providing a noticeable boost to their stamina and mental clarity – enough to complete a simple task or briefly bolster a spell before collapse occurs. The warmth lasts approximately 10-15 minutes per charge, fading gradually as the raven’s residual mana dissipates. It doesn’t create new mana; it merely slows down its consumption.",
-        "limits": "The raven can only provide temporary respite against depleted mana—it cannot heal significant wounds or restore lost magic. Prolonged use drains the raven's stored energy quickly, rendering it inert.  It is susceptible to disruption by strong elemental forces; exposure to powerful fire or ice will cause it to flicker violently and cease function temporarily. Because Murrow originally imbued it with *his* mana, if he were ever to touch the item, it would"
-      },
-      "review_key": "rest:idea-mw80rm2g",
-      "filed": "2026-11-08",
-      "body": "_Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** A small, intricately carved wooden bird – a raven – that emits faint warmth when held by someone with a waning mana supply. It doesn’t actively *restore* magic, but provides a comforting flicker against the encroaching cold and dizziness caused by depleted reserves.\n- **Who:** Murrow, the artificer, crafted it over five centuries ago using ash wood from the Ashen Reach. He imbued it with a carefully controlled release of his own stored mana—a minuscule amount designed for momentary comfort rather than significant healing. The item was originally intended as a tool for navigating particularly treacherous areas where prolonged exposure to elemental energies could drain a mage’s strength, or perhaps simply used on himself if he were feeling weak after research.\n- **Where:** The raven resides within Murrow’s cluttered workshop in Stoutwell, displayed prominently amongst his collection of strange artifacts and partially disassembled devices. Doric occasionally polishes it, admiring its craftsmanship while grumbling about “frivolous trinkets.”\n- **How it works:** When held by a person experiencing low mana levels (indicated by chills, dizziness, or weakness), the raven radiates a subtle heat and a soft, pulsing glow. This effect isn't immediately potent; initially, it only offers minor relief - easing muscle stiffness or sharpening focus slightly. However, as the holder’s mana dwindles further, the warmth intensifies, providing a noticeable boost to their stamina and mental clarity – enough to complete a simple task or briefly bolster a spell before collapse occurs. The warmth lasts approximately 10-15 minutes per charge, fading gradually as the raven’s residual mana dissipates. It doesn’t create new mana; it merely slows down its consumption.\n- **Limits:** The raven can only provide temporary respite against depleted mana—it cannot heal significant wounds or restore lost magic. Prolonged use drains the raven's stored energy quickly, rendering it inert.  It is susceptible to disruption by strong elemental forces; exposure to powerful fire or ice will cause it to flicker violently and cease function temporarily. Because Murrow originally imbued it with *his* mana, if he were ever to touch the item, it would",
-      "notes": [
-        "working-notes-murrows-offering"
-      ],
-      "source": {
-        "file": "working-notes.md",
-        "line": 1293
       }
     }
   ]
