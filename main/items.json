@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T17:52:58.961Z",
+  "built": "2026-11-08T17:56:36.710Z",
   "branch": "main",
-  "commit": "eeec1e8cfbe4c3605f53d59de644f0b6af63cf41",
+  "commit": "7d68f595e5ef3e23f94d505b88dca5309414dc81",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10,7 +10,7 @@
     "item": 91,
     "place": 7,
     "creature": 9,
-    "lore": 21,
+    "lore": 30,
     "note": 179
   },
   "entities": [
@@ -40,6 +40,7 @@
         "lore-items",
         "lore-resources",
         "lore-items-2",
+        "lore-items-3",
         "universe-murrows-items",
         "working-notes-murrow-the-artificer",
         "working-notes-monstradius-items",
@@ -74,6 +75,7 @@
         "lore-items",
         "lore-resources",
         "lore-items-2",
+        "lore-items-3",
         "universe-trades",
         "universe-doric",
         "universe-murrows-items",
@@ -139,6 +141,7 @@
         "lore-items",
         "lore-resources",
         "lore-items-2",
+        "lore-items-3",
         "universe-murrows-items",
         "universe-beyond-the-village",
         "working-notes-monstradius-items",
@@ -491,7 +494,8 @@
       "kind": "Wood",
       "mentioned_in": [
         "lore-resources",
-        "lore-items-2"
+        "lore-items-2",
+        "lore-items-3"
       ]
     },
     {
@@ -841,6 +845,7 @@
       "kind": "Dues and payments",
       "mentioned_in": [
         "lore-defense-and-law",
+        "lore-defense-and-law-2",
         "universe-law-and-punishment",
         "working-notes-law-punishment"
       ]
@@ -1004,6 +1009,7 @@
       "kind": "Village papers",
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "working-notes-village-roster-2"
       ]
@@ -1920,7 +1926,7 @@
       "category": "Sent in from the chat",
       "kind": "From auto mode",
       "origin": "rest",
-      "status": "pitch",
+      "status": "decided",
       "fields": {
         "does": "A small, intricately carved wooden bird – a raven – that emits a faint hum when held near areas with significant magical residue or disturbances. It doesn't actively detect magic, but provides a subtle “feeling” to the user about nearby enchantments.",
         "made_by": "Created by Murrow himself, using ashwood from the Ashen Reach and infused with a minuscule amount of his own carefully contained mana. He initially intended it for tracking latent magical signatures within the Village, but realized its potential beyond simple detection.",

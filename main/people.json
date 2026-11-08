@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T17:52:58.961Z",
+  "built": "2026-11-08T17:56:36.710Z",
   "branch": "main",
-  "commit": "eeec1e8cfbe4c3605f53d59de644f0b6af63cf41",
+  "commit": "7d68f595e5ef3e23f94d505b88dca5309414dc81",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10,7 +10,7 @@
     "item": 91,
     "place": 7,
     "creature": 9,
-    "lore": 21,
+    "lore": 30,
     "note": 179
   },
   "entities": [
@@ -34,6 +34,7 @@
       "mentioned_in": [
         "lore-leadership",
         "lore-kingdom",
+        "lore-leadership-2",
         "universe-burn-the-wellhouses-regular",
         "universe-osric-leader-of-the-elderhold",
         "universe-hesketh-reeve-captain-of-the-guard",
@@ -68,6 +69,7 @@
       },
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-silas-blackwood",
@@ -94,6 +96,7 @@
       },
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "universe-the-scribe-the-peddlers-and-the-wandering-clerk",
         "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk",
@@ -121,6 +124,7 @@
       },
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-village-roster-2",
@@ -146,6 +150,7 @@
       },
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-village-roster-2",
@@ -171,6 +176,7 @@
       },
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-village-roster-2"
@@ -228,6 +234,7 @@
         "lore-stoutwell",
         "lore-people",
         "lore-items-2",
+        "lore-items-3",
         "universe-maps",
         "universe-layout",
         "universe-trades",
@@ -309,6 +316,7 @@
         "lore-kingdom",
         "lore-items-2",
         "lore-artificers-2",
+        "lore-items-3",
         "universe-healers",
         "universe-water-and-the-dead-well",
         "universe-layout",
@@ -1708,6 +1716,7 @@
       },
       "mentioned_in": [
         "lore-other-worlds",
+        "lore-other-worlds-2",
         "universe-the-universe-the-grand-orrery",
         "universe-the-monster-wood",
         "universe-arandur",
@@ -1748,6 +1757,7 @@
       },
       "mentioned_in": [
         "lore-other-worlds",
+        "lore-other-worlds-2",
         "universe-arandur",
         "working-notes-family",
         "working-notes-key-events",
@@ -1771,6 +1781,7 @@
       },
       "mentioned_in": [
         "lore-other-worlds",
+        "lore-other-worlds-2",
         "universe-arandur",
         "working-notes-family"
       ]
