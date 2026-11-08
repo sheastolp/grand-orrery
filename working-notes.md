@@ -1193,6 +1193,64 @@ In the world:
 
 The rain hammered against the slate roof of Monstradius as Murrow adjusted the Resonance Stone Device, its grey surface gleaming faintly beneath the workshop’s single oil lamp. A young Guard recruit, Tobin Ashby, stood awkwardly beside him, clad in leather gloves connected to the device.  Tobin shifted nervously, his face etched with concentration – a faint flush warming his cheeks as he described the subtle vibrations - “Like a swarm of tiny bees buzzing…almost.” Murrow nodded gravely, meticulously adjusting a copper coil. This wasn't grand detection magic, just a carefully calibrated link between human senses and the chaotic whispers of Verrowen's inherent magic, a start toward understanding something far greater.
 
+### Rootwraiths (Pitch)
+
+<!-- review-key: lore-keeper:b33535cc-56ae-426a-a304-933b3c5a7760 -->
+_From a lore-keeper chat, 2026-11-08 · Physics & nature._
+
+Name: Rootwraiths
+Kind: Plant/Spirit (Entanglement)
+The Rule: These animated root constructs attempt to ensnare creatures within their grasping tendrils.
+How It Works: They move slowly, relying on surprise attacks and attempting to grapple targets using thorny vines. Success requires a successful Dexterity saving throw against their reach and bludgeoning damage.
+Costs and Limits: Vulnerable to fire damage, requiring significant effort to destroy.  Detection requires a high Perception roll.
+Who It Affects: Primarily melee fighters, archers struggling to maintain aim under pressure.
+What It Changes: Introduces a constant threat of being restrained and slowed down by spectral vegetation.
+Clashes With Canon: None
+Open Questions: (Suggested) – Can they be reasoned with or manipulated?
+
+---
+
+Name: Gloomshrooms
+Kind: Fungus/Psychic (Hallucination)
+The Rule: These clusters release spores that induce vivid nightmares and disorientation in those nearby.
+How It Works: The spores require a DC12 Wisdom save to resist; failure results in temporary madness - confusion, paranoia, and reduced actions for one round. Bright light rapidly disperses the spores.
+Costs and Limits: Requires proximity to avoid. Vulnerability to bright light. Limited range. 
+Who It Affects: Individuals susceptible to fear or anxiety are more vulnerable. Those with low wisdom scores take a higher penalty. 
+What It Changes: Alters perception, reduces combat effectiveness, creates opportunities for manipulation.
+Clashes With Canon: None
+Open Questions: (suggested) – How long do effects last? Do certain herbs provide resistance? 
+
+---
+
+Name: Stonegrubs
+Kind: Earth/Animal (Burrowing Assault)
+The Rule: These armored grubs use their burrowing abilities to ambush targets from beneath the ground.
+How it works: They move quickly through loose earth and stone, attempting to grapple prey with powerful jaws. Attacks involve Dexterity saving throws against piercing damage and potentially stunning targets.
+Costs & Limits: Slow movement on hard surfaces. Effectiveness depends heavily on terrain – requires soft soil.  Vulnerable to blunt attacks. 
+Who It Affects: Primarily melee fighters caught off-guard, those moving through wooded areas.
+What It Changes: Introduces an element of surprise and vulnerability during travel or battle.
+Clashes With Canon: None
+Open Questions: (Suggested) - Can they be lured into traps? 
+
+
+---
+
+Name: Shadowhawks
+Kind: Animal/Darkness (Silent Predation)
+The Rule: These evolved hawks utilize darkness and silent flight to harass and incapacitate prey. 
+How It Works: Benefit from low light conditions; have advantage on stealth checks in shadows. Their attack relies on a single hit, but follow up attacks can easily overwhelm a target with overwhelming speed. 
+Costs & Limits: Vulnerable to bright light and fire. Requires careful tracking and positioning. 
+Who It Affects: Archers, scouts, any vulnerable creature exposed without cover. 
+What It Changes: Adds a new aerial threat to the Deep Woods. 
+Clashes With Canon: None
+Open Questions: (suggested) – Do they leave behind traces after their strikes? 
+
+
+
+**In the World:**
+
+The morning mist clung to Stoutwell’s croplands as Silas, the village woodcutter, strained against the weight of a fallen branch. He paused
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
