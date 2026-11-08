@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "built": "2026-11-08T19:05:25.212Z",
+  "built": "2026-11-08T19:19:04.409Z",
   "branch": "main",
-  "commit": "d45e86f0879f54330e72a67d662be61aa134e3e5",
+  "commit": "de4270a6736e92aae3c9a7b1d2910ae63178ed90",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
     "item": 92,
-    "place": 14,
+    "place": 15,
     "creature": 15,
     "lore": 30,
     "note": 182
@@ -266,6 +266,34 @@
       "mentioned_in": [
         "lore-beyond"
       ]
+    },
+    {
+      "id": "place-highwrit",
+      "type": "place",
+      "kind": "institution",
+      "name": "Highwrit",
+      "origin": "lore-keeper",
+      "status": "decided",
+      "world": "verrowen",
+      "review_key": "lore-keeper:1c20d0ad-2d69-470a-9de7-0d1c77d85e1a",
+      "filed": "2026-11-07",
+      "body": "_From a lore-keeper chat, 2026-11-07 · Regions & places. Rewritten to fit the canon, and the duplicate copy of it removed._\n\n- **Kind:** An office of the Kingdom's court.\n- **What it is:** The Highwrit makes sure every official document is written fair, worded properly and sealed before it goes out, so the Kingdom's paper looks as grand as its power. Like the other offices that matter, it belongs to a great house: **House Harrowmere** holds it and passes it down.\n- **How it works:** The Highwrit's clerks copy, polish and proofread the decrees, writs and letters of the Crown and the Rolls House, and nothing leaves the court without the Highwrit's seal.\n- **Costs and limits:** Mostly time, and the Highwrit's fees. It makes a document look right; it never checks that it's true. A Truthglass can tell whether the seal is real, not whether the words under it are honest.\n- **Who it affects:** The royal court, the Rolls House's clerks and every official whose writ needs the seal.\n- **Ties:** The Kingdom runs on paper, and the Highwrit is its polish. The Scribe thinks little of the Rolls House clerks, and less of the Highwrit's.\n- **Still open:** Who the current Lord Harrowmere is, and whether the office's polish has ever been used to dress up a forged name.",
+      "notes": [
+        "working-notes-highwrit"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 823
+      },
+      "fields": {
+        "what": "The Highwrit makes sure every official document is written fair, worded properly and sealed before it goes out, so the Kingdom's paper looks as grand as its power. Like the other offices that matter, it belongs to a great house: House Harrowmere holds it and passes it down.",
+        "kind": "An office of the Kingdom's court.",
+        "how": "The Highwrit's clerks copy, polish and proofread the decrees, writs and letters of the Crown and the Rolls House, and nothing leaves the court without the Highwrit's seal.",
+        "limits": "Mostly time, and the Highwrit's fees. It makes a document look right; it never checks that it's true. A Truthglass can tell whether the seal is real, not whether the words under it are honest.",
+        "who": "The royal court, the Rolls House's clerks and every official whose writ needs the seal.",
+        "ties": "The Kingdom runs on paper, and the Highwrit is its polish. The Scribe thinks little of the Rolls House clerks, and less of the Highwrit's.",
+        "still_open": "Who the current Lord Harrowmere is, and whether the office's polish has ever been used to dress up a forged name."
+      }
     },
     {
       "id": "place-highwrit-house",

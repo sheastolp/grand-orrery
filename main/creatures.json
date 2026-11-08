@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "built": "2026-11-08T19:05:25.212Z",
+  "built": "2026-11-08T19:19:04.409Z",
   "branch": "main",
-  "commit": "d45e86f0879f54330e72a67d662be61aa134e3e5",
+  "commit": "de4270a6736e92aae3c9a7b1d2910ae63178ed90",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
     "item": 92,
-    "place": 14,
+    "place": 15,
     "creature": 15,
     "lore": 30,
     "note": 182
