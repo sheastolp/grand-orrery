@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T18:44:19.812Z",
+  "built": "2026-11-08T19:37:43.211Z",
   "branch": "review",
-  "commit": "6d87ff80647e03c9987a6a1c11718a102b34d821",
+  "commit": "08fd01bfb67e8df166531fd0779fc063cd5c9885",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
     "item": 92,
-    "place": 7,
-    "creature": 9,
+    "place": 15,
+    "creature": 15,
     "lore": 30,
-    "note": 182
+    "note": 183
   },
   "entities": [
     {
@@ -215,7 +215,8 @@
         "working-notes-still-open-in-the-kingdom",
         "working-notes-how-he-ties-in",
         "working-notes-the-seekers-lodestone",
-        "working-notes-murrows-secret"
+        "working-notes-murrows-secret",
+        "working-notes-monstradiuss-quiet-watch"
       ]
     },
     {
@@ -519,6 +520,9 @@
       "icon": "🌳",
       "category": "Materials",
       "kind": "Wood",
+      "notes": [
+        "working-notes-ash-wood-from-the-ashen-reach"
+      ],
       "mentioned_in": [
         "universe-trades",
         "working-notes-ash-wood-from-the-ashen-reach"

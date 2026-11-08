@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T18:44:19.812Z",
+  "built": "2026-11-08T19:37:43.211Z",
   "branch": "review",
-  "commit": "6d87ff80647e03c9987a6a1c11718a102b34d821",
+  "commit": "08fd01bfb67e8df166531fd0779fc063cd5c9885",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
     "item": 92,
-    "place": 7,
-    "creature": 9,
+    "place": 15,
+    "creature": 15,
     "lore": 30,
-    "note": 182
+    "note": 183
   },
   "entities": [
     {
@@ -246,6 +246,214 @@
         "hp": 210,
         "to_hit": 11,
         "damage": "2d12+6"
+      }
+    },
+    {
+      "id": "rootwraiths",
+      "type": "creature",
+      "name": "Rootwraiths",
+      "origin": "lore-keeper",
+      "status": "decided",
+      "world": "verrowen",
+      "review_key": "lore-keeper:b33535cc-56ae-426a-a304-933b3c5a7760",
+      "filed": "2026-11-08",
+      "body": "_From a lore-keeper chat, 2026-11-08 · Physics & nature._\n\nName: Rootwraiths\nKind: Plant/Spirit (Entanglement)\nThe Rule: These animated root constructs attempt to ensnare creatures within their grasping tendrils.\nHow It Works: They move slowly, relying on surprise attacks and attempting to grapple targets using thorny vines. Success requires a successful Dexterity saving throw against their reach and bludgeoning damage.\nCosts and Limits: Vulnerable to fire damage, requiring significant effort to destroy.  Detection requires a high Perception roll.\nWho It Affects: Primarily melee fighters, archers struggling to maintain aim under pressure.\nWhat It Changes: Introduces a constant threat of being restrained and slowed down by spectral vegetation.\nClashes With Canon: None\nOpen Questions: (Suggested) – Can they be reasoned with or manipulated?",
+      "notes": [
+        "working-notes-rootwraiths"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1196
+      },
+      "icon": "🌿",
+      "fields": {
+        "does": "These animated root constructs attempt to ensnare creatures within their grasping tendrils.",
+        "limits": "Vulnerable to fire damage, requiring significant effort to destroy.  Detection requires a high Perception roll.",
+        "story": "Introduces a constant threat of being restrained and slowed down by spectral vegetation.",
+        "kind": "Plant/Spirit (Entanglement)",
+        "stats": "CR 2 · AC 13 · HP 45 · +5 to hit · 1d10+3"
+      },
+      "place": "place-the-monster-woods-western-edge",
+      "stats_made": true,
+      "stats": {
+        "cr": "2",
+        "ac": 13,
+        "hp": 45,
+        "to_hit": 5,
+        "damage": "1d10+3"
+      }
+    },
+    {
+      "id": "gloomshrooms",
+      "type": "creature",
+      "name": "Gloomshrooms",
+      "origin": "lore-keeper",
+      "status": "decided",
+      "world": "verrowen",
+      "review_key": "lore-keeper:b33535cc-56ae-426a-a304-933b3c5a7760",
+      "filed": "2026-11-08",
+      "body": "Name: Gloomshrooms\nKind: Fungus/Psychic (Hallucination)\nThe Rule: These clusters release spores that induce vivid nightmares and disorientation in those nearby.\nHow It Works: The spores require a DC12 Wisdom save to resist; failure results in temporary madness - confusion, paranoia, and reduced actions for one round. Bright light rapidly disperses the spores.\nCosts and Limits: Requires proximity to avoid. Vulnerability to bright light. Limited range. \nWho It Affects: Individuals susceptible to fear or anxiety are more vulnerable. Those with low wisdom scores take a higher penalty. \nWhat It Changes: Alters perception, reduces combat effectiveness, creates opportunities for manipulation.\nClashes With Canon: None\nOpen Questions: (suggested) – How long do effects last? Do certain herbs provide resistance?",
+      "notes": [
+        "working-notes-rootwraiths"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1196
+      },
+      "icon": "🍄",
+      "fields": {
+        "does": "These clusters release spores that induce vivid nightmares and disorientation in those nearby.",
+        "limits": "Requires proximity to avoid. Vulnerability to bright light. Limited range.",
+        "story": "Alters perception, reduces combat effectiveness, creates opportunities for manipulation.",
+        "kind": "Fungus/Psychic (Hallucination)",
+        "stats": "CR 1 · AC 13 · HP 28 · +4 to hit · 1d8+2"
+      },
+      "place": "place-the-monster-woods-western-edge",
+      "stats_made": true,
+      "stats": {
+        "cr": "1",
+        "ac": 13,
+        "hp": 28,
+        "to_hit": 4,
+        "damage": "1d8+2"
+      }
+    },
+    {
+      "id": "stonegrubs",
+      "type": "creature",
+      "name": "Stonegrubs",
+      "origin": "lore-keeper",
+      "status": "decided",
+      "world": "verrowen",
+      "review_key": "lore-keeper:b33535cc-56ae-426a-a304-933b3c5a7760",
+      "filed": "2026-11-08",
+      "body": "Name: Stonegrubs\nKind: Earth/Animal (Burrowing Assault)\nThe Rule: These armored grubs use their burrowing abilities to ambush targets from beneath the ground.\nHow it works: They move quickly through loose earth and stone, attempting to grapple prey with powerful jaws. Attacks involve Dexterity saving throws against piercing damage and potentially stunning targets.\nCosts & Limits: Slow movement on hard surfaces. Effectiveness depends heavily on terrain – requires soft soil.  Vulnerable to blunt attacks. \nWho It Affects: Primarily melee fighters caught off-guard, those moving through wooded areas.\nWhat It Changes: Introduces an element of surprise and vulnerability during travel or battle.\nClashes With Canon: None\nOpen Questions: (Suggested) - Can they be lured into traps?",
+      "notes": [
+        "working-notes-rootwraiths"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1196
+      },
+      "icon": "🪱",
+      "fields": {
+        "does": "These armored grubs use their burrowing abilities to ambush targets from beneath the ground.",
+        "limits": "Slow movement on hard surfaces. Effectiveness depends heavily on terrain – requires soft soil.  Vulnerable to blunt attacks.",
+        "story": "Introduces an element of surprise and vulnerability during travel or battle.",
+        "kind": "Earth/Animal (Burrowing Assault)",
+        "stats": "CR 2 · AC 14 · HP 45 · +5 to hit · 1d10+3"
+      },
+      "place": "place-the-monster-woods-western-edge",
+      "stats_made": true,
+      "stats": {
+        "cr": "2",
+        "ac": 14,
+        "hp": 45,
+        "to_hit": 5,
+        "damage": "1d10+3"
+      }
+    },
+    {
+      "id": "shadowhawks",
+      "type": "creature",
+      "name": "Shadowhawks",
+      "origin": "lore-keeper",
+      "status": "decided",
+      "world": "verrowen",
+      "review_key": "lore-keeper:b33535cc-56ae-426a-a304-933b3c5a7760",
+      "filed": "2026-11-08",
+      "body": "Name: Shadowhawks\nKind: Animal/Darkness (Silent Predation)\nThe Rule: These evolved hawks utilize darkness and silent flight to harass and incapacitate prey. \nHow It Works: Benefit from low light conditions; have advantage on stealth checks in shadows. Their attack relies on a single hit, but follow up attacks can easily overwhelm a target with overwhelming speed. \nCosts & Limits: Vulnerable to bright light and fire. Requires careful tracking and positioning. \nWho It Affects: Archers, scouts, any vulnerable creature exposed without cover. \nWhat It Changes: Adds a new aerial threat to the Deep Woods. \nClashes With Canon: None\nOpen Questions: (suggested) – Do they leave behind traces after their strikes? \n\n\n\n**In the World:**\n\nThe morning mist clung to Stoutwell’s croplands as Silas, the village woodcutter, strained against the weight of a fallen branch. He paused",
+      "notes": [
+        "working-notes-rootwraiths"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1196
+      },
+      "icon": "🦅",
+      "fields": {
+        "does": "These evolved hawks utilize darkness and silent flight to harass and incapacitate prey.",
+        "limits": "Vulnerable to bright light and fire. Requires careful tracking and positioning.",
+        "story": "Adds a new aerial threat to the Deep Woods.",
+        "kind": "Animal/Darkness (Silent Predation)",
+        "stats": "CR 2 · AC 13 · HP 45 · +5 to hit · 1d10+3"
+      },
+      "place": "place-the-monster-woods-western-edge",
+      "stats_made": true,
+      "stats": {
+        "cr": "2",
+        "ac": 13,
+        "hp": 45,
+        "to_hit": 5,
+        "damage": "1d10+3"
+      }
+    },
+    {
+      "id": "silken-stalker",
+      "type": "creature",
+      "name": "Silken Stalker",
+      "origin": "rest",
+      "status": "decided",
+      "world": "verrowen",
+      "review_key": "rest:idea-mw6n1sw6",
+      "filed": "2026-11-07",
+      "body": "_Made up by the AI in rest mode, 2026-11-07 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **Label:** A creature adapted to the damp, echoing depths of the Monster Wood, it communicates through subtle shifts in air pressure and uses this ability for both hunting and defense.\n- **What it is:** A \"Silken Stalker,\" a small, serpentine predator about the size of a large dog – roughly three feet long - covered in moss-like fur that blends perfectly with the Monster Wood’s undergrowth. It possesses delicate, membranous wings allowing short bursts of gliding flight.\n- **Who:** Native to the deepest sections of the Monster Wood, primarily dwelling amongst ancient, decaying trees near areas saturated with moisture and shadow. They are solitary creatures, rarely interacting with each other or venturing far from their chosen territories.\n- **Where:** Specifically found within pockets of the Monster Wood characterized by unusually high humidity—particularly around fallen logs, stagnant pools, and deep ravines where the sunlight struggles to penetrate. Their dens are typically constructed within hollowed-out tree roots or beneath dense tangles of vines.\n- **How it Works:** The Silken Stalker doesn't rely on sight or sound; instead, it detects its prey (small animals, birds, even unwary travelers) using specialized organs located along its flanks that sense minute changes in air pressure caused by movement. These ‘pressure whispers’ allow it to pinpoint targets with incredible accuracy, effectively creating a 3D “map” of its surroundings.  It can also use this ability defensively, releasing a concentrated burst of compressed air as a disorienting shockwave.\n- **Limits:** Its sensitivity is heavily affected by strong winds or turbulent airflow – making open spaces perilous. Magical interference, especially spells that create sonic vibrations, severely disrupts its sensory system, causing intense pain and disorientation. Prolonged exposure to fire causes its fur to burn rapidly, stripping away its camouflage and leaving it vulnerable. It cannot reliably track magic users - they simply appear as static noise.\n- **Ties:** Murrow has been observing the Silken Stalkers during his research",
+      "notes": [
+        "working-notes-whisperwind"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1306
+      },
+      "icon": "🐍",
+      "fields": {
+        "does": "A \"Silken Stalker,\" a small, serpentine predator about the size of a large dog – roughly three feet long - covered in moss-like fur that blends perfectly with the Monster Wood’s undergrowth. It possesses delicate, membranous wings allowing short bursts of gliding flight.",
+        "limits": "Its sensitivity is heavily affected by strong winds or turbulent airflow – making open spaces perilous. Magical interference, especially spells that create sonic vibrations, severely disrupts its sensory system, causing intense pain and disorientation. Prolonged exposure to fire causes its fur to burn rapidly, stripping away its camouflage and leaving it vulnerable. It cannot reliably track magic users - they simply appear as static noise.",
+        "where": "Specifically found within pockets of the Monster Wood characterized by unusually high humidity—particularly around fallen logs, stagnant pools, and deep ravines where the sunlight struggles to penetrate. Their dens are typically constructed within hollowed-out tree roots or beneath dense tangles of vines.",
+        "stats": "CR 4 · AC 14 · HP 80 · +6 to hit · 2d8+3"
+      },
+      "place": "place-the-monster-woods-western-edge",
+      "stats_made": true,
+      "stats": {
+        "cr": "4",
+        "ac": 14,
+        "hp": 80,
+        "to_hit": 6,
+        "damage": "2d8+3"
+      }
+    },
+    {
+      "id": "whisperwinds-vigil",
+      "type": "creature",
+      "name": "Whisperwind’s Vigil",
+      "origin": "rest",
+      "status": "decided",
+      "world": "verrowen",
+      "review_key": "rest:idea-mw7yc2yn",
+      "filed": "2026-11-08",
+      "body": "_Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **What it is:** A spectral hound, native only to the immediate area around the Monster Wood and especially active near Rook’s Watch, that acts as a living early warning system for intruders or significant magical disturbances within a roughly half-mile radius. It doesn't attack, instead emitting mournful howls when something triggers its heightened state – often before any physical threat materializes.\n- **Who:** Primarily controlled by Whisperwind, the village’s appointed “Watcher” - essentially a conduit and amplifier for the Hound’s abilities, though not its creator. The Hound itself seems ancient and unbound by normal rules of life and death.\n- **Where:** Specifically located along the western edge of Stoutwell where the Monster Wood begins, particularly concentrated around Rook’s Watch, a small elevated platform built atop a naturally occurring rock formation overlooking the woods. Its range extends approximately ½ mile outwards from Rook’s Watch. The wood grows dense enough here that most inhabitants don’t venture this far without Guard escort.\n- **How it works:** The Hound appears to be drawn to strong magical signatures—even faint ones—and areas with unusual energy fluctuations. When triggered, it emits three distinct types of howling: a low rumble signifying general unease; a high-pitched whine indicating immediate danger; and a sustained, sorrowful wail if the disturbance is unnatural (like magic gone wrong). Whisperwind can subtly adjust the Hound’s sensitivity, but only through focused meditation and quiet intention.  It requires constant attention, as extended periods of silence or distraction weaken its connection. A significant drain on mana is required for Whisperwind to sustain the contact – roughly equivalent to one hour of focused spellcasting.\n- **Limits:** The Hound's effectiveness is directly tied to Whisperwind’s ability to maintain focus. Loud noises, distractions, or emotional distress severely disrupt the link. It cannot “see” in the conventional sense, relying solely on sensory input filtered by its spectral awareness. Additionally, the Hound *cannot* predict the outcome of events – merely alert to their presence. Finally, prolonged exposure to the hound causes a dulling effect - those who stand near it for too long find themselves unusually sluggish and unable",
+      "notes": [
+        "working-notes-whisperwinds-vigil"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1413
+      },
+      "icon": "👻",
+      "fields": {
+        "does": "A spectral hound, native only to the immediate area around the Monster Wood and especially active near Rook’s Watch, that acts as a living early warning system for intruders or significant magical disturbances within a roughly half-mile radius. It doesn't attack, instead emitting mournful howls when something triggers its heightened state – often before any physical threat materializes.",
+        "limits": "The Hound's effectiveness is directly tied to Whisperwind’s ability to maintain focus. Loud noises, distractions, or emotional distress severely disrupt the link. It cannot “see” in the conventional sense, relying solely on sensory input filtered by its spectral awareness. Additionally, the Hound *cannot* predict the outcome of events – merely alert to their presence. Finally, prolonged exposure to the hound causes a dulling effect - those who stand near it for too long find themselves unusually sluggish and unable",
+        "where": "Specifically located along the western edge of Stoutwell where the Monster Wood begins, particularly concentrated around Rook’s Watch, a small elevated platform built atop a naturally occurring rock formation overlooking the woods. Its range extends approximately ½ mile outwards from Rook’s Watch. The wood grows dense enough here that most inhabitants don’t venture this far without Guard escort.",
+        "stats": "CR 3 · AC 13 · HP 60 · +5 to hit · 2d6+3"
+      },
+      "place": "place-the-monster-woods-western-edge",
+      "stats_made": true,
+      "stats": {
+        "cr": "3",
+        "ac": 13,
+        "hp": 60,
+        "to_hit": 5,
+        "damage": "2d6+3"
       }
     }
   ]

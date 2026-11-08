@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T18:44:19.812Z",
+  "built": "2026-11-08T19:37:43.211Z",
   "branch": "review",
-  "commit": "6d87ff80647e03c9987a6a1c11718a102b34d821",
+  "commit": "08fd01bfb67e8df166531fd0779fc063cd5c9885",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
     "item": 92,
-    "place": 7,
-    "creature": 9,
+    "place": 15,
+    "creature": 15,
     "lore": 30,
-    "note": 182
+    "note": 183
   },
   "entities": [
     {
@@ -2777,6 +2777,7 @@
         "line": 813
       },
       "world": "verrowen",
+      "belongs_to": "ash-wood",
       "mentions": [
         "tansy-ninefingers",
         "ash-wood"
@@ -3572,6 +3573,38 @@
       "mentions": [
         "murrow",
         "truthglass"
+      ]
+    },
+    {
+      "id": "working-notes-monstradiuss-quiet-watch",
+      "type": "note",
+      "name": "Monstradius’s Quiet Watch",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw88hy6d",
+      "filed": "2026-11-08",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Murrow maintains a subtle, almost undetectable observation post within his shop, utilizing carefully calibrated Resonance Stone Devices to monitor fluctuations in mana signatures – specifically those originating from disturbances or monstrous activity within a half-mile radius. These devices don’t actively *detect* monsters, but rather register unnatural shifts in magical energy that correlate with their presence.",
+        "who": "Primarily Murrow himself, occasionally assisted by Burn during particularly long watches.",
+        "where": "A hidden chamber beneath the main floor of Monstradius’s workshop, accessible only through a disguised section of shelving stocked with seemingly random ingredients and components. It's built into an existing cellar space and reinforced with timbers Doric provided as part of a long-term project (originally intended for extra storage).",
+        "how_it_works": "The Resonance Stone Device consists of interlocking rings of polished mirrorstone, each attuned to a specific frequency of mana. When disturbed by nearby magic—especially elemental surges or the raw power of a monster—the rings vibrate subtly, creating a complex pattern detectable only by Murrow’s trained senses and amplified via a small, intricately crafted amplifier made of brass and copper. He doesn't use any active spellcasting; he simply interprets these vibrations, correlating them with known monster types based on decades of experience.",
+        "limits": "The range is limited to roughly half a mile, heavily reliant on ambient mana concentrations - the device struggles near areas saturated with natural magic or those shielded from external energies.  It also has no visual output – Murrow relies solely on tactile feedback and his own intuition. It can be overloaded by excessively strong magical bursts. Prolonged operation drains Murrow’s personal mana reserves considerably. If operated too extensively without replenishment, Murrow becomes noticeably colder and weaker.",
+        "ties": "This system directly connects to Murrow’s secretive research concerning the Seeker's Lodestone and his apparent fear of the Kingdom. His desire to understand the potential threats emanating from beyond Stoutwell and the Monster Wood fuels its construction, reflecting his cautious, almost paranoid nature. It echoes elements of Monstradius’s secret: both men are obsessed with understanding and controlling"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- **What it is:** Murrow maintains a subtle, almost undetectable observation post within his shop, utilizing carefully calibrated Resonance Stone Devices to monitor fluctuations in mana signatures – specifically those originating from disturbances or monstrous activity within a half-mile radius. These devices don’t actively *detect* monsters, but rather register unnatural shifts in magical energy that correlate with their presence.\n- **Who:** Primarily Murrow himself, occasionally assisted by Burn during particularly long watches.\n- **Where:** A hidden chamber beneath the main floor of Monstradius’s workshop, accessible only through a disguised section of shelving stocked with seemingly random ingredients and components. It's built into an existing cellar space and reinforced with timbers Doric provided as part of a long-term project (originally intended for extra storage).\n- **How it works:** The Resonance Stone Device consists of interlocking rings of polished mirrorstone, each attuned to a specific frequency of mana. When disturbed by nearby magic—especially elemental surges or the raw power of a monster—the rings vibrate subtly, creating a complex pattern detectable only by Murrow’s trained senses and amplified via a small, intricately crafted amplifier made of brass and copper. He doesn't use any active spellcasting; he simply interprets these vibrations, correlating them with known monster types based on decades of experience.\n- **Limits:** The range is limited to roughly half a mile, heavily reliant on ambient mana concentrations - the device struggles near areas saturated with natural magic or those shielded from external energies.  It also has no visual output – Murrow relies solely on tactile feedback and his own intuition. It can be overloaded by excessively strong magical bursts. Prolonged operation drains Murrow’s personal mana reserves considerably. If operated too extensively without replenishment, Murrow becomes noticeably colder and weaker.\n- **Ties:** This system directly connects to Murrow’s secretive research concerning the Seeker's Lodestone and his apparent fear of the Kingdom. His desire to understand the potential threats emanating from beyond Stoutwell and the Monster Wood fuels its construction, reflecting his cautious, almost paranoid nature. It echoes elements of Monstradius’s secret: both men are obsessed with understanding and controlling",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1467
+      },
+      "world": "verrowen",
+      "mentions": [
+        "doric",
+        "murrow",
+        "burn",
+        "seekers-lodestone"
       ]
     },
     {
