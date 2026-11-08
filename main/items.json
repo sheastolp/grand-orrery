@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "built": "2026-11-08T16:03:34.338Z",
+  "built": "2026-11-08T16:34:05.584Z",
   "branch": "main",
-  "commit": "d36189e0b485d1db062b57d3182b5d6f3091654a",
+  "commit": "f969953468b9c0dc32112929608c63895bd256e6",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 87,
+    "item": 90,
     "place": 7,
     "creature": 9,
     "lore": 18,
@@ -1816,6 +1816,92 @@
       "icon": "📃",
       "category": "Peddlers' wares",
       "kind": "Relics"
+    },
+    {
+      "id": "chromatic-drake-xans-wildshape",
+      "type": "item",
+      "name": "Chromatic Drake – Xan’s Wildshape",
+      "icon": "💡",
+      "category": "Sent in from the chat",
+      "kind": "From the lore-keeper",
+      "origin": "lore-keeper",
+      "status": "decided",
+      "fields": {
+        "kind": "Items & Inventions - A temporary transformation utilizing a native race of mana-draining monsters.",
+        "does": "Xan can transform into a shifting, multi-colored drake fueled by stolen mana from other creatures.",
+        "made": "Xan channels ambient mana through his body, stimulating the latent presence of Silvari within him—manifesting them as scales and features before transforming fully. He actively drains mana from nearby animals or people to sustain the form, amplifying its power.",
+        "limits": "Requires significant concentration and stamina. Prolonged use risks mental instability in both Xan and anyone nearby. Drakes lasts approximately fifteen minutes before requiring a full recharge (dependent on drained mana). The effectiveness is directly tied to the amount of mana stolen. Only those who possess a naturally high affinity for magic (primarily elves and artificers) are capable of initiating the shift.",
+        "who_it_affects": "Primarily affects any creature within range of Xan's attack/drain; also causes vivid hallucinations. Can disrupt magical workings and potentially damage artifacts sensitive to mana fluctuations. Guards find themselves disoriented when near him.",
+        "story": "Alters the environment with shimmering distortions, induces hallucinations, and physically shifts the terrain due to displaced elemental energy – briefly creating areas of intense cold or heat. It’s dangerous but powerful.",
+        "clashes_with_canon": "None",
+        "open_questions": "(suggested) - What is the origin of the Silvari? Are they remnants of another world?"
+      },
+      "review_key": "lore-keeper:4e0771f5-3f66-4e0b-869e-ac88e9355e23",
+      "filed": "2026-11-07",
+      "body": "_From a lore-keeper chat, 2026-11-07 · Items & inventions._\n\n**Name:** Chromatic Drake – Xan’s Wildshape\n\n**Kind:** Items & Inventions - A temporary transformation utilizing a native race of mana-draining monsters.\n\n**The Rule:** Xan can transform into a shifting, multi-colored drake fueled by stolen mana from other creatures.\n\n**How it Works:** Xan channels ambient mana through his body, stimulating the latent presence of Silvari within him—manifesting them as scales and features before transforming fully. He actively drains mana from nearby animals or people to sustain the form, amplifying its power.\n\n**Costs and Limits:** Requires significant concentration and stamina. Prolonged use risks mental instability in both Xan and anyone nearby. Drakes lasts approximately fifteen minutes before requiring a full recharge (dependent on drained mana). The effectiveness is directly tied to the amount of mana stolen. Only those who possess a naturally high affinity for magic (primarily elves and artificers) are capable of initiating the shift.\n\n**Who it Affects:** Primarily affects any creature within range of Xan's attack/drain; also causes vivid hallucinations. Can disrupt magical workings and potentially damage artifacts sensitive to mana fluctuations. Guards find themselves disoriented when near him.\n\n**What it Changes:** Alters the environment with shimmering distortions, induces hallucinations, and physically shifts the terrain due to displaced elemental energy – briefly creating areas of intense cold or heat. It’s dangerous but powerful.\n\n**Clashes with Canon:** None\n\n**Open Questions:** (suggested) - What is the origin of the Silvari? Are they remnants of another world?\n\n---\nIn the World: \n\nThe rain hammered against the thick stone walls of Monstradius, mirroring the drumming anxiety beneath Murrow’s workbench. He meticulously adjusted the calibration runes around his Truthglass—a delicate operation designed to authenticate a shipment of gold coming from Stoutwell. Suddenly, a ripple distorted the lens as Xan entered, dripping wet and visibly agitated. “It’s… changing,” he gasped, gesturing wildly towards the shimmering scales forming on his arm. A nearby halfling apprentice stumbled back, clutching his head in confusion, muttering about shifting colors and impossible geometries before collapsing onto the floor. Murrow cursed softly, quickly sealing off the workspace while checking for residual magic–the air felt strangely charged, humming with stolen potential.",
+      "notes": [
+        "working-notes-chromatic-drake-xans-wildshape"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 926
+      }
+    },
+    {
+      "id": "gilded-spine-of-the-silent-archivist",
+      "type": "item",
+      "name": "Gilded Spine of the Silent Archivist",
+      "icon": "💡",
+      "category": "Sent in from the chat",
+      "kind": "From the lore-keeper",
+      "origin": "lore-keeper",
+      "status": "decided",
+      "fields": {
+        "kind": "Object - Relic",
+        "does": "This intricate silver locket whispers fragments of betrayal whenever worn by someone who has betrayed another person, amplifying their guilt and suspicion.",
+        "story": "The Spine manifests as fleeting auditory hallucinations—not full conversations, but snippets of phrases laced with accusation (“You lied…”, “I knew…”). The volume increases proportionally to the wearer’s stress levels or proximity to individuals they distrust. Osric would experience fragmented thoughts concerning his role within the Elderhold, subtly questioning loyalties amongst his peers – he wouldn't be driven mad, but certainly frustrated and paranoid. Silas initially experiences vague unease before being drawn towards more defined whispers related to those around him. The whispers don't *reveal* concrete betrayals, just the potential for them, feeding a cycle of paranoia and investigation. Murrow hypothesizes that the item draws on ambient magical echoes of past transgressions – lingering ‘residue’ from significant lies and broken oaths.",
+        "open_questions": "(Suggested) Trigger mechanism specifics (how does it activate?), Precise effect range/intensity (how loud are the whispers?) , Source of the magic (where did this relic come from?)."
+      },
+      "review_key": "lore-keeper:344894e1-38e5-418c-88d4-a63fca3289c9",
+      "filed": "2026-11-08",
+      "body": "_From a lore-keeper chat, 2026-11-08 · Anything._\n\nName: Gilded Spine of the Silent Archivist\nKind: Object - Relic\nWhat it is: This intricate silver locket whispers fragments of betrayal whenever worn by someone who has betrayed another person, amplifying their guilt and suspicion.\nThe Details: The Spine manifests as fleeting auditory hallucinations—not full conversations, but snippets of phrases laced with accusation (“You lied…”, “I knew…”). The volume increases proportionally to the wearer’s stress levels or proximity to individuals they distrust. Osric would experience fragmented thoughts concerning his role within the Elderhold, subtly questioning loyalties amongst his peers – he wouldn't be driven mad, but certainly frustrated and paranoid. Silas initially experiences vague unease before being drawn towards more defined whispers related to those around him. The whispers don't *reveal* concrete betrayals, just the potential for them, feeding a cycle of paranoia and investigation. Murrow hypothesizes that the item draws on ambient magical echoes of past transgressions – lingering ‘residue’ from significant lies and broken oaths.\n\nClashes with canon (None)\nOpen questions: (Suggested) Trigger mechanism specifics (how does it activate?), Precise effect range/intensity (how loud are the whispers?) , Source of the magic (where did this relic come from?). \n\nIn the world:\n\nSilas clutched the Gilded Spine tightly, the cool metal strangely comforting against his burning brow. He was sitting in the Wellhouse tavern, nursing a pint of Stoutwell ale - an attempt at calming the incessant murmurings within his mind. A snippet of voice drifted through the room - \"He promised me safety...but left me exposed.\" It wasn’t directed at anyone specific; rather a generalized echo of broken trust swirling within his skull.  The other patrons barely noticed his frown, engrossed in their own conversations, oblivious to the spectral accusations warring beneath his awareness. He took another gulp of ale, hoping to drown out the voices, but they persisted, unsettling reminders of his fractured past and the unknown dangers ahead.",
+      "notes": [
+        "working-notes-gilded-spine-of-the-silent-archivist"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1051
+      }
+    },
+    {
+      "id": "reinforced-gatehouse-beams",
+      "type": "item",
+      "name": "Reinforced Gatehouse Beams",
+      "icon": "💡",
+      "category": "Sent in from the chat",
+      "kind": "From the lore-keeper",
+      "origin": "lore-keeper",
+      "status": "decided",
+      "fields": {
+        "kind": "Structural Enhancement via Elemental Infusion",
+        "does": "Iron-banded oak beams reinforced with controlled elemental fire increase the structural integrity of the Stoutwell gatehouse against siege weaponry.",
+        "made": "Doric forges oak beams with bands of iron, while Murrow subtly infuses them with channeled elemental fire – strengthening the wood’s grain through heat manipulation, layering a weak ward against impact.",
+        "limits": "Approximately 8-9 silver pieces per beam, labor from slum workers supplementing Doric's work (estimated 2 copper per day), risk of instability if Murrow overloads the infusion—potentially causing damage or injury (risk factor: medium). Primarily affects the guard rotation and those working near the gate. It strengthens the gatehouse considerably but doesn’t dramatically alter its appearance.",
+        "who_it_affects": "Doric (primary artisan), Murrow (manipulator of the magic), Guard Rotation (users of the strengthened structure), Slum Workers (labor force), potentially all residents within range of potential instabilities.",
+        "story": "Increases the gatehouse’s resistance to projectile attacks and blunt force trauma; shifts focus towards needing maintenance/monitoring by someone skilled in detecting magical disturbances.",
+        "clashes_with_canon": "None",
+        "open_questions": "(Suggested) - *“Does this significantly reduce the chance of a rift opening directly at the gate?”*"
+      },
+      "review_key": "lore-keeper:3bb43e83-ce3f-43eb-871d-099ae0f653b4",
+      "filed": "2026-11-08",
+      "body": "_From a lore-keeper chat, 2026-11-08 · Items & inventions._\n\n**Name:** Reinforced Gatehouse Beams\n\n**Kind (Items & Inventions):** Structural Enhancement via Elemental Infusion\n\n**The Rule:** Iron-banded oak beams reinforced with controlled elemental fire increase the structural integrity of the Stoutwell gatehouse against siege weaponry.\n\n**How it Works:** Doric forges oak beams with bands of iron, while Murrow subtly infuses them with channeled elemental fire – strengthening the wood’s grain through heat manipulation, layering a weak ward against impact. \n\n**Costs and Limits:** Approximately 8-9 silver pieces per beam, labor from slum workers supplementing Doric's work (estimated 2 copper per day), risk of instability if Murrow overloads the infusion—potentially causing damage or injury (risk factor: medium). Primarily affects the guard rotation and those working near the gate. It strengthens the gatehouse considerably but doesn’t dramatically alter its appearance.\n\n**Who it Affects:** Doric (primary artisan), Murrow (manipulator of the magic), Guard Rotation (users of the strengthened structure), Slum Workers (labor force), potentially all residents within range of potential instabilities.\n\n**What it Changes:** Increases the gatehouse’s resistance to projectile attacks and blunt force trauma; shifts focus towards needing maintenance/monitoring by someone skilled in detecting magical disturbances. \n\n**Clashes with Canon:** None\n\n**Open Questions:** (Suggested) - *“Does this significantly reduce the chance of a rift opening directly at the gate?”*\n\nIn the world, the afternoon sun cast long shadows across the newly reinforced section of the Stoutwell Gatehouse as Tobin Ashby hammered a final rivet into place. The air still carried a faint scent of smoke – a subtle reminder of Murrow's careful work. A couple of grizzled guardsmen shifted uneasily, checking their shields, while Murrow adjusted his spectacles, meticulously examining the grain pattern of the oak for any signs of distress. The rhythmic clang of metal against metal mingled with the shouts of the slum workers hauling timber nearby, creating an oddly ordered scene amidst the rough-hewn village, solidifying the fortified frontier against the looming Monster Wood.",
+      "notes": [
+        "working-notes-reinforced-gatehouse-beams"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1068
+      }
     }
   ]
 }
