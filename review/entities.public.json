@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T20:20:46.098Z",
+  "built": "2026-11-08T20:42:22.720Z",
   "branch": "review",
-  "commit": "5d1de620f019c128e1ad97d1ebe8e0ce153fe7cf",
+  "commit": "1f3230d34e6a43584048cc55d468aa47e3a77555",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 92,
+    "item": 93,
     "place": 15,
     "creature": 15,
     "lore": 30,
-    "note": 185
+    "note": 186
   },
   "entities": [
     {
@@ -258,7 +258,8 @@
         "working-notes-the-silent-well",
         "working-notes-guards-routine",
         "working-notes-murrows-secret",
-        "working-notes-monstradiuss-quiet-watch"
+        "working-notes-monstradiuss-quiet-watch",
+        "working-notes-murrows-peculiar-pipe"
       ]
     },
     {
@@ -367,7 +368,8 @@
         "working-notes-monstradiuss-secret",
         "working-notes-the-hearthstones-hum",
         "working-notes-murrows-quiet-watch",
-        "working-notes-monstradiuss-quiet-watch"
+        "working-notes-monstradiuss-quiet-watch",
+        "working-notes-murrows-peculiar-pipe"
       ]
     },
     {
@@ -2272,7 +2274,8 @@
         "working-notes-monstradius-items",
         "working-notes-constructed-items",
         "working-notes-brackwood-fringe",
-        "working-notes-mana-affinity-items-stabilized-tools"
+        "working-notes-mana-affinity-items-stabilized-tools",
+        "working-notes-murrows-peculiar-pipe"
       ]
     },
     {
@@ -9240,6 +9243,63 @@
         "hesketh-reeve",
         "wardbell"
       ]
+    },
+    {
+      "id": "working-notes-murrows-peculiar-pipe",
+      "type": "note",
+      "name": "Murrow’s Peculiar Pipe",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8at3xm",
+      "filed": "2026-11-08",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "A small, intricately carved pipe crafted from ashwood harvested – suspiciously quickly – from the Ashen Reach. It appears to subtly shift colors depending on the ambient light, displaying faint hues of grey, brown, and even a fleeting violet.",
+        "who": "It was created by Silas Blackwood, a former apprentice artificer who vanished twenty years ago after being dismissed for “unorthodox experimentation.” He lived near Stoutwell, scavenging materials and obsessively studying the workings of Mundane objects.  Silas never sought riches or fame, only knowledge - particularly about how things held magic. Currently, he is known to be working within Monstradius's research building.",
+        "where": "Initially found in Silas’ workshop, located just outside the slums in Stoutwell. Now resides primarily within Murrow’s shop, though its exact location within the cluttered space remains… ambiguous.",
+        "how_it_works": "The pipe doesn't produce smoke when lit with normal fuel (even charcoal). Instead, it draws upon the ambient mana present in an object nearby, condensing it into a visible haze that shimmers with rainbow colours. This haze isn’t truly \"smoke,\" but rather refined mana, cool to the touch and faintly smelling of rain-soaked stone. When used carefully, this condensed mana can temporarily enhance simple tasks: speeding up woodcutting, improving the precision of hammering, or briefly strengthening a fragile structure – effects mirroring Doric’s Featherhooks, but far weaker. Each use drains a small amount of Mana Affinity from the user; if they don’t have any latent affinity, the drain manifests as increased dizziness and coldness. If the user has affinity, there will be a subtle warming sensation followed by exhaustion.",
+        "limits": "The pipe’s effectiveness is directly tied to the surrounding environment. In areas rich in natural mana (like near strong elemental sources), it can operate for several minutes at a time. However, in places devoid of magic - like inside the walls of Monstradius's building - it quickly becomes inert. Furthermore, prolonged use causes increasing fatigue and disorientation in Murrow. It can only perform its function on one object at"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-08 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** A small, intricately carved pipe crafted from ashwood harvested – suspiciously quickly – from the Ashen Reach. It appears to subtly shift colors depending on the ambient light, displaying faint hues of grey, brown, and even a fleeting violet.\n- **Who:** It was created by Silas Blackwood, a former apprentice artificer who vanished twenty years ago after being dismissed for “unorthodox experimentation.” He lived near Stoutwell, scavenging materials and obsessively studying the workings of Mundane objects.  Silas never sought riches or fame, only knowledge - particularly about how things held magic. Currently, he is known to be working within Monstradius's research building.\n- **Where:** Initially found in Silas’ workshop, located just outside the slums in Stoutwell. Now resides primarily within Murrow’s shop, though its exact location within the cluttered space remains… ambiguous.\n- **How it works:** The pipe doesn't produce smoke when lit with normal fuel (even charcoal). Instead, it draws upon the ambient mana present in an object nearby, condensing it into a visible haze that shimmers with rainbow colours. This haze isn’t truly \"smoke,\" but rather refined mana, cool to the touch and faintly smelling of rain-soaked stone. When used carefully, this condensed mana can temporarily enhance simple tasks: speeding up woodcutting, improving the precision of hammering, or briefly strengthening a fragile structure – effects mirroring Doric’s Featherhooks, but far weaker. Each use drains a small amount of Mana Affinity from the user; if they don’t have any latent affinity, the drain manifests as increased dizziness and coldness. If the user has affinity, there will be a subtle warming sensation followed by exhaustion.\n- **Limits:** The pipe’s effectiveness is directly tied to the surrounding environment. In areas rich in natural mana (like near strong elemental sources), it can operate for several minutes at a time. However, in places devoid of magic - like inside the walls of Monstradius's building - it quickly becomes inert. Furthermore, prolonged use causes increasing fatigue and disorientation in Murrow. It can only perform its function on one object at",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1501
+      },
+      "world": "verrowen",
+      "mentions": [
+        "doric",
+        "murrow",
+        "featherhook"
+      ]
+    },
+    {
+      "id": "murrows-peculiar-pipe",
+      "type": "item",
+      "name": "Murrow’s Peculiar Pipe",
+      "icon": "💡",
+      "category": "Sent in from the chat",
+      "kind": "From auto mode",
+      "origin": "rest",
+      "status": "pitch",
+      "fields": {
+        "does": "A small, intricately carved pipe crafted from ashwood harvested – suspiciously quickly – from the Ashen Reach. It appears to subtly shift colors depending on the ambient light, displaying faint hues of grey, brown, and even a fleeting violet.",
+        "made_by": "It was created by Silas Blackwood, a former apprentice artificer who vanished twenty years ago after being dismissed for “unorthodox experimentation.” He lived near Stoutwell, scavenging materials and obsessively studying the workings of Mundane objects.  Silas never sought riches or fame, only knowledge - particularly about how things held magic. Currently, he is known to be working within Monstradius's research building.",
+        "where": "Initially found in Silas’ workshop, located just outside the slums in Stoutwell. Now resides primarily within Murrow’s shop, though its exact location within the cluttered space remains… ambiguous.",
+        "made": "The pipe doesn't produce smoke when lit with normal fuel (even charcoal). Instead, it draws upon the ambient mana present in an object nearby, condensing it into a visible haze that shimmers with rainbow colours. This haze isn’t truly \"smoke,\" but rather refined mana, cool to the touch and faintly smelling of rain-soaked stone. When used carefully, this condensed mana can temporarily enhance simple tasks: speeding up woodcutting, improving the precision of hammering, or briefly strengthening a fragile structure – effects mirroring Doric’s Featherhooks, but far weaker. Each use drains a small amount of Mana Affinity from the user; if they don’t have any latent affinity, the drain manifests as increased dizziness and coldness. If the user has affinity, there will be a subtle warming sensation followed by exhaustion.",
+        "limits": "The pipe’s effectiveness is directly tied to the surrounding environment. In areas rich in natural mana (like near strong elemental sources), it can operate for several minutes at a time. However, in places devoid of magic - like inside the walls of Monstradius's building - it quickly becomes inert. Furthermore, prolonged use causes increasing fatigue and disorientation in Murrow. It can only perform its function on one object at"
+      },
+      "review_key": "rest:idea-mw8at3xm",
+      "filed": "2026-11-08",
+      "body": "_Made up by the AI in auto mode, 2026-11-08 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** A small, intricately carved pipe crafted from ashwood harvested – suspiciously quickly – from the Ashen Reach. It appears to subtly shift colors depending on the ambient light, displaying faint hues of grey, brown, and even a fleeting violet.\n- **Who:** It was created by Silas Blackwood, a former apprentice artificer who vanished twenty years ago after being dismissed for “unorthodox experimentation.” He lived near Stoutwell, scavenging materials and obsessively studying the workings of Mundane objects.  Silas never sought riches or fame, only knowledge - particularly about how things held magic. Currently, he is known to be working within Monstradius's research building.\n- **Where:** Initially found in Silas’ workshop, located just outside the slums in Stoutwell. Now resides primarily within Murrow’s shop, though its exact location within the cluttered space remains… ambiguous.\n- **How it works:** The pipe doesn't produce smoke when lit with normal fuel (even charcoal). Instead, it draws upon the ambient mana present in an object nearby, condensing it into a visible haze that shimmers with rainbow colours. This haze isn’t truly \"smoke,\" but rather refined mana, cool to the touch and faintly smelling of rain-soaked stone. When used carefully, this condensed mana can temporarily enhance simple tasks: speeding up woodcutting, improving the precision of hammering, or briefly strengthening a fragile structure – effects mirroring Doric’s Featherhooks, but far weaker. Each use drains a small amount of Mana Affinity from the user; if they don’t have any latent affinity, the drain manifests as increased dizziness and coldness. If the user has affinity, there will be a subtle warming sensation followed by exhaustion.\n- **Limits:** The pipe’s effectiveness is directly tied to the surrounding environment. In areas rich in natural mana (like near strong elemental sources), it can operate for several minutes at a time. However, in places devoid of magic - like inside the walls of Monstradius's building - it quickly becomes inert. Furthermore, prolonged use causes increasing fatigue and disorientation in Murrow. It can only perform its function on one object at",
+      "notes": [
+        "working-notes-murrows-peculiar-pipe"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1501
+      }
     },
     {
       "id": "midkemia-the-campaign",
