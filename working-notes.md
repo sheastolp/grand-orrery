@@ -1338,3 +1338,16 @@ _Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's gui
 _Made up by the AI in auto mode, 2026-11-08 · about a custom, saying, food or rule of daily life in Stoutwell._
 
 - Every evening at sunset, before the villagers settle down to supper, Murrow will sit by his hearthstone – a river stone he’d charged with fire – and quietly hum a tuneless melody. It’s said that if you listen closely, you can hear the faint thrumming of the stone, a tiny echo of the world’s connection, and sometimes, just sometimes, it helps calm a child's fears about the monsters lurking in the Monster Wood.
+
+### Murrow’s Quiet Watch (Pitch)
+
+<!-- review-key: rest:idea-mw84qd00 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
+
+- **What it is:** A small, intricately carved wooden bird – a raven – that emits a faint hum when held near areas with significant magical residue or disturbances. It doesn't actively detect magic, but provides a subtle “feeling” to the user about nearby enchantments.
+- **Who:** Created by Murrow himself, using ashwood from the Ashen Reach and infused with a minuscule amount of his own carefully contained mana. He initially intended it for tracking latent magical signatures within the Village, but realized its potential beyond simple detection.
+- **Where:** Primarily kept within Murrow’s workshop Monstradius, alongside the Rift Compass and Truthglass. However, he occasionally carries it while exploring the Monster Wood or investigating unusual occurrences in Stoutwell.
+- **How it works:** When held close to an area affected by magic (a healing ritual, a goblin spell, even a particularly potent fire enchantment), the raven vibrates slightly and emits a low hum, increasing in intensity proportional to the magic's strength. The feeling is described as a "tingle" or a slight pressure against the palm - not something easily distinguishable from nervousness. It isn’t precise; it indicates *presence* rather than pinpointing exact sources or types of magic. Prolonged use drains Murrow’s personal mana reserves very slowly, requiring him to replenish them through meditation or consumption of specific herbs.
+- **Limits:** The raven's sensitivity diminishes rapidly outside of areas touched by magic. In open fields or around mundane objects, it remains utterly silent. Its range is limited – about 30 feet at most – due to the smallness of the mana it holds. Furthermore, it’s susceptible to interference: strong elemental attacks or powerful spells can overwhelm its senses, causing it to emit a jarring shriek that temporarily disrupts Murrow's concentration. Finally, the raven’s connection to Murrow means if he were to die, so would the device.
+- **Ties:** The ash wood used for the bird comes directly from the Ashen Reach, reflecting Murrow’s deep interest in understanding the nature of magical decay—a fascination born out of his experience with the Blight. He occasionally
