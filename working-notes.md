@@ -1046,6 +1046,40 @@ Open questions: (suggested) What specific creatures inhabit the deeper coves nea
 In the world:
 The rain hammered against the timbers of Silas’s small fishing boat as he hauled in his evening catch - mostly sea-slugs and phosphorescent shrimp. The wind howled off the cliffs, carrying spray that stung his face. Old Man Hemlock, mending nets beside him, grunted, "Stormbreaker's holding true tonight, boy. Best build in Verrowen hasn't seen conditions like this in a generation." A flash of blue light briefly illuminated from beneath the waves before disappearing into the dark depths--a common sight around Saltwind Reach, but always unsettling enough to make Silas check his hooks twice.
 
+### Conduit Staff (Pitch)
+
+<!-- review-key: lore-keeper:dfd29695-28bb-4f1e-a60d-5ccfa50f6295 -->
+_From a lore-keeper chat, 2026-11-08 · Anything._
+
+Here's the compiled output from our discussion regarding wizard staffs, formatted as requested:
+
+**Name:** Conduit Staff
+**Kind:** Amplification Focus
+**What it is:** A polished obsidian staff designed to channel and intensify existing magical energies.
+**Details:** Core crafted from rare obsidian, channeling ambient mana into focused blasts or shields – favored by fire users. It drains mana rapidly if overused, growing noticeably colder when depleted. Murrow would oversee its creation, demanding substantial labor. 
+**Clashes with Canon:** None
+**Open Questions:** Obsidian brittleness (suggested: Doric could potentially reinforce the core with interwoven strands of mithril—a risky but powerful addition). 
+
+**Name:** Resonance Staff
+**Kind:** Manipulation Focus
+**What it is:** An ashwood staff allowing for subtle manipulation of ambient magic.
+**Details:** Crafted from seasoned Ash wood harvested from the Ashen Reach, skilled users can dampen earth tremors or disrupt other spellcasters. Requires intense concentration and carries risk of uncontrolled amplification. Cost: Primarily dependent on Doric’s skill in treating the wood against weather damage. 
+**Clashes with Canon:** None
+**Open Questions:** Monster Wood sensitivity - does manipulating ambient energy attract unwanted attention? (suggested:  Investigate rumors surrounding a specific grove within the Monster Wood known for attracting aberrant creatures.) 
+
+**Name:** Echo Staff
+**Kind:** Temporal Conduit
+**What it is:** A dragonbone staff that briefly replays past magical events within the Monster Wood.
+**Details:** Utilizes petrified dragonbone to create ghostly illusions and limited conjurations – reliant on understanding the woods' history through ritualistic activation. Requires significant knowledge of the Monster Wood’s lore.
+**Clashes with Canon:** None
+**Open Questions:** Activation Ritual - What specifically triggers this replay effect beyond simply holding the staff? (suggested: Research Murrow’s notes—he hinted at using specific runes etched into the bone).
+
+
+
+In the world: 
+
+The rain hammered against Monstradius's workshop door as Murrow meticulously polished the obsidian core of the Conduit Staff. The air hung thick with the smell of oil and heated stone, illuminated by a single flickering lantern casting long shadows across his cluttered workbench. He muttered incantations under his breath, painstakingly weaving strands of silver thread around the core, attempting to reinforce its structure before adding the final focusing lens he had crafted himself. A young apprentice, Tobin, nervously adjusted his smithing hammer, watching Murrow intently, aware that one misplaced touch could shatter the potentially valuable device – or worse.  He paused, wiping sweat from his brow, glancing towards the east wall where Stoutwell was already beginning preparations for supper.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
