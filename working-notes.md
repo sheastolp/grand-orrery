@@ -1229,16 +1229,3 @@ _Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster W
 _Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._
 
 - The Guard rotates through nightly shifts patrolling Whisperwind’s Watch, where a specific ritual performed under the light of the moon helps ward against creatures drawn by the village’s magical energy - specifically, the rooks that haunt Brackwood Fringe.
-
-### Murrow’s Echo Stone (Pitch)
-
-<!-- review-key: rest:idea-mw7xjvs4 -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-08 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
-
-- **What it is:** A smooth, palm-sized stone roughly shaped like a teardrop. It appears to be made from dark grey mirrorstone – rare black glass - with swirling patterns that seem to shift slightly when observed closely. When held, faint whispers can sometimes be heard, echoing fragmented memories or emotions, particularly related to places or people involved in powerful magic.
-- **Who:** Created by Murrow himself over several decades, using carefully gathered fragments of mirrorstone imbued with residual mana from potent magical events within the area around Stoutwell. He used his artificer skills not just to shape the stone but also to 'capture' echoes of those moments within its structure, acting as a kind of passive listening device for lingering magic.
-- **Where:** Primarily found within Murrow's workshop Monstradius, though he occasionally allows trusted individuals (usually Doric the blacksmith) to examine it briefly. The strongest echo seems tied to locations near where significant magical events occurred—particularly the dried well, and the Ashen Reach.
-- **How it works:** Holding the Echo Stone doesn't directly produce magic; instead, it acts as a conduit, allowing the user to sense remnants of past spells or emotional energies associated with the location. The stronger the original event’s magic was, the clearer the ‘echo’.  It requires focus and concentration; the more distracted you are, the fainter the whisper becomes. Overuse causes disorientation and headaches – a draining effect due to drawing on the user’s own mana reserves. It cannot locate anyone who isn’t already present or has been recently there.
-- **Limits:** The Echo Stone is incredibly sensitive to strong magical fields, often becoming overwhelmed by nearby activity, rendering it useless. Furthermore, the “echoes” aren’t clear images or conversations; they’re fragmented sensations - flashes of color, snippets of voices, overwhelming emotions like fear or joy, which can be misleading without context. Only someone with an affinity for magic (like Murrow himself) truly understands how to interpret them. Using the stone excessively will lead to Mana deprivation causing sickness, dizziness or passing out if not treated quickly.
-- **Ties
