@@ -1543,7 +1543,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's gui
 - **Limits:** The amount of mana the pipe can draw depends heavily on the local concentration of elemental wind – areas near open rifts are noticeably more potent. Furthermore, prolonged use drains Murrow's own personal mana reserves slightly, though this impact is minimal compared to other magical effects. If he attempts to draw too much power without sufficient ambient mana, the pipe sputters and produces only erratic puffs of cold air.
 - **Ties:** The pipe has a complicated history tied to Silas Blackwood; after Murrow discovered Silas was smuggling artifacts out of Stoutwell into the Kingdom, he used the pipe to subtly disrupt Silas’ spellcasting when dealing with a particularly tricky Rootwraith - a risky maneuver that left Silas severely weakened. The ash wood itself represents a connection to the Ashen Reach and the potential dangers lurking there.
 
-### Whisperwind’s Toast (Pitch)
+### Whisperwind’s Toast (Your idea)
 
 <!-- review-key: rest:idea-mw8h2mxm -->
 <!-- added by the AI -->
