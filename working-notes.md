@@ -1152,3 +1152,16 @@ _Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster W
 _Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._
 
 - The Guard maintains a nightly watch over Whisperwind, using a series of strategically placed Wardbells that detect movement within a fifty-foot radius – however, only the trained ears of Hesketh Reeve can reliably interpret their frantic ringing, distinguishing between a startled rabbit and a potential threat.
+
+### Whisperwind’s Watch (Pitch)
+
+<!-- review-key: rest:idea-mw7a0bjx -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- **What it is:** A stone owl statue with subtly shifting eyes that trigger a brief detection spell when something significant leaves the Monster Wood - only effective for “big” events like creatures or people, not smaller things like animals or lost items.
+- **Who:** Constructed by Murrow using ash wood from the Ashen Reach, imbued with his own limited detection magic. It’s currently maintained by Whisperwind, a halfling Watcher tasked with its upkeep.
+- **Where:** Situated atop the highest point on the western wall of Stoutwell, overlooking the entrance to the Monster Wood – specifically positioned to catch any sign of movement through the trees. The owl faces west.
+- **How it works:** When a creature or person of considerable size (defined as roughly ten feet tall or larger) passes within a fifty-foot radius of the statue, the owl’s eyes briefly glow with pale blue light, triggering a short-range detection spell focused solely on the immediate area. This reveals the presence of magical signatures, but provides no details about what caused them—only a sense of "something else" is detected.  The effect lasts for one round and requires a successful Detection check (difficulty set by Murrow). Whisperwind refreshes the enchantment every few weeks with her own minor detection spells; this uses mana, so she must carefully monitor her reserves.
+- **Limits:** The statue's range is limited; it won't trigger if something simply walks past quickly. Its sensitivity is also low, meaning it can be easily overwhelmed by ambient magic in the woods. Critically, it *cannot* detect small creatures like goblins, rodents, or even large birds - only substantial things. It’s reliant on Whisperwind's continued maintenance, and the enchantment fades if not refreshed regularly. The statue itself does not speak or offer guidance beyond its triggered detection; its value lies purely in warning of potential threats.
+- **Ties:** This mechanism directly connects to Murrow's secretive research into locating other artificers and his concern about the Kingdom’s expansion – he fears that increased activity within the Monster Wood will draw unwanted attention from those who seek to exploit its resources. Hesketh Ree
