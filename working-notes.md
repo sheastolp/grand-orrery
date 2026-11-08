@@ -1193,7 +1193,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers'
 - **Limits:** Its effectiveness is directly tied to surrounding wind magic. In areas devoid of air currents, it offers no benefit whatsoever. Overuse leads to severe mana deprivation – dizziness, shivering, and eventual unconsciousness if not carefully monitored. It only functions reliably with someone attuned to elemental magic - elves are naturally better at wielding its power than humans. Doric has made several attempts to replicate its construction, unable to understand how this simple shard can hold so much potential.
 - **Ties:** Directly connected to Murrow’s research into creating self-sustaining magical items. He believes the Shard represents an “echo” of the original rift opening event, capturing a fleeting fragment of the world-tear's chaotic energy. It also mirrors his suspicion that some artificers deliberately manipulate rifts for personal gain—a dangerous theory he guards closely. He occasionally consults Hesketh about the local weather patterns when working
 
-### Rook’s Watch (Pitch)
+### Rook’s Watch (Your idea)
 
 <!-- review-key: rest:idea-mw75pi6h -->
 <!-- added by the AI -->
