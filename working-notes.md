@@ -1222,7 +1222,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster W
 - **Limits:** The statue's range is limited; it won't trigger if something simply walks past quickly. Its sensitivity is also low, meaning it can be easily overwhelmed by ambient magic in the woods. Critically, it *cannot* detect small creatures like goblins, rodents, or even large birds - only substantial things. It’s reliant on Whisperwind's continued maintenance, and the enchantment fades if not refreshed regularly. The statue itself does not speak or offer guidance beyond its triggered detection; its value lies purely in warning of potential threats.
 - **Ties:** This mechanism directly connects to Murrow's secretive research into locating other artificers and his concern about the Kingdom’s expansion – he fears that increased activity within the Monster Wood will draw unwanted attention from those who seek to exploit its resources. Hesketh Ree
 
-### Rook’s Vigil (Pitch)
+### Rook’s Vigil (Your idea)
 
 <!-- review-key: rest:idea-mw7ddxe0 -->
 <!-- added by the AI -->
