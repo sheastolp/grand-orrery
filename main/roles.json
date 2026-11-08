@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T15:58:11.747Z",
+  "built": "2026-11-08T16:03:34.338Z",
   "branch": "main",
-  "commit": "a6f99f65d4f5541d0ce8fb92ef6400816f0c557e",
+  "commit": "d36189e0b485d1db062b57d3182b5d6f3091654a",
   "counts": {
-    "person": 73,
+    "person": 87,
     "role": 11,
-    "world": 2,
+    "world": 3,
     "item": 87,
     "place": 7,
     "creature": 9,
-    "lore": 61,
-    "note": 175
+    "lore": 18,
+    "note": 174
   },
   "entities": [
     {
@@ -21,7 +21,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 133
+        "line": 154
       }
     },
     {
@@ -31,7 +31,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 134
+        "line": 155
       }
     },
     {
@@ -41,7 +41,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 135
+        "line": 156
       }
     },
     {
@@ -51,7 +51,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 136
+        "line": 157
       }
     },
     {
@@ -61,7 +61,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 137
+        "line": 158
       }
     },
     {
@@ -71,7 +71,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 138
+        "line": 159
       }
     },
     {
@@ -81,7 +81,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 139
+        "line": 160
       }
     },
     {
@@ -91,7 +91,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 140
+        "line": 161
       }
     },
     {
@@ -101,7 +101,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 141
+        "line": 162
       }
     },
     {
@@ -111,7 +111,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 142
+        "line": 163
       }
     },
     {
@@ -121,7 +121,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 143
+        "line": 164
       }
     }
   ]
