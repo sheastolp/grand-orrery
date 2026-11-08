@@ -1090,7 +1090,7 @@ _From a lore-keeper chat, 2026-11-08 · Items & inventions._
 
 In the world, the afternoon sun cast long shadows across the newly reinforced section of the Stoutwell Gatehouse as Tobin Ashby hammered a final rivet into place. The air still carried a faint scent of smoke – a subtle reminder of Murrow's careful work. A couple of grizzled guardsmen shifted uneasily, checking their shields, while Murrow adjusted his spectacles, meticulously examining the grain pattern of the oak for any signs of distress. The rhythmic clang of metal against metal mingled with the shouts of the slum workers hauling timber nearby, creating an oddly ordered scene amidst the rough-hewn village, solidifying the fortified frontier against the looming Monster Wood.
 
-### Give xab's character a joke Pot of Greed. Make it functi… (Pitch)
+### Give xab's character a joke Pot of Greed. Make it functi… (Your idea)
 
 <!-- review-key: lore-keeper:f384cb65-8f5a-4fae-a4ab-24250d8c1ddf -->
 _From a lore-keeper chat, 2026-11-08 · Characters._
