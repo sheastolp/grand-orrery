@@ -1067,7 +1067,7 @@ _Made up by the AI in auto mode, 2026-11-07 · about a custom, saying, food or r
 - **Limits:** The effectiveness of this “offering” is entirely based on belief and tradition; there's no demonstrable magical effect. However, the ritual serves as a focal point for community goodwill and represents a tangible connection to the past and their ancestors.  The offering only has power if the person offering it *believes* it will work. If someone doubts it, nothing happens.
 - **Ties:** This custom directly links to the founding story of Stoutwell - the legend says the well dried up because the villagers forgot to offer respect to the spirit of the water. The elves’ arrival centuries ago was seen as a sign that their dedication would restore prosperity. Burn’s frequent presence at the well further solidifies the custom within the village’s culture.
 
-### Murrow’s Shard (Pitch)
+### Murrow’s Shard (Your idea)
 
 <!-- review-key: rest:idea-mw71tngd -->
 <!-- added by the AI -->
