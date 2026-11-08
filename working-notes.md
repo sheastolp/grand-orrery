@@ -1111,6 +1111,36 @@ Story Hooks: Rumors persist that Xan was once part of a royal expedition sent to
 
 **Who they are:** Xan is an enigma wrapped in cynicism and a ludicrously useless trinket. He drifts through the bustling marketplace of the capital like a shadow, observing everyone with unsettling intensity. Having spent decades chasing shadows and rumors, his true motivations remain deliberately obscure, obscured by layers of carefully constructed irony. Despite his sardonic demeanor, there’s a palpable sadness beneath the surface - a lingering echo of something lost or perhaps never fully possessed. It's this quiet melancholy which makes him such a strangely compelling fixture in Stoutwell’s world – and particularly within Burn’s orbit.
 
+### Mana Affinity Items (Pitch)
+
+<!-- review-key: lore-keeper:d77ce91b-431d-43a7-8bde-6ab32ac5474f -->
+_From a lore-keeper chat, 2026-11-08 · Magic._
+
+**Name:** Mana Affinity Items
+
+**Kind (Magic):** Personal Magic Reserves – Specialized items react differently based on the wielder’s inherent magical capacity and training.
+
+**The Rule:** “Magic usage isn’t uniform across all individuals; inherent aptitude—particularly demonstrated early through Murrow’s Elemental Test—dictates a baseline mana reserve, amplified significantly when focusing on a specific magical discipline.”
+
+**How it Works:**  Items respond most effectively to those whose innate affinity aligns with their function, minimizing mana expenditure and maximizing output. A mismatch leads to inefficiency, increased drain, and potential instability.
+
+**Costs & Limits:** Item creation costs vary dramatically depending on materials *and* required mana stabilization - approximately 10 silver coins + 2 Mana for basic enchanted iron shield. Advanced items require exponentially higher investment. Constant use drains reserves faster; overuse can cause fatigue or collapse.
+
+**Who It Affects:** Primarily skilled artisans, traders, and combatants utilizing specialized magic-infused tools and equipment. The Guard relies heavily upon Hesketh's enhanced strength. Those lacking training will experience significant drawbacks.
+
+**What It Changes:** Creates stratification within Verrowen society – favouring naturally gifted individuals who control powerful magical objects, potentially widening gaps between wealth/status and creating new avenues of influence.
+
+**Clashes With Canon:** None
+
+**Open Questions:** (Suggested) How does this affect the efficiency of artificer created works vs. natural ones?
+
+
+
+---
+In the world:
+
+The rain hammered against the canvas roof of Doric’s smithy as he painstakingly forged a new haft for an arrow. Young Tobin, sweat dripping from his brow, struggled to maintain focus, his face flushed with exertion. Doric, with a subtle gesture, channeled a trickle of calming energy—a faint blue shimmer—into the metal, smoothing out imperfections and bolstering its resilience. He was instinctively using his inherent affinity for heat and shaping, reducing the need for brute force and minimizing the drain on *his* mana. Even Tobin, despite his youthful enthusiasm, felt the familiar tingle of depletion after only a few minutes; a stark reminder that true mastery demanded more than just muscle and ambition.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
