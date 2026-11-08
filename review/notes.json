@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T17:30:54.431Z",
+  "built": "2026-11-08T17:52:20.057Z",
   "branch": "review",
-  "commit": "89b7bddf6daf96ee4251b2742beb1992bbc34e6d",
+  "commit": "eeec1e8cfbe4c3605f53d59de644f0b6af63cf41",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 90,
+    "item": 91,
     "place": 7,
     "creature": 9,
     "lore": 21,
-    "note": 178
+    "note": 179
   },
   "entities": [
     {
@@ -3462,7 +3462,7 @@
       "type": "note",
       "name": "The Hearthstone’s Hum",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw83yw0a",
@@ -3477,6 +3477,36 @@
       "mentions": [
         "murrow",
         "hearthstone"
+      ]
+    },
+    {
+      "id": "working-notes-murrows-quiet-watch",
+      "type": "note",
+      "name": "Murrow’s Quiet Watch",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw84qd00",
+      "filed": "2026-11-08",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "A small, intricately carved wooden bird – a raven – that emits a faint hum when held near areas with significant magical residue or disturbances. It doesn't actively detect magic, but provides a subtle “feeling” to the user about nearby enchantments.",
+        "who": "Created by Murrow himself, using ashwood from the Ashen Reach and infused with a minuscule amount of his own carefully contained mana. He initially intended it for tracking latent magical signatures within the Village, but realized its potential beyond simple detection.",
+        "where": "Primarily kept within Murrow’s workshop Monstradius, alongside the Rift Compass and Truthglass. However, he occasionally carries it while exploring the Monster Wood or investigating unusual occurrences in Stoutwell.",
+        "how_it_works": "When held close to an area affected by magic (a healing ritual, a goblin spell, even a particularly potent fire enchantment), the raven vibrates slightly and emits a low hum, increasing in intensity proportional to the magic's strength. The feeling is described as a \"tingle\" or a slight pressure against the palm - not something easily distinguishable from nervousness. It isn’t precise; it indicates *presence* rather than pinpointing exact sources or types of magic. Prolonged use drains Murrow’s personal mana reserves very slowly, requiring him to replenish them through meditation or consumption of specific herbs.",
+        "limits": "The raven's sensitivity diminishes rapidly outside of areas touched by magic. In open fields or around mundane objects, it remains utterly silent. Its range is limited – about 30 feet at most – due to the smallness of the mana it holds. Furthermore, it’s susceptible to interference: strong elemental attacks or powerful spells can overwhelm its senses, causing it to emit a jarring shriek that temporarily disrupts Murrow's concentration. Finally, the raven’s connection to Murrow means if he were to die, so would the device.",
+        "ties": "The ash wood used for the bird comes directly from the Ashen Reach, reflecting Murrow’s deep interest in understanding the nature of magical decay—a fascination born out of his experience with the Blight. He occasionally"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-08 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** A small, intricately carved wooden bird – a raven – that emits a faint hum when held near areas with significant magical residue or disturbances. It doesn't actively detect magic, but provides a subtle “feeling” to the user about nearby enchantments.\n- **Who:** Created by Murrow himself, using ashwood from the Ashen Reach and infused with a minuscule amount of his own carefully contained mana. He initially intended it for tracking latent magical signatures within the Village, but realized its potential beyond simple detection.\n- **Where:** Primarily kept within Murrow’s workshop Monstradius, alongside the Rift Compass and Truthglass. However, he occasionally carries it while exploring the Monster Wood or investigating unusual occurrences in Stoutwell.\n- **How it works:** When held close to an area affected by magic (a healing ritual, a goblin spell, even a particularly potent fire enchantment), the raven vibrates slightly and emits a low hum, increasing in intensity proportional to the magic's strength. The feeling is described as a \"tingle\" or a slight pressure against the palm - not something easily distinguishable from nervousness. It isn’t precise; it indicates *presence* rather than pinpointing exact sources or types of magic. Prolonged use drains Murrow’s personal mana reserves very slowly, requiring him to replenish them through meditation or consumption of specific herbs.\n- **Limits:** The raven's sensitivity diminishes rapidly outside of areas touched by magic. In open fields or around mundane objects, it remains utterly silent. Its range is limited – about 30 feet at most – due to the smallness of the mana it holds. Furthermore, it’s susceptible to interference: strong elemental attacks or powerful spells can overwhelm its senses, causing it to emit a jarring shriek that temporarily disrupts Murrow's concentration. Finally, the raven’s connection to Murrow means if he were to die, so would the device.\n- **Ties:** The ash wood used for the bird comes directly from the Ashen Reach, reflecting Murrow’s deep interest in understanding the nature of magical decay—a fascination born out of his experience with the Blight. He occasionally",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1342
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow",
+        "truthglass"
       ]
     },
     {
