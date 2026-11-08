@@ -1235,7 +1235,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: 
 
 - The Guard maintains a nightly watch over Whisperwind, using a series of strategically placed Wardbells that detect movement within a fifty-foot radius – however, only the trained ears of Hesketh Reeve can reliably interpret their frantic ringing, distinguishing between a startled rabbit and a potential threat.
 
-### Murrow’s Shard (Pitch)
+### Murrow’s Shard (Your idea)
 
 <!-- review-key: rest:idea-mw76k4sn -->
 <!-- added by the AI -->
