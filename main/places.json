@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T17:19:26.276Z",
+  "built": "2026-11-08T17:52:58.961Z",
   "branch": "main",
-  "commit": "9e8992647ec2ab46797c4c0a2e1871383e5225f6",
+  "commit": "eeec1e8cfbe4c3605f53d59de644f0b6af63cf41",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 90,
+    "item": 91,
     "place": 7,
     "creature": 9,
     "lore": 21,
-    "note": 177
+    "note": 179
   },
   "entities": [
     {
