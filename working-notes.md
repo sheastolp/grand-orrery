@@ -1261,7 +1261,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about a person who lives in Stout
 - **Limits:** The shard’s range is approximately 30 feet maximum. Its effectiveness diminishes rapidly beyond that distance, and repeated usage leaves Murrow severely weakened. It primarily detects *residual* magic – not actively cast spells – making it less useful against directly powerful effects. Overuse by Murrow causes weakness, dizziness, and temporary memory loss - symptoms he keeps hidden from everyone but himself.
 - **Ties:** The shard’s origins are linked to a failed attempt by a previous artificer (likely an ancestor of Murrow’s) to stabilize a minor rift opening near the Ashen Reach centuries ago. The resulting surge overloaded the mirrorstone, creating the shard which now holds some echoes of the original event. Because of his isolation, Murrow suspects Glumtom in the capital uses similar shards for their reanimation research; he fears they're attempting to replicate the same destabilizing
 
-### Murrow’s Shard (Pitch)
+### Murrow’s Shard (Your idea)
 
 <!-- review-key: rest:idea-mw789zj2 -->
 <!-- added by the AI -->
