@@ -993,7 +993,7 @@ _From a lore-keeper chat, 2026-11-08 · Regions & places._
 
 In the world, Master Tobin Ashby stood at the edge of the Scarred Pass, his face weathered by wind and sun. His apprentice, young Elias, nervously adjusted the featherhook strapped to his wrist as they prepared to descend into the ravine. A thick fog clung to the mountain slopes, muting sound and obscuring vision - a familiar hazard intensified by the presence of the elusive Stonekin, whose low growls echoed faintly through the rock. He consulted Murrow’s Lodestone, its mirrorstone surface swirling with faint patterns indicating movement within the stone; it was time to proceed carefully, lest they trigger an ancient conflict.
 
-### Greyhaven (Pitch)
+### Greyhaven (Your idea)
 
 <!-- review-key: lore-keeper:93b3380c-7946-4a31-9040-fade47812824 -->
 _From a lore-keeper chat, 2026-11-08 · Regions & places._
