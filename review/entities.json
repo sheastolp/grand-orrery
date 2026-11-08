@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T22:35:23.634Z",
+  "built": "2026-11-08T22:36:52.747Z",
   "branch": "review",
-  "commit": "022b41ec00c4a16c78237f23492bc76910d5c9f7",
+  "commit": "e55842b988253108bd4ca3ee1854374b1c735079",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10,7 +10,7 @@
     "item": 94,
     "place": 15,
     "creature": 16,
-    "lore": 31,
+    "lore": 32,
     "note": 188
   },
   "entities": [
@@ -239,6 +239,7 @@
         "lore-people",
         "lore-items-2",
         "lore-items-3",
+        "lore-people-2",
         "universe-maps",
         "universe-layout",
         "universe-trades",
@@ -327,6 +328,7 @@
         "lore-artificers-2",
         "lore-items-3",
         "lore-magic-4",
+        "lore-people-2",
         "universe-healers",
         "universe-water-and-the-dead-well",
         "universe-layout",
@@ -418,6 +420,7 @@
       "mentioned_in": [
         "lore-people",
         "lore-magic-4",
+        "lore-people-2",
         "universe-burn-the-wellhouses-regular",
         "working-notes-give-xabs-character-a-joke-pot-of-greed-make-it-functi",
         "working-notes-village-roster-2",
@@ -1744,6 +1747,7 @@
       "mentioned_in": [
         "lore-other-worlds",
         "lore-other-worlds-2",
+        "lore-people-2",
         "universe-the-universe-the-grand-orrery",
         "universe-the-monster-wood",
         "universe-arandur",
@@ -1786,6 +1790,7 @@
       "mentioned_in": [
         "lore-other-worlds",
         "lore-other-worlds-2",
+        "lore-people-2",
         "universe-arandur",
         "working-notes-family",
         "working-notes-key-events",
@@ -1810,6 +1815,7 @@
       "mentioned_in": [
         "lore-other-worlds",
         "lore-other-worlds-2",
+        "lore-people-2",
         "universe-arandur",
         "working-notes-family"
       ]
@@ -5035,6 +5041,26 @@
       "mentions": [
         "murrow",
         "burn"
+      ]
+    },
+    {
+      "id": "lore-people-2",
+      "type": "lore",
+      "name": "PEOPLE",
+      "text": "Murrow is over 550 years old, race unknown, hidden under a deep hood; he fears the Kingdom; his shop Monstradius is his workshop, and his ordinary-looking home in the NW housing district, three blocks away, is known to no one; he can cast a time-limited Nondetection-style spell and is researching an item that lasts; he was likely around when the well died and won’t speak of it; Doric is an acquaintance; he has a soft spot for one kind of person, still undecided. SECRET: Burn is a former court jester from the Kingdom’s capital who fled after a joke landed on the wrong noble. WELLHOUSE: The Wellhouse elves are descendants of several families, one of which was originally a travelling troupe of performers called “The Wandering Shadows,” who settled here after finding refuge during a period of unrest in the capital kingdom. They changed their names and adopted a quieter existence, preferring the companionship of quiet evenings at the tavern rather than spectacle. This lineage is tied to a deep respect for storytelling, music, and illusion—traits reflected in the subtle enchantments woven into their craftwork. OTHER WORLDS: Arandur, an elf ranger and pickpocket from another world, was pulled out of it into another. In his youth, a rift dropped him in a village near Stoutwell (name not yet known). He was raised in a forest cabin by his hunter mother Silwen, who vanished with his distant father Faelan; he suspects a voiceless spectre that taught him to track is Silwen. Abandoned, he became a thief and a self-taught archer. He hides everything under contempt and silence, talks down magic, and fears trolls but can't fully hate them.",
+      "order": 32,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 37
+      },
+      "mentions": [
+        "doric",
+        "murrow",
+        "burn",
+        "arandur",
+        "silwen",
+        "faelan"
       ]
     },
     {
