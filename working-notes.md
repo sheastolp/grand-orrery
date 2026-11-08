@@ -1075,6 +1075,35 @@ The rain hammered down relentlessly as Tobin Ashby wrestled with his tracking st
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
 
+### Silas Blackwood (Pitch)
+
+<!-- review-key: verrowen:ac2ff160-77fd-4a15-8a85-cce9f8c1588c -->
+_From a Wake in Verrowen story, 2026-11-08 · Story._
+
+**Character Profile:**
+
+Name: Silas Blackwood (not found out yet)
+Sex: Male
+Race: Human
+Age: Approximately 38 years old
+Appearance: Tall and leanly built, with dark hair streaked with grey at the temples and piercing grey eyes that hold a deep sadness. He bears several scars - most notably a jagged wound across his left shoulder and a faint burn mark on his right hand – and wears worn leather clothing suited for travel and survival. 
+Magic: Detection – a weak but responsive ability allowing him to sense residual magic and identify magical objects; he’s capable of limited shielding against mental intrusion.
+Personality: Stoic, reserved, haunted by a profound sense of loss and burdened by fragmented memories. Prone to moments of intense focus and bursts of decisive action when under pressure. Deeply wary of others, but fiercely protective of those who earn his trust—a quality slowly emerging amidst his guarded exterior. 
+
+Skills: Combat (proficient with knives), Tracking, Survival, Limited Magical Detection.
+Background so far: Silas awoke with amnesia in a burned cottage high on the hillside outside Stoutwell, discovering a strange connection to an ancient silver locket and encountering unsettling remnants of forgotten magic. His initial disorientation is being replaced by a growing awareness of danger and a desperate need to uncover his past.
+Key items: Silver Locket (containing portraits of a young boy and a weeping woman); Goblin Knife; Hearthstone.
+Who they met: Murrow (artificer), Hesketh Reeve (Guard Captain), Wendeline Brackenford (Elder).
+Places they've been: Ruined Cottage near Stoutwell.
+Allies and enemies: None yet - potential allies are emerging through his encounters.
+Debts and promises: Unknown – he hasn’t made any commitments beyond surviving.
+Wounds and scars: Shoulder wound from an arrow, burn mark on right hand.
+Open mysteries: The origin and purpose of the silver locket, the fragmented memories haunting him, the nature of the energy emanating from the hearthstone, the fate of the child depicted within the portrait.
+
+The story so far: Silas Blackwood stumbled into a nightmare woven with snow, blood, and echoes of forgotten pain. He awoke disoriented, wounded, and stripped of all memory, only to discover a chilling connection to a vanished girl and a dangerous artifact—the silver locket. Driven by instinct and fueled by burgeoning magical abilities, he battled goblins guarding a ruined cottage, unearthed cryptic clues in a hidden journal, and confronted a torrent of unsettling visions triggered by the locket’s presence. As he attempted to understand these events, the faint hum resonating from the hearthstone grew stronger, hinting at a deeper mystery linked to Murrow, the artificer, and the shifting realities of the Grand Orrery. His journey has just begun, a descent into a world of ancient secrets and perilous possibilities. 
+
+Silas is now a haunted man grappling with lost memories and nascent magic, driven to unravel the truth behind his amnesia and confront whatever forces seek to control him.
+
 ## From rest mode
 
 <!-- Ideas the laptop's AI came up with on its own in rest mode or auto mode, then judged against the canon like every pitch. In a comment, so the lore catch-up only reads the ideas themselves. -->
