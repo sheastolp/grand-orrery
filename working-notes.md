@@ -1274,7 +1274,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: 
 
 - The Guard rotates through nightly shifts patrolling Whisperwind’s Watch, where a specific ritual performed under the light of the moon helps ward against creatures drawn by the village’s magical energy - specifically, the rooks that haunt Brackwood Fringe.
 
-### Whisperwind’s Vigil (Pitch)
+### Whisperwind’s Vigil (Your idea)
 
 <!-- review-key: rest:idea-mw7yc2yn -->
 <!-- added by the AI -->
