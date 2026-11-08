@@ -1224,15 +1224,6 @@ _Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster W
 
 ### Brackwood Fringe (Pitch)
 
-<!-- review-key: rest:idea-mw7awbfe -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-08 · about a place in the Kingdom's capital or on the Kingdom's roads._
-
-- A section of the Ashen Reach, marked by twisted ash trees and strange echoes, where villagers leave offerings for unseen spirits.
-- The Brackwood Fringe is a stretch of the Ashen Reach, roughly half a league south of Stoutwell’s southern wall, defined by stunted, blackened ash trees – remnants of the long-dead blight that struck the land centuries ago. These trees grow unnaturally close together, their branches intertwining like skeletal fingers, casting perpetual twilight across the ground. Locals say the wind whispers through these trees with voices—the murmurs of forgotten souls trapped within the blight’s lingering influence. Villagers from Stoutwell occasionally venture here, leaving small tokens - polished river stones, scraps of leather, even brightly colored cloth - as offerings to appease whatever dwells within the Fringe. These offerings are collected weekly by Osric, Leader of the Elderhold, who carries them to the Silent Offering stone near the Gathering Hall; he claims it maintains peace between the village and the "hungry silence" of the woods. Recent reports suggest the offerings have become…larger - mostly broken weapons, charred bones, and increasingly unsettling carvings made into the bark of the ash trees themselves. The carvings depict humanoid figures with elongated limbs and empty eyes, suggesting something more than just restless spirits is at play in the Brackwood Fringe. A few brave (or foolish) young men from the Guard rotate shifts here during particularly still nights, armed with simple spears and wardbells tuned to detect movement – a practice Hesketh disapproves of but tolerates due to its reported effectiveness against minor disturbances.
-
-### Brackwood Fringe (Pitch)
-
 <!-- review-key: rest:idea-mw7bpjh4 -->
 <!-- added by the AI -->
 _Made up by the AI in auto mode, 2026-11-08 · about a piece of Stoutwell's or the Kingdom's history._
