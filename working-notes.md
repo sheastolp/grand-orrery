@@ -1022,6 +1022,30 @@ In the world:
 
 Rain hammered down on the corrugated iron roof of Silas’s workshop, drumming out a relentless rhythm alongside the clang of his hammer. He was painstakingly repairing a shattered shield for Corporal Garin, one of the newest Guardsmen emerging from the drills below. A fine layer of grey dust coated everything—Silas’s hands, his tools, even the meager meal he'd eaten before starting.  The smell of burnt timber mingled with the damp earth; the familiar scent of Greyhaven – a grim testament to Stoutwell’s edges. Murrow would soon be by, demanding an inventory report for Doric’s materials.
 
+### Saltwind Reach (Pitch)
+
+<!-- review-key: lore-keeper:02045820-9322-41b1-8148-3b60c9590bb0 -->
+_From a lore-keeper chat, 2026-11-08 · Regions & places._
+
+Name: Saltwind Reach
+
+Kind (Regions & Places): The Reach is notoriously difficult to navigate, prone to sudden squalls and monstrous marine life, demanding experienced sailors and sturdy vessels; attempting landings during poor weather can prove fatal.
+
+How it Works: Remnants of fortified coastal settlements dot the shoreline – evidence of earlier, smaller kingdoms that fell to the tides centuries ago. These were built not as grand fortresses but rather as practical tidal defenses against raiding parties from across the Narrow Sea. Local shipwrights utilize techniques passed down through generations, specializing in building ‘stormbreakers’ - ships reinforced with ironwood salvaged from shipwrecks. The reach's unique currents and seabed formations attract unusual fish populations – giant crabs and bioluminescent eels are common catches.
+
+Costs and Limits: Passage costs 1 Mana per day (primarily for navigating treacherous currents). A successful landing attempt requires at least two seasoned sailors (1 Mana/day each) and a set of 'sea hooks' crafted by local shipwrights (6 silver coins per hook), which often require regular maintenance. Injury within the reach incurs a 2 Mana cost—often worsened by cuts and bruises aggravated by jagged rocks. Severe weather necessitates reinforced stormbreakers and skilled captains – adding significantly to travel time.
+
+Who it Affects: Primarily fishermen, traders passing through, occasional royal surveyors, and the handful of hardy souls who call Saltwind Reach home. Stoutwell relies on its catch, though trade is limited due to the hazards.
+
+What it Changes: Its remote location limits sustained trade or significant Royal influence; represents a valuable source of rare materials and potential escape routes for dissidents.
+
+Clashes with canon (or “None”): None
+
+Open questions: (suggested) What specific creatures inhabit the deeper coves near the ruins?
+
+In the world:
+The rain hammered against the timbers of Silas’s small fishing boat as he hauled in his evening catch - mostly sea-slugs and phosphorescent shrimp. The wind howled off the cliffs, carrying spray that stung his face. Old Man Hemlock, mending nets beside him, grunted, "Stormbreaker's holding true tonight, boy. Best build in Verrowen hasn't seen conditions like this in a generation." A flash of blue light briefly illuminated from beneath the waves before disappearing into the dark depths--a common sight around Saltwind Reach, but always unsettling enough to make Silas check his hooks twice.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
