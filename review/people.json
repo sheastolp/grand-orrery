@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T17:52:20.057Z",
+  "built": "2026-11-08T17:54:02.048Z",
   "branch": "review",
-  "commit": "eeec1e8cfbe4c3605f53d59de644f0b6af63cf41",
+  "commit": "9e01930f7dbe6ec2117ea8395bc6855566833274",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10,7 +10,7 @@
     "item": 91,
     "place": 7,
     "creature": 9,
-    "lore": 21,
+    "lore": 25,
     "note": 179
   },
   "entities": [
@@ -34,6 +34,7 @@
       "mentioned_in": [
         "lore-leadership",
         "lore-kingdom",
+        "lore-leadership-2",
         "universe-burn-the-wellhouses-regular",
         "universe-osric-leader-of-the-elderhold",
         "universe-hesketh-reeve-captain-of-the-guard",
@@ -68,6 +69,7 @@
       },
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-silas-blackwood",
@@ -94,6 +96,7 @@
       },
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "universe-the-scribe-the-peddlers-and-the-wandering-clerk",
         "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk",
@@ -121,6 +124,7 @@
       },
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-village-roster-2",
@@ -146,6 +150,7 @@
       },
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-village-roster-2",
@@ -171,6 +176,7 @@
       },
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-village-roster-2"

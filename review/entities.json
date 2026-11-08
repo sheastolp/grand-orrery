@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T17:52:20.057Z",
+  "built": "2026-11-08T17:54:02.048Z",
   "branch": "review",
-  "commit": "eeec1e8cfbe4c3605f53d59de644f0b6af63cf41",
+  "commit": "9e01930f7dbe6ec2117ea8395bc6855566833274",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10,7 +10,7 @@
     "item": 91,
     "place": 7,
     "creature": 9,
-    "lore": 21,
+    "lore": 25,
     "note": 179
   },
   "entities": [
@@ -35,6 +35,7 @@
       "mentioned_in": [
         "lore-leadership",
         "lore-kingdom",
+        "lore-leadership-2",
         "universe-burn-the-wellhouses-regular",
         "universe-osric-leader-of-the-elderhold",
         "universe-hesketh-reeve-captain-of-the-guard",
@@ -69,6 +70,7 @@
       },
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-silas-blackwood",
@@ -95,6 +97,7 @@
       },
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "universe-the-scribe-the-peddlers-and-the-wandering-clerk",
         "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk",
@@ -123,6 +126,7 @@
       },
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-village-roster-2",
@@ -149,6 +153,7 @@
       },
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-village-roster-2",
@@ -174,6 +179,7 @@
       },
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-village-roster-2"
@@ -3009,6 +3015,7 @@
       "kind": "Dues and payments",
       "mentioned_in": [
         "lore-defense-and-law",
+        "lore-defense-and-law-2",
         "universe-law-and-punishment",
         "working-notes-law-punishment"
       ]
@@ -3172,6 +3179,7 @@
       "kind": "Village papers",
       "mentioned_in": [
         "lore-leadership",
+        "lore-leadership-2",
         "universe-the-elders",
         "working-notes-village-roster-2"
       ]
@@ -4843,6 +4851,66 @@
       "mentions": [
         "murrow",
         "seekers-lodestone"
+      ]
+    },
+    {
+      "id": "lore-races-2",
+      "type": "lore",
+      "name": "RACES",
+      "text": "Halflings are stout, thick-skinned and naturally heat-resistant (well suited to smithing), quick, quiet and lucky, and homebodies who love good food and a warm hearth. They reach adulthood around 20, live to about 150 and have children less often, so the oldest villagers are almost always halflings and the shortest in any crowd. Humans rarely pass 100; they’re leaner, more attuned to elemental magic, and do about 70% of the wood chopping. Elves exist as the Wellhouse family, but their origin is unknown - they arrived centuries ago for their soft spot for sharing and caring, and do nothing for the village beyond the tavern. Their name is not yet known.",
+      "order": 22,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 27
+      }
+    },
+    {
+      "id": "lore-life-2",
+      "type": "lore",
+      "name": "LIFE",
+      "text": "Children are schooled together, then the Elders place them into groups (Village Workers, Herders, Farmers, Gatherers, the Guard, the Hearthcircle). People may switch jobs within reason. Heavy jobs like smithing lean male, but nothing is restricted by gender. Village Workers stay inside the walls: smiths, the tannery, woodworkers (weapon hilts, ornate structures). Herders mainly raise cattle; the Elders keep a couple of cows just to look at. Farmers work the croplands, which take up the most space. Gatherers also forage at the forest edge, and the human gatherers gather the stout ale's ingredients. The village is communal and peaceful, with little internal trouble. Homes burn firewood. Gatherers find dead trees with detection magic and drag them out with wind magic, under Guard escort.",
+      "order": 23,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 28
+      }
+    },
+    {
+      "id": "lore-defense-and-law-2",
+      "type": "lore",
+      "name": "DEFENSE AND LAW",
+      "text": "The Guard is stout halfling shield-bearers plus human archers on the walls. Villagers rotate a couple of days a month between four posts (inside the village, the croplands, the walls, and escorting gathering groups), around a full-time Guard of men and women picked for strength. The guard tithe pays for it: each household gives a share of its harvest, crafts or labor, and wealthier families like the millers give more. The halfling Guard is small and overworked, which shows as a little skimming and shift dodging; the extreme punishments keep defiance minimal. Hesketh dislikes weregild but accepts it because it’s the law. Punishments range from stocks and flogging to exile and execution. Weregild (payment in place of punishment) is accepted. GuildScribe has posted bounties, but no one has yet brought back proof of the deep woods’ beasts.",
+      "order": 24,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 29
+      },
+      "mentions": [
+        "weregild"
+      ]
+    },
+    {
+      "id": "lore-leadership-2",
+      "type": "lore",
+      "name": "LEADERSHIP",
+      "text": "The Hearthcircle is the ruling group, placed by talent, never by birth. The Elderhold is five halfling Elders who vote (Wendeline Brackenford, Fenwick Larkspur, Bertram Quillby, Ysolde Ambergate, Clementine Rook) plus Osric, their non-voting spokesperson and Leader. Bertram and Ysolde are secretly corrupt. Bertram's ledgers make tithe skimming vanish on paper, Ysolde steers bigger harvest shares to favored crop workers, and together they steer favorites into easier jobs. Osric suspects but can’t prove it, and he hides a surname tied to someone high in the Kingdom. Osric (halfling, 142) rose from near-peasant through the Guard and the Hearthcircle; warm in public, very calculating underneath. He and Hesketh came up through the Guard in the same years",
+      "order": 25,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 30
+      },
+      "mentions": [
+        "osric",
+        "wendeline-brackenford",
+        "fenwick-larkspur",
+        "bertram-quillby",
+        "ysolde-ambergate",
+        "clementine-rook",
+        "bertrams-ledgers"
       ]
     },
     {
@@ -8428,7 +8496,7 @@
       "type": "note",
       "name": "Murrow’s Quiet Watch",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw84qd00",
@@ -8461,7 +8529,7 @@
       "category": "Sent in from the chat",
       "kind": "From auto mode",
       "origin": "rest",
-      "status": "pitch",
+      "status": "decided",
       "fields": {
         "does": "A small, intricately carved wooden bird – a raven – that emits a faint hum when held near areas with significant magical residue or disturbances. It doesn't actively detect magic, but provides a subtle “feeling” to the user about nearby enchantments.",
         "made_by": "Created by Murrow himself, using ashwood from the Ashen Reach and infused with a minuscule amount of his own carefully contained mana. He initially intended it for tracking latent magical signatures within the Village, but realized its potential beyond simple detection.",

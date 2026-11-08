@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T17:52:20.057Z",
+  "built": "2026-11-08T17:54:02.048Z",
   "branch": "review",
-  "commit": "eeec1e8cfbe4c3605f53d59de644f0b6af63cf41",
+  "commit": "9e01930f7dbe6ec2117ea8395bc6855566833274",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10,7 +10,7 @@
     "item": 91,
     "place": 7,
     "creature": 9,
-    "lore": 21,
+    "lore": 25,
     "note": 179
   },
   "entities": [
@@ -3484,7 +3484,7 @@
       "type": "note",
       "name": "Murrow’s Quiet Watch",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw84qd00",
