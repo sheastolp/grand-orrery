@@ -1087,11 +1087,3 @@ _Made up by the AI in auto mode, 2026-11-07 · about a small everyday magic item
 _Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster Wood: where it lives, what it does, its limits._
 
 - The village guard utilizes a wind-sensitive bell system that warns them of approaching danger within the Monster Wood, relying heavily on a single, dedicated watcher.
-
-### Silent Offering (Pitch)
-
-<!-- review-key: rest:idea-mw738muz -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-08 · about a place in the Kingdom's capital or on the Kingdom's roads._
-
-- The Silent Well holds a secret tied to the village’s downfall and offers a cryptic clue about the mountains beyond.
