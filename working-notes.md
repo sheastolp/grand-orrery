@@ -1209,7 +1209,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: 
 
 - The Guard maintains a nightly watch over Whisperwind, using a series of strategically placed Wardbells that detect movement within a fifty-foot radius – however, only the trained ears of Hesketh Reeve can reliably interpret their frantic ringing, distinguishing between a startled rabbit and a potential threat.
 
-### Whisperwind’s Watch (Pitch)
+### Whisperwind’s Watch (Your idea)
 
 <!-- review-key: rest:idea-mw7a0bjx -->
 <!-- added by the AI -->
