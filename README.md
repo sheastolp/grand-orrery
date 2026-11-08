@@ -68,7 +68,7 @@ Only decided content reaches them: `lore.md` and `roster.md` hold nothing else, 
 The Orrery is meant to be the database of everything in the universe, and every app should get its people, places and things from it. The documents are still where things get written, by hand or by the review page. The *Build the Orrery database* action ([`.github/workflows/build-data.yml`](.github/workflows/build-data.yml)) runs [`tools/build.mjs`](tools/build.mjs) on every push, which compiles them into JSON: every thing as one record with a stable id, a type and its fields.
 
 - **Where it lives:** the `data` branch, one folder per source branch: `main/` for the live Orrery and `review/` for what's waiting. Nothing is ever committed to `main` or `review` by the build, so it can't get in the way of the review page's writes.
-- **The files:** `entities.public.json` holds everything with every secret taken out, and is what bots and AI prompts read. `entities.json` is the same with secrets, for the owner's tools only. There's also one public file per type (`people.json`, `roles.json`, `worlds.json`).
+- **The files:** `entities.public.json` holds everything with every secret taken out, and is what bots and AI prompts read. `entities.json` is the same with secrets, for the owner's tools only. There's also one public file per type (`people.json`, `items.json`, `creatures.json`, `places.json`, `lore.json`, `notes.json`, `roles.json`, `worlds.json`).
 - **Reading it:** use [`client/orrery.js`](client/orrery.js) instead of parsing anything. It works the same in Deno, Node and the browser, refreshes on its own, reads the exact newest build rather than the raw server's lagging copy, and never throws: until the first good read, lookups return nothing (or the app's fallback).
 
   ```js
@@ -84,9 +84,20 @@ The Orrery is meant to be the database of everything in the universe, and every 
 
 - **Ids:** made from the name (`Tansy Ninefingers` → `tansy-ninefingers`, a role → `role-the-tanner`). Two things with the same id fail the build, and a rename changes the id, so apps should look things up by id but expect renames.
 - **Who reads it:** GuildScribe (its people). The other apps still read the documents and move over one at a time.
-- **What's in it so far:** `roster.md` only (the pilot): every person (72), the worlds they're in, and the roles nobody fills yet. Places, creatures, items, factions, gods and events join next, each document getting its own parser in `tools/build.mjs`.
+- **What's in it:** every document.
 
-To check the documents still compile, run `node tools/build.mjs --check`; `node tools/build.mjs` writes the files into `dist/`.
+  | From | Becomes |
+  | --- | --- |
+  | `roster.md` | `person`, `role` (nobody fills it yet), `world` |
+  | `resources.md` | `item`: its category, kind, icon and fields (`sold`, `does`, `made` …) |
+  | `bestiary.md` | `place` (where fights happen: `uses`, `levels`, `lines`) and `creature` (`stats`, `place`) |
+  | `lore.md` | `lore`: each line the narrator reads, in order |
+  | `universe.md`, `working-notes.md`, `midkemia.md` | `note`: every section, with its body and fields |
+
+  Every record has a `status` from its tag: `decided` (Your idea), `pitch`, `open` (Not decided yet), `dm-lore`, `draft` or `untagged`. Apps that only want canon filter on `decided` (and `dm-lore` where it fits). Notes list the people, items, creatures and places they name in `mentions`, and those list the notes back in `mentioned_in`, so any app can gather everything written about one thing.
+- **From the chat to the database:** whatever is sent for review from Wake in Verrowen, the Codex or the lore-keeper is filed as a `working-notes.md` section on `review`, and the next build turns it into a note (with `origin` and the `review_key` it was filed under), so it's in `review/` within a minute or two. A Wake in Verrowen character also becomes a `person` (`kind: "wake-character"`); if the roster later gets someone with the same name, the roster's record takes the story note instead. Marking it **Your idea** makes it `decided`, and publishing it to `main` puts it in the live database, after which the build tells the apps that keep a copy (GuildScribe by default; more in the `ORRERY_REFRESH_URLS` repository variable) to re-read at once.
+
+To check the documents still compile, run `node tools/build.mjs --check`; `node tools/build.mjs` writes the files into `dist/`. `node --test tools/build.test.mjs` runs the build's tests.
 
 ## Keeping it in sync
 

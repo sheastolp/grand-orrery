@@ -10,6 +10,11 @@
 #   never race a build.
 # - Any other branch or pull request only checks that the documents still
 #   parse: a roster row with no name, or two things with the same id, fails.
+# - Once a main build is on the data branch, the apps that keep a live copy
+#   are told to re-read it now (ORRERY_REFRESH_URLS, a repository variable:
+#   space-separated URLs to POST to; GuildScribe's /api/orrery/refresh is the
+#   default). So something approved and published reaches them in about a
+#   minute, not at their next check.
 name: Build the Orrery database
 
 on:
@@ -33,6 +38,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+
+      - name: Test the build
+        run: node --test tools/build.test.mjs
 
       - name: Check the documents parse
         run: node tools/build.mjs --check
@@ -70,3 +78,13 @@ jobs:
             git pull --quiet --rebase origin data
           done
           exit 1
+
+      - name: Tell the apps a new Orrery is live
+        if: github.event_name != 'pull_request' && github.ref_name == 'main'
+        env:
+          URLS: ${{ vars.ORRERY_REFRESH_URLS || 'https://guildscribe.tavernworks.dev/api/orrery/refresh' }}
+        run: |
+          for u in $URLS; do
+            [ "$u" = "off" ] && continue
+            curl -fsS -m 15 -X POST "$u" >/dev/null && echo "Told $u" || echo "::warning::$u didn't answer; it'll catch up at its next check."
+          done

@@ -19,9 +19,19 @@
 //
 // No dependencies: plain Node 18+.
 //
-// Pilot: only roster.md (people, and roles nobody fills yet) is compiled so
-// far. Each document gets its own parser in PARSERS below; places, creatures,
-// items, factions and the rest join the same way.
+// Every document is compiled (PARSERS below):
+//   roster.md         person, role, world
+//   resources.md      item (category, kind, icon, fields like sold/does/made)
+//   bestiary.md       place (where fights happen) and creature (stats)
+//   lore.md           lore: each line the narrator reads, in order
+//   universe.md, working-notes.md, midkemia.md
+//                     note: every section, with its status from its tag.
+//                     What the review page files from the chat, the Codex or
+//                     the lore-keeper carries origin and review_key, and a
+//                     Wake in Verrowen character also becomes a person.
+// Every record has id, type, name, status (decided, pitch, open, dm-lore,
+// draft, untagged) and source. Notes list the people, items, creatures and
+// places they mention, and those list mentioned_in back.
 
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import { execSync } from "node:child_process";
@@ -147,9 +157,266 @@ export function parseRoster(text, file = "roster.md") {
   return { entities: out, problems };
 }
 
+// ── every other document: sections ──
+//
+// The documents are headings with a tag, a body and "- **Key:** value"
+// bullets. walkSections() turns any of them into a flat list of sections,
+// each knowing its heading path, its own or inherited tag, its fields, and
+// the review key the review page stamps on what it files from the chat, the
+// Codex or the lore-keeper. The per-document parsers below decide what each
+// section becomes.
+
+// A heading's "(Your idea)" tag → the record's status.
+const TAGS = [
+  [/^your idea$/i, "decided"],
+  [/^your d&d character/i, "decided"],
+  [/^dm lore$/i, "dm-lore"],
+  [/^pitch$/i, "pitch"],
+  [/^not decided yet$/i, "open"],
+  [/^rough draft$/i, "draft"],
+];
+
+function splitTag(heading) {
+  const m = heading.match(/^(.*?)\s*\(([^()]+)\)\s*$/);
+  if (m) for (const [re, status] of TAGS) if (re.test(m[2].trim())) return { title: m[1].trim(), status };
+  return { title: heading.trim(), status: null };
+}
+
+// Where a "## From …" heading says a section came from.
+const ORIGINS = [
+  [/^from the codex$/i, "codex"],
+  [/^from wake in verrowen$/i, "verrowen"],
+  [/^from the lore-keeper$/i, "lore-keeper"],
+  [/^from rest mode$/i, "rest"],
+];
+
+const fieldKey = (k) => slug(k).replace(/-/g, "_");
+
+/** "- **Key:** value" bullets (and "  - item" lists under an empty key) → fields. */
+export function fieldsOf(lines) {
+  const fields = {};
+  let listKey = null;
+  for (const line of lines) {
+    const m = line.match(/^[-*]\s+\*\*(.+?):\*\*\s*(.*)$/);
+    if (m) {
+      const k = fieldKey(m[1]);
+      if (!k) { listKey = null; continue; }
+      const v = m[2].trim();
+      if (v) { fields[k] = v; listKey = null; }
+      else { fields[k] = []; listKey = k; }
+      continue;
+    }
+    const sub = line.match(/^\s{2,}[-*]\s+(.+)$/);
+    if (sub && listKey) { fields[listKey].push(sub[1].trim()); continue; }
+    if (line.trim()) listKey = null;
+  }
+  return fields;
+}
+
+/** Every heading in a document as a section, with what it inherits. */
+export function walkSections(text) {
+  const lines = text.split(/\r?\n/);
+  const out = [];
+  const stack = []; // the open headings above, by level
+  let cur = null;
+  let fence = false;
+  const close = (end) => {
+    if (!cur) return;
+    const raw = lines.slice(cur.line, end);
+    const keyMatch = raw.join("\n").match(/<!-- review-key: ([^>]+?) -->/);
+    if (keyMatch) cur.review_key = keyMatch[1].trim();
+    const body = raw.join("\n").replace(/<!--[\s\S]*?-->/g, "").trim();
+    cur.body = body;
+    cur.fields = fieldsOf(body.split("\n"));
+    const from = body.match(/^_(From [^_]*?|Made up by [^_]*?), (\d{4}-\d{2}-\d{2})\b[^_]*_$/m);
+    if (from) { cur.filed_from = from[1]; cur.filed = from[2]; }
+    out.push(cur);
+    cur = null;
+  };
+  for (let i = 0; i < lines.length; i++) {
+    if (/^\s*```/.test(lines[i])) fence = !fence;
+    const h = !fence && lines[i].match(/^(#{1,6})\s+(.+?)\s*#*\s*$/);
+    if (!h) continue;
+    close(i);
+    const level = h[1].length;
+    while (stack.length && stack[stack.length - 1].level >= level) stack.pop();
+    const { title, status } = splitTag(h[2]);
+    const parents = stack.map((s) => s.title);
+    const inherited = [...stack].reverse().find((s) => s.status)?.status || null;
+    const origin = stack.map((s) => ORIGINS.find(([re]) => re.test(s.title))?.[1]).find(Boolean) || null;
+    cur = { level, title, status: status || inherited, own_status: status, parents, origin, line: i + 1 };
+    stack.push({ level, title, status: status || inherited });
+  }
+  close(lines.length);
+  return out;
+}
+
+// A record made from a section: what every kind shares.
+function fromSection(s, file, extra) {
+  const e = { id: "", type: "note", name: s.title, ...extra };
+  if (s.status) e.status = s.status;
+  if (s.parents.length > 1) e.section = s.parents.slice(1).join(" › ");
+  if (s.origin) e.origin = s.origin;
+  if (s.review_key) e.review_key = s.review_key;
+  if (s.filed) e.filed = s.filed;
+  if (s.filed_from) e.filed_from = s.filed_from;
+  const { secret, ...fields } = s.fields;
+  if (secret) e.secret = Array.isArray(secret) ? secret.join(" ") : secret;
+  if (Object.keys(fields).length) e.fields = fields;
+  e.body = s.body;
+  e.source = { file, line: s.line };
+  return e;
+}
+
+// Notes can share a heading (two pitches for the same place, a heading in
+// both universe.md and working-notes.md); they get a numbered id instead of
+// failing the build. Hand-made things (people, items, creatures) must be unique.
+const SOFT = Symbol("soft-id");
+
+/** Prose documents (universe.md, working-notes.md, midkemia.md): every section is a note.
+ * Characters sent in from Wake in Verrowen also become people. */
+function proseParser({ world = null, defaultStatus = null } = {}) {
+  return (text, file) => {
+    const entities = [];
+    const stem = file.replace(/\.md$/, "");
+    for (const s of walkSections(text)) {
+      if (s.level === 1) continue;
+      if (!s.body && !s.own_status) continue; // a bare grouping heading
+      if (ORIGINS.some(([re]) => re.test(s.title))) continue; // "## From the Codex" itself
+      const status = s.status || defaultStatus || "untagged";
+      const e = fromSection({ ...s, status }, file, { type: "note", doc: stem });
+      if (world) e.world = world;
+      e.id = stem + "-" + slug(s.title);
+      e[SOFT] = true;
+      entities.push(e);
+      if (s.origin === "verrowen") entities.push(wakeCharacter(s, e, file));
+    }
+    return { entities, problems: [] };
+  };
+}
+
+// "Name: Silas Blackwood (not found out yet)" and the rest of a Wake in
+// Verrowen character profile, as a person.
+function wakeCharacter(s, note, file) {
+  const prof = {};
+  for (const line of s.body.split("\n")) {
+    const m = line.match(/^\s*(?:[-*]\s+)?\**([A-Z][A-Za-z' ]{1,30}?)\**:\**\s+(.+)$/);
+    if (m) prof[fieldKey(m[1])] = m[2].trim();
+  }
+  const name = (prof.name || s.title).replace(/\s*\([^)]*\)\s*$/, "").trim();
+  const p = { id: slug(name), type: "person", name, kind: "wake-character", origin: "verrowen" };
+  if (prof.race) p.race = prof.race;
+  if (prof.sex) p.sex = SEXES[prof.sex] || prof.sex.toLowerCase();
+  const age = prof.age && prof.age.match(/\d+/);
+  if (age) p.age = +age[0];
+  for (const k of ["magic", "personality", "appearance", "skills"]) if (prof[k]) p[k] = prof[k];
+  const bg = prof.background_so_far || prof.background;
+  if (bg) p.line = bg;
+  p.world = "verrowen";
+  p.status = s.status || "pitch";
+  if (s.review_key) p.review_key = s.review_key;
+  if (s.filed) p.filed = s.filed;
+  p.notes = [note.id];
+  p.source = { file, line: s.line };
+  p[SOFT] = true;
+  return p;
+}
+
+/** resources.md: every #### entry is an item, sorted by its ## category and ### kind. */
+export function parseResources(text, file = "resources.md") {
+  const entities = [];
+  for (const s of walkSections(text)) {
+    if (s.level !== 4) continue;
+    const { icon, name } = iconName(s.title);
+    const e = fromSection(s, file, { type: "item", name });
+    if (icon) e.icon = icon;
+    if (s.parents[1]) e.category = s.parents[1];
+    if (s.parents[2]) e.kind = s.parents[2];
+    delete e.section;
+    e.id = slug(name);
+    entities.push(e);
+  }
+  return { entities, problems: [] };
+}
+
+/** bestiary.md: each ## is a place fights happen, each #### a creature found there. */
+export function parseBestiary(text, file = "bestiary.md") {
+  const entities = [];
+  let place = null;
+  for (const s of walkSections(text)) {
+    if (s.level === 2) {
+      const e = fromSection(s, file, { type: "place", kind: "hunting-ground" });
+      const f = s.fields;
+      if (f.for) e.uses = String(f.for).split(/[,;]|\band\b/).map((x) => x.trim().toLowerCase()).filter(Boolean);
+      const lv = String(f.levels || "").match(/(\d+)\s*[-–]\s*(\d+)/);
+      if (lv) e.levels = [+lv[1], +lv[2]];
+      if (Array.isArray(f.lines)) e.lines = f.lines;
+      e.id = "place-" + slug(s.title);
+      place = e.id;
+      entities.push(e);
+    } else if (s.level === 4) {
+      const { icon, name } = iconName(s.title);
+      const e = fromSection(s, file, { type: "creature", name });
+      if (icon) e.icon = icon;
+      if (place) e.place = place;
+      delete e.section;
+      const stats = statsOf(s.fields.stats);
+      if (stats) e.stats = stats;
+      e.id = slug(name);
+      entities.push(e);
+    }
+  }
+  return { entities, problems: [] };
+}
+
+function iconName(title) {
+  const m = title.match(/^(\p{Extended_Pictographic}[\p{Extended_Pictographic}‍️]*)\s+(.+)$/u);
+  return m ? { icon: m[1], name: m[2].trim() } : { icon: null, name: title };
+}
+
+/** "CR 2 · AC 13 · HP 45 · +5 to hit · 1d10+3" → numbers. */
+export function statsOf(v) {
+  if (!v || typeof v !== "string") return null;
+  const cr = v.match(/CR\s*([\d/]+)/i), ac = v.match(/AC\s*(\d+)/i), hp = v.match(/HP\s*(\d+)/i);
+  const hit = v.match(/([+-]\d+)\s*to hit/i), dmg = v.match(/(\d+d\d+(?:\s*[+-]\s*\d+)?)/i);
+  if (!ac && !hp) return null;
+  const out = {};
+  if (cr) out.cr = cr[1];
+  if (ac) out.ac = +ac[1];
+  if (hp) out.hp = +hp[1];
+  if (hit) out.to_hit = +hit[1];
+  if (dmg) out.damage = dmg[1].replace(/\s+/g, "");
+  return out;
+}
+
+/** lore.md: each "KEY: text" line the narrator reads, in order. */
+export function parseLore(text, file = "lore.md") {
+  const entities = [];
+  const seen = {};
+  text.split(/\r?\n/).forEach((line, i) => {
+    const m = line.match(/^([A-Z][A-Z &]+?)(?:\s*\(([^)]*)\))?:\s+(.+)$/);
+    if (!m) return;
+    const key = m[1].trim();
+    const n = (seen[key] = (seen[key] || 0) + 1);
+    entities.push({
+      id: "lore-" + slug(key) + (n > 1 ? "-" + n : ""),
+      type: "lore", name: key, ...(m[2] ? { about: m[2] } : {}),
+      text: m[3].replace(/<!--[\s\S]*?-->/g, "").trim(), order: entities.length + 1,
+      status: "decided", source: { file, line: i + 1 },
+    });
+  });
+  return { entities, problems: [] };
+}
+
 // Which documents are compiled, and by what. Add a parser to add a document.
 const PARSERS = {
   "roster.md": parseRoster,
+  "resources.md": parseResources,
+  "bestiary.md": parseBestiary,
+  "lore.md": parseLore,
+  "universe.md": proseParser({ world: "verrowen", defaultStatus: "decided" }),
+  "working-notes.md": proseParser({ world: "verrowen" }),
+  "midkemia.md": proseParser({ world: "midkemia", defaultStatus: "dm-lore" }),
 };
 
 // ── build ──
@@ -168,12 +435,34 @@ export function build() {
     problems.push(...r.problems);
   }
 
+  // Hand-made things claim their ids first; notes and characters filed from
+  // the chat take a numbered id when theirs is taken.
   const seen = new Map();
-  for (const e of entities) {
+  for (const e of entities.filter((x) => !x[SOFT])) {
     const before = seen.get(e.id);
     if (before) problems.push(`two things share the id "${e.id}": ${before.source.file}:${before.source.line} and ${e.source.file}:${e.source.line}. Give one a different name.`);
     else seen.set(e.id, e);
   }
+  const merged = new Set();
+  for (const e of entities.filter((x) => x[SOFT])) {
+    // A character from Wake in Verrowen who's since been written into the
+    // roster is the same person: the roster's record gets the story note.
+    const same = seen.get(e.id);
+    if (e.kind === "wake-character" && same?.type === "person" && !same[SOFT]) {
+      same.notes = [...(same.notes || []), ...e.notes];
+      merged.add(e);
+      continue;
+    }
+    let id = e.id, n = 1;
+    while (seen.has(id)) id = `${e.id}-${++n}`;
+    if (id !== e.id) {
+      for (const p of entities) if (Array.isArray(p.notes)) p.notes = p.notes.map((x) => (x === e.id && p.source.line === e.source.line ? id : x));
+      e.id = id;
+    }
+    seen.set(e.id, e);
+  }
+  for (let i = entities.length - 1; i >= 0; i--) if (merged.has(entities[i])) entities.splice(i, 1);
+  linkMentions(entities);
 
   const counts = {};
   for (const e of entities) counts[e.type] = (counts[e.type] || 0) + 1;
@@ -188,7 +477,26 @@ export function build() {
   return { meta, entities, problems };
 }
 
-const plural = (t) => ({ person: "people" })[t] || t + "s";
+// Which people, items, creatures and places each note talks about, and back:
+// so any app can gather everything written about one thing.
+function linkMentions(entities) {
+  const named = entities.filter((e) => ["person", "item", "creature", "place"].includes(e.type) && !e[SOFT] && e.name);
+  const pats = named.map((e) => {
+    const esc = e.name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/['’]/g, "['’]");
+    // "Hearthstone" also finds "Hearthstones" and "Hearthstone's".
+    return [e, new RegExp(`(^|[^\\p{L}])${esc}(?:e?s)?(?=$|[^\\p{L}])`, "u")]; // case matters: "Kettle" the peddler, not a kettle
+  });
+  for (const n of entities) {
+    if (n.type !== "note" && n.type !== "lore") continue;
+    const text = `${n.name}\n${n.body || n.text || ""}`;
+    const hit = pats.filter(([e, re]) => e.name.length >= 4 && re.test(text)).map(([e]) => e);
+    if (!hit.length) continue;
+    n.mentions = hit.map((e) => e.id);
+    for (const e of hit) (e.mentioned_in ||= []).push(n.id);
+  }
+}
+
+const plural = (t) => ({ person: "people", lore: "lore" })[t] || t + "s";
 const withoutSecrets = (e) => { const { secret, ...rest } = e; return rest; };
 
 function main(argv) {

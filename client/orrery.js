@@ -14,6 +14,8 @@
 //   orrery.get("tansy-ninefingers");              // one thing by id
 //   orrery.list("person", { group: "The road peddlers" });
 //   orrery.find("tansy");                         // by name, any case
+//   orrery.about("murrow");                       // every note that names Murrow
+//   orrery.loreText();                            // the narrator's lore.md lines
 //   orrery.onChange(() => rebuildPrompts());      // after a publish lands
 //
 // Options:
@@ -123,6 +125,23 @@ export class Orrery {
     if (!q) return [];
     const score = (e) => { const n = norm(e.name); return n === q ? 0 : n.startsWith(q) ? 1 : n.includes(q) ? 2 : 3; };
     return this.list(type).map((e) => [score(e), e]).filter(([s]) => s < 3).sort((a, b) => a[0] - b[0]).map(([, e]) => e);
+  }
+
+  /** Every note and lore line that names this thing (its `mentioned_in`), plus its own notes.
+   * @param {string} id
+   * @returns {OrreryEntity[]} */
+  about(id) {
+    const e = this.get(id);
+    if (!e) return [];
+    const ids = [...(e.notes || []), ...(e.mentioned_in || [])];
+    return [...new Set(ids)].map((x) => this.get(x)).filter(Boolean);
+  }
+
+  /** The lore lines the Wake in Verrowen narrator reads, as "KEY: text" lines in order.
+   * @returns {string} */
+  loreText() {
+    return this.list("lore").sort((a, b) => (a.order || 0) - (b.order || 0))
+      .map((l) => `${l.name}${l.about ? ` (${l.about})` : ""}: ${l.text}`).join("\n");
   }
 
   /** Calls `fn(orrery)` whenever a new build is read. Returns an unsubscribe.
