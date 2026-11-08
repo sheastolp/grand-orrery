@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T16:55:19.598Z",
+  "built": "2026-11-08T16:59:41.895Z",
   "branch": "review",
-  "commit": "5f4b53b3f6ccc500e57ca9ed838da08adaea2ba9",
+  "commit": "6a97a3aa8b7b6103232c6a467b7cb5786a8d22cf",
   "counts": {
     "person": 87,
     "role": 11,
@@ -3013,7 +3013,7 @@
       "type": "note",
       "name": "Give xab's character a joke Pot of Greed. Make it functi…",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From the lore-keeper",
       "origin": "lore-keeper",
       "review_key": "lore-keeper:f384cb65-8f5a-4fae-a4ab-24250d8c1ddf",
