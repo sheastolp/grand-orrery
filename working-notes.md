@@ -1310,7 +1310,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: 
 
 - The Guard maintains nightly patrols along the western wall using “Rook’s Vigil,” a specific shift pattern designed to maximize observation points and minimize gaps in coverage.
 
-### Monstradius’s Secret (Pitch)
+### Monstradius’s Secret (Your idea)
 
 <!-- review-key: rest:idea-mw82dfsz -->
 <!-- added by the AI -->
