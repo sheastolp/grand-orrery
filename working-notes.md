@@ -1517,7 +1517,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers'
 - **Limits:** The stone only affects those with a significant level of emotional vulnerability. Those shielded by strong willpower or practiced control will find it inert. It can also be overwhelmed by exceptionally intense emotions (like witnessing a horrific event), causing a feedback loop that drains the user's mana rapidly. Furthermore, once a person has experienced its full effect, they are temporarily immune - needing another twenty-four hours for the stone's influence to reassert itself.
 - **Ties:** Silas acquired the Stone from Father Benedict, who was tasked with comforting villagers during the Great Flood fifty years prior – Benedict vanished after the storm, his fate unknown but rumored to have been taken by one of the many monsters emerging from the Monster Wood. The swirling patterns etched into the stone bear a faint resemblance to maps depicting the routes used by lost travelers in the woods—a detail Silas never explains.
 
-### Rook’s Vigil (Pitch)
+### Rook’s Vigil (Your idea)
 
 <!-- review-key: rest:idea-mw8eudha -->
 <!-- added by the AI -->
