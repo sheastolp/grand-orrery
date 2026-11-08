@@ -51,18 +51,18 @@ When a character changes here, the bots pick it up on their own (see below). The
 
 ## Who reads from here
 
-Everything below reads this repo's `main` straight from GitHub. None of them keeps its own copy of the universe: their built-in name lists are only fallbacks for when GitHub can't be reached.
+Everything below reads [the database](#the-database) built from this repo's `main`, through the same client. None of them keeps its own copy of the universe or parses the documents for it: their built-in lists are only fallbacks for when GitHub can't be reached.
 
 | Project | Reads | How often |
 | --- | --- | --- |
-| [Orrery Explorer](https://tavernworks.dev/orrery/) | Every file and map | On open |
-| [Wake in Verrowen](https://tavernworks.dev/verrowen/) narrator | `lore.md` | Every turn |
-| GuildScribe (Twitch bot, `dnd-twitch-bot`) | `lore.md` (AI replies), `bestiary.md` (where fights happen, Verrowen's beasts), and [the database](#the-database) for its people (the peddlers, and the Scribe's and peddlers' lines), through the shared client | Every 5 minutes, and at once when the Orrery publishes |
+| [Orrery Explorer](https://tavernworks.dev/orrery/) | The database for its people, items, beasts and places (the Review Clone reads `review`'s), plus the documents and maps themselves for the Documents and Maps tabs | On open |
+| [Wake in Verrowen](https://tavernworks.dev/verrowen/) narrator, and the Codex | The database's lore lines (compiled from `lore.md`) | Every turn, checked again every 10 minutes |
+| GuildScribe (Twitch bot, `dnd-twitch-bot`) | The database: lore lines (AI replies), places and creatures (where fights happen, Verrowen's beasts), people (the peddlers, and the Scribe's and peddlers' lines) and items with a **Sold:** line (the peddlers' stall) | Every 5 minutes, and at once when a new database is live |
 | GuildScribe (Discord bot, `guildscribe-discord`) | The same as the Twitch bot: it runs the Twitch bot's game code, synced every 15 minutes | Same |
-| The Wandering Clerk | `roster.md` (the road peddlers) | Each run, then every 30 minutes |
+| The Wandering Clerk (GuildScribe's Hunt & Hoard) | The same as GuildScribe: it's part of the Twitch bot | Same |
 | UndercoverBurn | `roster.md` (Burn) | At start-up, then every 30 minutes |
 
-Only decided content reaches them: `lore.md` and `roster.md` hold nothing else, and in `bestiary.md` only sections tagged **(Your idea)** or **(DM lore)** count. Secrets stay out of the bots' prompts. To add a new project, have it read [the database](#the-database) rather than copying anything in or parsing the documents itself.
+Only decided content reaches them: the bots and the narrator only use records whose status is `decided` (Your idea) or `dm-lore`. Secrets stay out of the bots' prompts. To add a new project, have it read [the database](#the-database) rather than copying anything in or parsing the documents itself.
 
 ## The database
 
@@ -84,7 +84,7 @@ The Orrery is meant to be the database of everything in the universe, and every 
   ```
 
 - **Ids:** made from the name (`Tansy Ninefingers` → `tansy-ninefingers`, a role → `role-the-tanner`). Two things with the same id fail the build, and a rename changes the id, so apps should look things up by id but expect renames.
-- **Who reads it:** GuildScribe (its people). The other apps still read the documents and move over one at a time.
+- **Who reads it:** every app in [Who reads from here](#who-reads-from-here). Tavernworks pages load the client through its `/orrery-db.js`, and GuildScribe imports it directly; both pin a commit of `client/orrery.js`, so bump that pin to take a newer client.
 - **What's in it:** every document.
 
   | From | Becomes |
