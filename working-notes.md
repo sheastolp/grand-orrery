@@ -1044,6 +1044,33 @@ Open questions: (suggested) What specific creatures inhabit the deeper coves nea
 In the world:
 The rain hammered against the timbers of Silas’s small fishing boat as he hauled in his evening catch - mostly sea-slugs and phosphorescent shrimp. The wind howled off the cliffs, carrying spray that stung his face. Old Man Hemlock, mending nets beside him, grunted, "Stormbreaker's holding true tonight, boy. Best build in Verrowen hasn't seen conditions like this in a generation." A flash of blue light briefly illuminated from beneath the waves before disappearing into the dark depths--a common sight around Saltwind Reach, but always unsettling enough to make Silas check his hooks twice.
 
+### Brackwood Fringe (Pitch)
+
+<!-- review-key: lore-keeper:6521acef-9bc6-4a1d-b7a1-2955c0f8eaf7 -->
+_From a lore-keeper chat, 2026-11-08 · Physics & nature._
+
+Name: Brackwood Fringe
+
+Kind: Regions & Places - A perpetually damp, gnarled woodland bordering the southern edge of former farmland.
+
+The Rule: It’s a zone of dense, mutated wilderness rife with dangerous wildlife and remnants of forgotten settlements, challenging navigation and requiring specialized equipment or skilled trackers to traverse safely.
+
+How it Works: The terrain itself is inherently hostile due to fungal growth, unusual animal mutations stemming from the blight’s impact, and persistent fog that reduces visibility – all amplified by its isolation.
+
+Costs and Limits: Navigation requires either a seasoned tracker (3 Mana/day) or Featherhooks (5 silver coins per trip). Injury within the fringe incurs a 1 Mana cost. Travel time significantly increases without proper preparation.
+
+Who it Affects: Primarily travelers, hunters, and those seeking lost artifacts. Stoutwell villagers avoid it entirely. The Guard patrols occasionally, but rarely ventures deep.
+
+What it Changes: Represents a significant barrier to trade and communication between Verrowen and other regions.  It forces reliance on local resources and knowledge, potentially shifting power dynamics within Stoutwell.
+
+Clashes with Canon: None
+
+Open Questions: What specific creatures inhabit the Brackwood Fringe? (suggested)
+
+In the world:
+
+The rain hammered down relentlessly as Tobin Ashby wrestled with his tracking staff through the thick undergrowth of the Brackwood Fringe. A chill clung to everything—the air, his damp leather armor, even the meagre fire he'd built. He was attempting to retrieve a rumored fragment of amber, said to hold echoes of ancient songs, for a wealthy merchant in the capital. Every rustle sent a shiver down his spine; Gloom Rats scuttled beneath fallen logs, their bioluminescent eyes reflecting the gloom, while the persistent fog made judging distances nearly impossible. Murrow’s notes warned against relying solely on sight – the landscape played tricks with light and shadow.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
