@@ -1217,3 +1217,11 @@ _Made up by the AI in auto mode, 2026-11-08 · about a piece of Stoutwell's or t
 _Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers' relics and the story they tell about it._
 
 - Murrow, the artificer, isn’t just seeking other artificers with his Seeker’s Lodestone; he's subtly trying to influence events around Stoutwell, using carefully placed “discoveries” to nudge the village towards solutions that benefit his research – specifically, regarding the origins of the Well’s blight and a method for reversing it.
+
+### Rook’s Vigil (Pitch)
+
+<!-- review-key: rest:idea-mw7ddxe0 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._
+
+- The Guard rotates through nightly shifts patrolling Whisperwind’s Watch, where a specific ritual performed under the light of the moon helps ward against creatures drawn by the village’s magical energy - specifically, the rooks that haunt Brackwood Fringe.
