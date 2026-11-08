@@ -1192,3 +1192,11 @@ _Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers'
 - **How it works:** When held, the shard subtly amplifies any existing ambient wind magic nearby—a slight breeze suddenly becomes noticeable, tools seem lighter for a moment, or even provides a momentary boost to a fire user struggling against weak winds.  The effect isn't powerful enough to actively create wind, but rather enhances what already exists; using it requires focus and exertion from the wielder, draining their own mana slowly. After prolonged use (about five minutes), the shard grows noticeably colder, mirroring Murrow’s dwindling mana reserves. The cold intensifies dramatically as it empties, becoming intensely painful to touch.
 - **Limits:** Its effectiveness is directly tied to surrounding wind magic. In areas devoid of air currents, it offers no benefit whatsoever. Overuse leads to severe mana deprivation – dizziness, shivering, and eventual unconsciousness if not carefully monitored. It only functions reliably with someone attuned to elemental magic - elves are naturally better at wielding its power than humans. Doric has made several attempts to replicate its construction, unable to understand how this simple shard can hold so much potential.
 - **Ties:** Directly connected to Murrow’s research into creating self-sustaining magical items. He believes the Shard represents an “echo” of the original rift opening event, capturing a fleeting fragment of the world-tear's chaotic energy. It also mirrors his suspicion that some artificers deliberately manipulate rifts for personal gain—a dangerous theory he guards closely. He occasionally consults Hesketh about the local weather patterns when working
+
+### Rook’s Watch (Pitch)
+
+<!-- review-key: rest:idea-mw75pi6h -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._
+
+- The Guard maintains a nightly watch over Whisperwind, using a series of strategically placed Wardbells that detect movement within a fifty-foot radius – however, only the trained ears of Hesketh Reeve can reliably interpret their frantic ringing, distinguishing between a startled rabbit and a potential threat.
