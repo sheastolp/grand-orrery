@@ -1477,7 +1477,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's gui
 - **Limits:** The range is limited to roughly half a mile, heavily reliant on ambient mana concentrations - the device struggles near areas saturated with natural magic or those shielded from external energies.  It also has no visual output – Murrow relies solely on tactile feedback and his own intuition. It can be overloaded by excessively strong magical bursts. Prolonged operation drains Murrow’s personal mana reserves considerably. If operated too extensively without replenishment, Murrow becomes noticeably colder and weaker.
 - **Ties:** This system directly connects to Murrow’s secretive research concerning the Seeker's Lodestone and his apparent fear of the Kingdom. His desire to understand the potential threats emanating from beyond Stoutwell and the Monster Wood fuels its construction, reflecting his cautious, almost paranoid nature. It echoes elements of Monstradius’s secret: both men are obsessed with understanding and controlling
 
-### Silas Blackwood (Pitch)
+### Silas Blackwood (Your idea)
 
 <!-- review-key: rest:idea-mw899q1i -->
 <!-- added by the AI -->
