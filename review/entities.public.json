@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T19:59:19.942Z",
+  "built": "2026-11-08T20:20:46.098Z",
   "branch": "review",
-  "commit": "3fcbe0a54ca94964e61e4637009964fcb144c0a7",
+  "commit": "5d1de620f019c128e1ad97d1ebe8e0ce153fe7cf",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 15,
     "lore": 30,
-    "note": 184
+    "note": 185
   },
   "entities": [
     {
@@ -290,7 +290,8 @@
         "working-notes-village-roster-2",
         "working-notes-guards-routine",
         "working-notes-murrows-secret",
-        "working-notes-rooks-watch"
+        "working-notes-rooks-watch",
+        "working-notes-the-silent-offering-2"
       ]
     },
     {
@@ -2301,7 +2302,8 @@
         "universe-murrows-items",
         "working-notes-monstradius-items",
         "working-notes-constructed-items",
-        "working-notes-rooks-watch"
+        "working-notes-rooks-watch",
+        "working-notes-the-silent-offering-2"
       ]
     },
     {
@@ -9207,6 +9209,36 @@
       "world": "verrowen",
       "mentions": [
         "burn"
+      ]
+    },
+    {
+      "id": "working-notes-the-silent-offering-2",
+      "type": "note",
+      "name": "The Silent Offering",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8a1ajg",
+      "filed": "2026-11-08",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Every evening at sunset, each household within Stoutwell places a single, unlit candle upon the Wellstone – a flat, grey stone marking the dried-up well’s center – accompanied by a whispered plea for protection against the monsters of the Monsterwood or the blight creeping outwards.",
+        "who": "It’s practiced by all residents of Stoutwell, with particular emphasis from the Elderhold and the Guard. Specifically, Hesketh Reeve oversees the ritual to ensure order and compliance.",
+        "where": "Directly beside the dried-up well in the village square.",
+        "how_it_works": "The act itself requires no magic—it’s purely symbolic. However, because of the village’s limited mana reserves, placing the candles dramatically reduces available mana across the entire settlement that night. This weakens their defenses (the Wardbells won’t ring as reliably), makes them more vulnerable to Rootwraith attacks and lowers the effectiveness of any defensive spells cast during the coming darkness.  The Whispers are meant to send a collective message out into the world, hoping something will hear it.",
+        "limits": "The ritual's impact scales proportionally to the number of candles lit; more candles mean greater magical depletion. If everyone lights every candle, the effect becomes overwhelming - causing widespread dizziness and weakness among the villagers.",
+        "ties": "The tradition originates with Silas Blackwood, who was obsessed with protecting Stoutwell from the Blight but died before he could fully understand its origins – his family continues to enforce the ritual as an unspoken way to honor him and appease whatever forces might be responsible for the blight’s spread, while also subtly acknowledging their lack of control over events."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-08 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **What it is:** Every evening at sunset, each household within Stoutwell places a single, unlit candle upon the Wellstone – a flat, grey stone marking the dried-up well’s center – accompanied by a whispered plea for protection against the monsters of the Monsterwood or the blight creeping outwards.\n- **Who:** It’s practiced by all residents of Stoutwell, with particular emphasis from the Elderhold and the Guard. Specifically, Hesketh Reeve oversees the ritual to ensure order and compliance.\n- **Where:** Directly beside the dried-up well in the village square.\n- **How it works:** The act itself requires no magic—it’s purely symbolic. However, because of the village’s limited mana reserves, placing the candles dramatically reduces available mana across the entire settlement that night. This weakens their defenses (the Wardbells won’t ring as reliably), makes them more vulnerable to Rootwraith attacks and lowers the effectiveness of any defensive spells cast during the coming darkness.  The Whispers are meant to send a collective message out into the world, hoping something will hear it.\n- **Limits:** The ritual's impact scales proportionally to the number of candles lit; more candles mean greater magical depletion. If everyone lights every candle, the effect becomes overwhelming - causing widespread dizziness and weakness among the villagers.\n- **Ties:** The tradition originates with Silas Blackwood, who was obsessed with protecting Stoutwell from the Blight but died before he could fully understand its origins – his family continues to enforce the ritual as an unspoken way to honor him and appease whatever forces might be responsible for the blight’s spread, while also subtly acknowledging their lack of control over events.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1488
+      },
+      "world": "verrowen",
+      "mentions": [
+        "hesketh-reeve",
+        "wardbell"
       ]
     },
     {
