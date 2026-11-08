@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T17:54:02.048Z",
+  "built": "2026-11-08T17:56:19.332Z",
   "branch": "review",
-  "commit": "9e01930f7dbe6ec2117ea8395bc6855566833274",
+  "commit": "7d68f595e5ef3e23f94d505b88dca5309414dc81",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10,7 +10,7 @@
     "item": 91,
     "place": 7,
     "creature": 9,
-    "lore": 25,
+    "lore": 30,
     "note": 179
   },
   "entities": [
@@ -237,6 +237,7 @@
         "lore-stoutwell",
         "lore-people",
         "lore-items-2",
+        "lore-items-3",
         "universe-maps",
         "universe-layout",
         "universe-trades",
@@ -319,6 +320,7 @@
         "lore-kingdom",
         "lore-items-2",
         "lore-artificers-2",
+        "lore-items-3",
         "universe-healers",
         "universe-water-and-the-dead-well",
         "universe-layout",
@@ -1721,6 +1723,7 @@
       },
       "mentioned_in": [
         "lore-other-worlds",
+        "lore-other-worlds-2",
         "universe-the-universe-the-grand-orrery",
         "universe-the-monster-wood",
         "universe-arandur",
@@ -1762,6 +1765,7 @@
       },
       "mentioned_in": [
         "lore-other-worlds",
+        "lore-other-worlds-2",
         "universe-arandur",
         "working-notes-family",
         "working-notes-key-events",
@@ -1785,6 +1789,7 @@
       },
       "mentioned_in": [
         "lore-other-worlds",
+        "lore-other-worlds-2",
         "universe-arandur",
         "working-notes-family"
       ]
@@ -2214,6 +2219,7 @@
         "lore-items",
         "lore-resources",
         "lore-items-2",
+        "lore-items-3",
         "universe-murrows-items",
         "working-notes-murrow-the-artificer",
         "working-notes-monstradius-items",
@@ -2248,6 +2254,7 @@
         "lore-items",
         "lore-resources",
         "lore-items-2",
+        "lore-items-3",
         "universe-trades",
         "universe-doric",
         "universe-murrows-items",
@@ -2313,6 +2320,7 @@
         "lore-items",
         "lore-resources",
         "lore-items-2",
+        "lore-items-3",
         "universe-murrows-items",
         "universe-beyond-the-village",
         "working-notes-monstradius-items",
@@ -2665,7 +2673,8 @@
       "kind": "Wood",
       "mentioned_in": [
         "lore-resources",
-        "lore-items-2"
+        "lore-items-2",
+        "lore-items-3"
       ]
     },
     {
@@ -4911,6 +4920,79 @@
         "ysolde-ambergate",
         "clementine-rook",
         "bertrams-ledgers"
+      ]
+    },
+    {
+      "id": "lore-races-3",
+      "type": "lore",
+      "name": "RACES",
+      "text": "Elves exist as the Wellhouse family, but their origin is unknown – they arrived centuries ago for their soft spot for sharing and caring, and do nothing for the village beyond the tavern. Their name is not yet known.",
+      "order": 26,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 31
+      }
+    },
+    {
+      "id": "lore-other-worlds-2",
+      "type": "lore",
+      "name": "OTHER WORLDS",
+      "text": "Arandur, an elf ranger and pickpocket from another world, was pulled out of it into another. In his youth, a rift dropped him in a village near Stoutwell (name not yet known). He was raised in a forest cabin by his hunter mother Silwen, who vanished with his distant father Faelan; he suspects a voiceless spectre that taught him to track is Silwen. Abandoned, he became a thief and a self-taught archer. He hides everything under contempt and silence, talks down magic, and fears trolls but can't fully hate them.",
+      "order": 27,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 32
+      },
+      "mentions": [
+        "arandur",
+        "silwen",
+        "faelan"
+      ]
+    },
+    {
+      "id": "lore-wellhouse-2",
+      "type": "lore",
+      "name": "WELLHOUSE",
+      "text": "The Wellhouse elves are descendants of several families, one of which was originally a travelling troupe of performers called “The Wandering Shadows,” who settled here after finding refuge during a period of unrest in the capital kingdom. They changed their names and adopted a quieter existence, preferring the companionship of quiet evenings at the tavern rather than spectacle. This lineage is tied to a deep respect for storytelling, music, and illusion—traits reflected in the subtle enchantments woven into their craftwork.",
+      "order": 28,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 33
+      }
+    },
+    {
+      "id": "lore-magic-3",
+      "type": "lore",
+      "name": "MAGIC",
+      "text": "Common but weak. It assists work, it doesn’t replace it. Types: elemental (wind, fire, earth), strength enhancement, detection. Everyday uses include mending torn or cracked things and loosening or firming soil. Healing specialists are very rare and only ever human, from humans’ affinity for it; a small or medium village may have 2 or 3 at a time (Stoutwell has 2). Healers use magic to assist the body’s own healing. Artificers aren’t healers but can still heal, leaning on natural healing and on drawing other people’s healing magic, sometimes nefariously. A fire user who can boil a pot of water counts as super skilled. Everyone has a well of mana. It refills more slowly than the body heals, and there's no visible bar. Running out (mana deprivation) causes sickness, dizziness or passing out. Fire is the opposite of cold, so a fire user low on mana grows cold, more so the emptier they are. Elves are most magical, then humans, then halflings. People can have latent magic they don’t know about. Objects hold mana but can’t make it. A charged item normally works only for the person whose mana is in it; a very rare ability, nearly as rare as artificing, lets an item work without its owner. Wind users are rare and far more often human. Strength enhancement is fairly common (Tobin uses it to hammer hot steel).",
+      "order": 29,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 34
+      }
+    },
+    {
+      "id": "lore-items-3",
+      "type": "lore",
+      "name": "ITEMS",
+      "text": "Hearthstones are charged river stones; the Truthglass is rare clear quartz; mirrorstone is rare black glass shaped by magic. Doric forges iron (Featherhook hooks to Murrow’s specifications, the Guard’s gear, ornate work) with a smith’s hammer. Timber comes from dead-tree runs, is cut at the lumber mill and stored in the lumber yard. A few short, twisted ash trees grow on the Ashen Reach; their dense, tough wood is too short for beams but prized by the woodworkers for tool handles, weapon hilts and arrow",
+      "order": 30,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 35
+      },
+      "mentions": [
+        "doric",
+        "murrow",
+        "hearthstone",
+        "featherhook",
+        "truthglass",
+        "timber"
       ]
     },
     {

@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T17:54:02.048Z",
+  "built": "2026-11-08T17:56:19.332Z",
   "branch": "review",
-  "commit": "9e01930f7dbe6ec2117ea8395bc6855566833274",
+  "commit": "7d68f595e5ef3e23f94d505b88dca5309414dc81",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10,7 +10,7 @@
     "item": 91,
     "place": 7,
     "creature": 9,
-    "lore": 25,
+    "lore": 30,
     "note": 179
   },
   "entities": [
@@ -234,6 +234,7 @@
         "lore-stoutwell",
         "lore-people",
         "lore-items-2",
+        "lore-items-3",
         "universe-maps",
         "universe-layout",
         "universe-trades",
@@ -315,6 +316,7 @@
         "lore-kingdom",
         "lore-items-2",
         "lore-artificers-2",
+        "lore-items-3",
         "universe-healers",
         "universe-water-and-the-dead-well",
         "universe-layout",
@@ -1714,6 +1716,7 @@
       },
       "mentioned_in": [
         "lore-other-worlds",
+        "lore-other-worlds-2",
         "universe-the-universe-the-grand-orrery",
         "universe-the-monster-wood",
         "universe-arandur",
@@ -1754,6 +1757,7 @@
       },
       "mentioned_in": [
         "lore-other-worlds",
+        "lore-other-worlds-2",
         "universe-arandur",
         "working-notes-family",
         "working-notes-key-events",
@@ -1777,6 +1781,7 @@
       },
       "mentioned_in": [
         "lore-other-worlds",
+        "lore-other-worlds-2",
         "universe-arandur",
         "working-notes-family"
       ]

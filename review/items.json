@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T17:54:02.048Z",
+  "built": "2026-11-08T17:56:19.332Z",
   "branch": "review",
-  "commit": "9e01930f7dbe6ec2117ea8395bc6855566833274",
+  "commit": "7d68f595e5ef3e23f94d505b88dca5309414dc81",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10,7 +10,7 @@
     "item": 91,
     "place": 7,
     "creature": 9,
-    "lore": 25,
+    "lore": 30,
     "note": 179
   },
   "entities": [
@@ -40,6 +40,7 @@
         "lore-items",
         "lore-resources",
         "lore-items-2",
+        "lore-items-3",
         "universe-murrows-items",
         "working-notes-murrow-the-artificer",
         "working-notes-monstradius-items",
@@ -74,6 +75,7 @@
         "lore-items",
         "lore-resources",
         "lore-items-2",
+        "lore-items-3",
         "universe-trades",
         "universe-doric",
         "universe-murrows-items",
@@ -139,6 +141,7 @@
         "lore-items",
         "lore-resources",
         "lore-items-2",
+        "lore-items-3",
         "universe-murrows-items",
         "universe-beyond-the-village",
         "working-notes-monstradius-items",
@@ -491,7 +494,8 @@
       "kind": "Wood",
       "mentioned_in": [
         "lore-resources",
-        "lore-items-2"
+        "lore-items-2",
+        "lore-items-3"
       ]
     },
     {
