@@ -1139,7 +1139,7 @@ In the world:
 
 The rain hammered against the canvas roof of Doric’s smithy as he painstakingly forged a new haft for an arrow. Young Tobin, sweat dripping from his brow, struggled to maintain focus, his face flushed with exertion. Doric, with a subtle gesture, channeled a trickle of calming energy—a faint blue shimmer—into the metal, smoothing out imperfections and bolstering its resilience. He was instinctively using his inherent affinity for heat and shaping, reducing the need for brute force and minimizing the drain on *his* mana. Even Tobin, despite his youthful enthusiasm, felt the familiar tingle of depletion after only a few minutes; a stark reminder that true mastery demanded more than just muscle and ambition.
 
-### Mana Affinity Items – Stabilized Tools (Pitch)
+### Mana Affinity Items – Stabilized Tools (Your idea)
 
 <!-- review-key: lore-keeper:e2dae667-c82c-4bf6-a89d-ab6172743cdc -->
 _From a lore-keeper chat, 2026-11-08 · Magic._
