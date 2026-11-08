@@ -1209,3 +1209,11 @@ _Made up by the AI in auto mode, 2026-11-08 · about a place in the Kingdom's ca
 _Made up by the AI in auto mode, 2026-11-08 · about a piece of Stoutwell's or the Kingdom's history._
 
 - Murrow’s research into the Rift Compass uncovered a forgotten connection between Stoutwell and a region known only as “Brackwood Fringe,” a place riddled with unusually dense fog and monstrous creatures that occasionally bleed through from other worlds – specifically, Xan’s Wildshape.
+
+### Murrow’s Echo (Pitch)
+
+<!-- review-key: rest:idea-mw7ckx1l -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers' relics and the story they tell about it._
+
+- Murrow, the artificer, isn’t just seeking other artificers with his Seeker’s Lodestone; he's subtly trying to influence events around Stoutwell, using carefully placed “discoveries” to nudge the village towards solutions that benefit his research – specifically, regarding the origins of the Well’s blight and a method for reversing it.
