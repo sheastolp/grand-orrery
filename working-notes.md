@@ -1504,7 +1504,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster W
 - **How it works:** The Rootwraith’s movement is slow but relentless, powered by a subtle manipulation of the surrounding root systems. It can move silently through dense undergrowth, almost as if becoming part of the forest itself. Its primary “attack” mechanism involves ensnaring victims using rapidly extending roots – these aren't aggressive; they simply bind and restrain until the person becomes too exhausted to free themselves. Importantly, it doesn't seem to actively *consume* anything beyond what it collects, instead meticulously arranging them - items collected appear to create a complex map that shifts frequently.  It has no apparent weaknesses other than intense heat or fire--which seems to slowly burn away its form, though quickly re-forms.
 - **Limits:** The Rootwraith's influence weakens significantly outside of the immediate
 
-### Silas’s Stone (Pitch)
+### Silas’s Stone (Your idea)
 
 <!-- review-key: rest:idea-mw8e23yr -->
 <!-- added by the AI -->
