@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T21:23:50.087Z",
+  "built": "2026-11-08T21:26:34.548Z",
   "branch": "review",
-  "commit": "b8d4803e909fccf985f4b25afef015feb184dace",
+  "commit": "5506f7243ece022c944e5e96e1b763d4273a3995",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10,7 +10,7 @@
     "item": 93,
     "place": 15,
     "creature": 16,
-    "lore": 30,
+    "lore": 31,
     "note": 186
   },
   "entities": [
@@ -326,6 +326,7 @@
         "lore-items-2",
         "lore-artificers-2",
         "lore-items-3",
+        "lore-magic-4",
         "universe-healers",
         "universe-water-and-the-dead-well",
         "universe-layout",
@@ -416,6 +417,7 @@
       },
       "mentioned_in": [
         "lore-people",
+        "lore-magic-4",
         "universe-burn-the-wellhouses-regular",
         "working-notes-give-xabs-character-a-joke-pot-of-greed-make-it-functi",
         "working-notes-village-roster-2",
@@ -5017,6 +5019,22 @@
         "featherhook",
         "truthglass",
         "timber"
+      ]
+    },
+    {
+      "id": "lore-magic-4",
+      "type": "lore",
+      "name": "MAGIC",
+      "text": "Elemental magic assists work, it doesn’t replace it. Types include wind, fire, earth, strength enhancement, detection. Everyday uses include mending things and loosening soil. Healing specialists are rare, exclusively human; Stoutwell has two. Artificers aren't healers but can heal, relying on natural healing or drawing other people’s magic nefariously. A fire user boiling water counts as super skilled. Everyone possesses mana that refills slowly, causing sickness if depleted. Fire opposes cold, so a low-mana fire user grows colder. Elves are most magical, then humans, then halflings. Objects hold mana but cannot make it. An item normally works only for its owner, a rare ability lets an item work without it. Wind users are rare and often human. Strength enhancement is common (Tobin uses it). GuildScribe’s guild hall keeps resonance stone devices to monitor fluctuations in mana signatures – primarily those originating from disturbances or monstrous activity within half a mile radius. These don’t actively detect monsters, registering unnatural shifts in energy correlating with their presence. Murrow and Burn maintain this system. The range is limited, reliant on ambient mana concentrations - the device struggles near saturated areas or shielded ones. It has no visual output, relying solely on tactile feedback and intuition. Prolonged operation drains Murrow’s personal mana reserves, making him colder and weaker.",
+      "order": 31,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 36
+      },
+      "mentions": [
+        "murrow",
+        "burn"
       ]
     },
     {
