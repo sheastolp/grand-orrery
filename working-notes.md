@@ -1530,7 +1530,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: 
 - **How it works:** Silas begins with a simple task: he sets up a network of Whisperwind watches, tiny mechanical birds that are set to fly out into the forest, spreading detection magic. Then, he uses his “Rook’s Vigil,” a ritual involving a complex pattern of hand gestures combined with slow, deliberate breaths which triggers a subtle amplification of his senses – allowing him to hear fainter sounds and perceive shifts in the air. Finally, at each hour after midnight, Silas will lay down a circle of bright white chalk around the clearing; if any creature steps inside or outside the chalk line, he immediately alerts the rest of the guard.
 - **Limits:** This is entirely reliant on Silas's skill and focus, as well as the functionality of the Whisperwinds, meaning its effectiveness can be compromised by weather, fatigue, or even a lapse in concentration. If a monster manages to move without triggering the watch then the vigilance has failed, and this failure is considered an almost
 
-### Monstradius’ Peculiar Pipe (Pitch)
+### Monstradius’ Peculiar Pipe (Your idea)
 
 <!-- review-key: rest:idea-mw8folpd -->
 <!-- added by the AI -->
