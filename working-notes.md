@@ -1114,7 +1114,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster W
 
 - The village guard utilizes a wind-sensitive bell system that warns them of approaching danger within the Monster Wood, relying heavily on a single, dedicated watcher.
 
-### Murrow’s Shard (Pitch)
+### Murrow’s Shard (Your idea)
 
 <!-- review-key: rest:idea-mw740tb7 -->
 <!-- added by the AI -->
