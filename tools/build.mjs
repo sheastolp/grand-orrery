@@ -278,7 +278,7 @@ const SOFT = Symbol("soft-id");
 
 /** Prose documents (universe.md, working-notes.md, midkemia.md): every section is a note.
  * Characters sent in from Wake in Verrowen also become people. */
-function proseParser({ world = null, defaultStatus = null } = {}) {
+export function proseParser({ world = null, defaultStatus = null } = {}) {
   return (text, file) => {
     const entities = [];
     const stem = file.replace(/\.md$/, "");
@@ -293,9 +293,64 @@ function proseParser({ world = null, defaultStatus = null } = {}) {
       e[SOFT] = true;
       entities.push(e);
       if (s.origin === "verrowen") entities.push(wakeCharacter(s, e, file));
+      else if (s.origin && isItemIdea(s)) entities.push(chatItem(s, e, file));
     }
     return { entities, problems: [] };
   };
+}
+
+// "Label: value" lines, bold or not, bulleted or not, as the chat writes
+// them up: "**Kind (Items & Inventions):** …", "Costs and Limits: …".
+function profileOf(body) {
+  const prof = {};
+  for (const line of body.split("\n")) {
+    const m = line.match(/^\s*(?:[-*]\s+)?\**([A-Z][A-Za-z'&() ]{1,40}?)\**:\**\s+(.+)$/);
+    if (m && !prof[fieldKey(m[1].replace(/\s*\(.*\)\s*$/, ""))]) prof[fieldKey(m[1].replace(/\s*\(.*\)\s*$/, ""))] = m[2].replace(/\*\*/g, "").trim();
+  }
+  return prof;
+}
+
+// An idea sent in from the chat, the Codex or auto mode that's a thing
+// people make, use or trade: the lore-keeper's "Items & inventions", auto
+// mode's item and peddlers' relic topics, or a write-up whose Kind says so.
+// Before 2026-11-07 these were all filed in working-notes.md, so the build
+// finds them there; newer ones are filed in resources.md as items already.
+function isItemIdea(s) {
+  const by = s.filed_from ? s.body.match(/^_[^_]*_$/m)?.[0] || "" : "";
+  if (/Items & inventions|magic item or tool|peddlers' relics/i.test(by)) return true;
+  const kind = profileOf(s.body).kind || "";
+  return /^(?:object|item|relic|tool|weapon|artifact)(?![a-z])/i.test(kind);
+}
+
+// What a chat write-up's labels mean on an item, as resources.md names them.
+const ITEM_LABELS = { what_it_is: "does", the_rule: "does", how_it_works: "made", costs_and_limits: "limits", limits: "limits", who: "made_by", where: "where", story: "story", the_details: "story", what_it_changes: "story" };
+
+// A thing from the chat, as an item, beside the note it was filed as.
+function chatItem(s, note, file) {
+  const prof = profileOf(s.body);
+  const name = (prof.name || s.title).replace(/\s*\([^)]*\)\s*$/, "").trim();
+  // Auto mode's "peddlers' relics" topic belongs on the stall's shelf.
+  const relic = /peddlers' relics/i.test(s.body.match(/^_[^_]*_$/m)?.[0] || "");
+  const fields = {};
+  for (const [k, v] of Object.entries({ ...prof, ...s.fields })) {
+    if (k === "name" || k === "kind" || !v) continue;
+    const to = ITEM_LABELS[k] || k;
+    if (!fields[to]) fields[to] = v;
+  }
+  const e = {
+    id: slug(name), type: "item", name, icon: relic ? "🏺" : "💡",
+    category: relic ? "Peddlers' wares" : "Sent in from the chat",
+    kind: relic ? "Relics" : { "lore-keeper": "From the lore-keeper", codex: "From the Codex", rest: "From auto mode" }[s.origin] || "Sent in",
+    origin: s.origin, status: s.status || "pitch",
+  };
+  if (prof.kind) e.fields = { kind: prof.kind, ...fields }; else if (Object.keys(fields).length) e.fields = fields;
+  if (s.review_key) e.review_key = s.review_key;
+  if (s.filed) e.filed = s.filed;
+  e.body = s.body;
+  e.notes = [note.id];
+  e.source = { file, line: s.line };
+  e[SOFT] = true;
+  return e;
 }
 
 // "Name: Silas Blackwood (not found out yet)" and the rest of a Wake in
@@ -451,7 +506,9 @@ export function build() {
     // A character from Wake in Verrowen who's since been written into the
     // roster is the same person: the roster's record gets the story note.
     const same = seen.get(e.id);
-    if (e.kind === "wake-character" && same?.type === "person" && !same[SOFT]) {
+    // Likewise an item from the chat that's since been written into
+    // resources.md: the resources.md entry gets the note.
+    if (((e.kind === "wake-character" && same?.type === "person") || (e.type === "item" && same?.type === "item")) && same && !same[SOFT]) {
       same.notes = [...(same.notes || []), ...e.notes];
       merged.add(e);
       continue;

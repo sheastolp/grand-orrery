@@ -1,7 +1,31 @@
 // node --test tools/
 import test from "node:test";
 import assert from "node:assert/strict";
-import { walkSections, parseBestiary, parseResources, parseLore, statsOf, build } from "./build.mjs";
+import { walkSections, parseBestiary, parseResources, parseLore, statsOf, build, proseParser } from "./build.mjs";
+
+test("an item idea sent in from the chat is an item too, beside its note", () => {
+  const md = [
+    "# Notes", "## From the lore-keeper", "",
+    "### Reinforced Gatehouse Beams (Your idea)", "", "<!-- review-key: lore-keeper:abc -->",
+    "_From a lore-keeper chat, 2026-11-08 · Items & inventions._", "",
+    "**Name:** Reinforced Gatehouse Beams", "", "**The Rule:** Iron-banded oak beams.", "", "**Costs and Limits:** Slow to make.", "",
+    "### A place (Your idea)", "", "_From a lore-keeper chat, 2026-11-08 · Regions & places._", "", "Name: Somewhere",
+    "## From rest mode", "",
+    "### Murrow's Offering (Pitch)", "", "_Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers' relics and the story they tell about it._", "",
+    "- **What it is:** A carved raven.",
+  ].join("\n");
+  const { entities } = proseParser({ world: "verrowen" })(md, "working-notes.md");
+  const items = entities.filter((e) => e.type === "item");
+  assert.deepEqual(items.map((e) => [e.id, e.status, e.category, e.kind]), [
+    ["reinforced-gatehouse-beams", "decided", "Sent in from the chat", "From the lore-keeper"],
+    ["murrows-offering", "pitch", "Peddlers' wares", "Relics"],
+  ]);
+  assert.equal(items[0].fields.does, "Iron-banded oak beams.");
+  assert.equal(items[0].fields.limits, "Slow to make.");
+  assert.equal(items[0].review_key, "lore-keeper:abc");
+  assert.deepEqual(items[0].notes, ["working-notes-reinforced-gatehouse-beams"]);
+  assert.equal(items[1].fields.does, "A carved raven.");
+});
 
 test("sections inherit their tag and know where the chat filed them", () => {
   const md = [
