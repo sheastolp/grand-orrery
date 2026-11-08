@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T23:37:49.270Z",
+  "built": "2026-11-08T23:39:26.740Z",
   "branch": "review",
-  "commit": "c44a73ccfc45a68e35249afbdc2949c512956d76",
+  "commit": "3a7412f8a37ed2288d3d59b94a501829d964ce14",
   "counts": {
     "person": 87,
     "role": 11,
@@ -3770,7 +3770,7 @@
       "type": "note",
       "name": "Whisperwind’s Toast",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw8h2mxm",
