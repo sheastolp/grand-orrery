@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "built": "2026-11-08T18:45:08.273Z",
+  "built": "2026-11-08T19:05:25.212Z",
   "branch": "main",
-  "commit": "6d87ff80647e03c9987a6a1c11718a102b34d821",
+  "commit": "d45e86f0879f54330e72a67d662be61aa134e3e5",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
     "item": 92,
-    "place": 7,
-    "creature": 9,
+    "place": 14,
+    "creature": 15,
     "lore": 30,
     "note": 182
   },
@@ -583,6 +583,9 @@
         "file": "roster.md",
         "line": 55
       },
+      "notes": [
+        "working-notes-marda-the-reformed-cutpurse"
+      ],
       "mentioned_in": [
         "universe-the-capital-peddlers",
         "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk",
@@ -1171,7 +1174,10 @@
       "source": {
         "file": "roster.md",
         "line": 93
-      }
+      },
+      "notes": [
+        "working-notes-give-xabs-character-a-joke-pot-of-greed-make-it-functi"
+      ]
     },
     {
       "id": "briarpike",
