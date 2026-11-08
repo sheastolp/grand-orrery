@@ -1484,3 +1484,16 @@ _Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's gui
 _Made up by the AI in auto mode, 2026-11-08 · about a person who lives in Stoutwell._
 
 - Silas Blackwood, a halfling clockmaker aged 68, lives amongst the slums south of Stoutwell’s center, where he crafts intricate timepieces – not for profit, but to meticulously track shifts in the wind and the position of the stars. He wants to understand why the village well dried up centuries ago, believing the answer lies hidden within the movements of celestial bodies. His greatest fear is that his obsessive work will ultimately reveal nothing, leaving him trapped in a cycle of fruitless observation. He maintains a wary friendship with Burn, the Wellhouse tavern regular, exchanging stories (and occasionally, spare gears) over tankards of stout ale.
+
+### The Silent Offering (Pitch)
+
+<!-- review-key: rest:idea-mw8a1ajg -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about a custom, saying, food or rule of daily life in Stoutwell._
+
+- **What it is:** Every evening at sunset, each household within Stoutwell places a single, unlit candle upon the Wellstone – a flat, grey stone marking the dried-up well’s center – accompanied by a whispered plea for protection against the monsters of the Monsterwood or the blight creeping outwards.
+- **Who:** It’s practiced by all residents of Stoutwell, with particular emphasis from the Elderhold and the Guard. Specifically, Hesketh Reeve oversees the ritual to ensure order and compliance.
+- **Where:** Directly beside the dried-up well in the village square.
+- **How it works:** The act itself requires no magic—it’s purely symbolic. However, because of the village’s limited mana reserves, placing the candles dramatically reduces available mana across the entire settlement that night. This weakens their defenses (the Wardbells won’t ring as reliably), makes them more vulnerable to Rootwraith attacks and lowers the effectiveness of any defensive spells cast during the coming darkness.  The Whispers are meant to send a collective message out into the world, hoping something will hear it.
+- **Limits:** The ritual's impact scales proportionally to the number of candles lit; more candles mean greater magical depletion. If everyone lights every candle, the effect becomes overwhelming - causing widespread dizziness and weakness among the villagers.
+- **Ties:** The tradition originates with Silas Blackwood, who was obsessed with protecting Stoutwell from the Blight but died before he could fully understand its origins – his family continues to enforce the ritual as an unspoken way to honor him and appease whatever forces might be responsible for the blight’s spread, while also subtly acknowledging their lack of control over events.
