@@ -1248,7 +1248,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's gui
 - **Limits:** The amplified effect lasts only a few seconds before fading completely. Overuse rapidly depletes the user's mana reserves. Furthermore, the Shard cannot *create* magic, merely focus and magnify what already exists. It doesn’t work on constructs created with mundane means (like Doric’s metalwork). Finally, if someone attempts to forcefully manipulate the shard without understanding its purpose, they risk a backlash - a surge of uncontrolled magical energy that can cause severe burns or temporary madness.
 - **Ties:**  The Shard’s creation dates back to a time when Murrow was attempting to replicate the effects of the Rift Compass. He discovered that certain mirrorstone formations resonated with ambient magical energies in ways he hadn
 
-### Murrow’s Shard (Pitch)
+### Murrow’s Shard (Your idea)
 
 <!-- review-key: rest:idea-mw77got8 -->
 <!-- added by the AI -->
