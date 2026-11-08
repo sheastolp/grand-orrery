@@ -1071,6 +1071,23 @@ In the world:
 
 The rain hammered down relentlessly as Tobin Ashby wrestled with his tracking staff through the thick undergrowth of the Brackwood Fringe. A chill clung to everything—the air, his damp leather armor, even the meagre fire he'd built. He was attempting to retrieve a rumored fragment of amber, said to hold echoes of ancient songs, for a wealthy merchant in the capital. Every rustle sent a shiver down his spine; Gloom Rats scuttled beneath fallen logs, their bioluminescent eyes reflecting the gloom, while the persistent fog made judging distances nearly impossible. Murrow’s notes warned against relying solely on sight – the landscape played tricks with light and shadow.
 
+### Gilded Spine of the Silent Archivist (Pitch)
+
+<!-- review-key: lore-keeper:344894e1-38e5-418c-88d4-a63fca3289c9 -->
+_From a lore-keeper chat, 2026-11-08 · Anything._
+
+Name: Gilded Spine of the Silent Archivist
+Kind: Object - Relic
+What it is: This intricate silver locket whispers fragments of betrayal whenever worn by someone who has betrayed another person, amplifying their guilt and suspicion.
+The Details: The Spine manifests as fleeting auditory hallucinations—not full conversations, but snippets of phrases laced with accusation (“You lied…”, “I knew…”). The volume increases proportionally to the wearer’s stress levels or proximity to individuals they distrust. Osric would experience fragmented thoughts concerning his role within the Elderhold, subtly questioning loyalties amongst his peers – he wouldn't be driven mad, but certainly frustrated and paranoid. Silas initially experiences vague unease before being drawn towards more defined whispers related to those around him. The whispers don't *reveal* concrete betrayals, just the potential for them, feeding a cycle of paranoia and investigation. Murrow hypothesizes that the item draws on ambient magical echoes of past transgressions – lingering ‘residue’ from significant lies and broken oaths.
+
+Clashes with canon (None)
+Open questions: (Suggested) Trigger mechanism specifics (how does it activate?), Precise effect range/intensity (how loud are the whispers?) , Source of the magic (where did this relic come from?). 
+
+In the world:
+
+Silas clutched the Gilded Spine tightly, the cool metal strangely comforting against his burning brow. He was sitting in the Wellhouse tavern, nursing a pint of Stoutwell ale - an attempt at calming the incessant murmurings within his mind. A snippet of voice drifted through the room - "He promised me safety...but left me exposed." It wasn’t directed at anyone specific; rather a generalized echo of broken trust swirling within his skull.  The other patrons barely noticed his frown, engrossed in their own conversations, oblivious to the spectral accusations warring beneath his awareness. He took another gulp of ale, hoping to drown out the voices, but they persisted, unsettling reminders of his fractured past and the unknown dangers ahead.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
