@@ -1229,3 +1229,16 @@ _Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster W
 _Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._
 
 - The Guard rotates through nightly shifts patrolling Whisperwind’s Watch, where a specific ritual performed under the light of the moon helps ward against creatures drawn by the village’s magical energy - specifically, the rooks that haunt Brackwood Fringe.
+
+### The Silent Offering (Pitch)
+
+<!-- review-key: rest:idea-mw7wrzrb -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about a custom, saying, food or rule of daily life in Stoutwell._
+
+- **What it is:** A daily ritual performed by the Wellhouse elves – placing a single, perfectly ripe wild blueberry onto the dried well before whispering a plea for continued prosperity and protection from the blight. It’s considered good luck, and if you catch them doing it, they will offer you a berry if you don’t interrupt.
+- **Who:** Primarily carried out by Endella, the oldest of the Wellhouse elves, though all three actively participate.
+- **Where:** Directly beside the dried well within Stoutwell's central gathering space – the area where the Elders meet.
+- **How it works:** Endella claims the berries appear on the bushes near the lake spontaneously each morning after a night of heavy dew, and she believes this is a gift from the spirits. She carefully selects one, stating that “the best offerings are simple.” As she places the berry, she whispers a short prayer—a mix of common gratitude and archaic phrases passed down through generations, focused on warding off misfortune and ensuring the village continues to thrive under the watchful eye of Whisperwind (the protective spirit associated with the Watch).  The offering is never taken away or touched afterward; it simply…disappears.
+- **Limits:** The effect is purely symbolic; there’s no evidence it actually influences events. If the berry disappears without being claimed, villagers might believe the spirits are displeased, causing minor anxieties. Too many people observing could disrupt the ritual, diminishing its power.
+- **Ties:** This practice connects directly to the Wellhouse elves' reverence for nature and their historical role as mediators between the community and the unseen forces of the world, reflecting Hesketh’s belief in ‘tradition’. It also ties into Murrow’s secretive study of Whisperwind - he has attempted several times over centuries to capture the essence of the wind spirit using his artificer skills but always fails – something Endella suspects.
