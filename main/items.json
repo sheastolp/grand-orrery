@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T17:00:03.735Z",
+  "built": "2026-11-08T17:03:51.312Z",
   "branch": "main",
-  "commit": "6a97a3aa8b7b6103232c6a467b7cb5786a8d22cf",
+  "commit": "1da0c93241c9349b5aefd5b152e7f0536965a593",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10,7 +10,7 @@
     "item": 90,
     "place": 7,
     "creature": 9,
-    "lore": 18,
+    "lore": 21,
     "note": 176
   },
   "entities": [
@@ -39,6 +39,7 @@
       "mentioned_in": [
         "lore-items",
         "lore-resources",
+        "lore-items-2",
         "universe-murrows-items",
         "working-notes-murrow-the-artificer",
         "working-notes-monstradius-items",
@@ -71,6 +72,7 @@
       "mentioned_in": [
         "lore-items",
         "lore-resources",
+        "lore-items-2",
         "universe-trades",
         "universe-doric",
         "universe-murrows-items",
@@ -135,6 +137,7 @@
       "mentioned_in": [
         "lore-items",
         "lore-resources",
+        "lore-items-2",
         "universe-murrows-items",
         "universe-beyond-the-village",
         "working-notes-monstradius-items",
@@ -167,6 +170,7 @@
       "kind": "Artificers' secrets",
       "mentioned_in": [
         "lore-items",
+        "lore-items-2",
         "universe-murrows-items",
         "working-notes-murrow-the-artificer",
         "working-notes-monstradius-items",
@@ -199,6 +203,7 @@
       "mentioned_in": [
         "lore-artificers",
         "lore-beyond",
+        "lore-artificers-2",
         "universe-the-seekers-lodestone",
         "working-notes-murrow-the-artificer",
         "working-notes-still-open-in-the-kingdom",
@@ -483,7 +488,8 @@
       "category": "Materials",
       "kind": "Wood",
       "mentioned_in": [
-        "lore-resources"
+        "lore-resources",
+        "lore-items-2"
       ]
     },
     {
@@ -554,6 +560,7 @@
       "kind": "Hides",
       "mentioned_in": [
         "lore-resources",
+        "lore-items-2",
         "universe-trades"
       ]
     },
