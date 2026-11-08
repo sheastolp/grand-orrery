@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "built": "2026-11-08T16:01:17.991Z",
+  "built": "2026-11-08T16:23:13.553Z",
   "branch": "review",
-  "commit": "040b6adbef847ff5cbef9b580cbc18824a0ed1f8",
+  "commit": "742aadf15db0f3e2710891ca01793d88dcf9adf5",
   "counts": {
-    "person": 73,
+    "person": 87,
     "role": 11,
-    "world": 2,
+    "world": 3,
     "item": 87,
     "place": 7,
     "creature": 9,
-    "lore": 61,
+    "lore": 18,
     "note": 176
   },
   "entities": [
@@ -68,9 +68,6 @@
       },
       "mentioned_in": [
         "lore-leadership",
-        "lore-people-2",
-        "lore-people-3",
-        "lore-people-4",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-silas-blackwood",
@@ -97,9 +94,6 @@
       },
       "mentioned_in": [
         "lore-leadership",
-        "lore-people-2",
-        "lore-people-3",
-        "lore-people-4",
         "universe-the-elders",
         "universe-the-scribe-the-peddlers-and-the-wandering-clerk",
         "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk",
@@ -127,9 +121,6 @@
       },
       "mentioned_in": [
         "lore-leadership",
-        "lore-people-2",
-        "lore-people-3",
-        "lore-people-4",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-village-roster-2",
@@ -155,7 +146,6 @@
       },
       "mentioned_in": [
         "lore-leadership",
-        "lore-people-2",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-village-roster-2",
@@ -181,7 +171,6 @@
       },
       "mentioned_in": [
         "lore-leadership",
-        "lore-people-2",
         "universe-the-elders",
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-village-roster-2"
@@ -206,15 +195,12 @@
       },
       "mentioned_in": [
         "lore-people",
-        "lore-people-2",
-        "lore-people-3",
-        "lore-people-4",
         "universe-tobin-ashby",
         "working-notes-the-character",
         "working-notes-trades-crafts",
         "working-notes-village-roster",
+        "working-notes-brackwood-fringe",
         "working-notes-northwind-harbour-surrounding-mountains",
-        "working-notes-brackwood-fringe-2",
         "working-notes-reinforced-gatehouse-beams",
         "working-notes-village-roster-2"
       ]
@@ -241,15 +227,6 @@
         "lore-resources",
         "lore-stoutwell",
         "lore-people",
-        "lore-items-2",
-        "lore-people-2",
-        "lore-items-3",
-        "lore-people-3",
-        "lore-items-4",
-        "lore-people-4",
-        "lore-items-5",
-        "lore-items-6",
-        "lore-races-6",
         "universe-maps",
         "universe-layout",
         "universe-trades",
@@ -291,9 +268,6 @@
       },
       "mentioned_in": [
         "lore-people",
-        "lore-people-2",
-        "lore-people-3",
-        "lore-people-4",
         "universe-hesketh-reeve-captain-of-the-guard",
         "universe-the-scribe-the-peddlers-and-the-wandering-clerk",
         "working-notes-the-guard-rotation",
@@ -331,18 +305,6 @@
         "lore-people",
         "lore-beyond",
         "lore-kingdom",
-        "lore-artificers-2",
-        "lore-items-2",
-        "lore-people-2",
-        "lore-items-3",
-        "lore-people-3",
-        "lore-items-4",
-        "lore-people-4",
-        "lore-items-5",
-        "lore-items-6",
-        "lore-artificers-3",
-        "lore-races-6",
-        "lore-artificers-4",
         "universe-healers",
         "universe-water-and-the-dead-well",
         "universe-layout",
@@ -369,10 +331,10 @@
         "working-notes-how-the-worlds-connect",
         "working-notes-how-he-ties-in",
         "working-notes-the-seekers-lodestone",
+        "working-notes-brackwood-fringe",
         "working-notes-chromatic-drake-xans-wildshape",
         "working-notes-northwind-harbour-surrounding-mountains",
         "working-notes-greyhaven",
-        "working-notes-brackwood-fringe-2",
         "working-notes-gilded-spine-of-the-silent-archivist",
         "working-notes-reinforced-gatehouse-beams",
         "working-notes-silas-blackwood",
@@ -424,7 +386,6 @@
       },
       "mentioned_in": [
         "lore-people",
-        "lore-people-2",
         "universe-burn-the-wellhouses-regular",
         "working-notes-village-roster-2",
         "working-notes-the-silent-offering"
@@ -991,20 +952,7 @@
       "source": {
         "file": "roster.md",
         "line": 85
-      },
-      "mentioned_in": [
-        "lore-people",
-        "lore-beyond",
-        "universe-murrow-the-artificer",
-        "universe-murrows-items",
-        "universe-guildscribes-adventurers",
-        "universe-veterans",
-        "working-notes-murrow-the-artificer",
-        "working-notes-constructed-items",
-        "midkemia-the-wilds-of-rylan-pirate-island",
-        "midkemia-the-carnival",
-        "midkemia-the-party"
-      ]
+      }
     },
     {
       "id": "momma-enya",
@@ -1320,11 +1268,7 @@
       "source": {
         "file": "roster.md",
         "line": 98
-      },
-      "mentioned_in": [
-        "universe-guildscribes-adventurers",
-        "universe-seasoned"
-      ]
+      }
     },
     {
       "id": "quack",
@@ -1389,10 +1333,7 @@
       "source": {
         "file": "roster.md",
         "line": 101
-      },
-      "mentioned_in": [
-        "universe-journeymen"
-      ]
+      }
     },
     {
       "id": "moonkettle",
@@ -1434,10 +1375,7 @@
       "source": {
         "file": "roster.md",
         "line": 103
-      },
-      "mentioned_in": [
-        "universe-novices"
-      ]
+      }
     },
     {
       "id": "cinderfoot",
@@ -1501,10 +1439,7 @@
       "source": {
         "file": "roster.md",
         "line": 106
-      },
-      "mentioned_in": [
-        "universe-novices"
-      ]
+      }
     },
     {
       "id": "conanski",
@@ -1569,10 +1504,7 @@
       "source": {
         "file": "roster.md",
         "line": 109
-      },
-      "mentioned_in": [
-        "universe-novices"
-      ]
+      }
     },
     {
       "id": "bramthistle",
@@ -1637,10 +1569,7 @@
       "source": {
         "file": "roster.md",
         "line": 112
-      },
-      "mentioned_in": [
-        "universe-novices"
-      ]
+      }
     },
     {
       "id": "hawkthistle",
@@ -1728,10 +1657,7 @@
       "source": {
         "file": "roster.md",
         "line": 116
-      },
-      "mentioned_in": [
-        "universe-novices"
-      ]
+      }
     },
     {
       "id": "x3zero",
@@ -1839,6 +1765,265 @@
       ]
     },
     {
+      "id": "belenos",
+      "type": "person",
+      "name": "Belenos",
+      "race": "Half-elf",
+      "sex": "male",
+      "age": 26,
+      "role": "Warlock of Lugh, from Aetherwyn",
+      "line": "Nobility raised among pirates and thieves in a port city, kind by upbringing. Can take the form of a blink dog. Spots Arandur's sticky fingers.",
+      "world": "midkemia",
+      "status": "dm-lore",
+      "source": {
+        "file": "roster.md",
+        "line": 135
+      },
+      "mentioned_in": [
+        "working-notes-at-the-table",
+        "midkemia-the-carnival",
+        "midkemia-off-the-map-the-northern-doorway",
+        "midkemia-rumors-and-gossip",
+        "midkemia-gods-and-powers",
+        "midkemia-aetherwyn-the-linked-world",
+        "midkemia-things-the-maze-gave-them",
+        "midkemia-the-party",
+        "midkemia-still-open"
+      ]
+    },
+    {
+      "id": "ulfgar-luttenheim",
+      "type": "person",
+      "name": "Ulfgar Luttenheim",
+      "race": "Dwarf",
+      "sex": "male",
+      "role": "Barbarian",
+      "line": "Wild magic and a natural affinity for stones.",
+      "world": "midkemia",
+      "status": "dm-lore",
+      "source": {
+        "file": "roster.md",
+        "line": 136
+      },
+      "mentioned_in": [
+        "midkemia-the-party"
+      ]
+    },
+    {
+      "id": "orla",
+      "type": "person",
+      "name": "Órla",
+      "race": "Elf",
+      "sex": "female",
+      "role": "Cleric",
+      "line": "The party's healer. Carries Lindwurm.",
+      "world": "midkemia",
+      "status": "dm-lore",
+      "source": {
+        "file": "roster.md",
+        "line": 137
+      }
+    },
+    {
+      "id": "theron",
+      "type": "person",
+      "name": "Theron",
+      "role": "Holy symbol, high Arcana",
+      "line": "Has enough Arcana to read magic items.",
+      "world": "midkemia",
+      "status": "dm-lore",
+      "source": {
+        "file": "roster.md",
+        "line": 138
+      },
+      "mentioned_in": [
+        "midkemia-the-party"
+      ]
+    },
+    {
+      "id": "kaelreth-graveborn",
+      "type": "person",
+      "name": "Kaelreth Graveborn",
+      "role": "Necromancer",
+      "line": "Casts illusions, rides Gravehoof, keeps a notebook. His room in the wagon is the one nobody wants to enter.",
+      "world": "midkemia",
+      "status": "dm-lore",
+      "source": {
+        "file": "roster.md",
+        "line": 139
+      },
+      "mentioned_in": [
+        "midkemia-the-party"
+      ]
+    },
+    {
+      "id": "sebastian",
+      "type": "person",
+      "name": "Sebastian",
+      "role": "Bard",
+      "line": "A full bard who leans on persuasion spells.",
+      "world": "midkemia",
+      "status": "dm-lore",
+      "source": {
+        "file": "roster.md",
+        "line": 140
+      },
+      "mentioned_in": [
+        "midkemia-the-party"
+      ]
+    },
+    {
+      "id": "styx",
+      "type": "person",
+      "name": "Styx",
+      "race": "Goblin",
+      "role": "Party member",
+      "line": "Based on the hero of the *Styx* stealth games.",
+      "world": "midkemia",
+      "status": "dm-lore",
+      "source": {
+        "file": "roster.md",
+        "line": 141
+      },
+      "mentioned_in": [
+        "midkemia-the-party"
+      ]
+    },
+    {
+      "id": "queen-taileflaith",
+      "type": "person",
+      "name": "Queen Taileflaith",
+      "race": "Unknown",
+      "sex": "female",
+      "role": "Dannonirn's missing ruler",
+      "line": "Took the throne very young. Also called Queen Tali. Her disappearance is the party's quest.",
+      "world": "midkemia",
+      "status": "dm-lore",
+      "source": {
+        "file": "roster.md",
+        "line": 142
+      },
+      "mentioned_in": [
+        "midkemia-the-quest",
+        "midkemia-still-open"
+      ]
+    },
+    {
+      "id": "king-pedgar",
+      "type": "person",
+      "name": "King Pedgar",
+      "race": "Unknown",
+      "sex": "male",
+      "role": "Dannonirn's new king, from Kegamosa",
+      "line": "Married the queen less than a year before she vanished. His power is still unstable.",
+      "world": "midkemia",
+      "status": "dm-lore",
+      "source": {
+        "file": "roster.md",
+        "line": 143
+      },
+      "mentioned_in": [
+        "midkemia-kegamosa",
+        "midkemia-the-quest"
+      ]
+    },
+    {
+      "id": "the-ringmaster",
+      "type": "person",
+      "name": "The Ringmaster",
+      "race": "Unknown",
+      "sex": "female",
+      "role": "Runs the carnival",
+      "line": "Carries a whip and is \"whatever she wants to be.\" Has a warlock pact with the fey.",
+      "world": "midkemia",
+      "status": "dm-lore",
+      "source": {
+        "file": "roster.md",
+        "line": 144
+      },
+      "mentioned_in": [
+        "midkemia-the-carnival"
+      ]
+    },
+    {
+      "id": "lugh",
+      "type": "person",
+      "name": "Lugh",
+      "race": "God",
+      "role": "Trickster and weather god",
+      "line": "Belenos's fey patron, and patron and friend of the pirate kingdom.",
+      "world": "midkemia",
+      "status": "dm-lore",
+      "source": {
+        "file": "roster.md",
+        "line": 145
+      },
+      "mentioned_in": [
+        "midkemia-the-wilds-of-rylan-pirate-island",
+        "midkemia-gods-and-powers",
+        "midkemia-aetherwyn-the-linked-world",
+        "midkemia-the-party"
+      ]
+    },
+    {
+      "id": "morrigan",
+      "type": "person",
+      "name": "Morrigan",
+      "race": "Goddess",
+      "sex": "female",
+      "role": "Goddess of magic and death",
+      "line": "Death's spouse. Blessed Bitterbridge against harmful fire.",
+      "world": "midkemia",
+      "status": "dm-lore",
+      "source": {
+        "file": "roster.md",
+        "line": 146
+      },
+      "mentioned_in": [
+        "working-notes-at-the-table",
+        "midkemia-bitterbridge",
+        "midkemia-gods-and-powers"
+      ]
+    },
+    {
+      "id": "mourgause",
+      "type": "person",
+      "name": "Mourgause",
+      "race": "Goddess",
+      "sex": "female",
+      "role": "Morrigan's sister, the witch of the world",
+      "line": "Cursed Bitterbridge's fruit bitter for five years.",
+      "world": "midkemia",
+      "status": "dm-lore",
+      "source": {
+        "file": "roster.md",
+        "line": 147
+      },
+      "mentioned_in": [
+        "midkemia-bitterbridge",
+        "midkemia-gods-and-powers"
+      ]
+    },
+    {
+      "id": "morgana",
+      "type": "person",
+      "name": "Morgana",
+      "race": "Goddess",
+      "sex": "female",
+      "role": "Morrigan's third sister",
+      "line": "Under her, crows and ravens turn on the people of Bitterbridge.",
+      "world": "midkemia",
+      "status": "dm-lore",
+      "source": {
+        "file": "roster.md",
+        "line": 148
+      },
+      "mentioned_in": [
+        "midkemia-bitterbridge",
+        "midkemia-gods-and-powers"
+      ]
+    },
+    {
       "id": "silas-blackwood",
       "type": "person",
       "name": "Silas Blackwood",
@@ -1861,7 +2046,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1120
+        "line": 1097
       }
     }
   ]
