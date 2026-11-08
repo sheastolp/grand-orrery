@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T17:19:15.082Z",
+  "built": "2026-11-08T17:30:54.431Z",
   "branch": "review",
-  "commit": "9e8992647ec2ab46797c4c0a2e1871383e5225f6",
+  "commit": "89b7bddf6daf96ee4251b2742beb1992bbc34e6d",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 7,
     "creature": 9,
     "lore": 21,
-    "note": 177
+    "note": 178
   },
   "entities": [
     {
@@ -349,7 +349,8 @@
         "working-notes-the-silent-well",
         "working-notes-murrows-secret",
         "working-notes-whisperwinds-watch-3",
-        "working-notes-monstradiuss-secret"
+        "working-notes-monstradiuss-secret",
+        "working-notes-the-hearthstones-hum"
       ]
     },
     {
@@ -2202,7 +2203,8 @@
         "working-notes-murrow-the-artificer",
         "working-notes-monstradius-items",
         "working-notes-constructed-items",
-        "working-notes-silas-blackwood"
+        "working-notes-silas-blackwood",
+        "working-notes-the-hearthstones-hum"
       ]
     },
     {
@@ -8386,6 +8388,28 @@
       "world": "verrowen",
       "mentions": [
         "murrow"
+      ]
+    },
+    {
+      "id": "working-notes-the-hearthstones-hum",
+      "type": "note",
+      "name": "The Hearthstone’s Hum",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw83yw0a",
+      "filed": "2026-11-08",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-08 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- Every evening at sunset, before the villagers settle down to supper, Murrow will sit by his hearthstone – a river stone he’d charged with fire – and quietly hum a tuneless melody. It’s said that if you listen closely, you can hear the faint thrumming of the stone, a tiny echo of the world’s connection, and sometimes, just sometimes, it helps calm a child's fears about the monsters lurking in the Monster Wood.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1334
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow",
+        "hearthstone"
       ]
     },
     {
