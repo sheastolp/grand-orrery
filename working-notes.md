@@ -1288,3 +1288,16 @@ _Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers'
 _Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._
 
 - The Guard maintains nightly patrols along the western wall using “Rook’s Vigil,” a specific shift pattern designed to maximize observation points and minimize gaps in coverage.
+
+### Monstradius’s Secret (Pitch)
+
+<!-- review-key: rest:idea-mw82dfsz -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's guild hall keeps, does or is known for._
+
+- **What it is:** The GuildScribe’s hall keeps a collection of unusual artifacts recovered from failed Rift expeditions – mostly worthless trinkets or monster parts - but amongst these items is a single, perfectly preserved chromatic drake egg, kept under lock and key within Murrow’s most secure chamber.
+- **Who:** Primarily Murrow himself, along with Silas Blackwood, the current Head Scribe, and a rotating team of junior scribes tasked with cataloging and guarding the collection.
+- **Where:** Deep within Murrow’s research building—a space accessed only via a magically reinforced door hidden behind a bookshelf in his shop—the egg rests inside a lead-lined case, constantly chilled by a low-level elemental ward to prevent premature hatching.
+- **How it works:** Murrow believes the egg holds a fragment of Xan’s wildshape magic, potentially a source for understanding and controlling similar abilities, though he acknowledges its immense instability. He uses detection magic daily on the egg and the case to maintain containment, layering protections against accidental activation – any attempt to breach the ward causes localized tremors and minor elemental surges. The chill temperature slows the growth process, allowing him to study the creature without immediate danger.
+- **Limits:** The egg's volatile nature means prolonged exposure to warmth or strong magical energy could trigger an explosive release; opening the case requires precise timing and a specific sequence of runes known only to Murrow, as even a slight misstep could unleash a torrent of chromatic drake essence.
+- **Ties:** This project stems from Murrow's secretive obsession with preventing another Rift disaster like the "Floating Men" incident where a structure was pulled through. Silas Blackwood discovered fragments of this expedition during a recent inventory, prompting a renewed focus on containing anomalous materials before they become dangerous again. It connects directly to Murrow’s reluctance to reveal details about his origins or past expeditions, hinting at a far more extensive history than anyone suspects.
