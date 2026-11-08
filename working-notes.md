@@ -1492,7 +1492,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about a small everyday magic item
 - **How it works:** The pipe doesn't produce smoke when lit with normal fuel (even charcoal). Instead, it draws upon the ambient mana present in an object nearby, condensing it into a visible haze that shimmers with rainbow colours. This haze isn’t truly "smoke," but rather refined mana, cool to the touch and faintly smelling of rain-soaked stone. When used carefully, this condensed mana can temporarily enhance simple tasks: speeding up woodcutting, improving the precision of hammering, or briefly strengthening a fragile structure – effects mirroring Doric’s Featherhooks, but far weaker. Each use drains a small amount of Mana Affinity from the user; if they don’t have any latent affinity, the drain manifests as increased dizziness and coldness. If the user has affinity, there will be a subtle warming sensation followed by exhaustion.
 - **Limits:** The pipe’s effectiveness is directly tied to the surrounding environment. In areas rich in natural mana (like near strong elemental sources), it can operate for several minutes at a time. However, in places devoid of magic - like inside the walls of Monstradius's building - it quickly becomes inert. Furthermore, prolonged use causes increasing fatigue and disorientation in Murrow. It can only perform its function on one object at
 
-### Whisperwind’s Vigil (Pitch)
+### Whisperwind’s Vigil (Your idea)
 
 <!-- review-key: rest:idea-mw8bkqlt -->
 <!-- added by the AI -->
