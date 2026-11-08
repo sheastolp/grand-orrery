@@ -1111,8 +1111,6 @@ _From a lore-keeper chat, 2026-11-08 · Items & inventions._
 
 **Open Questions:** (Suggested) - *“Does this significantly reduce the chance of a rift opening directly at the gate?”*
 
-
-
 In the world, the afternoon sun cast long shadows across the newly reinforced section of the Stoutwell Gatehouse as Tobin Ashby hammered a final rivet into place. The air still carried a faint scent of smoke – a subtle reminder of Murrow's careful work. A couple of grizzled guardsmen shifted uneasily, checking their shields, while Murrow adjusted his spectacles, meticulously examining the grain pattern of the oak for any signs of distress. The rhythmic clang of metal against metal mingled with the shouts of the slum workers hauling timber nearby, creating an oddly ordered scene amidst the rough-hewn village, solidifying the fortified frontier against the looming Monster Wood.
 
 ## From Wake in Verrowen
@@ -1293,16 +1291,3 @@ _Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster W
 _Made up by the AI in auto mode, 2026-11-08 · about a place in the Kingdom's capital or on the Kingdom's roads._
 
 - Rook’s Vigil takes place near the towering Brackwood Fringe mountains along the south wall of Stoutwell, where a particularly dense patch of twisted trees blocks most sunlight and strange whispers carried by the wind warn of something lurking within.
-
-### Brackwood’s Vigil (Pitch)
-
-<!-- review-key: rest:idea-mw7zwqsu -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-08 · about a piece of Stoutwell's or the Kingdom's history._
-
-- **What it is:** A centuries-old ritual performed by the Brackwood Fringe halflings guarding against incursions from the Monster Wood, utilizing subtle shifts in wind magic to detect approaching threats.
-- **Who:** Primarily conducted by Rook, an unusually perceptive halfling Guard member known for his quiet demeanor and unnerving stillness, alongside three other Brackwood Watch members – Silas Blackwood, a recently arrived peddler with unsettlingly accurate predictions, and two older, grizzled guards named Wren and Bramble. The watch is tasked with patrolling the western edge of Stoutwell near the Brackwood Fringe where the forest meets the village.
-- **Where:** Performed on a small, raised platform constructed of weathered ash wood directly adjacent to the west gate of Stoutwell, overlooking the transition zone between the cultivated fields and the encroaching Monster Wood. This area is known locally as “Rook’s Watch.”
-- **How it works:** Each night, precisely one hour before dusk, Rook and his team perform the vigil. They utilize their latent wind magic—a nearly undetectable manipulation of air currents—to create a "listening field" around the watch point.  This isn’t a dramatic display; instead, they focus on minute changes in airflow caused by creatures moving through the woods - a flicker of displaced leaves, a sudden drop in temperature, or even the faint rustle of branches carried on the breeze. They use Featherhooks (Doric's iron hooks fitted with wind patterns) strapped to their wrists to amplify these subtle sensations into tactile feedback, allowing them to ‘feel’ approaching movement. The ritual relies heavily on concentration and silence, minimizing any external interference.
-- **Limits:** The vigilance only detects *movement* – not necessarily the creature itself, nor its intentions. It struggles against areas of dense foliage, magically shielded zones, or larger beasts whose movements generate powerful gusts that overwhelm the halflings' control. Furthermore, excessive use drains their mana rapidly, leaving them vulnerable if interrupted. The effectiveness decreases drastically when there’s no wind.
-- **Ties:** The Brackwood Fringe halflings are descendants of those who first settled near Stoutwell centuries ago, initially tasked by Osric to
