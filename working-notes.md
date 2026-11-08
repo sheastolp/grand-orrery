@@ -1339,7 +1339,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about a custom, saying, food or r
 
 - Every evening at sunset, before the villagers settle down to supper, Murrow will sit by his hearthstone – a river stone he’d charged with fire – and quietly hum a tuneless melody. It’s said that if you listen closely, you can hear the faint thrumming of the stone, a tiny echo of the world’s connection, and sometimes, just sometimes, it helps calm a child's fears about the monsters lurking in the Monster Wood.
 
-### Murrow’s Quiet Watch (Pitch)
+### Murrow’s Quiet Watch (Your idea)
 
 <!-- review-key: rest:idea-mw84qd00 -->
 <!-- added by the AI -->
