@@ -1180,7 +1180,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about a piece of Stoutwell's or t
 - **Limits:**  The shard only reveals *traces* of past magic; it doesn’t show detailed spells or complex rituals. Its effective radius is limited, shrinking drastically when used extensively. It also cannot detect old magic that’s long decayed—the residue fades over centuries. Furthermore, attempting to force its use without an attuned mind results in painful feedback and disorientation.
 - **Ties:** This discovery reinforces Murrow's suspicion that the Blight wasn
 
-### Murrow’s Shard (Pitch)
+### Murrow’s Shard (Your idea)
 
 <!-- review-key: rest:idea-mw74vl26 -->
 <!-- added by the AI -->
