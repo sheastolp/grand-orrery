@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T21:03:53.059Z",
+  "built": "2026-11-08T21:22:18.583Z",
   "branch": "review",
-  "commit": "fa525a643ebf2136501b3f009a3772feb52f7989",
+  "commit": "37ad5d43223a7bd4689e6316def4faa6a595fc67",
   "counts": {
     "person": 87,
     "role": 11,
@@ -9166,7 +9166,7 @@
       "type": "note",
       "name": "Monstradius’s Quiet Watch",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw88hy6d",
