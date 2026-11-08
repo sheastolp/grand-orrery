@@ -1,0 +1,1854 @@
+{
+  "schema": 1,
+  "built": "2026-11-08T16:01:17.991Z",
+  "branch": "review",
+  "commit": "040b6adbef847ff5cbef9b580cbc18824a0ed1f8",
+  "counts": {
+    "person": 73,
+    "role": 11,
+    "world": 2,
+    "item": 87,
+    "place": 7,
+    "creature": 9,
+    "lore": 61,
+    "note": 176
+  },
+  "entities": [
+    {
+      "id": "hearthstone",
+      "type": "item",
+      "name": "Hearthstone",
+      "status": "decided",
+      "fields": {
+        "where": "Crafted and sold at Monstradius and Murrow's workshop in Stoutwell.",
+        "does": "Keeps a stove warm through the night without new wood.",
+        "made": "A fire user charges a smooth river stone in Murrow's shop. Murrow sets the charge so it releases slowly instead of all at once.",
+        "limits": "It provides warmth for one night before requiring re-charging and embers. It warms the fire but doesn't replace it. Rare and pricey.",
+        "rules": "Magic needs something to work with, and objects hold magic but don't make it.",
+        "made_by": "Murrow",
+        "also_called": "Hearthstones"
+      },
+      "body": "- **Where:** Crafted and sold at Monstradius and Murrow's workshop in Stoutwell.\n- **Does:** Keeps a stove warm through the night without new wood.\n- **Made:** A fire user charges a smooth river stone in Murrow's shop. Murrow sets the charge so it releases slowly instead of all at once.\n- **Limits:** It provides warmth for one night before requiring re-charging and embers. It warms the fire but doesn't replace it. Rare and pricey.\n- **Rules:** Magic needs something to work with, and objects hold magic but don't make it.\n- **Made by:** Murrow\n- **Also called:** Hearthstones",
+      "source": {
+        "file": "resources.md",
+        "line": 31
+      },
+      "icon": "🔥",
+      "category": "Enchanted items",
+      "kind": "Charged stones",
+      "mentioned_in": [
+        "lore-items",
+        "lore-resources",
+        "lore-items-2",
+        "lore-items-3",
+        "lore-items-4",
+        "lore-items-5",
+        "lore-items-6",
+        "lore-races-6",
+        "universe-murrows-items",
+        "working-notes-murrow-the-artificer",
+        "working-notes-monstradius-items",
+        "working-notes-constructed-items",
+        "working-notes-silas-blackwood"
+      ]
+    },
+    {
+      "id": "featherhook",
+      "type": "item",
+      "name": "Featherhook",
+      "status": "decided",
+      "fields": {
+        "where": "Forged at Doric's smithy and imprinted at Monstradius; used on the dead-tree runs at the edge of the Monster Wood.",
+        "does": "Cuts a log's weight about in half while it's being dragged.",
+        "made": "Iron hooks forged by Doric, then imprinted by Murrow with a wind pattern.",
+        "limits": "It draws on the latent wind in whoever holds it, so it works better for humans than halflings. Holding it for too long leaves you winded.",
+        "rules": "Latent magic, attunement, and the personal well.",
+        "made_by": "Doric, Murrow",
+        "also_called": "Featherhooks"
+      },
+      "body": "- **Where:** Forged at Doric's smithy and imprinted at Monstradius; used on the dead-tree runs at the edge of the Monster Wood.\n- **Does:** Cuts a log's weight about in half while it's being dragged.\n- **Made:** Iron hooks forged by Doric, then imprinted by Murrow with a wind pattern.\n- **Limits:** It draws on the latent wind in whoever holds it, so it works better for humans than halflings. Holding it for too long leaves you winded.\n- **Rules:** Latent magic, attunement, and the personal well.\n- **Made by:** Doric, Murrow\n- **Also called:** Featherhooks",
+      "source": {
+        "file": "resources.md",
+        "line": 43
+      },
+      "icon": "🪝",
+      "category": "Enchanted items",
+      "kind": "Hauling tools",
+      "mentioned_in": [
+        "lore-items",
+        "lore-resources",
+        "lore-items-2",
+        "lore-items-3",
+        "lore-items-4",
+        "lore-items-5",
+        "lore-items-6",
+        "lore-races-6",
+        "universe-trades",
+        "universe-doric",
+        "universe-murrows-items",
+        "working-notes-trades-crafts",
+        "working-notes-murrow-the-artificer",
+        "working-notes-monstradius-items",
+        "working-notes-constructed-items",
+        "working-notes-brackwood-fringe",
+        "working-notes-brackwood-fringe-2"
+      ]
+    },
+    {
+      "id": "wardbell",
+      "type": "item",
+      "name": "Wardbell",
+      "status": "decided",
+      "fields": {
+        "where": "On Stoutwell's walls, facing the Monster Wood.",
+        "does": "Rings by itself when something large comes out of the Monster Wood.",
+        "made": "A detection user's sense is set into the bell's metal and pointed toward the wood.",
+        "limits": "It needs a detection user to refresh it every few weeks. It can't tell goblins from trolls, only big from small.",
+        "rules": "Objects run dry, and magic stays limited.",
+        "made_by": "Murrow",
+        "also_called": "Wardbells"
+      },
+      "body": "- **Where:** On Stoutwell's walls, facing the Monster Wood.\n- **Does:** Rings by itself when something large comes out of the Monster Wood.\n- **Made:** A detection user's sense is set into the bell's metal and pointed toward the wood.\n- **Limits:** It needs a detection user to refresh it every few weeks. It can't tell goblins from trolls, only big from small.\n- **Rules:** Objects run dry, and magic stays limited.\n- **Made by:** Murrow\n- **Also called:** Wardbells",
+      "source": {
+        "file": "resources.md",
+        "line": 55
+      },
+      "icon": "🔔",
+      "category": "Enchanted items",
+      "kind": "Wards",
+      "mentioned_in": [
+        "lore-items",
+        "universe-murrows-items",
+        "working-notes-monstradius-items",
+        "working-notes-constructed-items",
+        "working-notes-rooks-watch"
+      ]
+    },
+    {
+      "id": "truthglass",
+      "type": "item",
+      "name": "Truthglass",
+      "status": "decided",
+      "fields": {
+        "where": "Monstradius, Murrow's shop.",
+        "does": "Shows whether a coin, seal or signed paper is real.",
+        "made": "A rare piece of clear quartz, charged with detection magic.",
+        "limits": "It only answers real or fake. It can't tell you who forged something or why.",
+        "story": "It's dangerous for anyone skimming the guard tithe, or for a crooked tax representative.",
+        "made_by": "Murrow"
+      },
+      "body": "- **Where:** Monstradius, Murrow's shop.\n- **Does:** Shows whether a coin, seal or signed paper is real.\n- **Made:** A rare piece of clear quartz, charged with detection magic.\n- **Limits:** It only answers real or fake. It can't tell you who forged something or why.\n- **Story:** It's dangerous for anyone skimming the guard tithe, or for a crooked tax representative.\n- **Made by:** Murrow",
+      "source": {
+        "file": "resources.md",
+        "line": 67
+      },
+      "icon": "🔍",
+      "category": "Enchanted items",
+      "kind": "Lenses",
+      "mentioned_in": [
+        "lore-items",
+        "lore-resources",
+        "lore-items-2",
+        "lore-items-3",
+        "lore-items-4",
+        "lore-items-5",
+        "lore-items-6",
+        "lore-races-6",
+        "universe-murrows-items",
+        "universe-beyond-the-village",
+        "working-notes-monstradius-items",
+        "working-notes-constructed-items",
+        "working-notes-highwrit",
+        "working-notes-chromatic-drake-xans-wildshape"
+      ]
+    },
+    {
+      "id": "rift-compass",
+      "type": "item",
+      "name": "Rift compass",
+      "status": "decided",
+      "fields": {
+        "note": "Murrow's secret project",
+        "where": "Monstradius, kept secret.",
+        "does": "Indicates locations where the boundaries between dimensions are weak.",
+        "made": "Unknown, even to Murrow. It may use a kind of magic nobody in the village has.",
+        "limits": "About 80% complete, and still a secret.",
+        "story": "It ties the village to Arandur, the rifts, and the wider universe.",
+        "made_by": "Murrow"
+      },
+      "body": "- **Note:** Murrow's secret project\n- **Where:** Monstradius, kept secret.\n- **Does:** Indicates locations where the boundaries between dimensions are weak.\n- **Made:** Unknown, even to Murrow. It may use a kind of magic nobody in the village has.\n- **Limits:** About 80% complete, and still a secret.\n- **Story:** It ties the village to Arandur, the rifts, and the wider universe.\n- **Made by:** Murrow",
+      "source": {
+        "file": "resources.md",
+        "line": 78
+      },
+      "icon": "🧭",
+      "category": "Enchanted items",
+      "kind": "Artificers' secrets",
+      "mentioned_in": [
+        "lore-items",
+        "universe-murrows-items",
+        "working-notes-murrow-the-artificer",
+        "working-notes-monstradius-items",
+        "working-notes-constructed-items",
+        "working-notes-how-the-worlds-connect"
+      ]
+    },
+    {
+      "id": "seekers-lodestone",
+      "type": "item",
+      "name": "Seeker's Lodestone",
+      "status": "decided",
+      "fields": {
+        "note": "Glumtom's secret",
+        "where": "With Glumtom, in Glumtom's workshop in the Kingdom's capital.",
+        "does": "A beam of energy emanates from it, directing towards other artificers.",
+        "made": "A perfectly round, flat disc of mirrorstone, shaped by magic and drawn by a blend of many mana types.",
+        "limits": "It only finds artificers. Glumtom could find Murrow with it, but he isn't looking, and Murrow doesn't know it exists.",
+        "made_by": "Glumtom",
+        "also_called": "Lodestone"
+      },
+      "body": "- **Note:** Glumtom's secret\n- **Where:** With Glumtom, in Glumtom's workshop in the Kingdom's capital.\n- **Does:** A beam of energy emanates from it, directing towards other artificers.\n- **Made:** A perfectly round, flat disc of mirrorstone, shaped by magic and drawn by a blend of many mana types.\n- **Limits:** It only finds artificers. Glumtom could find Murrow with it, but he isn't looking, and Murrow doesn't know it exists.\n- **Made by:** Glumtom\n- **Also called:** Lodestone",
+      "source": {
+        "file": "resources.md",
+        "line": 88
+      },
+      "icon": "🪞",
+      "category": "Enchanted items",
+      "kind": "Artificers' secrets",
+      "mentioned_in": [
+        "lore-artificers",
+        "lore-beyond",
+        "lore-artificers-2",
+        "lore-artificers-3",
+        "universe-the-seekers-lodestone",
+        "working-notes-murrow-the-artificer",
+        "working-notes-still-open-in-the-kingdom",
+        "working-notes-how-he-ties-in",
+        "working-notes-the-seekers-lodestone",
+        "working-notes-murrows-secret"
+      ]
+    },
+    {
+      "id": "lasting-hiding-charm",
+      "type": "item",
+      "name": "Lasting hiding charm",
+      "status": "decided",
+      "fields": {
+        "note": "Murrow's research, not made yet",
+        "where": "Murrow's research, at Monstradius.",
+        "does": "Would store Murrow’s time-limited Nondetection spell, preventing its immediate expiration.",
+        "made": "Not yet. The *Nondetection*-style spell he casts himself only lasts so long, and he's working out how to put it into an item.",
+        "limits": "Until it's finished, nothing hides him from the Seeker's Lodestone for long.",
+        "made_by": "Murrow"
+      },
+      "body": "- **Note:** Murrow's research, not made yet\n- **Where:** Murrow's research, at Monstradius.\n- **Does:** Would store Murrow’s time-limited Nondetection spell, preventing its immediate expiration.\n- **Made:** Not yet. The *Nondetection*-style spell he casts himself only lasts so long, and he's working out how to put it into an item.\n- **Limits:** Until it's finished, nothing hides him from the Seeker's Lodestone for long.\n- **Made by:** Murrow",
+      "source": {
+        "file": "resources.md",
+        "line": 98
+      },
+      "icon": "🌫️",
+      "category": "Enchanted items",
+      "kind": "Artificers' secrets"
+    },
+    {
+      "id": "murrows-shard",
+      "type": "item",
+      "name": "Murrow's Shard",
+      "status": "decided",
+      "fields": {
+        "note": "Murrow's own tool, combined from six auto mode ideas",
+        "where": "Monstradius. Murrow keeps it on him in his coat pocket while he works, and locks it in a warded alcove in the workshop wall at night.",
+        "does": "Senses traces of magic. Held near a person, tool or place, it pulses warm and faintly lights up, showing thin, coloured \"threads\" where mana has been used recently: what kind and how strong, never who. Murrow uses it to diagnose broken enchanted items, spot anyone copying an artificer's work, and check whether someone is quietly drawing on mana. Held close to a spell as it's cast, it can briefly amplify it (a gust reaches twice as far, a healer's touch runs stronger) for a few seconds.",
+        "made": "A smooth, robin's-egg-sized shard of mirrorstone, etched with fine silver lines. It was part of an unfinished Rift compass belonging to Silas Brightstone, the travelling artificer Murrow apprenticed under long ago. Silas vanished while working on it near the Ashen Reach when a small rift tore open; the surge overloaded the mirrorstone and left this shard behind, and Murrow salvaged it.",
+        "limits": "Uses the holder's own mana, never stored mana, and it can't be charged. Range is about 10 feet, up to 30 at most, shrinking with heavy use. It only shows active or recent magic: old, faded magic and steady wards barely register, and strong elemental or divine magic drowns it out. Amplifying lasts seconds and costs about a full day's exertion. Overuse brings dizziness, chills (the shard turns painfully cold as the holder runs low), headaches, gaps in memory and brief \"echoes\" of other artificers' thoughts. Forcing it without an attuned mind causes painful backlash. Elves and those attuned to elemental magic find it easier to use.",
+        "story": "It's the heart of Murrow's study of rifts and of the Rift compass, and of his hope to store mana in objects. He believes it holds an echo of the rift that made it, and that it might one day open small, controlled rifts, though it never has. Doric is the only one allowed to examine it, and has tried and failed to copy it. Clementine Rook has been shown it a few times under strict supervision. Murrow won't say what it does.",
+        "made_by": "Murrow",
+        "also_called": "the Shard, Murrow's mirrorstone shard"
+      },
+      "body": "- **Note:** Murrow's own tool, combined from six auto mode ideas\n- **Where:** Monstradius. Murrow keeps it on him in his coat pocket while he works, and locks it in a warded alcove in the workshop wall at night.\n- **Does:** Senses traces of magic. Held near a person, tool or place, it pulses warm and faintly lights up, showing thin, coloured \"threads\" where mana has been used recently: what kind and how strong, never who. Murrow uses it to diagnose broken enchanted items, spot anyone copying an artificer's work, and check whether someone is quietly drawing on mana. Held close to a spell as it's cast, it can briefly amplify it (a gust reaches twice as far, a healer's touch runs stronger) for a few seconds.\n- **Made:** A smooth, robin's-egg-sized shard of mirrorstone, etched with fine silver lines. It was part of an unfinished Rift compass belonging to Silas Brightstone, the travelling artificer Murrow apprenticed under long ago. Silas vanished while working on it near the Ashen Reach when a small rift tore open; the surge overloaded the mirrorstone and left this shard behind, and Murrow salvaged it.\n- **Limits:** Uses the holder's own mana, never stored mana, and it can't be charged. Range is about 10 feet, up to 30 at most, shrinking with heavy use. It only shows active or recent magic: old, faded magic and steady wards barely register, and strong elemental or divine magic drowns it out. Amplifying lasts seconds and costs about a full day's exertion. Overuse brings dizziness, chills (the shard turns painfully cold as the holder runs low), headaches, gaps in memory and brief \"echoes\" of other artificers' thoughts. Forcing it without an attuned mind causes painful backlash. Elves and those attuned to elemental magic find it easier to use.\n- **Story:** It's the heart of Murrow's study of rifts and of the Rift compass, and of his hope to store mana in objects. He believes it holds an echo of the rift that made it, and that it might one day open small, controlled rifts, though it never has. Doric is the only one allowed to examine it, and has tried and failed to copy it. Clementine Rook has been shown it a few times under strict supervision. Murrow won't say what it does.\n- **Made by:** Murrow\n- **Also called:** the Shard, Murrow's mirrorstone shard",
+      "source": {
+        "file": "resources.md",
+        "line": 107
+      },
+      "icon": "🔹",
+      "category": "Enchanted items",
+      "kind": "Artificers' secrets"
+    },
+    {
+      "id": "artificers-mark",
+      "type": "item",
+      "name": "Artificer's mark",
+      "status": "decided",
+      "fields": {
+        "where": "On enchanted items made in the Kingdom; the register it answers to is kept in the Rolls House.",
+        "does": "The identifying symbol an artificer inscribes onto any magically enhanced item created within the Kingdom.",
+        "rules": "Every artificer the Kingdom finds goes into the register of artificers and is put to work, the way Glumtom was.",
+        "limits": "Unmarked items aren't illegal to own, but they make people ask who made them. Nothing from Monstradius carries one.",
+        "story": "Murrow's goods are a quiet risk if they ever reach the capital."
+      },
+      "body": "- **Where:** On enchanted items made in the Kingdom; the register it answers to is kept in the Rolls House.\n- **Does:** The identifying symbol an artificer inscribes onto any magically enhanced item created within the Kingdom.\n- **Rules:** Every artificer the Kingdom finds goes into the register of artificers and is put to work, the way Glumtom was.\n- **Limits:** Unmarked items aren't illegal to own, but they make people ask who made them. Nothing from Monstradius carries one.\n- **Story:** Murrow's goods are a quiet risk if they ever reach the capital.",
+      "source": {
+        "file": "resources.md",
+        "line": 120
+      },
+      "icon": "🔏",
+      "category": "Enchanted items",
+      "kind": "Marks"
+    },
+    {
+      "id": "embercrown",
+      "type": "item",
+      "name": "Embercrown",
+      "status": "decided",
+      "fields": {
+        "note": "From a lore-keeper chat, 2026-11-06",
+        "does": "A delicate metal crown set with gems that glow like embers, worn by the Kingdom's royals at official events in the capital. Worn outside formal occasions, it stirs whispers of court gossip and intrigue around the wearer.",
+        "made": "Needs rare materials to craft. The ember glow is a fire user's mana stored in the gems, so like every enchanted item it runs dry and has to be charged again.",
+        "limits": "Royals only, and only for ceremonies. The edge of the realm never sees it, and most of the capital only ever sees the Crown's banner.",
+        "story": "Raises how much influence and authority people see in the wearer. Who charges it is a question for the register of artificers. Open question: where is it kept when it isn't worn? The Crown's seat beside the Rolls House is the obvious guess."
+      },
+      "body": "- **Note:** From a lore-keeper chat, 2026-11-06\n- **Does:** A delicate metal crown set with gems that glow like embers, worn by the Kingdom's royals at official events in the capital. Worn outside formal occasions, it stirs whispers of court gossip and intrigue around the wearer.\n- **Made:** Needs rare materials to craft. The ember glow is a fire user's mana stored in the gems, so like every enchanted item it runs dry and has to be charged again.\n- **Limits:** Royals only, and only for ceremonies. The edge of the realm never sees it, and most of the capital only ever sees the Crown's banner.\n- **Story:** Raises how much influence and authority people see in the wearer. Who charges it is a question for the register of artificers. Open question: where is it kept when it isn't worn? The Crown's seat beside the Rolls House is the obvious guess.",
+      "source": {
+        "file": "resources.md",
+        "line": 130
+      },
+      "icon": "👑",
+      "category": "Enchanted items",
+      "kind": "Regalia"
+    },
+    {
+      "id": "conduit-staff",
+      "type": "item",
+      "name": "Conduit Staff",
+      "status": "decided",
+      "fields": {
+        "note": "From a lore-keeper chat about wizard staffs",
+        "where": "Made at Monstradius.",
+        "does": "An amplification focus. Channels the ambient mana around the user into focused blasts or shields. Favoured by fire users.",
+        "made": "A polished obsidian core wound with silver thread and fitted with a focusing lens. Murrow oversees its making, and it takes a lot of work.",
+        "limits": "Drains mana quickly if overused, and grows noticeably colder as it runs low. Obsidian is brittle.",
+        "story": "Still open: whether Doric could reinforce the core with strands of mithril, which would be risky but powerful.",
+        "made_by": "Murrow"
+      },
+      "body": "- **Note:** From a lore-keeper chat about wizard staffs\n- **Where:** Made at Monstradius.\n- **Does:** An amplification focus. Channels the ambient mana around the user into focused blasts or shields. Favoured by fire users.\n- **Made:** A polished obsidian core wound with silver thread and fitted with a focusing lens. Murrow oversees its making, and it takes a lot of work.\n- **Limits:** Drains mana quickly if overused, and grows noticeably colder as it runs low. Obsidian is brittle.\n- **Story:** Still open: whether Doric could reinforce the core with strands of mithril, which would be risky but powerful.\n- **Made by:** Murrow",
+      "source": {
+        "file": "resources.md",
+        "line": 140
+      },
+      "icon": "🔥",
+      "category": "Enchanted items",
+      "kind": "Staffs"
+    },
+    {
+      "id": "resonance-staff",
+      "type": "item",
+      "name": "Resonance Staff",
+      "status": "decided",
+      "fields": {
+        "note": "From a lore-keeper chat about wizard staffs",
+        "does": "A manipulation focus. Lets a skilled user subtly bend the magic around them, to dampen earth tremors or disrupt another spellcaster.",
+        "made": "Seasoned Ash wood from the Ashen Reach. Its cost depends mostly on Doric's skill in treating the wood against the weather.",
+        "limits": "Needs intense concentration, and risks amplifying out of control.",
+        "story": "Still open: whether working the ambient magic draws unwanted attention from the Monster Wood, maybe from a grove there known for attracting aberrant creatures.",
+        "made_by": "Doric"
+      },
+      "body": "- **Note:** From a lore-keeper chat about wizard staffs\n- **Does:** A manipulation focus. Lets a skilled user subtly bend the magic around them, to dampen earth tremors or disrupt another spellcaster.\n- **Made:** Seasoned Ash wood from the Ashen Reach. Its cost depends mostly on Doric's skill in treating the wood against the weather.\n- **Limits:** Needs intense concentration, and risks amplifying out of control.\n- **Story:** Still open: whether working the ambient magic draws unwanted attention from the Monster Wood, maybe from a grove there known for attracting aberrant creatures.\n- **Made by:** Doric",
+      "source": {
+        "file": "resources.md",
+        "line": 150
+      },
+      "icon": "🌿",
+      "category": "Enchanted items",
+      "kind": "Staffs"
+    },
+    {
+      "id": "echo-staff",
+      "type": "item",
+      "name": "Echo Staff",
+      "status": "decided",
+      "fields": {
+        "note": "From a lore-keeper chat about wizard staffs",
+        "where": "Used in the Monster Wood.",
+        "does": "A temporal conduit. Briefly replays past magical events in the Monster Wood as ghostly illusions, with some limited conjuring.",
+        "made": "Petrified dragonbone, activated by ritual.",
+        "limits": "Only works for someone who knows the Monster Wood's history and lore well.",
+        "story": "Still open: what triggers the replay beyond holding the staff. Murrow's notes hint at runes etched into the bone."
+      },
+      "body": "- **Note:** From a lore-keeper chat about wizard staffs\n- **Where:** Used in the Monster Wood.\n- **Does:** A temporal conduit. Briefly replays past magical events in the Monster Wood as ghostly illusions, with some limited conjuring.\n- **Made:** Petrified dragonbone, activated by ritual.\n- **Limits:** Only works for someone who knows the Monster Wood's history and lore well.\n- **Story:** Still open: what triggers the replay beyond holding the staff. Murrow's notes hint at runes etched into the bone.",
+      "source": {
+        "file": "resources.md",
+        "line": 159
+      },
+      "icon": "🦴",
+      "category": "Enchanted items",
+      "kind": "Staffs"
+    },
+    {
+      "id": "riverstone-charm",
+      "type": "item",
+      "name": "Riverstone Charm",
+      "status": "decided",
+      "fields": {
+        "where": "Found near the lake.",
+        "does": "A protective charm.",
+        "story": "Tied to the fishing settlement's secret passage."
+      },
+      "body": "- **Where:** Found near the lake.\n- **Does:** A protective charm.\n- **Story:** Tied to the fishing settlement's secret passage.",
+      "source": {
+        "file": "resources.md",
+        "line": 170
+      },
+      "icon": "🪨",
+      "category": "Enchanted items",
+      "kind": "Charms"
+    },
+    {
+      "id": "river-stone",
+      "type": "item",
+      "name": "River stone",
+      "status": "decided",
+      "fields": {
+        "does": "The smooth stones a fire user charges to make a Hearthstone.",
+        "made": "Gathered from the river."
+      },
+      "body": "- **Does:** The smooth stones a fire user charges to make a Hearthstone.\n- **Made:** Gathered from the river.",
+      "source": {
+        "file": "resources.md",
+        "line": 182
+      },
+      "icon": "🪨",
+      "category": "Materials",
+      "kind": "Stone & glass"
+    },
+    {
+      "id": "clear-quartz",
+      "type": "item",
+      "name": "Clear quartz",
+      "status": "decided",
+      "fields": {
+        "does": "The lens of a Truthglass.",
+        "limits": "Rare.",
+        "also_called": "quartz"
+      },
+      "body": "- **Does:** The lens of a Truthglass.\n- **Limits:** Rare.\n- **Also called:** quartz",
+      "source": {
+        "file": "resources.md",
+        "line": 187
+      },
+      "icon": "💎",
+      "category": "Materials",
+      "kind": "Stone & glass"
+    },
+    {
+      "id": "mirrorstone",
+      "type": "item",
+      "name": "Mirrorstone",
+      "status": "decided",
+      "fields": {
+        "does": "A rare black glass with a reflective surface. The Seeker's Lodestone is made from it.",
+        "limits": "Rare, and shaped by magic."
+      },
+      "body": "- **Does:** A rare black glass with a reflective surface. The Seeker's Lodestone is made from it.\n- **Limits:** Rare, and shaped by magic.",
+      "source": {
+        "file": "resources.md",
+        "line": 193
+      },
+      "icon": "⚫",
+      "category": "Materials",
+      "kind": "Stone & glass",
+      "mentioned_in": [
+        "working-notes-the-seekers-lodestone"
+      ]
+    },
+    {
+      "id": "iron",
+      "type": "item",
+      "name": "Iron",
+      "status": "decided",
+      "fields": {
+        "where": "Doric's smithy.",
+        "does": "What Doric forges, from the Featherhooks' hooks to the village's ornate smithing.",
+        "made_by": "Doric"
+      },
+      "body": "- **Where:** Doric's smithy.\n- **Does:** What Doric forges, from the Featherhooks' hooks to the village's ornate smithing.\n- **Made by:** Doric",
+      "source": {
+        "file": "resources.md",
+        "line": 200
+      },
+      "icon": "⚙️",
+      "category": "Materials",
+      "kind": "Metal",
+      "mentioned_in": [
+        "universe-murrows-items",
+        "working-notes-constructed-items",
+        "working-notes-reinforced-gatehouse-beams"
+      ]
+    },
+    {
+      "id": "timber",
+      "type": "item",
+      "name": "Timber",
+      "status": "decided",
+      "fields": {
+        "where": "Cut at the lumber mill on the river and stored in the Lumber yard by Stoutwell's east gate.",
+        "does": "Boards and beams for the village's wooden homes and construction.",
+        "made": "Dead-tree runs drag fallen trees back from the forest edge, with wind users lightening the load. The lumber mill on the river cuts them, and the lumber yard by the east gate stores them.",
+        "also_called": "lumber"
+      },
+      "body": "- **Where:** Cut at the lumber mill on the river and stored in the Lumber yard by Stoutwell's east gate.\n- **Does:** Boards and beams for the village's wooden homes and construction.\n- **Made:** Dead-tree runs drag fallen trees back from the forest edge, with wind users lightening the load. The lumber mill on the river cuts them, and the lumber yard by the east gate stores them.\n- **Also called:** lumber",
+      "source": {
+        "file": "resources.md",
+        "line": 208
+      },
+      "icon": "🪵",
+      "category": "Materials",
+      "kind": "Wood",
+      "mentioned_in": [
+        "lore-resources",
+        "lore-items-2",
+        "lore-items-3",
+        "lore-items-4",
+        "lore-items-5",
+        "lore-items-6",
+        "lore-races-6"
+      ]
+    },
+    {
+      "id": "ash-wood",
+      "type": "item",
+      "name": "Ash wood",
+      "status": "decided",
+      "fields": {
+        "where": "The Ashen Reach, south of Stoutwell.",
+        "does": "Dense, tough wood the woodworkers prize for tool handles, weapon hilts and arrow shafts.",
+        "made": "From the few short, twisted ash trees that grow on the Ashen Reach, the grey plain south of Stoutwell.",
+        "limits": "Nothing grows tall on the Reach, so it's too short for beams. The village's timber still comes from the dead-tree runs.",
+        "story": "Still open: whether the trees are what's left of a wood that grew there before the Reach turned grey, and who's allowed to cut them on the Guard's training grounds."
+      },
+      "body": "- **Where:** The Ashen Reach, south of Stoutwell.\n- **Does:** Dense, tough wood the woodworkers prize for tool handles, weapon hilts and arrow shafts.\n- **Made:** From the few short, twisted ash trees that grow on the Ashen Reach, the grey plain south of Stoutwell.\n- **Limits:** Nothing grows tall on the Reach, so it's too short for beams. The village's timber still comes from the dead-tree runs.\n- **Story:** Still open: whether the trees are what's left of a wood that grew there before the Reach turned grey, and who's allowed to cut them on the Guard's training grounds.",
+      "source": {
+        "file": "resources.md",
+        "line": 215
+      },
+      "icon": "🌳",
+      "category": "Materials",
+      "kind": "Wood",
+      "mentioned_in": [
+        "universe-trades",
+        "working-notes-ash-wood-from-the-ashen-reach"
+      ]
+    },
+    {
+      "id": "firewood",
+      "type": "item",
+      "name": "Firewood",
+      "status": "decided",
+      "fields": {
+        "where": "Dead trees near the edge of the Monster Wood.",
+        "does": "Fuel for the wood stoves that heat every home in Stoutwell, so it's constant work.",
+        "made": "One or two villagers with detection magic find dead trees near the forest edge, and a group drags them out with wind users lightening the load, under a Guard escort. Humans do about 70% of the chopping, halflings the rest.",
+        "also_called": "wood"
+      },
+      "body": "- **Where:** Dead trees near the edge of the Monster Wood.\n- **Does:** Fuel for the wood stoves that heat every home in Stoutwell, so it's constant work.\n- **Made:** One or two villagers with detection magic find dead trees near the forest edge, and a group drags them out with wind users lightening the load, under a Guard escort. Humans do about 70% of the chopping, halflings the rest.\n- **Also called:** wood",
+      "source": {
+        "file": "resources.md",
+        "line": 223
+      },
+      "icon": "🪓",
+      "category": "Materials",
+      "kind": "Wood",
+      "mentioned_in": [
+        "universe-groups-and-jobs",
+        "universe-firewood-and-daily-magic"
+      ]
+    },
+    {
+      "id": "leather",
+      "type": "item",
+      "name": "Leather",
+      "status": "decided",
+      "fields": {
+        "does": "Clothing.",
+        "made": "From the herders' cattle, worked at the tannery."
+      },
+      "body": "- **Does:** Clothing.\n- **Made:** From the herders' cattle, worked at the tannery.",
+      "source": {
+        "file": "resources.md",
+        "line": 232
+      },
+      "icon": "🐄",
+      "category": "Materials",
+      "kind": "Hides",
+      "mentioned_in": [
+        "lore-resources",
+        "lore-items-2",
+        "lore-items-3",
+        "lore-items-4",
+        "lore-items-5",
+        "lore-items-6",
+        "lore-races-6",
+        "universe-trades"
+      ]
+    },
+    {
+      "id": "hollowstag-antler",
+      "type": "item",
+      "name": "Hollowstag antler",
+      "status": "decided",
+      "fields": {
+        "where": "On the hollowstags of the deep woods, in the Monster Wood. None has been brought out.",
+        "does": "A hollow antler from a hollowstag, the stag of the deep woods nearly fifteen feet tall. It whistles when the beast runs.",
+        "limits": "Nobody has one. No company has yet brought GuildScribe proof of the deep woods' great beasts.",
+        "story": "The first company to bring one back to the hall would make its name, and fill a blank page in the guildscribes' bestiary."
+      },
+      "body": "- **Where:** On the hollowstags of the deep woods, in the Monster Wood. None has been brought out.\n- **Does:** A hollow antler from a hollowstag, the stag of the deep woods nearly fifteen feet tall. It whistles when the beast runs.\n- **Limits:** Nobody has one. No company has yet brought GuildScribe proof of the deep woods' great beasts.\n- **Story:** The first company to bring one back to the hall would make its name, and fill a blank page in the guildscribes' bestiary.",
+      "source": {
+        "file": "resources.md",
+        "line": 239
+      },
+      "icon": "🦴",
+      "category": "Materials",
+      "kind": "Beast parts"
+    },
+    {
+      "id": "smiths-hammer",
+      "type": "item",
+      "name": "Smith's hammer",
+      "status": "decided",
+      "fields": {
+        "where": "Doric's smithy.",
+        "does": "Hammering hot steel. Tobin uses a strength enhancement to hammer harder.",
+        "made_by": "Doric"
+      },
+      "body": "- **Where:** Doric's smithy.\n- **Does:** Hammering hot steel. Tobin uses a strength enhancement to hammer harder.\n- **Made by:** Doric",
+      "source": {
+        "file": "resources.md",
+        "line": 252
+      },
+      "icon": "🔨",
+      "category": "Tools",
+      "kind": "Smithing"
+    },
+    {
+      "id": "firing-tin",
+      "type": "item",
+      "name": "Firing Tin",
+      "status": "decided",
+      "fields": {
+        "note": "From a lore-keeper chat, 2026-11-06",
+        "where": "On Murrow's workbench at Monstradius.",
+        "does": "Starts a fire straight away, without embers.",
+        "made": "A tin filled with gunpowder sparks, lit by striking two metal pins together for a brief flame.",
+        "limits": "One light, then it needs refilling and upkeep.",
+        "story": "Murrow keeps one on his workbench, and the village would lean on it come winter."
+      },
+      "body": "- **Note:** From a lore-keeper chat, 2026-11-06\n- **Where:** On Murrow's workbench at Monstradius.\n- **Does:** Starts a fire straight away, without embers.\n- **Made:** A tin filled with gunpowder sparks, lit by striking two metal pins together for a brief flame.\n- **Limits:** One light, then it needs refilling and upkeep.\n- **Story:** Murrow keeps one on his workbench, and the village would lean on it come winter.",
+      "source": {
+        "file": "resources.md",
+        "line": 260
+      },
+      "icon": "🥫",
+      "category": "Tools",
+      "kind": "Fire-starting"
+    },
+    {
+      "id": "murrows-irrigation",
+      "type": "item",
+      "name": "Murrow's irrigation",
+      "status": "decided",
+      "fields": {
+        "where": "From the river into Stoutwell, to Murrow's research building in the NE district.",
+        "does": "Brings river water into Stoutwell, which ended the centuries of water runs to refill the dried well.",
+        "made": "Built recently by Murrow, out of his research, from the river to his research building in the NE district.",
+        "story": "More water could mean more ale for the first time in centuries. Who controls that is still open.",
+        "made_by": "Murrow"
+      },
+      "body": "- **Where:** From the river into Stoutwell, to Murrow's research building in the NE district.\n- **Does:** Brings river water into Stoutwell, which ended the centuries of water runs to refill the dried well.\n- **Made:** Built recently by Murrow, out of his research, from the river to his research building in the NE district.\n- **Story:** More water could mean more ale for the first time in centuries. Who controls that is still open.\n- **Made by:** Murrow",
+      "source": {
+        "file": "resources.md",
+        "line": 271
+      },
+      "icon": "🚰",
+      "category": "Tools",
+      "kind": "Water",
+      "mentioned_in": [
+        "lore-stoutwell",
+        "universe-layout",
+        "working-notes-water",
+        "working-notes-neighborhoods",
+        "working-notes-the-silent-well"
+      ]
+    },
+    {
+      "id": "guard-shield",
+      "type": "item",
+      "name": "Guard shield",
+      "status": "decided",
+      "fields": {
+        "where": "With the Guard on Stoutwell's walls, in the croplands and on gathering escorts.",
+        "does": "The big shields the halfling shield-bearers fight from behind, almost fully hidden.",
+        "also_called": "shields"
+      },
+      "body": "- **Where:** With the Guard on Stoutwell's walls, in the croplands and on gathering escorts.\n- **Does:** The big shields the halfling shield-bearers fight from behind, almost fully hidden.\n- **Also called:** shields",
+      "source": {
+        "file": "resources.md",
+        "line": 285
+      },
+      "icon": "🛡️",
+      "category": "Weapons & armor",
+      "kind": "Shields"
+    },
+    {
+      "id": "archers-bow",
+      "type": "item",
+      "name": "Archer's bow",
+      "status": "decided",
+      "fields": {
+        "where": "On Stoutwell's walls, and with the escorts of dead-tree runs.",
+        "does": "Carried by the human archers on Stoutwell's walls, and by the archer or two who escort dead-tree runs.",
+        "also_called": "archers, bows"
+      },
+      "body": "- **Where:** On Stoutwell's walls, and with the escorts of dead-tree runs.\n- **Does:** Carried by the human archers on Stoutwell's walls, and by the archer or two who escort dead-tree runs.\n- **Also called:** archers, bows",
+      "source": {
+        "file": "resources.md",
+        "line": 293
+      },
+      "icon": "🏹",
+      "category": "Weapons & armor",
+      "kind": "Bows"
+    },
+    {
+      "id": "flour",
+      "type": "item",
+      "name": "Flour",
+      "status": "decided",
+      "fields": {
+        "made": "The grain mill on the river grinds the harvest into flour."
+      },
+      "body": "- **Made:** The grain mill on the river grinds the harvest into flour.",
+      "source": {
+        "file": "resources.md",
+        "line": 303
+      },
+      "icon": "🌾",
+      "category": "Food & drink",
+      "kind": "Grain"
+    },
+    {
+      "id": "beef",
+      "type": "item",
+      "name": "Beef",
+      "status": "decided",
+      "fields": {
+        "made": "From the herders' cattle, which are raised for food and for leather. The Elders keep a couple of cows just to look at, and those aren't eaten."
+      },
+      "body": "- **Made:** From the herders' cattle, which are raised for food and for leather. The Elders keep a couple of cows just to look at, and those aren't eaten.",
+      "source": {
+        "file": "resources.md",
+        "line": 309
+      },
+      "icon": "🥩",
+      "category": "Food & drink",
+      "kind": "Meat"
+    },
+    {
+      "id": "the-lakes-catch",
+      "type": "item",
+      "name": "The lake's catch",
+      "status": "decided",
+      "fields": {
+        "where": "The fishing settlement on the lake's far shore.",
+        "made": "Caught by the small fishing settlement on the lake's far shore, which isn't part of the village but feeds it."
+      },
+      "body": "- **Where:** The fishing settlement on the lake's far shore.\n- **Made:** Caught by the small fishing settlement on the lake's far shore, which isn't part of the village but feeds it.",
+      "source": {
+        "file": "resources.md",
+        "line": 315
+      },
+      "icon": "🐟",
+      "category": "Food & drink",
+      "kind": "Fish"
+    },
+    {
+      "id": "red-capped-mushrooms",
+      "type": "item",
+      "name": "Red-capped mushrooms",
+      "status": "decided",
+      "fields": {
+        "where": "The edge of the Monster Wood. Burn eats them at the Wellhouse.",
+        "does": "Edible mushrooms the gatherers bring in from the forest edge. Burn swears they make a man grow. They don't. He eats them anyway.",
+        "made": "Foraged at the edge of the Monster Wood by the Gatherers, under Guard escort."
+      },
+      "body": "- **Where:** The edge of the Monster Wood. Burn eats them at the Wellhouse.\n- **Does:** Edible mushrooms the gatherers bring in from the forest edge. Burn swears they make a man grow. They don't. He eats them anyway.\n- **Made:** Foraged at the edge of the Monster Wood by the Gatherers, under Guard escort.",
+      "source": {
+        "file": "resources.md",
+        "line": 322
+      },
+      "icon": "🍄",
+      "category": "Food & drink",
+      "kind": "Forage"
+    },
+    {
+      "id": "stout-ale",
+      "type": "item",
+      "name": "Stout ale",
+      "status": "decided",
+      "fields": {
+        "where": "Served at the Wellhouse.",
+        "does": "What Stoutwell is known for, along with its ornate smithing.",
+        "story": "More water from Murrow's irrigation could mean more ale for the first time in centuries. Who controls that is still open.",
+        "also_called": "ale"
+      },
+      "body": "- **Where:** Served at the Wellhouse.\n- **Does:** What Stoutwell is known for, along with its ornate smithing.\n- **Story:** More water from Murrow's irrigation could mean more ale for the first time in centuries. Who controls that is still open.\n- **Also called:** ale",
+      "source": {
+        "file": "resources.md",
+        "line": 330
+      },
+      "icon": "🍺",
+      "category": "Food & drink",
+      "kind": "Drink"
+    },
+    {
+      "id": "gold-silver-and-copper",
+      "type": "item",
+      "name": "Gold, silver and copper",
+      "status": "decided",
+      "fields": {
+        "where": "Minted at the mint in the Kingdom's capital.",
+        "does": "What GuildScribe's bounty board pays in. Murrow takes coin or barter, on the same terms for everyone.",
+        "also_called": "coin, coins, copper"
+      },
+      "body": "- **Where:** Minted at the mint in the Kingdom's capital.\n- **Does:** What GuildScribe's bounty board pays in. Murrow takes coin or barter, on the same terms for everyone.\n- **Also called:** coin, coins, copper",
+      "source": {
+        "file": "resources.md",
+        "line": 341
+      },
+      "icon": "🪙",
+      "category": "Coin & trade",
+      "kind": "Coin"
+    },
+    {
+      "id": "guard-tithe",
+      "type": "item",
+      "name": "Guard tithe",
+      "status": "decided",
+      "fields": {
+        "does": "Pays for Stoutwell's Guard. Each household gives a share of its harvest, crafts or labour, or both, to keep the Guard fed, armed and paid.",
+        "limits": "Wealthier families, like the millers, give more, better quality, or both.",
+        "story": "A little skimming goes on, and Bertram's ledgers make it vanish on paper. A Truthglass is dangerous to anyone doing it."
+      },
+      "body": "- **Does:** Pays for Stoutwell's Guard. Each household gives a share of its harvest, crafts or labour, or both, to keep the Guard fed, armed and paid.\n- **Limits:** Wealthier families, like the millers, give more, better quality, or both.\n- **Story:** A little skimming goes on, and Bertram's ledgers make it vanish on paper. A Truthglass is dangerous to anyone doing it.",
+      "source": {
+        "file": "resources.md",
+        "line": 349
+      },
+      "icon": "🧺",
+      "category": "Coin & trade",
+      "kind": "Dues and payments"
+    },
+    {
+      "id": "weregild",
+      "type": "item",
+      "name": "Weregild",
+      "status": "decided",
+      "fields": {
+        "does": "A payment accepted in place of a punishment, under Stoutwell's law.",
+        "story": "Hesketh Reeve dislikes it, but accepts it because it's the law."
+      },
+      "body": "- **Does:** A payment accepted in place of a punishment, under Stoutwell's law.\n- **Story:** Hesketh Reeve dislikes it, but accepts it because it's the law.",
+      "source": {
+        "file": "resources.md",
+        "line": 355
+      },
+      "icon": "⚖️",
+      "category": "Coin & trade",
+      "kind": "Dues and payments",
+      "mentioned_in": [
+        "lore-defense-and-law",
+        "universe-law-and-punishment",
+        "working-notes-law-punishment"
+      ]
+    },
+    {
+      "id": "the-lump-sum-tax",
+      "type": "item",
+      "name": "The lump-sum tax",
+      "status": "decided",
+      "fields": {
+        "where": "Carried along the Woodland Road by the tax representative.",
+        "does": "Stoutwell's Kingdom tax, paid as one sum and carried home by the tax representative, instead of counting the village name by name.",
+        "story": "It's why no one in Stoutwell has ever been drafted, and why Murrow can live there unregistered. One guild ledger could end the deal. The sum is a number someone in the capital sets."
+      },
+      "body": "- **Where:** Carried along the Woodland Road by the tax representative.\n- **Does:** Stoutwell's Kingdom tax, paid as one sum and carried home by the tax representative, instead of counting the village name by name.\n- **Story:** It's why no one in Stoutwell has ever been drafted, and why Murrow can live there unregistered. One guild ledger could end the deal. The sum is a number someone in the capital sets.",
+      "source": {
+        "file": "resources.md",
+        "line": 360
+      },
+      "icon": "💰",
+      "category": "Coin & trade",
+      "kind": "Dues and payments"
+    },
+    {
+      "id": "guildscribes-swear-jar",
+      "type": "item",
+      "name": "GuildScribe's swear jar",
+      "status": "decided",
+      "fields": {
+        "where": "GuildScribe's hall in the capital.",
+        "does": "Where GuildScribe's hall collects its fines. Anyone who tries to rob the Scribe is fined into it."
+      },
+      "body": "- **Where:** GuildScribe's hall in the capital.\n- **Does:** Where GuildScribe's hall collects its fines. Anyone who tries to rob the Scribe is fined into it.",
+      "source": {
+        "file": "resources.md",
+        "line": 366
+      },
+      "icon": "🏺",
+      "category": "Coin & trade",
+      "kind": "Dues and payments"
+    },
+    {
+      "id": "the-kingdoms-rolls",
+      "type": "item",
+      "name": "The Kingdom's rolls",
+      "status": "decided",
+      "fields": {
+        "where": "The Rolls House, beside the Crown's seat.",
+        "does": "The census, the tax rolls, the draft list, the register of artificers and GuildScribe's parchments, all feeding the same records.",
+        "made": "Kept in the Rolls House, beside the Crown's seat in the capital.",
+        "story": "The Kingdom's corruption is mostly about whose names get written, lost or moved for a bribe. Stoutwell has never been on them.",
+        "also_called": "rolls, the census, the draft list, the register of artificers"
+      },
+      "body": "- **Where:** The Rolls House, beside the Crown's seat.\n- **Does:** The census, the tax rolls, the draft list, the register of artificers and GuildScribe's parchments, all feeding the same records.\n- **Made:** Kept in the Rolls House, beside the Crown's seat in the capital.\n- **Story:** The Kingdom's corruption is mostly about whose names get written, lost or moved for a bribe. Stoutwell has never been on them.\n- **Also called:** rolls, the census, the draft list, the register of artificers",
+      "source": {
+        "file": "resources.md",
+        "line": 377
+      },
+      "icon": "🗂️",
+      "category": "Records & papers",
+      "kind": "The Kingdom's records"
+    },
+    {
+      "id": "the-highwrits-seal",
+      "type": "item",
+      "name": "The Highwrit's seal",
+      "status": "decided",
+      "fields": {
+        "where": "The Crown's seat: nothing leaves the court without it.",
+        "does": "Goes on every decree, writ and letter that leaves the court, after the Highwrit's clerks have copied, polished and proofread it.",
+        "made_by": "House Harrowmere, which holds the Highwrit",
+        "limits": "It makes a document look right; it never checks that it's true. A Truthglass can tell whether the seal is real, not whether the words under it are honest."
+      },
+      "body": "- **Where:** The Crown's seat: nothing leaves the court without it.\n- **Does:** Goes on every decree, writ and letter that leaves the court, after the Highwrit's clerks have copied, polished and proofread it.\n- **Made by:** House Harrowmere, which holds the Highwrit\n- **Limits:** It makes a document look right; it never checks that it's true. A Truthglass can tell whether the seal is real, not whether the words under it are honest.",
+      "source": {
+        "file": "resources.md",
+        "line": 385
+      },
+      "icon": "🔖",
+      "category": "Records & papers",
+      "kind": "The Kingdom's records"
+    },
+    {
+      "id": "adventurers-parchments",
+      "type": "item",
+      "name": "Adventurers' parchments",
+      "status": "decided",
+      "fields": {
+        "where": "GuildScribe's hall in the capital.",
+        "does": "GuildScribe's record of one adventurer: name, race, trade, skill and deeds. Its rank rises as it fills: Novice, Journeyman, Seasoned, Veteran.",
+        "made": "Written by the guildscribes when an adventurer joins the hall in the capital.",
+        "story": "It puts your name on the Kingdom's books, and registered citizens can be drafted.",
+        "also_called": "parchment, parchments"
+      },
+      "body": "- **Where:** GuildScribe's hall in the capital.\n- **Does:** GuildScribe's record of one adventurer: name, race, trade, skill and deeds. Its rank rises as it fills: Novice, Journeyman, Seasoned, Veteran.\n- **Made:** Written by the guildscribes when an adventurer joins the hall in the capital.\n- **Story:** It puts your name on the Kingdom's books, and registered citizens can be drafted.\n- **Also called:** parchment, parchments",
+      "source": {
+        "file": "resources.md",
+        "line": 394
+      },
+      "icon": "📋",
+      "category": "Records & papers",
+      "kind": "Guild papers"
+    },
+    {
+      "id": "bounty-notice",
+      "type": "item",
+      "name": "Bounty notice",
+      "status": "decided",
+      "fields": {
+        "where": "GuildScribe's bounty board in the capital, and the waystations on the Clerk's road.",
+        "does": "A monster bounty, paid in Kingdom coin: gold, silver and copper. GuildScribe's board is covered in them; at a waystation on the Kingdom's edge, the board is one nail and one notice.",
+        "made_by": "The Scribe, The Wandering Clerk",
+        "also_called": "bounty, bounties"
+      },
+      "body": "- **Where:** GuildScribe's bounty board in the capital, and the waystations on the Clerk's road.\n- **Does:** A monster bounty, paid in Kingdom coin: gold, silver and copper. GuildScribe's board is covered in them; at a waystation on the Kingdom's edge, the board is one nail and one notice.\n- **Made by:** The Scribe, The Wandering Clerk\n- **Also called:** bounty, bounties",
+      "source": {
+        "file": "resources.md",
+        "line": 402
+      },
+      "icon": "📌",
+      "category": "Records & papers",
+      "kind": "Guild papers"
+    },
+    {
+      "id": "the-wandering-clerks-ledger",
+      "type": "item",
+      "name": "The Wandering Clerk's ledger",
+      "status": "decided",
+      "fields": {
+        "where": "Wherever the Wandering Clerk is, on the Kingdom's roads and down the Woodland Road.",
+        "does": "The ledger of their own the Wandering Clerk keeps on the Kingdom's roads, swearing in adventurers where there's no guild.",
+        "made_by": "The Wandering Clerk",
+        "story": "By way of the Woodland Road, it could be the first guild ledger to reach Stoutwell, and put villagers' names on paper the Kingdom might read."
+      },
+      "body": "- **Where:** Wherever the Wandering Clerk is, on the Kingdom's roads and down the Woodland Road.\n- **Does:** The ledger of their own the Wandering Clerk keeps on the Kingdom's roads, swearing in adventurers where there's no guild.\n- **Made by:** The Wandering Clerk\n- **Story:** By way of the Woodland Road, it could be the first guild ledger to reach Stoutwell, and put villagers' names on paper the Kingdom might read.",
+      "source": {
+        "file": "resources.md",
+        "line": 409
+      },
+      "icon": "📓",
+      "category": "Records & papers",
+      "kind": "Guild papers"
+    },
+    {
+      "id": "bertrams-ledgers",
+      "type": "item",
+      "name": "Bertram's ledgers",
+      "status": "decided",
+      "fields": {
+        "does": "Stoutwell's records, ledgers and tithe counts, and the nearest thing the village has to a written roster.",
+        "made_by": "Bertram Quillby",
+        "story": "They make tithe skimming vanish on paper: a small copy of how the whole Kingdom works."
+      },
+      "body": "- **Does:** Stoutwell's records, ledgers and tithe counts, and the nearest thing the village has to a written roster.\n- **Made by:** Bertram Quillby\n- **Story:** They make tithe skimming vanish on paper: a small copy of how the whole Kingdom works.",
+      "source": {
+        "file": "resources.md",
+        "line": 418
+      },
+      "icon": "📒",
+      "category": "Records & papers",
+      "kind": "Village papers",
+      "mentioned_in": [
+        "lore-leadership",
+        "universe-the-elders",
+        "working-notes-village-roster-2"
+      ]
+    },
+    {
+      "id": "empty-wooden-bowl",
+      "type": "item",
+      "name": "Empty wooden bowl",
+      "status": "decided",
+      "fields": {
+        "does": "A plain bowl, good for stew, alms or catching a leak in the roof.",
+        "made": "Turned from offcuts in a workshop in the capital.",
+        "pitch": "an empty wooden bowl, licked clean by the last owner's dog",
+        "sold": "1 copper · +1 WIS"
+      },
+      "body": "- **Does:** A plain bowl, good for stew, alms or catching a leak in the roof.\n- **Made:** Turned from offcuts in a workshop in the capital.\n- **Pitch:** an empty wooden bowl, licked clean by the last owner's dog\n- **Sold:** 1 copper · +1 WIS",
+      "source": {
+        "file": "resources.md",
+        "line": 430
+      },
+      "icon": "🥣",
+      "category": "Peddlers' wares",
+      "kind": "Odds and ends"
+    },
+    {
+      "id": "dented-tin-flask",
+      "type": "item",
+      "name": "Dented tin flask",
+      "status": "decided",
+      "fields": {
+        "does": "Holds one good swallow of something strong.",
+        "pitch": "a dented tin flask that swears it once held dragon's-breath brandy",
+        "sold": "3 copper · +1 CON"
+      },
+      "body": "- **Does:** Holds one good swallow of something strong.\n- **Pitch:** a dented tin flask that swears it once held dragon's-breath brandy\n- **Sold:** 3 copper · +1 CON",
+      "source": {
+        "file": "resources.md",
+        "line": 437
+      },
+      "icon": "🫗",
+      "category": "Peddlers' wares",
+      "kind": "Odds and ends"
+    },
+    {
+      "id": "goblin-rated-rope",
+      "type": "item",
+      "name": "Goblin-rated rope",
+      "status": "decided",
+      "fields": {
+        "does": "A coil of rope. It holds one goblin. Nobody has tested two.",
+        "pitch": "a coil of rope, guaranteed to hold at least one goblin",
+        "sold": "6 copper · +1 STR"
+      },
+      "body": "- **Does:** A coil of rope. It holds one goblin. Nobody has tested two.\n- **Pitch:** a coil of rope, guaranteed to hold at least one goblin\n- **Sold:** 6 copper · +1 STR",
+      "source": {
+        "file": "resources.md",
+        "line": 443
+      },
+      "icon": "🪢",
+      "category": "Peddlers' wares",
+      "kind": "Odds and ends"
+    },
+    {
+      "id": "blue-flame-candle",
+      "type": "item",
+      "name": "Blue-flame candle",
+      "status": "decided",
+      "fields": {
+        "does": "A half-melted candle that burns blue, for reasons the peddler won't go into.",
+        "pitch": "a half-melted candle that burns a suspicious shade of blue",
+        "sold": "1 copper · +1 INT"
+      },
+      "body": "- **Does:** A half-melted candle that burns blue, for reasons the peddler won't go into.\n- **Pitch:** a half-melted candle that burns a suspicious shade of blue\n- **Sold:** 1 copper · +1 INT",
+      "source": {
+        "file": "resources.md",
+        "line": 449
+      },
+      "icon": "🕯️",
+      "category": "Peddlers' wares",
+      "kind": "Odds and ends"
+    },
+    {
+      "id": "badly-loaded-dice",
+      "type": "item",
+      "name": "Badly loaded dice",
+      "status": "decided",
+      "fields": {
+        "does": "Loaded so badly they roll straight off the table.",
+        "pitch": "a set of loaded dice, badly loaded — they just roll off the table",
+        "sold": "2 copper · +1 CHA"
+      },
+      "body": "- **Does:** Loaded so badly they roll straight off the table.\n- **Pitch:** a set of loaded dice, badly loaded — they just roll off the table\n- **Sold:** 2 copper · +1 CHA",
+      "source": {
+        "file": "resources.md",
+        "line": 455
+      },
+      "icon": "🎲",
+      "category": "Peddlers' wares",
+      "kind": "Odds and ends"
+    },
+    {
+      "id": "tavern-seeking-compass",
+      "type": "item",
+      "name": "Tavern-seeking compass",
+      "status": "decided",
+      "fields": {
+        "does": "A tarnished brass compass. The peddler swears it points to the nearest tavern. It points north, and in the capital there's usually a tavern that way too.",
+        "pitch": "a tarnished brass compass that always points toward the nearest tavern",
+        "sold": "3 copper · +1 WIS"
+      },
+      "body": "- **Does:** A tarnished brass compass. The peddler swears it points to the nearest tavern. It points north, and in the capital there's usually a tavern that way too.\n- **Pitch:** a tarnished brass compass that always points toward the nearest tavern\n- **Sold:** 3 copper · +1 WIS",
+      "source": {
+        "file": "resources.md",
+        "line": 461
+      },
+      "icon": "🧭",
+      "category": "Peddlers' wares",
+      "kind": "Odds and ends"
+    },
+    {
+      "id": "glowing-string",
+      "type": "item",
+      "name": "Glowing string",
+      "status": "decided",
+      "fields": {
+        "does": "A coil of string that glows faintly. Where it came from is anyone's guess.",
+        "pitch": "a coil of faintly glowing string, source unknown, no refunds",
+        "sold": "5 copper · +1 DEX"
+      },
+      "body": "- **Does:** A coil of string that glows faintly. Where it came from is anyone's guess.\n- **Pitch:** a coil of faintly glowing string, source unknown, no refunds\n- **Sold:** 5 copper · +1 DEX",
+      "source": {
+        "file": "resources.md",
+        "line": 467
+      },
+      "icon": "🧵",
+      "category": "Peddlers' wares",
+      "kind": "Odds and ends"
+    },
+    {
+      "id": "warding-chalk",
+      "type": "item",
+      "name": "Warding chalk",
+      "status": "decided",
+      "fields": {
+        "does": "Chalk sticks for drawing warding sigils. Most are still whole.",
+        "pitch": "a bundle of chalk sticks for warding sigils, mostly unbroken",
+        "sold": "2 copper · +1 WIS"
+      },
+      "body": "- **Does:** Chalk sticks for drawing warding sigils. Most are still whole.\n- **Pitch:** a bundle of chalk sticks for warding sigils, mostly unbroken\n- **Sold:** 2 copper · +1 WIS",
+      "source": {
+        "file": "resources.md",
+        "line": 475
+      },
+      "icon": "🖍️",
+      "category": "Peddlers' wares",
+      "kind": "Charms and curios"
+    },
+    {
+      "id": "lucky-rabbits-foot",
+      "type": "item",
+      "name": "Lucky rabbit's foot",
+      "status": "decided",
+      "fields": {
+        "does": "For luck. It still twitches now and then.",
+        "pitch": "one (1) lucky rabbit's foot, still faintly twitching",
+        "sold": "5 copper · +1 DEX"
+      },
+      "body": "- **Does:** For luck. It still twitches now and then.\n- **Pitch:** one (1) lucky rabbit's foot, still faintly twitching\n- **Sold:** 5 copper · +1 DEX",
+      "source": {
+        "file": "resources.md",
+        "line": 481
+      },
+      "icon": "🐇",
+      "category": "Peddlers' wares",
+      "kind": "Charms and curios"
+    },
+    {
+      "id": "cracked-scrying-mirror",
+      "type": "item",
+      "name": "Cracked scrying mirror",
+      "status": "decided",
+      "fields": {
+        "does": "Sold as a scrying mirror that shows yesterday. Divination isn't one of the known kinds of magic, so what it mostly shows is the buyer's face.",
+        "pitch": "a cracked scrying mirror that only ever shows yesterday",
+        "sold": "1 silver · +1 INT"
+      },
+      "body": "- **Does:** Sold as a scrying mirror that shows yesterday. Divination isn't one of the known kinds of magic, so what it mostly shows is the buyer's face.\n- **Pitch:** a cracked scrying mirror that only ever shows yesterday\n- **Sold:** 1 silver · +1 INT",
+      "source": {
+        "file": "resources.md",
+        "line": 487
+      },
+      "icon": "🪞",
+      "category": "Peddlers' wares",
+      "kind": "Charms and curios"
+    },
+    {
+      "id": "pickled-owlbear-whiskers",
+      "type": "item",
+      "name": "Pickled owlbear whiskers",
+      "status": "decided",
+      "fields": {
+        "does": "A jar of whiskers, kept for luck. Allegedly.",
+        "pitch": "a jar of pickled owlbear whiskers (for luck, allegedly)",
+        "sold": "8 copper · +1 CON"
+      },
+      "body": "- **Does:** A jar of whiskers, kept for luck. Allegedly.\n- **Pitch:** a jar of pickled owlbear whiskers (for luck, allegedly)\n- **Sold:** 8 copper · +1 CON",
+      "source": {
+        "file": "resources.md",
+        "line": 493
+      },
+      "icon": "🫙",
+      "category": "Peddlers' wares",
+      "kind": "Charms and curios"
+    },
+    {
+      "id": "rusty-holy-symbol",
+      "type": "item",
+      "name": "Rusty holy symbol",
+      "status": "decided",
+      "fields": {
+        "does": "The holy symbol of a god nobody quite remembers anymore.",
+        "pitch": "a rusty holy symbol of a god nobody quite remembers anymore",
+        "sold": "3 copper · +1 WIS"
+      },
+      "body": "- **Does:** The holy symbol of a god nobody quite remembers anymore.\n- **Pitch:** a rusty holy symbol of a god nobody quite remembers anymore\n- **Sold:** 3 copper · +1 WIS",
+      "source": {
+        "file": "resources.md",
+        "line": 499
+      },
+      "icon": "⚜️",
+      "category": "Peddlers' wares",
+      "kind": "Charms and curios"
+    },
+    {
+      "id": "scorched-spellbook-page",
+      "type": "item",
+      "name": "Scorched spellbook page",
+      "status": "decided",
+      "fields": {
+        "does": "Half of what claims to be a fireball spell. The other half burned. In a world where boiling a pot of water makes a fire user famous, the missing half wouldn't help much either.",
+        "pitch": "a scorched spellbook page with half a fireball recipe on it",
+        "sold": "7 copper · +1 INT"
+      },
+      "body": "- **Does:** Half of what claims to be a fireball spell. The other half burned. In a world where boiling a pot of water makes a fire user famous, the missing half wouldn't help much either.\n- **Pitch:** a scorched spellbook page with half a fireball recipe on it\n- **Sold:** 7 copper · +1 INT",
+      "source": {
+        "file": "resources.md",
+        "line": 505
+      },
+      "icon": "📜",
+      "category": "Peddlers' wares",
+      "kind": "Charms and curios"
+    },
+    {
+      "id": "gnomish-gemstones",
+      "type": "item",
+      "name": "'Gnomish gemstones'",
+      "status": "decided",
+      "fields": {
+        "does": "A sack of glass beads, sold in good faith as gnomish gemstones.",
+        "pitch": "a sack of glass beads, sold in good faith as 'gnomish gemstones'",
+        "sold": "6 copper · +1 CHA"
+      },
+      "body": "- **Does:** A sack of glass beads, sold in good faith as gnomish gemstones.\n- **Pitch:** a sack of glass beads, sold in good faith as 'gnomish gemstones'\n- **Sold:** 6 copper · +1 CHA",
+      "source": {
+        "file": "resources.md",
+        "line": 511
+      },
+      "icon": "📿",
+      "category": "Peddlers' wares",
+      "kind": "Charms and curios"
+    },
+    {
+      "id": "wish-granting-cricket",
+      "type": "item",
+      "name": "Wish-granting cricket",
+      "status": "decided",
+      "fields": {
+        "does": "A caged cricket said to grant wishes if it's fed enough.",
+        "pitch": "a caged cricket claimed to grant wishes if fed enough",
+        "sold": "2 copper · +1 WIS"
+      },
+      "body": "- **Does:** A caged cricket said to grant wishes if it's fed enough.\n- **Pitch:** a caged cricket claimed to grant wishes if fed enough\n- **Sold:** 2 copper · +1 WIS",
+      "source": {
+        "file": "resources.md",
+        "line": 517
+      },
+      "icon": "🦗",
+      "category": "Peddlers' wares",
+      "kind": "Charms and curios"
+    },
+    {
+      "id": "dragon-scales",
+      "type": "item",
+      "name": "'Dragon' scales",
+      "status": "decided",
+      "fields": {
+        "does": "A stack of \"authentic\" dragon scales. They're dyed lizard.",
+        "pitch": "a stack of 'authentic' dragon scales (dyed lizard, don't tell anyone)",
+        "sold": "4 copper · +1 CON"
+      },
+      "body": "- **Does:** A stack of \"authentic\" dragon scales. They're dyed lizard.\n- **Pitch:** a stack of 'authentic' dragon scales (dyed lizard, don't tell anyone)\n- **Sold:** 4 copper · +1 CON",
+      "source": {
+        "file": "resources.md",
+        "line": 523
+      },
+      "icon": "🦎",
+      "category": "Peddlers' wares",
+      "kind": "Charms and curios"
+    },
+    {
+      "id": "maybe-enchanted-river-water",
+      "type": "item",
+      "name": "Maybe-enchanted river water",
+      "status": "decided",
+      "fields": {
+        "does": "A vial of river water that might be enchanted.",
+        "pitch": "a vial of river water that 'might' be enchanted",
+        "sold": "4 copper · +2 max HP"
+      },
+      "body": "- **Does:** A vial of river water that might be enchanted.\n- **Pitch:** a vial of river water that 'might' be enchanted\n- **Sold:** 4 copper · +2 max HP",
+      "source": {
+        "file": "resources.md",
+        "line": 529
+      },
+      "icon": "💧",
+      "category": "Peddlers' wares",
+      "kind": "Charms and curios"
+    },
+    {
+      "id": "moth-eaten-cloak",
+      "type": "item",
+      "name": "Moth-eaten cloak",
+      "status": "decided",
+      "fields": {
+        "does": "Almost passes for mysterious.",
+        "pitch": "a moth-eaten cloak that almost passes for 'mysterious'",
+        "sold": "4 copper · +1 CHA"
+      },
+      "body": "- **Does:** Almost passes for mysterious.\n- **Pitch:** a moth-eaten cloak that almost passes for 'mysterious'\n- **Sold:** 4 copper · +1 CHA",
+      "source": {
+        "file": "resources.md",
+        "line": 537
+      },
+      "icon": "🧥",
+      "category": "Peddlers' wares",
+      "kind": "Kit and clothing"
+    },
+    {
+      "id": "whittled-wooden-dagger",
+      "type": "item",
+      "name": "Whittled wooden dagger",
+      "status": "decided",
+      "fields": {
+        "does": "For show only. Please don't stab anyone with it.",
+        "pitch": "a whittled wooden dagger, purely for show — please don't stab anyone",
+        "sold": "1 copper · +1 CHA"
+      },
+      "body": "- **Does:** For show only. Please don't stab anyone with it.\n- **Pitch:** a whittled wooden dagger, purely for show — please don't stab anyone\n- **Sold:** 1 copper · +1 CHA",
+      "source": {
+        "file": "resources.md",
+        "line": 543
+      },
+      "icon": "🗡️",
+      "category": "Peddlers' wares",
+      "kind": "Kit and clothing"
+    },
+    {
+      "id": "single-fine-boot",
+      "type": "item",
+      "name": "Single fine boot",
+      "status": "decided",
+      "fields": {
+        "does": "A single boot, left foot, very fine make.",
+        "pitch": "a single boot, left foot, very fine make",
+        "sold": "2 copper · +5 ft speed"
+      },
+      "body": "- **Does:** A single boot, left foot, very fine make.\n- **Pitch:** a single boot, left foot, very fine make\n- **Sold:** 2 copper · +5 ft speed",
+      "source": {
+        "file": "resources.md",
+        "line": 549
+      },
+      "icon": "🥾",
+      "category": "Peddlers' wares",
+      "kind": "Kit and clothing"
+    },
+    {
+      "id": "patchwork-healers-kit",
+      "type": "item",
+      "name": "Patchwork healer's kit",
+      "status": "decided",
+      "fields": {
+        "does": "A healer's kit missing only the important bits.",
+        "pitch": "a patchwork healer's kit missing only the important bits",
+        "sold": "9 copper · +3 max HP"
+      },
+      "body": "- **Does:** A healer's kit missing only the important bits.\n- **Pitch:** a patchwork healer's kit missing only the important bits\n- **Sold:** 9 copper · +3 max HP",
+      "source": {
+        "file": "resources.md",
+        "line": 555
+      },
+      "icon": "🩹",
+      "category": "Peddlers' wares",
+      "kind": "Kit and clothing"
+    },
+    {
+      "id": "hand-me-down-shield",
+      "type": "item",
+      "name": "Hand-me-down shield",
+      "status": "decided",
+      "fields": {
+        "does": "A secondhand shield, already dented, so someone else did the work.",
+        "pitch": "a hand-me-down shield, already dented — someone else did the work for you",
+        "sold": "1 silver 2 copper · +4 max HP"
+      },
+      "body": "- **Does:** A secondhand shield, already dented, so someone else did the work.\n- **Pitch:** a hand-me-down shield, already dented — someone else did the work for you\n- **Sold:** 1 silver 2 copper · +4 max HP",
+      "source": {
+        "file": "resources.md",
+        "line": 561
+      },
+      "icon": "🛡️",
+      "category": "Peddlers' wares",
+      "kind": "Kit and clothing"
+    },
+    {
+      "id": "questionable-trail-rations",
+      "type": "item",
+      "name": "Questionable trail rations",
+      "status": "decided",
+      "fields": {
+        "does": "A satchel of trail rations that are mostly still rations.",
+        "pitch": "a satchel of trail rations that are 'mostly' still rations",
+        "sold": "5 copper · +2 max HP"
+      },
+      "body": "- **Does:** A satchel of trail rations that are mostly still rations.\n- **Pitch:** a satchel of trail rations that are 'mostly' still rations\n- **Sold:** 5 copper · +2 max HP",
+      "source": {
+        "file": "resources.md",
+        "line": 569
+      },
+      "icon": "🍞",
+      "category": "Peddlers' wares",
+      "kind": "Stall food"
+    },
+    {
+      "id": "apparatus-of-kwalish",
+      "type": "item",
+      "name": "Apparatus of Kwalish",
+      "status": "decided",
+      "fields": {
+        "does": "A lobster-shaped iron submersible.",
+        "pitch": "the Apparatus of Kwalish, a lobster-shaped iron submersible, 'only slightly rusted shut'",
+        "sold": "90 gold · +2 CON, +5 max HP · relic"
+      },
+      "body": "- **Does:** A lobster-shaped iron submersible.\n- **Pitch:** the Apparatus of Kwalish, a lobster-shaped iron submersible, 'only slightly rusted shut'\n- **Sold:** 90 gold · +2 CON, +5 max HP · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 579
+      },
+      "icon": "🦞",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "iron-flask",
+      "type": "item",
+      "name": "Iron Flask",
+      "status": "decided",
+      "fields": {
+        "does": "A flask etched with sigils that hums, and rattles whenever you look away.",
+        "pitch": "an Iron Flask etched with sigils, humming faintly and rattling whenever you look away",
+        "sold": "75 gold · +2 WIS · relic"
+      },
+      "body": "- **Does:** A flask etched with sigils that hums, and rattles whenever you look away.\n- **Pitch:** an Iron Flask etched with sigils, humming faintly and rattling whenever you look away\n- **Sold:** 75 gold · +2 WIS · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 585
+      },
+      "icon": "⚱️",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "cubic-gate",
+      "type": "item",
+      "name": "Cubic Gate",
+      "status": "decided",
+      "fields": {
+        "does": "A small stone cube with a doorway carved into each of its six faces. Doorway rifts are an artificer's work, so in anyone else's hands it's a very handsome paperweight.",
+        "pitch": "a Cubic Gate, a small stone cube with six faces, each one a door to somewhere else",
+        "sold": "120 gold · +2 INT, +10 ft speed · relic"
+      },
+      "body": "- **Does:** A small stone cube with a doorway carved into each of its six faces. Doorway rifts are an artificer's work, so in anyone else's hands it's a very handsome paperweight.\n- **Pitch:** a Cubic Gate, a small stone cube with six faces, each one a door to somewhere else\n- **Sold:** 120 gold · +2 INT, +10 ft speed · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 591
+      },
+      "icon": "🧊",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "ring-of-three-wishes",
+      "type": "item",
+      "name": "Ring of Three Wishes",
+      "status": "decided",
+      "fields": {
+        "does": "A ring of wishes. The peddler swears at least two are left.",
+        "pitch": "the Ring of Three Wishes — the peddler swears it has 'at least two left'",
+        "sold": "150 gold · +2 CHA, +1 WIS, +5 max HP · relic"
+      },
+      "body": "- **Does:** A ring of wishes. The peddler swears at least two are left.\n- **Pitch:** the Ring of Three Wishes — the peddler swears it has 'at least two left'\n- **Sold:** 150 gold · +2 CHA, +1 WIS, +5 max HP · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 597
+      },
+      "icon": "💍",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "fragarach",
+      "type": "item",
+      "name": "Fragarach",
+      "status": "decided",
+      "fields": {
+        "does": "The Sword of Answering. It sulks in its sheath until someone lies to it.",
+        "pitch": "Fragarach, the Sword of Answering, which sulks in its sheath until someone lies to it",
+        "sold": "110 gold · +2 STR, +5 max HP · relic"
+      },
+      "body": "- **Does:** The Sword of Answering. It sulks in its sheath until someone lies to it.\n- **Pitch:** Fragarach, the Sword of Answering, which sulks in its sheath until someone lies to it\n- **Sold:** 110 gold · +2 STR, +5 max HP · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 603
+      },
+      "icon": "⚔️",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "anstruth-harp",
+      "type": "item",
+      "name": "Anstruth Harp",
+      "status": "decided",
+      "fields": {
+        "does": "A bard's instrument from a lost college, still tuned to a forgotten song.",
+        "pitch": "an Anstruth Harp, a bardic instrument of a lost college, still tuned to a forgotten song",
+        "sold": "85 gold · +2 CHA · relic"
+      },
+      "body": "- **Does:** A bard's instrument from a lost college, still tuned to a forgotten song.\n- **Pitch:** an Anstruth Harp, a bardic instrument of a lost college, still tuned to a forgotten song\n- **Sold:** 85 gold · +2 CHA · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 609
+      },
+      "icon": "🪕",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "talisman-of-pure-good",
+      "type": "item",
+      "name": "Talisman of Pure Good",
+      "status": "decided",
+      "fields": {
+        "does": "Glows warmly and makes the nearby chickens behave.",
+        "pitch": "a Talisman of Pure Good that glows warmly and makes the nearby chickens behave",
+        "sold": "95 gold · +2 WIS, +5 max HP · relic"
+      },
+      "body": "- **Does:** Glows warmly and makes the nearby chickens behave.\n- **Pitch:** a Talisman of Pure Good that glows warmly and makes the nearby chickens behave\n- **Sold:** 95 gold · +2 WIS, +5 max HP · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 615
+      },
+      "icon": "🌟",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "talisman-of-ultimate-evil",
+      "type": "item",
+      "name": "Talisman of Ultimate Evil",
+      "status": "decided",
+      "fields": {
+        "does": "Kept in a lead-lined pickle jar, for everyone's safety.",
+        "pitch": "a Talisman of Ultimate Evil, kept in a lead-lined pickle jar for everyone's safety",
+        "sold": "40 gold · +2 CHA · relic"
+      },
+      "body": "- **Does:** Kept in a lead-lined pickle jar, for everyone's safety.\n- **Pitch:** a Talisman of Ultimate Evil, kept in a lead-lined pickle jar for everyone's safety\n- **Sold:** 40 gold · +2 CHA · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 621
+      },
+      "icon": "💀",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "mirror-of-life-trapping",
+      "type": "item",
+      "name": "Mirror of Life Trapping",
+      "status": "decided",
+      "fields": {
+        "does": "A cracked mirror that gives off a distinct sense of being watched.",
+        "pitch": "a Mirror of Life Trapping with a crack down one side and a distinct sense of being watched",
+        "sold": "70 gold · +2 INT · relic"
+      },
+      "body": "- **Does:** A cracked mirror that gives off a distinct sense of being watched.\n- **Pitch:** a Mirror of Life Trapping with a crack down one side and a distinct sense of being watched\n- **Sold:** 70 gold · +2 INT · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 627
+      },
+      "icon": "🔮",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "cloak-of-invisibility",
+      "type": "item",
+      "name": "Cloak of Invisibility",
+      "status": "decided",
+      "fields": {
+        "does": "Sold as seen. Nobody has seen it yet.",
+        "pitch": "the Cloak of Invisibility, 'sold as seen' (nobody has seen it yet)",
+        "sold": "100 gold · +2 DEX, +5 max HP · relic"
+      },
+      "body": "- **Does:** Sold as seen. Nobody has seen it yet.\n- **Pitch:** the Cloak of Invisibility, 'sold as seen' (nobody has seen it yet)\n- **Sold:** 100 gold · +2 DEX, +5 max HP · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 633
+      },
+      "icon": "🫥",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "robe-of-the-archmagi",
+      "type": "item",
+      "name": "Robe of the Archmagi",
+      "status": "decided",
+      "fields": {
+        "does": "Patched at the elbows and reeking of ozone.",
+        "pitch": "the Robe of the Archmagi, patched at the elbows and reeking of ozone",
+        "sold": "130 gold · +2 INT, +8 max HP · relic"
+      },
+      "body": "- **Does:** Patched at the elbows and reeking of ozone.\n- **Pitch:** the Robe of the Archmagi, patched at the elbows and reeking of ozone\n- **Sold:** 130 gold · +2 INT, +8 max HP · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 639
+      },
+      "icon": "👘",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "orb-of-dragonkind",
+      "type": "item",
+      "name": "Orb of Dragonkind",
+      "status": "decided",
+      "fields": {
+        "does": "Goes cold whenever a dragon is within a thousand miles.",
+        "pitch": "an Orb of Dragonkind that goes cold whenever a dragon is within a thousand miles",
+        "sold": "140 gold · +2 CHA, +8 max HP · relic"
+      },
+      "body": "- **Does:** Goes cold whenever a dragon is within a thousand miles.\n- **Pitch:** an Orb of Dragonkind that goes cold whenever a dragon is within a thousand miles\n- **Sold:** 140 gold · +2 CHA, +8 max HP · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 645
+      },
+      "icon": "🐉",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "rod-of-seven-parts-6-7",
+      "type": "item",
+      "name": "Rod of Seven Parts (6/7)",
+      "status": "decided",
+      "fields": {
+        "does": "Six of its seven components. The peddler is still searching for the final piece.",
+        "pitch": "the Rod of Seven Parts — six of seven, the peddler is 'still looking for the last one'",
+        "sold": "60 gold · +2 WIS · relic"
+      },
+      "body": "- **Does:** Six of its seven components. The peddler is still searching for the final piece.\n- **Pitch:** the Rod of Seven Parts — six of seven, the peddler is 'still looking for the last one'\n- **Sold:** 60 gold · +2 WIS · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 651
+      },
+      "icon": "🪄",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "staff-of-the-magi",
+      "type": "item",
+      "name": "Staff of the Magi",
+      "status": "decided",
+      "fields": {
+        "does": "A splintered old staff that crackles whenever it hears the word \"counterspell\".",
+        "pitch": "the Staff of the Magi, a splintered old staff that crackles whenever it hears the word 'counterspell'",
+        "sold": "125 gold · +2 INT, +8 max HP · relic"
+      },
+      "body": "- **Does:** A splintered old staff that crackles whenever it hears the word \"counterspell\".\n- **Pitch:** the Staff of the Magi, a splintered old staff that crackles whenever it hears the word 'counterspell'\n- **Sold:** 125 gold · +2 INT, +8 max HP · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 657
+      },
+      "icon": "⚡",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "plate-armor-of-etherealness",
+      "type": "item",
+      "name": "Plate Armor of Etherealness",
+      "status": "decided",
+      "fields": {
+        "does": "Pale, oddly light plate armor. The peddler warns it vanishes entirely if you get excited. Nobody has been excited enough to test it.",
+        "pitch": "a Plate Armor of Etherealness that vanishes entirely, the peddler warns, 'if you get excited'",
+        "sold": "115 gold · +15 max HP · relic"
+      },
+      "body": "- **Does:** Pale, oddly light plate armor. The peddler warns it vanishes entirely if you get excited. Nobody has been excited enough to test it.\n- **Pitch:** a Plate Armor of Etherealness that vanishes entirely, the peddler warns, 'if you get excited'\n- **Sold:** 115 gold · +15 max HP · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 663
+      },
+      "icon": "👻",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "sword-of-kas",
+      "type": "item",
+      "name": "Sword of Kas",
+      "status": "decided",
+      "fields": {
+        "does": "A pitch-black blade that whispers rude things about its former owner.",
+        "pitch": "the Sword of Kas, a pitch-black blade that whispers rude things about its former owner",
+        "sold": "80 gold · +2 STR · relic"
+      },
+      "body": "- **Does:** A pitch-black blade that whispers rude things about its former owner.\n- **Pitch:** the Sword of Kas, a pitch-black blade that whispers rude things about its former owner\n- **Sold:** 80 gold · +2 STR · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 669
+      },
+      "icon": "🌑",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "luck-blade",
+      "type": "item",
+      "name": "Luck Blade",
+      "status": "decided",
+      "fields": {
+        "does": "A sword with a sheepish grin and exactly one wish left.",
+        "pitch": "a Luck Blade with a sheepish grin and exactly one wish remaining",
+        "sold": "105 gold · +2 DEX, +5 max HP · relic"
+      },
+      "body": "- **Does:** A sword with a sheepish grin and exactly one wish left.\n- **Pitch:** a Luck Blade with a sheepish grin and exactly one wish remaining\n- **Sold:** 105 gold · +2 DEX, +5 max HP · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 675
+      },
+      "icon": "🍀",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "ioun-stone-of-mastery",
+      "type": "item",
+      "name": "Ioun Stone of Mastery",
+      "status": "decided",
+      "fields": {
+        "does": "Spins lazily in the air, bothering no one. Someone's wind mana is stored in it, the way a stone turns weightless in Murrow's Elemental Test. When that runs out, it'll drop.",
+        "pitch": "an Ioun Stone of Mastery spinning lazily in the air above the table, bothering no one",
+        "sold": "65 gold · +1 INT, +1 WIS · relic"
+      },
+      "body": "- **Does:** Spins lazily in the air, bothering no one. Someone's wind mana is stored in it, the way a stone turns weightless in Murrow's Elemental Test. When that runs out, it'll drop.\n- **Pitch:** an Ioun Stone of Mastery spinning lazily in the air above the table, bothering no one\n- **Sold:** 65 gold · +1 INT, +1 WIS · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 681
+      },
+      "icon": "💠",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "hammer-of-thunderbolts",
+      "type": "item",
+      "name": "Hammer of Thunderbolts",
+      "status": "decided",
+      "fields": {
+        "does": "A dwarven masterwork the peddler took for a really good doorstop.",
+        "pitch": "the Hammer of Thunderbolts, a dwarven masterwork the peddler mistook for a 'really good doorstop'",
+        "sold": "135 gold · +2 STR, +8 max HP · relic"
+      },
+      "body": "- **Does:** A dwarven masterwork the peddler took for a really good doorstop.\n- **Pitch:** the Hammer of Thunderbolts, a dwarven masterwork the peddler mistook for a 'really good doorstop'\n- **Sold:** 135 gold · +2 STR, +8 max HP · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 687
+      },
+      "icon": "⚒️",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    },
+    {
+      "id": "scroll-of-protection-from-everything",
+      "type": "item",
+      "name": "Scroll of Protection from Everything",
+      "status": "decided",
+      "fields": {
+        "does": "Written in a language that only exists in dreams.",
+        "pitch": "the Scroll of Protection from Everything, written in a language that only exists in dreams",
+        "sold": "55 gold · +12 max HP · relic"
+      },
+      "body": "- **Does:** Written in a language that only exists in dreams.\n- **Pitch:** the Scroll of Protection from Everything, written in a language that only exists in dreams\n- **Sold:** 55 gold · +12 max HP · relic",
+      "source": {
+        "file": "resources.md",
+        "line": 693
+      },
+      "icon": "📃",
+      "category": "Peddlers' wares",
+      "kind": "Relics"
+    }
+  ]
+}

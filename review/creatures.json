@@ -1,0 +1,252 @@
+{
+  "schema": 1,
+  "built": "2026-11-08T16:01:17.991Z",
+  "branch": "review",
+  "commit": "040b6adbef847ff5cbef9b580cbc18824a0ed1f8",
+  "counts": {
+    "person": 73,
+    "role": 11,
+    "world": 2,
+    "item": 87,
+    "place": 7,
+    "creature": 9,
+    "lore": 61,
+    "note": 176
+  },
+  "entities": [
+    {
+      "id": "thornback-boar",
+      "type": "creature",
+      "name": "Thornback boar",
+      "status": "decided",
+      "fields": {
+        "stats": "CR 2 · AC 13 · HP 45 · +5 to hit · 1d10+3",
+        "does": "A boar the size of a hay cart, with bristles thick and sharp as bramble. It charges anything that smells of food.",
+        "limits": "It can't turn quickly. Step aside and it hits the nearest tree.",
+        "story": "Thornbacks are one of the beasts the Blight is pushing out of the deep woods. GuildScribe's bounty on them is new, and so is its bestiary page."
+      },
+      "body": "- **Stats:** CR 2 · AC 13 · HP 45 · +5 to hit · 1d10+3\n- **Does:** A boar the size of a hay cart, with bristles thick and sharp as bramble. It charges anything that smells of food.\n- **Limits:** It can't turn quickly. Step aside and it hits the nearest tree.\n- **Story:** Thornbacks are one of the beasts the Blight is pushing out of the deep woods. GuildScribe's bounty on them is new, and so is its bestiary page.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 63
+      },
+      "icon": "🐗",
+      "place": "place-the-monster-woods-western-edge",
+      "stats": {
+        "cr": "2",
+        "ac": 13,
+        "hp": 45,
+        "to_hit": 5,
+        "damage": "1d10+3"
+      }
+    },
+    {
+      "id": "gloamowl",
+      "type": "creature",
+      "name": "Gloamowl",
+      "status": "decided",
+      "fields": {
+        "stats": "CR 1/2 · AC 13 · HP 16 · +4 to hit · 1d6+2",
+        "does": "A grey owl as big as a dog that hunts at dusk. It's one of the wood's very few true flyers.",
+        "limits": "It's nearly blind by daylight and stays in its roost.",
+        "story": "Hunters say if you hear one, it's already behind you."
+      },
+      "body": "- **Stats:** CR 1/2 · AC 13 · HP 16 · +4 to hit · 1d6+2\n- **Does:** A grey owl as big as a dog that hunts at dusk. It's one of the wood's very few true flyers.\n- **Limits:** It's nearly blind by daylight and stays in its roost.\n- **Story:** Hunters say if you hear one, it's already behind you.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 70
+      },
+      "icon": "🦉",
+      "place": "place-the-monster-woods-western-edge",
+      "stats": {
+        "cr": "1/2",
+        "ac": 13,
+        "hp": 16,
+        "to_hit": 4,
+        "damage": "1d6+2"
+      }
+    },
+    {
+      "id": "barrowbear",
+      "type": "creature",
+      "name": "Barrowbear",
+      "status": "decided",
+      "fields": {
+        "stats": "CR 4 · AC 14 · HP 80 · +7 to hit · 1d12+4",
+        "does": "A moss-backed bear that digs its den into old earthworks along the road and treats the road as its own.",
+        "limits": "It sleeps through most of winter, and it won't leave its den's sight for long.",
+        "story": "Merchants pay their escorts double for the stretch past a barrowbear's den."
+      },
+      "body": "- **Stats:** CR 4 · AC 14 · HP 80 · +7 to hit · 1d12+4\n- **Does:** A moss-backed bear that digs its den into old earthworks along the road and treats the road as its own.\n- **Limits:** It sleeps through most of winter, and it won't leave its den's sight for long.\n- **Story:** Merchants pay their escorts double for the stretch past a barrowbear's den.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 88
+      },
+      "icon": "🐻",
+      "place": "place-the-woodland-road",
+      "stats": {
+        "cr": "4",
+        "ac": 14,
+        "hp": 80,
+        "to_hit": 7,
+        "damage": "1d12+4"
+      }
+    },
+    {
+      "id": "goblin-raiders",
+      "type": "creature",
+      "name": "Goblin raiders",
+      "status": "decided",
+      "fields": {
+        "in_guildscribe": "Goblin Scavenger, Goblin Boss",
+        "does": "Goblins on the run from the Blight, desperate and hungry, raiding for food and survival.",
+        "story": "The ones that reach the croplands raid Stoutwell's crops. The ones adventurers meet are the ones that didn't get that far."
+      },
+      "body": "- **In GuildScribe:** Goblin Scavenger, Goblin Boss\n- **Does:** Goblins on the run from the Blight, desperate and hungry, raiding for food and survival.\n- **Story:** The ones that reach the croplands raid Stoutwell's crops. The ones adventurers meet are the ones that didn't get that far.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 106
+      },
+      "icon": "👺",
+      "place": "place-the-goblin-lands",
+      "mentioned_in": [
+        "universe-the-monster-wood",
+        "working-notes-what-theyre-like"
+      ]
+    },
+    {
+      "id": "driftmaw",
+      "type": "creature",
+      "name": "Driftmaw",
+      "status": "decided",
+      "fields": {
+        "stats": "CR 3 · AC 12 · HP 58 · +6 to hit · 1d10+3",
+        "does": "A floating gasbag the size of a cart, drifting just above the canopy and trailing sticky tendrils that haul prey up into its mouth.",
+        "limits": "Its movement is dictated by prevailing winds; a strong gust can easily carry it away.",
+        "story": "Floating monsters like it are the reason Stoutwell's walls need human archers. The westward migration of these creatures is attributed to the expansion of the Blight’s influence."
+      },
+      "body": "- **Stats:** CR 3 · AC 12 · HP 58 · +6 to hit · 1d10+3\n- **Does:** A floating gasbag the size of a cart, drifting just above the canopy and trailing sticky tendrils that haul prey up into its mouth.\n- **Limits:** Its movement is dictated by prevailing winds; a strong gust can easily carry it away.\n- **Story:** Floating monsters like it are the reason Stoutwell's walls need human archers. The westward migration of these creatures is attributed to the expansion of the Blight’s influence.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 112
+      },
+      "icon": "🎐",
+      "place": "place-the-goblin-lands",
+      "stats": {
+        "cr": "3",
+        "ac": 12,
+        "hp": 58,
+        "to_hit": 6,
+        "damage": "1d10+3"
+      }
+    },
+    {
+      "id": "hollowstag",
+      "type": "creature",
+      "name": "Hollowstag",
+      "status": "decided",
+      "fields": {
+        "stats": "CR 5 · AC 14 · HP 90 · +7 to hit · 2d6+4",
+        "does": "A stag nearly fifteen feet tall at the antlers. Its antlers are hollow and whistle as it runs, which is how hunters hear it coming.",
+        "limits": "Too tall for thick woods, it keeps to clearings and old roads.",
+        "story": "This towering creature necessitates Stoutwell’s reliance on ranged weaponry for defense. A hollowstag antler would be the first proof of the deep woods' beasts ever brought to GuildScribe."
+      },
+      "body": "- **Stats:** CR 5 · AC 14 · HP 90 · +7 to hit · 2d6+4\n- **Does:** A stag nearly fifteen feet tall at the antlers. Its antlers are hollow and whistle as it runs, which is how hunters hear it coming.\n- **Limits:** Too tall for thick woods, it keeps to clearings and old roads.\n- **Story:** This towering creature necessitates Stoutwell’s reliance on ranged weaponry for defense. A hollowstag antler would be the first proof of the deep woods' beasts ever brought to GuildScribe.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 119
+      },
+      "icon": "🦌",
+      "place": "place-the-goblin-lands",
+      "stats": {
+        "cr": "5",
+        "ac": 14,
+        "hp": 90,
+        "to_hit": 7,
+        "damage": "2d6+4"
+      },
+      "mentioned_in": [
+        "universe-the-monster-wood",
+        "working-notes-what-theyre-like"
+      ]
+    },
+    {
+      "id": "trolls",
+      "type": "creature",
+      "name": "Trolls",
+      "status": "decided",
+      "fields": {
+        "in_guildscribe": "Troll",
+        "does": "Native to the deep woods of the Monster Wood, the same kind of creature as in Arandur's world.",
+        "story": "Stoutwell's defenses mean they aren't a problem there."
+      },
+      "body": "- **In GuildScribe:** Troll\n- **Does:** Native to the deep woods of the Monster Wood, the same kind of creature as in Arandur's world.\n- **Story:** Stoutwell's defenses mean they aren't a problem there.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 137
+      },
+      "icon": "🧌",
+      "place": "place-the-deep-woods",
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-the-monster-wood",
+        "universe-guildscribes-adventurers",
+        "universe-veterans",
+        "working-notes-what-theyre-like",
+        "working-notes-hooks-into-the-universe"
+      ]
+    },
+    {
+      "id": "rootwyrm",
+      "type": "creature",
+      "name": "Rootwyrm",
+      "status": "decided",
+      "fields": {
+        "stats": "CR 9 · AC 16 · HP 150 · +10 to hit · 2d10+6",
+        "does": "A serpent as thick as a mill wheel that lives in the tangle of roots under the deep woods, surfacing to swallow whatever stands still.",
+        "limits": "It needs soft, living soil to move through. The Blight's dry, grey ground is driving it out.",
+        "story": "The Blight killing the roots is what brought rootwyrms to the surface."
+      },
+      "body": "- **Stats:** CR 9 · AC 16 · HP 150 · +10 to hit · 2d10+6\n- **Does:** A serpent as thick as a mill wheel that lives in the tangle of roots under the deep woods, surfacing to swallow whatever stands still.\n- **Limits:** It needs soft, living soil to move through. The Blight's dry, grey ground is driving it out.\n- **Story:** The Blight killing the roots is what brought rootwyrms to the surface.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 143
+      },
+      "icon": "🐍",
+      "place": "place-the-deep-woods",
+      "stats": {
+        "cr": "9",
+        "ac": 16,
+        "hp": 150,
+        "to_hit": 10,
+        "damage": "2d10+6"
+      }
+    },
+    {
+      "id": "the-mosswarden",
+      "type": "creature",
+      "name": "The Mosswarden",
+      "status": "decided",
+      "fields": {
+        "stats": "CR 15 · AC 18 · HP 210 · +11 to hit · 2d12+6",
+        "does": "A beast so old a small forest grows on its back. It walks so slowly that most people who see it think it's a hill.",
+        "limits": "It almost never runs, and it stops to root itself every season.",
+        "story": "It has wandered the deep woods since Stoutwell was founded. If the Blight has driven even the Mosswarden out, things are worse in there than anyone knows. Murrow might remember it."
+      },
+      "body": "- **Stats:** CR 15 · AC 18 · HP 210 · +11 to hit · 2d12+6\n- **Does:** A beast so old a small forest grows on its back. It walks so slowly that most people who see it think it's a hill.\n- **Limits:** It almost never runs, and it stops to root itself every season.\n- **Story:** It has wandered the deep woods since Stoutwell was founded. If the Blight has driven even the Mosswarden out, things are worse in there than anyone knows. Murrow might remember it.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 150
+      },
+      "icon": "🌳",
+      "place": "place-the-deep-woods",
+      "stats": {
+        "cr": "15",
+        "ac": 18,
+        "hp": 210,
+        "to_hit": 11,
+        "damage": "2d12+6"
+      }
+    }
+  ]
+}
