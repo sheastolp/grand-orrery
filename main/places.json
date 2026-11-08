@@ -1,0 +1,271 @@
+{
+  "schema": 1,
+  "built": "2026-11-08T15:58:11.747Z",
+  "branch": "main",
+  "commit": "a6f99f65d4f5541d0ce8fb92ef6400816f0c557e",
+  "counts": {
+    "person": 73,
+    "role": 11,
+    "world": 2,
+    "item": 87,
+    "place": 7,
+    "creature": 9,
+    "lore": 61,
+    "note": 175
+  },
+  "entities": [
+    {
+      "id": "place-guildscribes-arena",
+      "type": "place",
+      "name": "GuildScribe's arena",
+      "kind": "hunting-ground",
+      "status": "decided",
+      "fields": {
+        "where": "Inside GuildScribe's hall in the Kingdom's capital.",
+        "for": "duels",
+        "lines": [
+          "The arena sand is raked smooth, and a guildscribe uncaps her ink to record the result.",
+          "The arena crowd is mostly off-duty guildscribes, and they bet in copper.",
+          "A sanctioned duel: coin and standing on the line, and every swing goes on a parchment.",
+          "The Scribe looks up from her desk long enough to sigh at the fighters.",
+          "Two adventurers step onto the sand and the guild hall goes quiet.",
+          "The bout is entered in the hall's ledger before the first swing lands."
+        ]
+      },
+      "body": "- **Where:** Inside GuildScribe's hall in the Kingdom's capital.\n- **For:** duels\n- **Lines:**\n  - The arena sand is raked smooth, and a guildscribe uncaps her ink to record the result.\n  - The arena crowd is mostly off-duty guildscribes, and they bet in copper.\n  - A sanctioned duel: coin and standing on the line, and every swing goes on a parchment.\n  - The Scribe looks up from her desk long enough to sigh at the fighters.\n  - Two adventurers step onto the sand and the guild hall goes quiet.\n  - The bout is entered in the hall's ledger before the first swing lands.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 19
+      },
+      "uses": [
+        "duels"
+      ],
+      "lines": [
+        "The arena sand is raked smooth, and a guildscribe uncaps her ink to record the result.",
+        "The arena crowd is mostly off-duty guildscribes, and they bet in copper.",
+        "A sanctioned duel: coin and standing on the line, and every swing goes on a parchment.",
+        "The Scribe looks up from her desk long enough to sigh at the fighters.",
+        "Two adventurers step onto the sand and the guild hall goes quiet.",
+        "The bout is entered in the hall's ledger before the first swing lands."
+      ]
+    },
+    {
+      "id": "place-the-capitals-market-square",
+      "type": "place",
+      "name": "The capital's market square",
+      "kind": "hunting-ground",
+      "status": "decided",
+      "fields": {
+        "where": "The Kingdom's capital, around the peddlers' open stall.",
+        "for": "robberies",
+        "lines": [
+          "The market square is crowded enough that nobody looks twice at a scuffle.",
+          "Somewhere behind the peddlers' stall, a purse changes hands the hard way.",
+          "The capital's market noise covers the sound of a fight.",
+          "A peddler at the open stall pretends not to notice and keeps haggling."
+        ]
+      },
+      "body": "- **Where:** The Kingdom's capital, around the peddlers' open stall.\n- **For:** robberies\n- **Lines:**\n  - The market square is crowded enough that nobody looks twice at a scuffle.\n  - Somewhere behind the peddlers' stall, a purse changes hands the hard way.\n  - The capital's market noise covers the sound of a fight.\n  - A peddler at the open stall pretends not to notice and keeps haggling.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 31
+      },
+      "uses": [
+        "robberies"
+      ],
+      "lines": [
+        "The market square is crowded enough that nobody looks twice at a scuffle.",
+        "Somewhere behind the peddlers' stall, a purse changes hands the hard way.",
+        "The capital's market noise covers the sound of a fight.",
+        "A peddler at the open stall pretends not to notice and keeps haggling."
+      ]
+    },
+    {
+      "id": "place-the-kingdoms-roads",
+      "type": "place",
+      "name": "The Kingdom's roads",
+      "kind": "hunting-ground",
+      "status": "decided",
+      "fields": {
+        "where": "The Wandering Clerk's road, looping through the Kingdom's small towns and waystations out to its eastern edge.",
+        "for": "hunts",
+        "levels": "1-4",
+        "lines": [
+          "The Wandering Clerk posted this bounty at a waystation and moved on before anyone could ask questions.",
+          "Out on the Clerk's road, between two towns that barely have names.",
+          "A hunt along the Kingdom's roads, where the Clerk's ledger is the only law.",
+          "At a waystation on the Kingdom's edge, the bounty board is one nail and one notice."
+        ]
+      },
+      "body": "- **Where:** The Wandering Clerk's road, looping through the Kingdom's small towns and waystations out to its eastern edge.\n- **For:** hunts\n- **Levels:** 1-4\n- **Lines:**\n  - The Wandering Clerk posted this bounty at a waystation and moved on before anyone could ask questions.\n  - Out on the Clerk's road, between two towns that barely have names.\n  - A hunt along the Kingdom's roads, where the Clerk's ledger is the only law.\n  - At a waystation on the Kingdom's edge, the bounty board is one nail and one notice.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 41
+      },
+      "uses": [
+        "hunts"
+      ],
+      "levels": [
+        1,
+        4
+      ],
+      "lines": [
+        "The Wandering Clerk posted this bounty at a waystation and moved on before anyone could ask questions.",
+        "Out on the Clerk's road, between two towns that barely have names.",
+        "A hunt along the Kingdom's roads, where the Clerk's ledger is the only law.",
+        "At a waystation on the Kingdom's edge, the bounty board is one nail and one notice."
+      ]
+    },
+    {
+      "id": "place-the-monster-woods-western-edge",
+      "type": "place",
+      "name": "The Monster Wood's western edge",
+      "kind": "hunting-ground",
+      "status": "decided",
+      "fields": {
+        "where": "Where the Monster Wood meets the Kingdom. Adventurers come in from the west, the Kingdom's side.",
+        "for": "hunts",
+        "levels": "1-10",
+        "lines": [
+          "Into the blighted goblin lands, as far as any adventurer has gotten.",
+          "The trees close in a mile past the Kingdom's last fence.",
+          "On the Monster Wood's western edge, where GuildScribe's bounties are thickest.",
+          "The wood is quiet here. The guildscribes say that's when to worry."
+        ]
+      },
+      "body": "- **Where:** Where the Monster Wood meets the Kingdom. Adventurers come in from the west, the Kingdom's side.\n- **For:** hunts\n- **Levels:** 1-10\n- **Lines:**\n  - Into the blighted goblin lands, as far as any adventurer has gotten.\n  - The trees close in a mile past the Kingdom's last fence.\n  - On the Monster Wood's western edge, where GuildScribe's bounties are thickest.\n  - The wood is quiet here. The guildscribes say that's when to worry.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 52
+      },
+      "uses": [
+        "hunts"
+      ],
+      "levels": [
+        1,
+        10
+      ],
+      "lines": [
+        "Into the blighted goblin lands, as far as any adventurer has gotten.",
+        "The trees close in a mile past the Kingdom's last fence.",
+        "On the Monster Wood's western edge, where GuildScribe's bounties are thickest.",
+        "The wood is quiet here. The guildscribes say that's when to worry."
+      ]
+    },
+    {
+      "id": "place-the-woodland-road",
+      "type": "place",
+      "name": "The Woodland Road",
+      "kind": "hunting-ground",
+      "status": "decided",
+      "fields": {
+        "where": "The road through the Monster Wood from the Kingdom's edge east toward Stoutwell. Merchants travel it with escorts.",
+        "for": "hunts",
+        "levels": "3-8",
+        "lines": [
+          "Hired as an escort on the Woodland Road's western stretch, as far as the pay goes.",
+          "On the Woodland Road. Relatively safe, the merchants say, but still dangerous.",
+          "The merchant's wagon creaks to a stop. Something is on the road ahead.",
+          "The Woodland Road bends east into the wood, toward a village no adventurer has reached."
+        ]
+      },
+      "body": "- **Where:** The road through the Monster Wood from the Kingdom's edge east toward Stoutwell. Merchants travel it with escorts.\n- **For:** hunts\n- **Levels:** 3-8\n- **Lines:**\n  - Hired as an escort on the Woodland Road's western stretch, as far as the pay goes.\n  - On the Woodland Road. Relatively safe, the merchants say, but still dangerous.\n  - The merchant's wagon creaks to a stop. Something is on the road ahead.\n  - The Woodland Road bends east into the wood, toward a village no adventurer has reached.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 77
+      },
+      "uses": [
+        "hunts"
+      ],
+      "levels": [
+        3,
+        8
+      ],
+      "lines": [
+        "Hired as an escort on the Woodland Road's western stretch, as far as the pay goes.",
+        "On the Woodland Road. Relatively safe, the merchants say, but still dangerous.",
+        "The merchant's wagon creaks to a stop. Something is on the road ahead.",
+        "The Woodland Road bends east into the wood, toward a village no adventurer has reached."
+      ],
+      "mentioned_in": [
+        "universe-beyond-the-village",
+        "working-notes-the-woodland-road"
+      ]
+    },
+    {
+      "id": "place-the-goblin-lands",
+      "type": "place",
+      "name": "The goblin lands",
+      "kind": "hunting-ground",
+      "status": "decided",
+      "fields": {
+        "where": "The Monster Wood's eastern reaches, between the deep woods and Stoutwell's croplands, where the Blight has reached and the goblins are fleeing it east. Adventurers get this far by following the Woodland Road through the wood, and none has made it past them.",
+        "for": "hunts",
+        "levels": "6-14",
+        "lines": [
+          "Into the blighted goblin lands, as far as any adventurer has gotten.",
+          "The trees here are grey and dry. The Blight has been through.",
+          "Goblin camps, abandoned in a hurry. Whatever they're fleeing, it's deeper in.",
+          "No company has made it past the goblin lands. This one is going to try."
+        ]
+      },
+      "body": "- **Where:** The Monster Wood's eastern reaches, between the deep woods and Stoutwell's croplands, where the Blight has reached and the goblins are fleeing it east. Adventurers get this far by following the Woodland Road through the wood, and none has made it past them.\n- **For:** hunts\n- **Levels:** 6-14\n- **Lines:**\n  - Into the blighted goblin lands, as far as any adventurer has gotten.\n  - The trees here are grey and dry. The Blight has been through.\n  - Goblin camps, abandoned in a hurry. Whatever they're fleeing, it's deeper in.\n  - No company has made it past the goblin lands. This one is going to try.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 95
+      },
+      "uses": [
+        "hunts"
+      ],
+      "levels": [
+        6,
+        14
+      ],
+      "lines": [
+        "Into the blighted goblin lands, as far as any adventurer has gotten.",
+        "The trees here are grey and dry. The Blight has been through.",
+        "Goblin camps, abandoned in a hurry. Whatever they're fleeing, it's deeper in.",
+        "No company has made it past the goblin lands. This one is going to try."
+      ]
+    },
+    {
+      "id": "place-the-deep-woods",
+      "type": "place",
+      "name": "The deep woods",
+      "kind": "hunting-ground",
+      "status": "decided",
+      "fields": {
+        "where": "The heart of the Monster Wood, north of the Woodland Road and west of the goblin lands, where the Blight started. No adventurer has been there. Only what comes out of it is known.",
+        "for": "raids",
+        "levels": "13-20",
+        "lines": [
+          "GuildScribe has issued a bounty for any recovered specimens originating from the depths of the Monster Wood.",
+          "Out of the deep woods, where no adventurer has ever been, something big is moving west.",
+          "The Blight drove it out of the deep woods; now the Kingdom faces its consequences.",
+          "GuildScribe has prepared a blank bestiary page for whatever emerges from the deep woods."
+        ]
+      },
+      "body": "- **Where:** The heart of the Monster Wood, north of the Woodland Road and west of the goblin lands, where the Blight started. No adventurer has been there. Only what comes out of it is known.\n- **For:** raids\n- **Levels:** 13-20\n- **Lines:**\n  - GuildScribe has issued a bounty for any recovered specimens originating from the depths of the Monster Wood.\n  - Out of the deep woods, where no adventurer has ever been, something big is moving west.\n  - The Blight drove it out of the deep woods; now the Kingdom faces its consequences.\n  - GuildScribe has prepared a blank bestiary page for whatever emerges from the deep woods.",
+      "source": {
+        "file": "bestiary.md",
+        "line": 126
+      },
+      "uses": [
+        "raids"
+      ],
+      "levels": [
+        13,
+        20
+      ],
+      "lines": [
+        "GuildScribe has issued a bounty for any recovered specimens originating from the depths of the Monster Wood.",
+        "Out of the deep woods, where no adventurer has ever been, something big is moving west.",
+        "The Blight drove it out of the deep woods; now the Kingdom faces its consequences.",
+        "GuildScribe has prepared a blank bestiary page for whatever emerges from the deep woods."
+      ],
+      "mentioned_in": [
+        "lore-beyond"
+      ]
+    }
+  ]
+}

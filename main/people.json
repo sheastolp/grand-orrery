@@ -1,12 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-07T22:01:08.751Z",
+  "built": "2026-11-08T15:58:11.747Z",
   "branch": "main",
-  "commit": "6d34f3d28232c9a89d29a2997521c8e01e61594a",
+  "commit": "a6f99f65d4f5541d0ce8fb92ef6400816f0c557e",
   "counts": {
-    "person": 72,
+    "person": 73,
     "role": 11,
-    "world": 2
+    "world": 2,
+    "item": 87,
+    "place": 7,
+    "creature": 9,
+    "lore": 61,
+    "note": 175
   },
   "entities": [
     {
@@ -25,7 +30,24 @@
       "source": {
         "file": "roster.md",
         "line": 15
-      }
+      },
+      "mentioned_in": [
+        "lore-leadership",
+        "lore-kingdom",
+        "universe-burn-the-wellhouses-regular",
+        "universe-osric-leader-of-the-elderhold",
+        "universe-hesketh-reeve-captain-of-the-guard",
+        "universe-beyond-the-village",
+        "working-notes-leadership",
+        "working-notes-the-crown-and-the-great-houses",
+        "working-notes-still-open-in-the-kingdom",
+        "working-notes-osric-leader-of-the-elderhold",
+        "working-notes-hesketh-reeve-the-guard-captain",
+        "working-notes-the-elders-of-the-elderhold",
+        "working-notes-marda-the-reformed-cutpurse",
+        "working-notes-gilded-spine-of-the-silent-archivist",
+        "working-notes-village-roster-2"
+      ]
     },
     {
       "id": "wendeline-brackenford",
@@ -43,7 +65,18 @@
       "source": {
         "file": "roster.md",
         "line": 16
-      }
+      },
+      "mentioned_in": [
+        "lore-leadership",
+        "lore-people-2",
+        "lore-people-3",
+        "lore-people-4",
+        "universe-the-elders",
+        "working-notes-the-elders-of-the-elderhold",
+        "working-notes-silas-blackwood",
+        "working-notes-village-roster-2",
+        "working-notes-the-silent-offering"
+      ]
     },
     {
       "id": "fenwick-larkspur",
@@ -61,7 +94,19 @@
       "source": {
         "file": "roster.md",
         "line": 17
-      }
+      },
+      "mentioned_in": [
+        "lore-leadership",
+        "lore-people-2",
+        "lore-people-3",
+        "lore-people-4",
+        "universe-the-elders",
+        "universe-the-scribe-the-peddlers-and-the-wandering-clerk",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk",
+        "working-notes-the-elders-of-the-elderhold",
+        "working-notes-village-roster-2",
+        "working-notes-the-silent-offering"
+      ]
     },
     {
       "id": "bertram-quillby",
@@ -79,7 +124,17 @@
       "source": {
         "file": "roster.md",
         "line": 18
-      }
+      },
+      "mentioned_in": [
+        "lore-leadership",
+        "lore-people-2",
+        "lore-people-3",
+        "lore-people-4",
+        "universe-the-elders",
+        "working-notes-the-elders-of-the-elderhold",
+        "working-notes-village-roster-2",
+        "working-notes-the-silent-offering"
+      ]
     },
     {
       "id": "ysolde-ambergate",
@@ -97,7 +152,15 @@
       "source": {
         "file": "roster.md",
         "line": 19
-      }
+      },
+      "mentioned_in": [
+        "lore-leadership",
+        "lore-people-2",
+        "universe-the-elders",
+        "working-notes-the-elders-of-the-elderhold",
+        "working-notes-village-roster-2",
+        "working-notes-the-silent-offering"
+      ]
     },
     {
       "id": "clementine-rook",
@@ -115,7 +178,14 @@
       "source": {
         "file": "roster.md",
         "line": 20
-      }
+      },
+      "mentioned_in": [
+        "lore-leadership",
+        "lore-people-2",
+        "universe-the-elders",
+        "working-notes-the-elders-of-the-elderhold",
+        "working-notes-village-roster-2"
+      ]
     },
     {
       "id": "tobin-ashby",
@@ -133,7 +203,21 @@
       "source": {
         "file": "roster.md",
         "line": 26
-      }
+      },
+      "mentioned_in": [
+        "lore-people",
+        "lore-people-2",
+        "lore-people-3",
+        "lore-people-4",
+        "universe-tobin-ashby",
+        "working-notes-the-character",
+        "working-notes-trades-crafts",
+        "working-notes-village-roster",
+        "working-notes-northwind-harbour-surrounding-mountains",
+        "working-notes-brackwood-fringe-2",
+        "working-notes-reinforced-gatehouse-beams",
+        "working-notes-village-roster-2"
+      ]
     },
     {
       "id": "doric",
@@ -151,7 +235,41 @@
       "source": {
         "file": "roster.md",
         "line": 27
-      }
+      },
+      "mentioned_in": [
+        "lore-items",
+        "lore-resources",
+        "lore-stoutwell",
+        "lore-people",
+        "lore-items-2",
+        "lore-people-2",
+        "lore-items-3",
+        "lore-people-3",
+        "lore-items-4",
+        "lore-people-4",
+        "lore-items-5",
+        "lore-items-6",
+        "lore-races-6",
+        "universe-maps",
+        "universe-layout",
+        "universe-trades",
+        "universe-doric",
+        "universe-murrows-items",
+        "working-notes-maps",
+        "working-notes-the-character",
+        "working-notes-neighborhoods",
+        "working-notes-trades-crafts",
+        "working-notes-murrow-the-artificer",
+        "working-notes-constructed-items",
+        "working-notes-village-roster",
+        "working-notes-doric-the-master-blacksmith",
+        "working-notes-greyhaven",
+        "working-notes-reinforced-gatehouse-beams",
+        "working-notes-village-roster-2",
+        "working-notes-the-silent-well",
+        "working-notes-guards-routine",
+        "working-notes-murrows-secret"
+      ]
     },
     {
       "id": "hesketh-reeve",
@@ -169,7 +287,23 @@
       "source": {
         "file": "roster.md",
         "line": 28
-      }
+      },
+      "mentioned_in": [
+        "lore-people",
+        "lore-people-2",
+        "lore-people-3",
+        "lore-people-4",
+        "universe-hesketh-reeve-captain-of-the-guard",
+        "universe-the-scribe-the-peddlers-and-the-wandering-clerk",
+        "working-notes-the-guard-rotation",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk",
+        "working-notes-hesketh-reeve-the-guard-captain",
+        "working-notes-silas-blackwood",
+        "working-notes-village-roster-2",
+        "working-notes-guards-routine",
+        "working-notes-murrows-secret",
+        "working-notes-rooks-watch"
+      ]
     },
     {
       "id": "murrow",
@@ -187,7 +321,66 @@
       "source": {
         "file": "roster.md",
         "line": 29
-      }
+      },
+      "mentioned_in": [
+        "lore-artificers",
+        "lore-items",
+        "lore-resources",
+        "lore-stoutwell",
+        "lore-people",
+        "lore-beyond",
+        "lore-kingdom",
+        "lore-artificers-2",
+        "lore-items-2",
+        "lore-people-2",
+        "lore-items-3",
+        "lore-people-3",
+        "lore-items-4",
+        "lore-people-4",
+        "lore-items-5",
+        "lore-items-6",
+        "lore-artificers-3",
+        "lore-races-6",
+        "lore-artificers-4",
+        "universe-healers",
+        "universe-water-and-the-dead-well",
+        "universe-layout",
+        "universe-doric",
+        "universe-the-elders",
+        "universe-murrow-the-artificer",
+        "universe-murrows-items",
+        "universe-beyond-the-village",
+        "universe-glumtom-the-kingdoms-artificer",
+        "universe-the-seekers-lodestone",
+        "universe-still-being-developed",
+        "working-notes-the-tavern",
+        "working-notes-water",
+        "working-notes-neighborhoods",
+        "working-notes-murrow-the-artificer",
+        "working-notes-healers",
+        "working-notes-mana-and-items",
+        "working-notes-constructed-items",
+        "working-notes-who-the-kingdom-can-draft",
+        "working-notes-why-stoutwell-isnt-on-the-rolls",
+        "working-notes-the-kingdoms-history-in-brief",
+        "working-notes-village-roster",
+        "working-notes-the-elders-of-the-elderhold",
+        "working-notes-how-the-worlds-connect",
+        "working-notes-how-he-ties-in",
+        "working-notes-the-seekers-lodestone",
+        "working-notes-chromatic-drake-xans-wildshape",
+        "working-notes-northwind-harbour-surrounding-mountains",
+        "working-notes-greyhaven",
+        "working-notes-brackwood-fringe-2",
+        "working-notes-gilded-spine-of-the-silent-archivist",
+        "working-notes-reinforced-gatehouse-beams",
+        "working-notes-silas-blackwood",
+        "working-notes-village-roster-2",
+        "working-notes-whisperwind",
+        "working-notes-the-silent-well",
+        "working-notes-murrows-secret",
+        "working-notes-whisperwinds-watch-3"
+      ]
     },
     {
       "id": "the-wellhouse-family",
@@ -203,7 +396,12 @@
       "source": {
         "file": "roster.md",
         "line": 30
-      }
+      },
+      "mentioned_in": [
+        "lore-wellhouse",
+        "universe-the-people",
+        "working-notes-village-roster-2"
+      ]
     },
     {
       "id": "burn",
@@ -221,7 +419,14 @@
       "source": {
         "file": "roster.md",
         "line": 31
-      }
+      },
+      "mentioned_in": [
+        "lore-people",
+        "lore-people-2",
+        "universe-burn-the-wellhouses-regular",
+        "working-notes-village-roster-2",
+        "working-notes-the-silent-offering"
+      ]
     },
     {
       "id": "glumtom",
@@ -238,7 +443,26 @@
       "source": {
         "file": "roster.md",
         "line": 37
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "lore-kingdom",
+        "universe-healers",
+        "universe-maps",
+        "universe-beyond-the-village",
+        "universe-glumtom-the-kingdoms-artificer",
+        "universe-the-seekers-lodestone",
+        "working-notes-maps",
+        "working-notes-murrow-the-artificer",
+        "working-notes-healers",
+        "working-notes-who-the-kingdom-can-draft",
+        "working-notes-the-capital-and-the-heartland",
+        "working-notes-guildscribe-the-kingdoms-guild-hall",
+        "working-notes-glumtom",
+        "working-notes-how-he-ties-in",
+        "working-notes-the-seekers-lodestone",
+        "working-notes-marda-the-reformed-cutpurse"
+      ]
     },
     {
       "id": "the-scribe",
@@ -257,7 +481,14 @@
       "source": {
         "file": "roster.md",
         "line": 45
-      }
+      },
+      "mentioned_in": [
+        "universe-the-scribe-the-peddlers-and-the-wandering-clerk",
+        "universe-where-guildscribes-people-live-and-travel",
+        "working-notes-the-kingdom-runs-on-paper",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk",
+        "working-notes-highwrit"
+      ]
     },
     {
       "id": "the-wandering-clerk",
@@ -274,7 +505,13 @@
       "source": {
         "file": "roster.md",
         "line": 46
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-the-scribe-the-peddlers-and-the-wandering-clerk",
+        "universe-where-guildscribes-people-live-and-travel",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "bregga-stumpteeth",
@@ -291,7 +528,11 @@
       "source": {
         "file": "roster.md",
         "line": 52
-      }
+      },
+      "mentioned_in": [
+        "universe-the-capital-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "widow-hesk",
@@ -308,7 +549,13 @@
       "source": {
         "file": "roster.md",
         "line": 53
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-the-scribe-the-peddlers-and-the-wandering-clerk",
+        "universe-the-capital-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "fenwick-loose-coin",
@@ -325,7 +572,12 @@
       "source": {
         "file": "roster.md",
         "line": 54
-      }
+      },
+      "mentioned_in": [
+        "universe-the-scribe-the-peddlers-and-the-wandering-clerk",
+        "universe-the-capital-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "marda-the-reformed-cutpurse",
@@ -342,7 +594,12 @@
       "source": {
         "file": "roster.md",
         "line": 55
-      }
+      },
+      "mentioned_in": [
+        "universe-the-capital-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk",
+        "working-notes-marda-the-reformed-cutpurse"
+      ]
     },
     {
       "id": "grithnall-the-threadbare",
@@ -359,7 +616,11 @@
       "source": {
         "file": "roster.md",
         "line": 56
-      }
+      },
+      "mentioned_in": [
+        "universe-the-capital-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "ossop-the-unlucky",
@@ -376,7 +637,11 @@
       "source": {
         "file": "roster.md",
         "line": 57
-      }
+      },
+      "mentioned_in": [
+        "universe-the-capital-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "beren-halfcoat",
@@ -393,7 +658,11 @@
       "source": {
         "file": "roster.md",
         "line": 58
-      }
+      },
+      "mentioned_in": [
+        "universe-the-capital-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "ivy-scraptongue",
@@ -410,7 +679,11 @@
       "source": {
         "file": "roster.md",
         "line": 59
-      }
+      },
+      "mentioned_in": [
+        "universe-the-capital-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "doras-milkbeard",
@@ -427,7 +700,11 @@
       "source": {
         "file": "roster.md",
         "line": 60
-      }
+      },
+      "mentioned_in": [
+        "universe-the-capital-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "ruel-tinkpocket",
@@ -444,7 +721,11 @@
       "source": {
         "file": "roster.md",
         "line": 61
-      }
+      },
+      "mentioned_in": [
+        "universe-the-capital-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "podge-ashborn",
@@ -461,7 +742,11 @@
       "source": {
         "file": "roster.md",
         "line": 62
-      }
+      },
+      "mentioned_in": [
+        "universe-the-capital-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "uther-nine-debts",
@@ -478,7 +763,11 @@
       "source": {
         "file": "roster.md",
         "line": 63
-      }
+      },
+      "mentioned_in": [
+        "universe-the-capital-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "wobble",
@@ -495,7 +784,12 @@
       "source": {
         "file": "roster.md",
         "line": 69
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-the-road-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "pruneface-yorik",
@@ -512,7 +806,12 @@
       "source": {
         "file": "roster.md",
         "line": 70
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-the-road-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "tansy-ninefingers",
@@ -529,7 +828,13 @@
       "source": {
         "file": "roster.md",
         "line": 71
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-the-road-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk",
+        "working-notes-ash-wood-from-the-ashen-reach"
+      ]
     },
     {
       "id": "old-corrin",
@@ -546,7 +851,12 @@
       "source": {
         "file": "roster.md",
         "line": 72
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-the-road-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "tam-pockets",
@@ -563,7 +873,12 @@
       "source": {
         "file": "roster.md",
         "line": 73
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-the-road-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "squint",
@@ -580,7 +895,12 @@
       "source": {
         "file": "roster.md",
         "line": 74
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-the-road-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "nan-gullyfoot",
@@ -597,7 +917,12 @@
       "source": {
         "file": "roster.md",
         "line": 75
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-the-road-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "kettle",
@@ -614,7 +939,12 @@
       "source": {
         "file": "roster.md",
         "line": 76
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-the-road-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "sella-windrags",
@@ -631,7 +961,12 @@
       "source": {
         "file": "roster.md",
         "line": 77
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-the-road-peddlers",
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+      ]
     },
     {
       "id": "nobody",
@@ -654,7 +989,20 @@
       "source": {
         "file": "roster.md",
         "line": 85
-      }
+      },
+      "mentioned_in": [
+        "lore-people",
+        "lore-beyond",
+        "universe-murrow-the-artificer",
+        "universe-murrows-items",
+        "universe-guildscribes-adventurers",
+        "universe-veterans",
+        "working-notes-murrow-the-artificer",
+        "working-notes-constructed-items",
+        "midkemia-the-wilds-of-rylan-pirate-island",
+        "midkemia-the-carnival",
+        "midkemia-the-party"
+      ]
     },
     {
       "id": "momma-enya",
@@ -677,7 +1025,12 @@
       "source": {
         "file": "roster.md",
         "line": 86
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-guildscribes-adventurers",
+        "universe-veterans"
+      ]
     },
     {
       "id": "fel",
@@ -721,7 +1074,12 @@
       "source": {
         "file": "roster.md",
         "line": 88
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-guildscribes-adventurers",
+        "universe-veterans"
+      ]
     },
     {
       "id": "stabitha",
@@ -740,7 +1098,11 @@
       "source": {
         "file": "roster.md",
         "line": 89
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-veterans"
+      ]
     },
     {
       "id": "sun",
@@ -781,7 +1143,11 @@
       "source": {
         "file": "roster.md",
         "line": 91
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-veterans"
+      ]
     },
     {
       "id": "blackass",
@@ -803,7 +1169,12 @@
       "source": {
         "file": "roster.md",
         "line": 92
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-guildscribes-adventurers",
+        "universe-veterans"
+      ]
     },
     {
       "id": "xan",
@@ -847,7 +1218,12 @@
       "source": {
         "file": "roster.md",
         "line": 94
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-guildscribes-adventurers",
+        "universe-seasoned"
+      ]
     },
     {
       "id": "shadowflame",
@@ -869,7 +1245,12 @@
       "source": {
         "file": "roster.md",
         "line": 95
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-guildscribes-adventurers",
+        "universe-seasoned"
+      ]
     },
     {
       "id": "mistkettle",
@@ -888,7 +1269,11 @@
       "source": {
         "file": "roster.md",
         "line": 96
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-seasoned"
+      ]
     },
     {
       "id": "grimknot",
@@ -907,7 +1292,11 @@
       "source": {
         "file": "roster.md",
         "line": 97
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-seasoned"
+      ]
     },
     {
       "id": "jeredth",
@@ -929,7 +1318,11 @@
       "source": {
         "file": "roster.md",
         "line": 98
-      }
+      },
+      "mentioned_in": [
+        "universe-guildscribes-adventurers",
+        "universe-seasoned"
+      ]
     },
     {
       "id": "quack",
@@ -948,7 +1341,11 @@
       "source": {
         "file": "roster.md",
         "line": 99
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-journeymen"
+      ]
     },
     {
       "id": "ryos",
@@ -967,7 +1364,11 @@
       "source": {
         "file": "roster.md",
         "line": 100
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-journeymen"
+      ]
     },
     {
       "id": "smokeeeg",
@@ -986,7 +1387,10 @@
       "source": {
         "file": "roster.md",
         "line": 101
-      }
+      },
+      "mentioned_in": [
+        "universe-journeymen"
+      ]
     },
     {
       "id": "moonkettle",
@@ -1005,7 +1409,11 @@
       "source": {
         "file": "roster.md",
         "line": 102
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-journeymen"
+      ]
     },
     {
       "id": "blickysnicky",
@@ -1024,7 +1432,10 @@
       "source": {
         "file": "roster.md",
         "line": 103
-      }
+      },
+      "mentioned_in": [
+        "universe-novices"
+      ]
     },
     {
       "id": "cinderfoot",
@@ -1043,7 +1454,11 @@
       "source": {
         "file": "roster.md",
         "line": 104
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-novices"
+      ]
     },
     {
       "id": "antispinth1s",
@@ -1062,7 +1477,10 @@
       "source": {
         "file": "roster.md",
         "line": 105
-      }
+      },
+      "mentioned_in": [
+        "universe-novices"
+      ]
     },
     {
       "id": "chaoticwaterdragon",
@@ -1081,7 +1499,10 @@
       "source": {
         "file": "roster.md",
         "line": 106
-      }
+      },
+      "mentioned_in": [
+        "universe-novices"
+      ]
     },
     {
       "id": "conanski",
@@ -1100,7 +1521,11 @@
       "source": {
         "file": "roster.md",
         "line": 107
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-novices"
+      ]
     },
     {
       "id": "ironmantle",
@@ -1119,7 +1544,11 @@
       "source": {
         "file": "roster.md",
         "line": 108
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-novices"
+      ]
     },
     {
       "id": "itsrybread",
@@ -1138,7 +1567,10 @@
       "source": {
         "file": "roster.md",
         "line": 109
-      }
+      },
+      "mentioned_in": [
+        "universe-novices"
+      ]
     },
     {
       "id": "bramthistle",
@@ -1157,7 +1589,11 @@
       "source": {
         "file": "roster.md",
         "line": 110
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-novices"
+      ]
     },
     {
       "id": "mistcrest",
@@ -1176,7 +1612,11 @@
       "source": {
         "file": "roster.md",
         "line": 111
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-novices"
+      ]
     },
     {
       "id": "morathisshadowweaver",
@@ -1195,7 +1635,10 @@
       "source": {
         "file": "roster.md",
         "line": 112
-      }
+      },
+      "mentioned_in": [
+        "universe-novices"
+      ]
     },
     {
       "id": "hawkthistle",
@@ -1214,7 +1657,11 @@
       "source": {
         "file": "roster.md",
         "line": 113
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-novices"
+      ]
     },
     {
       "id": "thunderwing",
@@ -1233,7 +1680,11 @@
       "source": {
         "file": "roster.md",
         "line": 114
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-novices"
+      ]
     },
     {
       "id": "bramblehelm",
@@ -1252,7 +1703,11 @@
       "source": {
         "file": "roster.md",
         "line": 115
-      }
+      },
+      "mentioned_in": [
+        "lore-beyond",
+        "universe-novices"
+      ]
     },
     {
       "id": "undercovermario",
@@ -1271,7 +1726,10 @@
       "source": {
         "file": "roster.md",
         "line": 116
-      }
+      },
+      "mentioned_in": [
+        "universe-novices"
+      ]
     },
     {
       "id": "x3zero",
@@ -1290,7 +1748,10 @@
       "source": {
         "file": "roster.md",
         "line": 117
-      }
+      },
+      "mentioned_in": [
+        "universe-novices"
+      ]
     },
     {
       "id": "arandur",
@@ -1305,7 +1766,32 @@
       "source": {
         "file": "roster.md",
         "line": 125
-      }
+      },
+      "mentioned_in": [
+        "lore-other-worlds",
+        "universe-the-universe-the-grand-orrery",
+        "universe-the-monster-wood",
+        "universe-arandur",
+        "universe-still-being-developed",
+        "working-notes-the-big-picture",
+        "working-notes-the-village",
+        "working-notes-monstradius-items",
+        "working-notes-what-theyre-like",
+        "working-notes-constructed-items",
+        "working-notes-arandur",
+        "working-notes-the-big-secret-two-entities-in-one",
+        "working-notes-the-midkemia-campaign",
+        "working-notes-hooks-into-the-universe",
+        "working-notes-how-he-ties-in",
+        "working-notes-open-questions",
+        "working-notes-northwind-harbour-surrounding-mountains",
+        "midkemia-the-duchy-of-mosis",
+        "midkemia-bitterbridge",
+        "midkemia-the-carnival",
+        "midkemia-things-the-maze-gave-them",
+        "midkemia-the-party",
+        "midkemia-still-open"
+      ]
     },
     {
       "id": "silwen",
@@ -1320,7 +1806,15 @@
       "source": {
         "file": "roster.md",
         "line": 126
-      }
+      },
+      "mentioned_in": [
+        "lore-other-worlds",
+        "universe-arandur",
+        "working-notes-family",
+        "working-notes-key-events",
+        "working-notes-the-big-secret-two-entities-in-one",
+        "working-notes-personality"
+      ]
     },
     {
       "id": "faelan",
@@ -1335,6 +1829,37 @@
       "source": {
         "file": "roster.md",
         "line": 127
+      },
+      "mentioned_in": [
+        "lore-other-worlds",
+        "universe-arandur",
+        "working-notes-family"
+      ]
+    },
+    {
+      "id": "silas-blackwood",
+      "type": "person",
+      "name": "Silas Blackwood",
+      "kind": "wake-character",
+      "origin": "verrowen",
+      "race": "Human",
+      "sex": "male",
+      "age": 38,
+      "magic": "Detection – a weak but responsive ability allowing him to sense residual magic and identify magical objects; he’s capable of limited shielding against mental intrusion.",
+      "personality": "Stoic, reserved, haunted by a profound sense of loss and burdened by fragmented memories. Prone to moments of intense focus and bursts of decisive action when under pressure. Deeply wary of others, but fiercely protective of those who earn his trust—a quality slowly emerging amidst his guarded exterior.",
+      "appearance": "Tall and leanly built, with dark hair streaked with grey at the temples and piercing grey eyes that hold a deep sadness. He bears several scars - most notably a jagged wound across his left shoulder and a faint burn mark on his right hand – and wears worn leather clothing suited for travel and survival.",
+      "skills": "Combat (proficient with knives), Tracking, Survival, Limited Magical Detection.",
+      "line": "Silas awoke with amnesia in a burned cottage high on the hillside outside Stoutwell, discovering a strange connection to an ancient silver locket and encountering unsettling remnants of forgotten magic. His initial disorientation is being replaced by a growing awareness of danger and a desperate need to uncover his past.",
+      "world": "verrowen",
+      "status": "decided",
+      "review_key": "verrowen:ac2ff160-77fd-4a15-8a85-cce9f8c1588c",
+      "filed": "2026-11-08",
+      "notes": [
+        "working-notes-silas-blackwood"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1120
       }
     }
   ]
