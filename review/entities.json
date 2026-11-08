@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T22:13:23.245Z",
+  "built": "2026-11-08T22:15:45.167Z",
   "branch": "review",
-  "commit": "ccf262479b3bbf744777fb7d357fa965ae3a98a9",
+  "commit": "3f79ae9716afc93b493a19d948526c9350d8b0b6",
   "counts": {
     "person": 87,
     "role": 11,
@@ -9360,7 +9360,7 @@
       "type": "note",
       "name": "Silas’s Stone",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw8e23yr",
@@ -9389,7 +9389,7 @@
       "category": "Peddlers' wares",
       "kind": "Relics",
       "origin": "rest",
-      "status": "pitch",
+      "status": "decided",
       "fields": {
         "does": "A smooth, grey river stone etched with faint swirling patterns that faintly glow when held by someone experiencing intense emotion – primarily fear or grief. It seems to draw out these feelings before dampening them.",
         "made_by": "Silas Blackwood, an elderly halfling peddler known for his oddly calming presence and unsettlingly accurate predictions about people’s moods. He acquired the stone from a wandering cleric during a particularly violent storm fifty years ago.",
