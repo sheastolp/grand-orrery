@@ -1302,14 +1302,6 @@ _Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers'
 - **How it works:** When held by a person experiencing low mana levels (indicated by chills, dizziness, or weakness), the raven radiates a subtle heat and a soft, pulsing glow. This effect isn't immediately potent; initially, it only offers minor relief - easing muscle stiffness or sharpening focus slightly. However, as the holder’s mana dwindles further, the warmth intensifies, providing a noticeable boost to their stamina and mental clarity – enough to complete a simple task or briefly bolster a spell before collapse occurs. The warmth lasts approximately 10-15 minutes per charge, fading gradually as the raven’s residual mana dissipates. It doesn’t create new mana; it merely slows down its consumption.
 - **Limits:** The raven can only provide temporary respite against depleted mana—it cannot heal significant wounds or restore lost magic. Prolonged use drains the raven's stored energy quickly, rendering it inert.  It is susceptible to disruption by strong elemental forces; exposure to powerful fire or ice will cause it to flicker violently and cease function temporarily. Because Murrow originally imbued it with *his* mana, if he were ever to touch the item, it would
 
-### Rook’s Vigil (Pitch)
-
-<!-- review-key: rest:idea-mw81juo4 -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._
-
-- The Guard maintains nightly patrols along the western wall using “Rook’s Vigil,” a specific shift pattern designed to maximize observation points and minimize gaps in coverage.
-
 ### Monstradius’s Secret (Your idea)
 
 <!-- review-key: rest:idea-mw82dfsz -->
