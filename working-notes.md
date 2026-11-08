@@ -1088,6 +1088,33 @@ In the world:
 
 Silas clutched the Gilded Spine tightly, the cool metal strangely comforting against his burning brow. He was sitting in the Wellhouse tavern, nursing a pint of Stoutwell ale - an attempt at calming the incessant murmurings within his mind. A snippet of voice drifted through the room - "He promised me safety...but left me exposed." It wasn’t directed at anyone specific; rather a generalized echo of broken trust swirling within his skull.  The other patrons barely noticed his frown, engrossed in their own conversations, oblivious to the spectral accusations warring beneath his awareness. He took another gulp of ale, hoping to drown out the voices, but they persisted, unsettling reminders of his fractured past and the unknown dangers ahead.
 
+### Reinforced Gatehouse Beams (Pitch)
+
+<!-- review-key: lore-keeper:3bb43e83-ce3f-43eb-871d-099ae0f653b4 -->
+_From a lore-keeper chat, 2026-11-08 · Items & inventions._
+
+**Name:** Reinforced Gatehouse Beams
+
+**Kind (Items & Inventions):** Structural Enhancement via Elemental Infusion
+
+**The Rule:** Iron-banded oak beams reinforced with controlled elemental fire increase the structural integrity of the Stoutwell gatehouse against siege weaponry.
+
+**How it Works:** Doric forges oak beams with bands of iron, while Murrow subtly infuses them with channeled elemental fire – strengthening the wood’s grain through heat manipulation, layering a weak ward against impact. 
+
+**Costs and Limits:** Approximately 8-9 silver pieces per beam, labor from slum workers supplementing Doric's work (estimated 2 copper per day), risk of instability if Murrow overloads the infusion—potentially causing damage or injury (risk factor: medium). Primarily affects the guard rotation and those working near the gate. It strengthens the gatehouse considerably but doesn’t dramatically alter its appearance.
+
+**Who it Affects:** Doric (primary artisan), Murrow (manipulator of the magic), Guard Rotation (users of the strengthened structure), Slum Workers (labor force), potentially all residents within range of potential instabilities.
+
+**What it Changes:** Increases the gatehouse’s resistance to projectile attacks and blunt force trauma; shifts focus towards needing maintenance/monitoring by someone skilled in detecting magical disturbances. 
+
+**Clashes with Canon:** None
+
+**Open Questions:** (Suggested) - *“Does this significantly reduce the chance of a rift opening directly at the gate?”*
+
+
+
+In the world, the afternoon sun cast long shadows across the newly reinforced section of the Stoutwell Gatehouse as Tobin Ashby hammered a final rivet into place. The air still carried a faint scent of smoke – a subtle reminder of Murrow's careful work. A couple of grizzled guardsmen shifted uneasily, checking their shields, while Murrow adjusted his spectacles, meticulously examining the grain pattern of the oak for any signs of distress. The rhythmic clang of metal against metal mingled with the shouts of the slum workers hauling timber nearby, creating an oddly ordered scene amidst the rough-hewn village, solidifying the fortified frontier against the looming Monster Wood.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
