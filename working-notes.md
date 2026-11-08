@@ -1246,3 +1246,15 @@ _Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster W
 _Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._
 
 - The Guard rotates through nightly shifts patrolling Whisperwind’s Watch, where a specific ritual performed under the light of the moon helps ward against creatures drawn by the village’s magical energy - specifically, the rooks that haunt Brackwood Fringe.
+
+### Whisperwind’s Vigil (Pitch)
+
+<!-- review-key: rest:idea-mw7yc2yn -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- **What it is:** A spectral hound, native only to the immediate area around the Monster Wood and especially active near Rook’s Watch, that acts as a living early warning system for intruders or significant magical disturbances within a roughly half-mile radius. It doesn't attack, instead emitting mournful howls when something triggers its heightened state – often before any physical threat materializes.
+- **Who:** Primarily controlled by Whisperwind, the village’s appointed “Watcher” - essentially a conduit and amplifier for the Hound’s abilities, though not its creator. The Hound itself seems ancient and unbound by normal rules of life and death.
+- **Where:** Specifically located along the western edge of Stoutwell where the Monster Wood begins, particularly concentrated around Rook’s Watch, a small elevated platform built atop a naturally occurring rock formation overlooking the woods. Its range extends approximately ½ mile outwards from Rook’s Watch. The wood grows dense enough here that most inhabitants don’t venture this far without Guard escort.
+- **How it works:** The Hound appears to be drawn to strong magical signatures—even faint ones—and areas with unusual energy fluctuations. When triggered, it emits three distinct types of howling: a low rumble signifying general unease; a high-pitched whine indicating immediate danger; and a sustained, sorrowful wail if the disturbance is unnatural (like magic gone wrong). Whisperwind can subtly adjust the Hound’s sensitivity, but only through focused meditation and quiet intention.  It requires constant attention, as extended periods of silence or distraction weaken its connection. A significant drain on mana is required for Whisperwind to sustain the contact – roughly equivalent to one hour of focused spellcasting.
+- **Limits:** The Hound's effectiveness is directly tied to Whisperwind’s ability to maintain focus. Loud noises, distractions, or emotional distress severely disrupt the link. It cannot “see” in the conventional sense, relying solely on sensory input filtered by its spectral awareness. Additionally, the Hound *cannot* predict the outcome of events – merely alert to their presence. Finally, prolonged exposure to the hound causes a dulling effect - those who stand near it for too long find themselves unusually sluggish and unable
