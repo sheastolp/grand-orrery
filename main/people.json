@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T17:56:36.710Z",
+  "built": "2026-11-08T18:31:49.317Z",
   "branch": "main",
-  "commit": "7d68f595e5ef3e23f94d505b88dca5309414dc81",
+  "commit": "9d366cc4c817b2512350eed843042a9e9afadd74",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 91,
+    "item": 92,
     "place": 7,
     "creature": 9,
     "lore": 30,
-    "note": 179
+    "note": 181
   },
   "entities": [
     {
@@ -208,6 +208,7 @@
         "working-notes-brackwood-fringe",
         "working-notes-northwind-harbour-surrounding-mountains",
         "working-notes-reinforced-gatehouse-beams",
+        "working-notes-resonance-stone-device",
         "working-notes-village-roster-2"
       ]
     },
@@ -251,6 +252,8 @@
         "working-notes-greyhaven",
         "working-notes-reinforced-gatehouse-beams",
         "working-notes-mana-affinity-items",
+        "working-notes-mana-affinity-items-stabilized-tools",
+        "working-notes-resonance-stone-device",
         "working-notes-village-roster-2",
         "working-notes-the-silent-well",
         "working-notes-guards-routine",
@@ -351,6 +354,8 @@
         "working-notes-reinforced-gatehouse-beams",
         "working-notes-give-xabs-character-a-joke-pot-of-greed-make-it-functi",
         "working-notes-mana-affinity-items",
+        "working-notes-mana-affinity-items-stabilized-tools",
+        "working-notes-resonance-stone-device",
         "working-notes-silas-blackwood",
         "working-notes-village-roster-2",
         "working-notes-whisperwind",
@@ -442,7 +447,8 @@
         "working-notes-how-he-ties-in",
         "working-notes-the-seekers-lodestone",
         "working-notes-marda-the-reformed-cutpurse",
-        "working-notes-give-xabs-character-a-joke-pot-of-greed-make-it-functi"
+        "working-notes-give-xabs-character-a-joke-pot-of-greed-make-it-functi",
+        "working-notes-resonance-stone-device"
       ]
     },
     {
@@ -2068,7 +2074,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1146
+        "line": 1200
       }
     }
   ]
