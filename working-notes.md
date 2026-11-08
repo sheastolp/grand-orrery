@@ -1164,7 +1164,7 @@ _From a lore-keeper chat, 2026-11-08 · Magic._
 
 In the world: Doric meticulously sharpened an arrowhead against his whetstone, sweat stinging his eyes. He'd just finished reinforcing the Featherhook attachment—a shimmering blue energy momentarily etching itself into the iron. A tiny plume of grey smoke escaped as he applied stabilizing oil, its scent sharp and metallic. Tobin watched him, fidgeting impatiently, acutely aware that pushing the Featherhook too hard would likely cause immediate failure - he knew better than to ask about it. The air around Doric thrummed faintly with heat, a visual echo of the immense effort channeled through the tool; a subtle reminder of the price demanded for mastery.
 
-### Resonance Stone Device (Pitch)
+### Resonance Stone Device (Your idea)
 
 <!-- review-key: lore-keeper:ebb8356f-32f4-4bdd-a147-bd8363d608b9 -->
 _From a lore-keeper chat, 2026-11-08 · Items & inventions._
