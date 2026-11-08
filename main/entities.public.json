@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T22:16:08.264Z",
+  "built": "2026-11-08T22:39:35.316Z",
   "branch": "main",
-  "commit": "3f79ae9716afc93b493a19d948526c9350d8b0b6",
+  "commit": "534e0b5c2d546658d7b5994409b05d45f31d3266",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10,8 +10,8 @@
     "item": 94,
     "place": 15,
     "creature": 16,
-    "lore": 31,
-    "note": 187
+    "lore": 32,
+    "note": 188
   },
   "entities": [
     {
@@ -236,6 +236,7 @@
         "lore-people",
         "lore-items-2",
         "lore-items-3",
+        "lore-people-2",
         "universe-maps",
         "universe-layout",
         "universe-trades",
@@ -323,6 +324,7 @@
         "lore-artificers-2",
         "lore-items-3",
         "lore-magic-4",
+        "lore-people-2",
         "universe-healers",
         "universe-water-and-the-dead-well",
         "universe-layout",
@@ -413,6 +415,7 @@
       "mentioned_in": [
         "lore-people",
         "lore-magic-4",
+        "lore-people-2",
         "universe-burn-the-wellhouses-regular",
         "working-notes-give-xabs-character-a-joke-pot-of-greed-make-it-functi",
         "working-notes-village-roster-2",
@@ -1737,6 +1740,7 @@
       "mentioned_in": [
         "lore-other-worlds",
         "lore-other-worlds-2",
+        "lore-people-2",
         "universe-the-universe-the-grand-orrery",
         "universe-the-monster-wood",
         "universe-arandur",
@@ -1778,6 +1782,7 @@
       "mentioned_in": [
         "lore-other-worlds",
         "lore-other-worlds-2",
+        "lore-people-2",
         "universe-arandur",
         "working-notes-family",
         "working-notes-key-events",
@@ -1802,6 +1807,7 @@
       "mentioned_in": [
         "lore-other-worlds",
         "lore-other-worlds-2",
+        "lore-people-2",
         "universe-arandur",
         "working-notes-family"
       ]
@@ -5027,6 +5033,26 @@
       "mentions": [
         "murrow",
         "burn"
+      ]
+    },
+    {
+      "id": "lore-people-2",
+      "type": "lore",
+      "name": "PEOPLE",
+      "text": "Murrow is over 550 years old, race unknown, hidden under a deep hood; he fears the Kingdom; his shop Monstradius is his workshop, and his ordinary-looking home in the NW housing district, three blocks away, is known to no one; he can cast a time-limited Nondetection-style spell and is researching an item that lasts; he was likely around when the well died and won’t speak of it; Doric is an acquaintance; he has a soft spot for one kind of person, still undecided. SECRET: Burn is a former court jester from the Kingdom’s capital who fled after a joke landed on the wrong noble. WELLHOUSE: The Wellhouse elves are descendants of several families, one of which was originally a travelling troupe of performers called “The Wandering Shadows,” who settled here after finding refuge during a period of unrest in the capital kingdom. They changed their names and adopted a quieter existence, preferring the companionship of quiet evenings at the tavern rather than spectacle. This lineage is tied to a deep respect for storytelling, music, and illusion—traits reflected in the subtle enchantments woven into their craftwork. OTHER WORLDS: Arandur, an elf ranger and pickpocket from another world, was pulled out of it into another. In his youth, a rift dropped him in a village near Stoutwell (name not yet known). He was raised in a forest cabin by his hunter mother Silwen, who vanished with his distant father Faelan; he suspects a voiceless spectre that taught him to track is Silwen. Abandoned, he became a thief and a self-taught archer. He hides everything under contempt and silence, talks down magic, and fears trolls but can't fully hate them.",
+      "order": 32,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 37
+      },
+      "mentions": [
+        "doric",
+        "murrow",
+        "burn",
+        "arandur",
+        "silwen",
+        "faelan"
       ]
     },
     {
@@ -9399,6 +9425,31 @@
         "file": "working-notes.md",
         "line": 1507
       }
+    },
+    {
+      "id": "working-notes-rooks-vigil-2",
+      "type": "note",
+      "name": "Rook’s Vigil",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8eudha",
+      "filed": "2026-11-08",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Every night at the stroke of midnight, one member of the Guard – designated “Rook” by Hesketh - performs a silent vigil along the western edge of the Monster Wood, near the Brackwood Fringe. This isn’t simply patrolling; it involves a carefully orchestrated series of actions designed to detect unusual movement or disturbances within the wood.",
+        "who": "Currently, Rook is Silas Blackwood, an aging Guard veteran known for his unnervingly still demeanor and keen observation skills. He was chosen specifically for this role due to his quiet nature and experience dealing with unsettling creatures from the wood. His predecessor, Rook (a different man), vanished five years prior while on this post, leaving behind only whispers and unanswered questions.",
+        "where": "The vigil takes place in a small, concealed clearing just beyond the outermost wall of Stoutwell’s defenses, overlooking a particularly dense section of the Monster Wood where strange lights have been reported. It's marked by three standing stones arranged in a triangle— remnants of some forgotten purpose.",
+        "how_it_works": "Silas begins with a simple task: he sets up a network of Whisperwind watches, tiny mechanical birds that are set to fly out into the forest, spreading detection magic. Then, he uses his “Rook’s Vigil,” a ritual involving a complex pattern of hand gestures combined with slow, deliberate breaths which triggers a subtle amplification of his senses – allowing him to hear fainter sounds and perceive shifts in the air. Finally, at each hour after midnight, Silas will lay down a circle of bright white chalk around the clearing; if any creature steps inside or outside the chalk line, he immediately alerts the rest of the guard.",
+        "limits": "This is entirely reliant on Silas's skill and focus, as well as the functionality of the Whisperwinds, meaning its effectiveness can be compromised by weather, fatigue, or even a lapse in concentration. If a monster manages to move without triggering the watch then the vigilance has failed, and this failure is considered an almost"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- -The Guard maintains a nightly watch over the Brackwood Fringe with a specific ritual, utilizing a seasoned veteran to ensure nothing leaves the monster wood undetected.\n- **What it is:** Every night at the stroke of midnight, one member of the Guard – designated “Rook” by Hesketh - performs a silent vigil along the western edge of the Monster Wood, near the Brackwood Fringe. This isn’t simply patrolling; it involves a carefully orchestrated series of actions designed to detect unusual movement or disturbances within the wood.\n- **Who:** Currently, Rook is Silas Blackwood, an aging Guard veteran known for his unnervingly still demeanor and keen observation skills. He was chosen specifically for this role due to his quiet nature and experience dealing with unsettling creatures from the wood. His predecessor, Rook (a different man), vanished five years prior while on this post, leaving behind only whispers and unanswered questions.\n- **Where:** The vigil takes place in a small, concealed clearing just beyond the outermost wall of Stoutwell’s defenses, overlooking a particularly dense section of the Monster Wood where strange lights have been reported. It's marked by three standing stones arranged in a triangle— remnants of some forgotten purpose.\n- **How it works:** Silas begins with a simple task: he sets up a network of Whisperwind watches, tiny mechanical birds that are set to fly out into the forest, spreading detection magic. Then, he uses his “Rook’s Vigil,” a ritual involving a complex pattern of hand gestures combined with slow, deliberate breaths which triggers a subtle amplification of his senses – allowing him to hear fainter sounds and perceive shifts in the air. Finally, at each hour after midnight, Silas will lay down a circle of bright white chalk around the clearing; if any creature steps inside or outside the chalk line, he immediately alerts the rest of the guard.\n- **Limits:** This is entirely reliant on Silas's skill and focus, as well as the functionality of the Whisperwinds, meaning its effectiveness can be compromised by weather, fatigue, or even a lapse in concentration. If a monster manages to move without triggering the watch then the vigilance has failed, and this failure is considered an almost",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1520
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",

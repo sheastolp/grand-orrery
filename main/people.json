@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T22:16:08.264Z",
+  "built": "2026-11-08T22:39:35.316Z",
   "branch": "main",
-  "commit": "3f79ae9716afc93b493a19d948526c9350d8b0b6",
+  "commit": "534e0b5c2d546658d7b5994409b05d45f31d3266",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10,8 +10,8 @@
     "item": 94,
     "place": 15,
     "creature": 16,
-    "lore": 31,
-    "note": 187
+    "lore": 32,
+    "note": 188
   },
   "entities": [
     {
@@ -236,6 +236,7 @@
         "lore-people",
         "lore-items-2",
         "lore-items-3",
+        "lore-people-2",
         "universe-maps",
         "universe-layout",
         "universe-trades",
@@ -323,6 +324,7 @@
         "lore-artificers-2",
         "lore-items-3",
         "lore-magic-4",
+        "lore-people-2",
         "universe-healers",
         "universe-water-and-the-dead-well",
         "universe-layout",
@@ -413,6 +415,7 @@
       "mentioned_in": [
         "lore-people",
         "lore-magic-4",
+        "lore-people-2",
         "universe-burn-the-wellhouses-regular",
         "working-notes-give-xabs-character-a-joke-pot-of-greed-make-it-functi",
         "working-notes-village-roster-2",
@@ -1737,6 +1740,7 @@
       "mentioned_in": [
         "lore-other-worlds",
         "lore-other-worlds-2",
+        "lore-people-2",
         "universe-the-universe-the-grand-orrery",
         "universe-the-monster-wood",
         "universe-arandur",
@@ -1778,6 +1782,7 @@
       "mentioned_in": [
         "lore-other-worlds",
         "lore-other-worlds-2",
+        "lore-people-2",
         "universe-arandur",
         "working-notes-family",
         "working-notes-key-events",
@@ -1802,6 +1807,7 @@
       "mentioned_in": [
         "lore-other-worlds",
         "lore-other-worlds-2",
+        "lore-people-2",
         "universe-arandur",
         "working-notes-family"
       ]
