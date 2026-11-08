@@ -1111,7 +1111,7 @@ Story Hooks: Rumors persist that Xan was once part of a royal expedition sent to
 
 **Who they are:** Xan is an enigma wrapped in cynicism and a ludicrously useless trinket. He drifts through the bustling marketplace of the capital like a shadow, observing everyone with unsettling intensity. Having spent decades chasing shadows and rumors, his true motivations remain deliberately obscure, obscured by layers of carefully constructed irony. Despite his sardonic demeanor, there’s a palpable sadness beneath the surface - a lingering echo of something lost or perhaps never fully possessed. It's this quiet melancholy which makes him such a strangely compelling fixture in Stoutwell’s world – and particularly within Burn’s orbit.
 
-### Mana Affinity Items (Pitch)
+### Mana Affinity Items (Your idea)
 
 <!-- review-key: lore-keeper:d77ce91b-431d-43a7-8bde-6ab32ac5474f -->
 _From a lore-keeper chat, 2026-11-08 · Magic._
