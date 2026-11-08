@@ -1139,6 +1139,31 @@ In the world:
 
 The rain hammered against the canvas roof of Doric’s smithy as he painstakingly forged a new haft for an arrow. Young Tobin, sweat dripping from his brow, struggled to maintain focus, his face flushed with exertion. Doric, with a subtle gesture, channeled a trickle of calming energy—a faint blue shimmer—into the metal, smoothing out imperfections and bolstering its resilience. He was instinctively using his inherent affinity for heat and shaping, reducing the need for brute force and minimizing the drain on *his* mana. Even Tobin, despite his youthful enthusiasm, felt the familiar tingle of depletion after only a few minutes; a stark reminder that true mastery demanded more than just muscle and ambition.
 
+### Mana Affinity Items – Stabilized Tools (Pitch)
+
+<!-- review-key: lore-keeper:e2dae667-c82c-4bf6-a89d-ab6172743cdc -->
+_From a lore-keeper chat, 2026-11-08 · Magic._
+
+**Name:** Mana Affinity Items – Stabilized Tools
+
+**Kind (Magic):** Personal Magic Reserves – Specialized items react differently based on the wielder’s inherent magical capacity and training.
+
+**The Rule:** “Magic usage isn't uniform across all individuals; inherent aptitude—particularly demonstrated early through Murrow’s Elemental Test—dictates a baseline mana reserve, amplified significantly when focusing on a specific magical discipline.”
+
+**How it Works:** Items actively channeling magic experience accelerated degradation rates proportional to the type of mana being utilized. Elemental types degrade fastest, followed by strength enhancement, while detection spells cause rapid destabilization.
+
+**Costs & Limits:** Item creation costs vary dramatically depending on materials *and* required mana stabilization - approximately 10 silver coins + 2 Mana for basic enchanted iron shield. Each item possesses a ‘Stability Rating,’ tracked through minor repairs using specialized oils and finely-cut gemstones. Excessive use or poorly managed application chips away at this rating. Failure results in complete loss of function, requiring full reconstruction.
+
+**Who It Affects:** Primarily skilled artisans, traders, and combatants utilizing specialized magic-infused tools and equipment. The Guard relies heavily upon Hesketh’s enhanced strength. Those lacking training will experience significant drawbacks.
+
+**What It Changes:** Creates stratification within Verrowen society – favouring naturally gifted individuals who control powerful magical objects, potentially widening gaps between wealth/status and creating new avenues of influence.
+
+**Clashes with canon (or “None”):** None
+
+**Open questions:** (Suggested) How does this affect the efficiency of artificer created works vs. natural ones?
+
+In the world: Doric meticulously sharpened an arrowhead against his whetstone, sweat stinging his eyes. He'd just finished reinforcing the Featherhook attachment—a shimmering blue energy momentarily etching itself into the iron. A tiny plume of grey smoke escaped as he applied stabilizing oil, its scent sharp and metallic. Tobin watched him, fidgeting impatiently, acutely aware that pushing the Featherhook too hard would likely cause immediate failure - he knew better than to ask about it. The air around Doric thrummed faintly with heat, a visual echo of the immense effort channeled through the tool; a subtle reminder of the price demanded for mastery.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
