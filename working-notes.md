@@ -1290,18 +1290,6 @@ _Made up by the AI in auto mode, 2026-11-08 · about a place in the Kingdom's ca
 
 - Rook’s Vigil takes place near the towering Brackwood Fringe mountains along the south wall of Stoutwell, where a particularly dense patch of twisted trees blocks most sunlight and strange whispers carried by the wind warn of something lurking within.
 
-### Murrow’s Offering (Pitch)
-
-<!-- review-key: rest:idea-mw80rm2g -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers' relics and the story they tell about it._
-
-- **What it is:** A small, intricately carved wooden bird – a raven – that emits faint warmth when held by someone with a waning mana supply. It doesn’t actively *restore* magic, but provides a comforting flicker against the encroaching cold and dizziness caused by depleted reserves.
-- **Who:** Murrow, the artificer, crafted it over five centuries ago using ash wood from the Ashen Reach. He imbued it with a carefully controlled release of his own stored mana—a minuscule amount designed for momentary comfort rather than significant healing. The item was originally intended as a tool for navigating particularly treacherous areas where prolonged exposure to elemental energies could drain a mage’s strength, or perhaps simply used on himself if he were feeling weak after research.
-- **Where:** The raven resides within Murrow’s cluttered workshop in Stoutwell, displayed prominently amongst his collection of strange artifacts and partially disassembled devices. Doric occasionally polishes it, admiring its craftsmanship while grumbling about “frivolous trinkets.”
-- **How it works:** When held by a person experiencing low mana levels (indicated by chills, dizziness, or weakness), the raven radiates a subtle heat and a soft, pulsing glow. This effect isn't immediately potent; initially, it only offers minor relief - easing muscle stiffness or sharpening focus slightly. However, as the holder’s mana dwindles further, the warmth intensifies, providing a noticeable boost to their stamina and mental clarity – enough to complete a simple task or briefly bolster a spell before collapse occurs. The warmth lasts approximately 10-15 minutes per charge, fading gradually as the raven’s residual mana dissipates. It doesn’t create new mana; it merely slows down its consumption.
-- **Limits:** The raven can only provide temporary respite against depleted mana—it cannot heal significant wounds or restore lost magic. Prolonged use drains the raven's stored energy quickly, rendering it inert.  It is susceptible to disruption by strong elemental forces; exposure to powerful fire or ice will cause it to flicker violently and cease function temporarily. Because Murrow originally imbued it with *his* mana, if he were ever to touch the item, it would
-
 ### Monstradius’s Secret (Your idea)
 
 <!-- review-key: rest:idea-mw82dfsz -->
