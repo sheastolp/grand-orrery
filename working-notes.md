@@ -1022,7 +1022,7 @@ In the world:
 
 Rain hammered down on the corrugated iron roof of Silas’s workshop, drumming out a relentless rhythm alongside the clang of his hammer. He was painstakingly repairing a shattered shield for Corporal Garin, one of the newest Guardsmen emerging from the drills below. A fine layer of grey dust coated everything—Silas’s hands, his tools, even the meager meal he'd eaten before starting.  The smell of burnt timber mingled with the damp earth; the familiar scent of Greyhaven – a grim testament to Stoutwell’s edges. Murrow would soon be by, demanding an inventory report for Doric’s materials.
 
-### Saltwind Reach (Pitch)
+### Saltwind Reach (Your idea)
 
 <!-- review-key: lore-keeper:02045820-9322-41b1-8148-3b60c9590bb0 -->
 _From a lore-keeper chat, 2026-11-08 · Regions & places._
