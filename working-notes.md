@@ -1164,6 +1164,35 @@ _From a lore-keeper chat, 2026-11-08 · Magic._
 
 In the world: Doric meticulously sharpened an arrowhead against his whetstone, sweat stinging his eyes. He'd just finished reinforcing the Featherhook attachment—a shimmering blue energy momentarily etching itself into the iron. A tiny plume of grey smoke escaped as he applied stabilizing oil, its scent sharp and metallic. Tobin watched him, fidgeting impatiently, acutely aware that pushing the Featherhook too hard would likely cause immediate failure - he knew better than to ask about it. The air around Doric thrummed faintly with heat, a visual echo of the immense effort channeled through the tool; a subtle reminder of the price demanded for mastery.
 
+### Resonance Stone Device (Pitch)
+
+<!-- review-key: lore-keeper:ebb8356f-32f4-4bdd-a147-bd8363d608b9 -->
+_From a lore-keeper chat, 2026-11-08 · Items & inventions._
+
+**Name:** Resonance Stone Device
+
+**Kind:** Items & Inventions – A handheld device utilizing a resonance stone to passively amplify ambient magical signatures.
+
+**The Rule:** This device allows a single operator to detect nearby magic through enhanced sensory input, providing rudimentary awareness of their surroundings.
+
+**How it Works:** A finely-tuned resonator chamber within the device captures and amplifies subtle magical emanations, translating them into tactile sensations - warmth, pressure, slight vibrations – relayed directly to the operator’s nervous system via fine copper wiring connected to gloves. 
+
+**Costs and Limits:** Three weeks of skilled smithing labor (Doric's work), approximately 25 silver coins for components, three days extracting a resonance stone from the Monster Wood, limited range dependent on surrounding mana strength, drains stone quickly with prolonged use, susceptible to feedback loops at overuse. 
+
+**Who it Affects:** Primarily intended for individuals sensitive to magic—likely those untrained or inexperienced in detection—potentially useful for guards, scouts, and investigators needing basic situational awareness. It could also be used by Murrow himself for reconnaissance.
+
+**What it Changes:** Shifts perception; transforms passive observation into active sensing. Doesn't grant true "detection" but augments existing sensitivity, making users more attuned to fluctuations in magical energy.
+
+**Clashes with Canon:** None.
+
+**Open Questions:** (Suggested) The specific type of ‘sensations’ experienced will vary greatly depending on ambient magic; is there a way to standardize this? How does Glumtom’s Reanimator technology interact with such amplified signatures?
+
+
+
+In the world:
+
+The rain hammered against the slate roof of Monstradius as Murrow adjusted the Resonance Stone Device, its grey surface gleaming faintly beneath the workshop’s single oil lamp. A young Guard recruit, Tobin Ashby, stood awkwardly beside him, clad in leather gloves connected to the device.  Tobin shifted nervously, his face etched with concentration – a faint flush warming his cheeks as he described the subtle vibrations - “Like a swarm of tiny bees buzzing…almost.” Murrow nodded gravely, meticulously adjusting a copper coil. This wasn't grand detection magic, just a carefully calibrated link between human senses and the chaotic whispers of Verrowen's inherent magic, a start toward understanding something far greater.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
