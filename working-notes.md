@@ -1229,16 +1229,3 @@ _Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster W
 _Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._
 
 - The Guard rotates through nightly shifts patrolling Whisperwind’s Watch, where a specific ritual performed under the light of the moon helps ward against creatures drawn by the village’s magical energy - specifically, the rooks that haunt Brackwood Fringe.
-
-### Silas Blackwood (Pitch)
-
-<!-- review-key: rest:idea-mw7f0hfh -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-08 · about a person who lives in Stoutwell._
-
-- **What it is:** A halfling cartographer, roughly thirty years old, obsessed with charting the edges of the Monster Wood and the mountains beyond – a pursuit viewed with suspicion by most of Stoutwell’s inhabitants. He meticulously documents every detail he finds, believing that understanding the landscape will unlock secrets about the encroaching blight and perhaps even reveal forgotten paths through the treacherous terrain.
-- **Who:** Silas Blackwood - Halfling, approximately 30 years old, skilled in mapmaking and navigation, driven by a quiet curiosity and bordering on obsession. His ties include Murrow, whom he occasionally seeks out for cryptic advice regarding the nature of magic and the shifting boundaries between worlds; Doric, who reluctantly provides him with finely crafted leather maps and sturdy cart-wheels when Silas asks for them. Osric watches him closely, convinced his investigations are dangerously close to uncovering something best left undisturbed.
-- **Where:** Primarily operating along the Brackwood Fringe near Stoutwell, documenting the increasingly warped growth patterns of the Monster Wood as the Blight spreads outward. He spends considerable time sketching from vantage points overlooking the Ashen Reach and attempting to trace routes towards the mountain pass leading west.
-- **How it works:** Silas uses a combination of meticulous observation, hand-drawn sketches, rudimentary measuring tools (a carpenter's square, length measure, compass), and occasional observations aided by very weak detection magic (sensing subtle shifts in air currents or temperature) to record his findings. The detection magic is unreliable at best and drains quickly if used too often – he has learned to limit its use, focusing instead on careful note taking and detailed drawings. His maps aren’t accurate enough for travel, but they’re incredibly detailed depictions of the immediate area.
-- **Limits:** Silas’s mapping relies entirely on physical materials—paper, ink, wood pencils. He lacks any significant magical skills beyond what he can glean through Murrow’s advice. Overuse of his limited detection magic causes dizziness and weakness - he must carefully ration it.  He cannot accurately map areas obscured by dense fog, thick undergrowth, or strong winds due to the limitations of his tools and senses.
-- **Ties:** Silas'
