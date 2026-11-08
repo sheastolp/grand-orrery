@@ -24,7 +24,7 @@ Plain paragraphs under an entry show on its page too.
 
 ## Enchanted items
 
-Objects that hold someone's mana. Objects hold magic but don't make it, so every one of these runs dry and needs charging again. Enchanted items made in the Kingdom carry the mark of a registered artificer. Unmarked ones, like everything from Monstradius, aren't illegal, but they make people ask who made them.
+Enchanted items store mana, which depletes over time and requires recharging. Enchanted items made in the Kingdom carry the mark of a registered artificer. Unmarked ones, like everything from Monstradius, aren't illegal, but they make people ask who made them.
 
 ### Charged stones
 
@@ -104,6 +104,17 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 - **Limits:** Until it's finished, nothing hides him from the Seeker's Lodestone for long.
 - **Made by:** Murrow
 
+#### 🔹 Murrow's Shard (Your idea)
+
+- **Note:** Murrow's own tool, combined from six auto mode ideas
+- **Where:** Monstradius. Murrow keeps it on him in his coat pocket while he works, and locks it in a warded alcove in the workshop wall at night.
+- **Does:** Senses traces of magic. Held near a person, tool or place, it pulses warm and faintly lights up, showing thin, coloured "threads" where mana has been used recently: what kind and how strong, never who. Murrow uses it to diagnose broken enchanted items, spot anyone copying an artificer's work, and check whether someone is quietly drawing on mana. Held close to a spell as it's cast, it can briefly amplify it (a gust reaches twice as far, a healer's touch runs stronger) for a few seconds.
+- **Made:** A smooth, robin's-egg-sized shard of mirrorstone, etched with fine silver lines. It was part of an unfinished Rift compass belonging to Silas Brightstone, the travelling artificer Murrow apprenticed under long ago. Silas vanished while working on it near the Ashen Reach when a small rift tore open; the surge overloaded the mirrorstone and left this shard behind, and Murrow salvaged it.
+- **Limits:** Uses the holder's own mana, never stored mana, and it can't be charged. Range is about 10 feet, up to 30 at most, shrinking with heavy use. It only shows active or recent magic: old, faded magic and steady wards barely register, and strong elemental or divine magic drowns it out. Amplifying lasts seconds and costs about a full day's exertion. Overuse brings dizziness, chills (the shard turns painfully cold as the holder runs low), headaches, gaps in memory and brief "echoes" of other artificers' thoughts. Forcing it without an attuned mind causes painful backlash. Elves and those attuned to elemental magic find it easier to use.
+- **Story:** It's the heart of Murrow's study of rifts and of the Rift compass, and of his hope to store mana in objects. He believes it holds an echo of the rift that made it, and that it might one day open small, controlled rifts, though it never has. Doric is the only one allowed to examine it, and has tried and failed to copy it. Clementine Rook has been shown it a few times under strict supervision. Murrow won't say what it does.
+- **Made by:** Murrow
+- **Also called:** the Shard, Murrow's mirrorstone shard
+
 ### Marks
 
 #### 🔏 Artificer's mark (Your idea)
@@ -123,6 +134,44 @@ Objects that hold someone's mana. Objects hold magic but don't make it, so every
 - **Made:** Needs rare materials to craft. The ember glow is a fire user's mana stored in the gems, so like every enchanted item it runs dry and has to be charged again.
 - **Limits:** Royals only, and only for ceremonies. The edge of the realm never sees it, and most of the capital only ever sees the Crown's banner.
 - **Story:** Raises how much influence and authority people see in the wearer. Who charges it is a question for the register of artificers. Open question: where is it kept when it isn't worn? The Crown's seat beside the Rolls House is the obvious guess.
+
+### Staffs
+
+#### 🔥 Conduit Staff (Your idea)
+
+- **Note:** From a lore-keeper chat about wizard staffs
+- **Where:** Made at Monstradius.
+- **Does:** An amplification focus. Channels the ambient mana around the user into focused blasts or shields. Favoured by fire users.
+- **Made:** A polished obsidian core wound with silver thread and fitted with a focusing lens. Murrow oversees its making, and it takes a lot of work.
+- **Limits:** Drains mana quickly if overused, and grows noticeably colder as it runs low. Obsidian is brittle.
+- **Story:** Still open: whether Doric could reinforce the core with strands of mithril, which would be risky but powerful.
+- **Made by:** Murrow
+
+#### 🌿 Resonance Staff (Your idea)
+
+- **Note:** From a lore-keeper chat about wizard staffs
+- **Does:** A manipulation focus. Lets a skilled user subtly bend the magic around them, to dampen earth tremors or disrupt another spellcaster.
+- **Made:** Seasoned Ash wood from the Ashen Reach. Its cost depends mostly on Doric's skill in treating the wood against the weather.
+- **Limits:** Needs intense concentration, and risks amplifying out of control.
+- **Story:** Still open: whether working the ambient magic draws unwanted attention from the Monster Wood, maybe from a grove there known for attracting aberrant creatures.
+- **Made by:** Doric
+
+#### 🦴 Echo Staff (Your idea)
+
+- **Note:** From a lore-keeper chat about wizard staffs
+- **Where:** Used in the Monster Wood.
+- **Does:** A temporal conduit. Briefly replays past magical events in the Monster Wood as ghostly illusions, with some limited conjuring.
+- **Made:** Petrified dragonbone, activated by ritual.
+- **Limits:** Only works for someone who knows the Monster Wood's history and lore well.
+- **Story:** Still open: what triggers the replay beyond holding the staff. Murrow's notes hint at runes etched into the bone.
+
+### Charms
+
+#### 🪨 Riverstone Charm (Your idea)
+
+- **Where:** Found near the lake.
+- **Does:** A protective charm.
+- **Story:** Tied to the fishing settlement's secret passage.
 
 ## Materials
 
@@ -299,7 +348,7 @@ What the Guard carries.
 
 #### 🧺 Guard tithe (Your idea)
 
-- **Does:** Pays for Stoutwell's Guard. Each household gives a share of its harvest, crafts or labor to keep the Guard fed, armed and paid.
+- **Does:** Pays for Stoutwell's Guard. Each household gives a share of its harvest, crafts or labour, or both, to keep the Guard fed, armed and paid.
 - **Limits:** Wealthier families, like the millers, give more, better quality, or both.
 - **Story:** A little skimming goes on, and Bertram's ledgers make it vanish on paper. A Truthglass is dangerous to anyone doing it.
 
@@ -321,7 +370,7 @@ What the Guard carries.
 
 ## Records & papers
 
-The Kingdom runs on paper: a name written down can be taxed, drafted, fined or found.
+The Kingdom relies on paper: a name written down can be taxed, drafted, fined, or lost.
 
 ### The Kingdom's records
 
@@ -342,7 +391,7 @@ The Kingdom runs on paper: a name written down can be taxed, drafted, fined or f
 
 ### Guild papers
 
-#### 📋 Adventurer's parchment (Your idea)
+#### 📋 Adventurers' parchments (Your idea)
 
 - **Where:** GuildScribe's hall in the capital.
 - **Does:** GuildScribe's record of one adventurer: name, race, trade, skill and deeds. Its rank rises as it fills: Novice, Journeyman, Seasoned, Veteran.
@@ -601,7 +650,7 @@ Rare finds the peddlers turn up now and then, in a bottomless sack or a barrel o
 
 #### 🪄 Rod of Seven Parts (6/7) (Your idea)
 
-- **Does:** Six of its seven parts. The peddler is still looking for the last one.
+- **Does:** Six of its seven components. The peddler is still searching for the final piece.
 - **Pitch:** the Rod of Seven Parts — six of seven, the peddler is 'still looking for the last one'
 - **Sold:** 60 gold · +2 WIS · relic
 

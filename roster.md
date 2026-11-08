@@ -12,10 +12,10 @@ All halflings. The five Elders vote; Osric speaks for them and doesn't.
 
 | Name | Race, sex, age | Role | In a line | Secret |
 | --- | --- | --- | --- | --- |
-| **Osric** | Halfling, M, 142 | Leader of the Elderhold | Rose from near-peasant through the Guard. Warm in public, calculating underneath, careful with every word. | Hides a surname tied to Kingdom nobility. Suspects the corruption but can't prove it. |
+| **Osric** | Halfling, M, 142 | Leader of the Elderhold | Rose from near-peasant through the Guard. Warm in public, calculating underneath, careful with every word. | Hides a surname linked to a prominent House within the Kingdom, suspecting corruption but unable to confirm it. |
 | **Wendeline Brackenford** | Halfling, F, 149 | Elder (peace) | The eldest. Keeper of customs. Gentle but stubborn. | |
 | **Fenwick Larkspur** | Halfling, M, 145 | Elder (survival) | Ex-Guard. Blunt and practical. Respects Hesketh. | |
-| **Bertram Quillby** | Halfling, M, 138 | Elder (research) | Keeps the records, ledgers and tithe counts. Precise and polite. | **Corrupt.** His ledgers make tithe skimming vanish. |
+| **Bertram Quillby** | Halfling, M, 138 | Elder (research) | Keeps the records, ledgers and tithe counts. Precise and polite. | **Corrupt.** His meticulous records obscure tithes being skimmed. |
 | **Ysolde Ambergate** | Halfling, F, 133 | Elder (survival) | Oversees harvest stores and rationing. Charming and persuasive. | **Corrupt.** Steers bigger harvest shares to favorites. |
 | **Clementine Rook** | Halfling, F, 131 | Elder (research) | The newest Elder. Curious about magic. Deals with Murrow. | |
 
@@ -38,24 +38,24 @@ All halflings. The five Elders vote; Osric speaks for them and doesn't.
 
 ### The Kingdom: GuildScribe
 
-The guild hall's people. All of them live in the Kingdom or travel through it on the side that borders Stoutwell. None lives in Stoutwell.
+The guild hall's people. All of them live in the Kingdom or travel through it on the side that borders Stoutwell. No one lives in Stoutwell.
 
 | Name | Race, sex, age | Role | Where | In a line |
 | --- | --- | --- | --- | --- |
-| **The Scribe** | Human, F, old | GuildScribe's senior guildscribe | The capital, above the hall | Sour, unimpressed, always comparing things to her day. Scolds young adventurers for not eating. Secretly cares a little. Fines would-be robbers into the swear jar. |
+| **The Scribe** | Human, F, old | GuildScribe's senior guildscribe | The capital, above the hall | Sour, unimpressed, constantly criticizing young adventurers for their lack of appetite. Secretly cares a little. Fines would-be robbers into the swear jar. |
 | **The Wandering Clerk** | Unknown | A guildscribe who broke from the hall | The Clerk's road, out to the Woodland Road | Keeps a ledger of their own, swears in adventurers where there's no guild, posts bounties. |
 
 **The capital peddlers** work the stall in the capital's market square.
 
 | Name | Race, sex | In a line |
 | --- | --- | --- |
-| **Bregga Stumpteeth** | Human, F | Gap-toothed hawker whose voice carries across the square. |
+| **Bregga Stumpteeth** | Human, F | Hawker with a gap-toothed grin, whose booming voice carries across the square. |
 | **Widow Hesk** | Human, F | "Recently widowed" for as long as anyone remembers. Sells on sympathy. No relation to Hesketh Reeve. |
-| **Fenwick Loose-Coin** | Halfling, M | Always a copper short and owes a little to everyone. No relation to Fenwick Larkspur. |
+| **Fenwick Loose-Coin** | Halfling, M | Constantly short on coins and owing debts to many. No relation to Fenwick Larkspur. |
 | **Marda the Reformed Cutpurse** | Human, F | A former pickpocket gone straight, who won't let anyone forget it. |
 | **Grithnall the Threadbare** | Human, M | Patched from hat to boots. Claims his coat was once a lord's. |
 | **Ossop the Unlucky** | Human, M | Everything at his stall goes wrong. Buyers pity him into sales. |
-| **Beren Halfcoat** | Halfling, M | Lost half his coat, story varies. The most honest haggler in the square. |
+| **Beren Halfcoat** | Halfling, M | His coat is more pocket than garment; he’s the most honest haggler in the square. |
 | **Ivy Scraptongue** | Human, F | Trades insults with buyers and wins. Deals in scrap and workshop salvage. |
 | **Doras Milkbeard** | Human, M | White-bearded seller of "remedies" that are mostly tea. |
 | **Ruel Tinkpocket** | Halfling, M | A tinker with pockets full of broken parts. Fixes trinkets while he haggles. |
@@ -118,12 +118,12 @@ Characters GuildScribe made for viewers, registered at the guild hall in the cap
 
 ## Arandur's world
 
-A small forest bordering Stoutwell, where a human city is beginning to grow. It isn’t Verrowen.
+A small forest bordering Stoutwell, where a new human settlement is growing.
 
 | Name | Race, sex | Role | In a line | Secret |
 | --- | --- | --- | --- | --- |
 | **Arandur** | Elf, M | Ranger and pickpocket | Abandoned, landless, self-taught archer. Buries everything under contempt. Talks down magic, fears trolls but can't hate them. Since pulled into another world (Midkemia, a D&D campaign world). | His magical abilities might be echoes of his mother, Silwen, influencing him. |
-| **Silwen** | Elf, F | Arandur's mother, a hunter | Taught him stealth and tracking, told him troll tales. Vanished on a "hunt." | Perhaps it was the same voiceless spirit that taught him tracking, still present but unable to speak or move freely. |
+| **Silwen** | Elf, F | Arandur's mother, a hunter | Taught him stealth and tracking, told him troll tales. Vanished on a "hunt." | Perhaps Silwen’s lingering magic influenced his abilities. |
 | **Faelan** | Elf, M | Arandur's father | Distant and rarely present. Vanished with Silwen. | |
 
 ## Roles still to fill

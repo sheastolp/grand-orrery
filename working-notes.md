@@ -92,7 +92,7 @@ Unofficially, Stoutwell is known for two things: **its ales and its blacksmithin
 
 **Where the name comes from (Your idea):** Stoutwell is named after its well, which was once the source of the village's amazing ale.
 
-**When the well died:** About 550 years ago, after the village had already gotten its name. **The blight caused it to dry up.**
+**When the well died:** Approximately five centuries prior, following the village’s founding **The Blight was responsible for its demise.**
 
 **Water through the centuries (Your idea):**
 
@@ -108,7 +108,7 @@ Unofficially, Stoutwell is known for two things: **its ales and its blacksmithin
 
 - **Age:** Stoutwell is about 600 years old.
 - **The woods:** The Monster Wood has always been dangerous, even when the village was founded.
-- **Lost founding stories:** The stories of how Stoutwell was founded were learned but never retold. The founders' children would have been known in their day, but nothing about the founding was passed on.
+- **Lost founding stories:** The stories of how Stoutwell was founded were learned but never retold. Their descendants were familiar figures during their time, yet no record of the village’s origins remained.
 
 ### Neighborhoods (Your idea)
 
@@ -131,13 +131,13 @@ The wealth gap shows on the map. Inside the walls, the village splits into poore
 
 The village is a safe place where the monsters can't get in.
 
-- **Walls:** The village is walled in. The walls are on the shorter side, but not too short, because some monsters are tall.
+- **Walls:** The village is walled in. Despite being relatively compact, the walls provided sufficient protection against a variety of threats.
 - **The Guard (halflings):** Stout halflings who fight from behind big shields. Being short means they can tuck almost completely behind them.
 - **Archers (humans):** Humans with bows on the walls, there to shoot down the floating monsters (and the few that fly).
 
 ### The Guard rotation (Your idea)
 
-Villagers take turns on the Guard rotation a couple of days a month, not a few times a year. The rotation moves between four posts:
+Rotational duty within the Guard system occurs twice monthly. The rotation moves between four posts:
 
 1. **Inside the village:** helping the villagers within the walls.
 2. **The croplands:** protecting the farmers outside the walls, where the goblins raid.
@@ -146,7 +146,7 @@ Villagers take turns on the Guard rotation a couple of days a month, not a few t
 
 **Full-time guards:** Some guards serve full time as part of a larger Guard group, and the rotation fills in around them. The Guard includes both men and women. The only requirement for full-time guards is strength.
 
-**A small halfling Guard (Your idea):** Halflings are only about 28% of the village (around 62 people), so the halfling shield Guard stays small. Being so few leaves them more fatigued, which raises overall stress and defiance in the Guard. Defiance stays minimal, though, because the punishments are extreme. It mostly shows up as a little skimming and some shift dodging.
+**A small halfling Guard (Your idea):** Halflings are only about 28% of the village (around 62 people), so the halfling shield Guard stays small. Their limited numbers resulted in increased fatigue, contributing to heightened tension and occasional insubordination among the ranks. Defiance stays minimal, though, because the punishments are extreme. It mostly shows up as a little skimming and some shift dodging.
 
 **The Guard Captain:** A human. Putting a human in charge of a Guard that's mostly halfling shield-bearers is part of the village's built-in bias. He's fair: harsh, but not corrupt. His name is Hesketh Reeve. He's 48.
 
@@ -347,7 +347,7 @@ The **Monster Wood** (that's the name for now) is a dark wood near the village w
 
 1. **Common but weak:** Most people have a little magic. Very few have a lot.
 2. **It assists, it doesn't do:** Magic makes work easier, but people still do the work. A fire user lights the stove, and someone still cooks.
-3. **Low ceiling:** A fire user who can boil a pot of water counts as super skilled.
+3. **Low ceiling:** A fire user capable of boiling water demonstrates considerable skill.
 4. **Types:** Elemental magic (wind, fire, earth) is the everyday kind. Strength enhancement is fairly common, and detection magic also exists.
 5. **By race:** Elves are the most magical, then humans, then halflings. Humans are more attuned to elemental magic.
 6. **Latent magic:** People can have abilities they don't know about.
@@ -463,7 +463,7 @@ Each item shows how the rules work.
 ### The Kingdom's history, in brief (Your idea)
 
 - **How it grew:** The Kingdom grew outward from the capital over centuries, writing each new town into its rolls. It reached the Monster Wood and stopped, because the wood was cheaper to tax around than to cross.
-- **Stoutwell's place:** Stoutwell was either there before the Kingdom claimed it or grew up at the edge after. Either way, it falls under the Kingdom without ever having been counted. *(Open.)*
+- **Stoutwell's place:** Stoutwell was either there before the Kingdom claimed it or grew up at the edge after. Either way, it fell under the Kingdom without ever having been counted. *(Open.)*
 - **What the archives might hold:** The Rolls House is old. It might hold the only written record of Stoutwell's founding, or of the year the well died. Murrow was likely around for that, and won't speak of it.
 
 ### Still open in the Kingdom (Not decided yet)
@@ -848,8 +848,6 @@ _From a lore-keeper chat, 2026-11-07 · Regions & places._
 **Clashes with canon:** None
 **Open questions:** (suggested) – How much influence do the "Truthhounds" *really* wield?
 
-
-
 **Name:** Weaver's Guild
 **Kind:** Regions & Places - Economic Powerhouse/Royal Service
 **The Rule:** The Weaver's Guild controls the production and distribution of all fabrics used in the Kingdom’s banners, uniforms, and other textiles.
@@ -859,9 +857,6 @@ _From a lore-keeper chat, 2026-11-07 · Regions & places._
 **What it Changes:** Determines the visual identity of the kingdom—shaping how the monarchy presents itself both domestically and abroad. Influences fashion trends within Veridium based on royal mandates. 
 **Clashes with canon:** None
 **Open questions:** (suggested) – Are there any rival weaving guilds that challenge their dominance?
-
-
-
 
 In the world:
 
@@ -890,8 +885,6 @@ _From a lore-keeper chat, 2026-11-07 · Regions & places._
 
 **Open Questions:** (suggested) What specific creatures inhabit the Brackwood Fringe?
 
-
-
 ---
 
 **Name:** Silverstream Reach
@@ -912,9 +905,6 @@ _From a lore-keeper chat, 2026-11-07 · Regions & places._
 
 **Open Questions:** (suggested) What kind of fortifications exist in the ruined watchtower?
 
-
-
-
 ---
 
 **Name:** Ashen Reach
@@ -929,9 +919,232 @@ _From a lore-keeper chat, 2026-11-07 · Regions & places._
 
 **Who it Affects:** Primarily Stoutwell's young Guardsmen undergoing training. It also hosts gatherings for larger-scale combat practice.
 
+### Chromatic Drake – Xan’s Wildshape (Your idea)
+
+<!-- review-key: lore-keeper:4e0771f5-3f66-4e0b-869e-ac88e9355e23 -->
+_From a lore-keeper chat, 2026-11-07 · Items & inventions._
+
+**Name:** Chromatic Drake – Xan’s Wildshape
+
+**Kind:** Items & Inventions - A temporary transformation utilizing a native race of mana-draining monsters.
+
+**The Rule:** Xan can transform into a shifting, multi-colored drake fueled by stolen mana from other creatures.
+
+**How it Works:** Xan channels ambient mana through his body, stimulating the latent presence of Silvari within him—manifesting them as scales and features before transforming fully. He actively drains mana from nearby animals or people to sustain the form, amplifying its power.
+
+**Costs and Limits:** Requires significant concentration and stamina. Prolonged use risks mental instability in both Xan and anyone nearby. Drakes lasts approximately fifteen minutes before requiring a full recharge (dependent on drained mana). The effectiveness is directly tied to the amount of mana stolen. Only those who possess a naturally high affinity for magic (primarily elves and artificers) are capable of initiating the shift.
+
+**Who it Affects:** Primarily affects any creature within range of Xan's attack/drain; also causes vivid hallucinations. Can disrupt magical workings and potentially damage artifacts sensitive to mana fluctuations. Guards find themselves disoriented when near him.
+
+**What it Changes:** Alters the environment with shimmering distortions, induces hallucinations, and physically shifts the terrain due to displaced elemental energy – briefly creating areas of intense cold or heat. It’s dangerous but powerful.
+
+**Clashes with Canon:** None
+
+**Open Questions:** (suggested) - What is the origin of the Silvari? Are they remnants of another world?
+
+---
+In the World: 
+
+The rain hammered against the thick stone walls of Monstradius, mirroring the drumming anxiety beneath Murrow’s workbench. He meticulously adjusted the calibration runes around his Truthglass—a delicate operation designed to authenticate a shipment of gold coming from Stoutwell. Suddenly, a ripple distorted the lens as Xan entered, dripping wet and visibly agitated. “It’s… changing,” he gasped, gesturing wildly towards the shimmering scales forming on his arm. A nearby halfling apprentice stumbled back, clutching his head in confusion, muttering about shifting colors and impossible geometries before collapsing onto the floor. Murrow cursed softly, quickly sealing off the workspace while checking for residual magic–the air felt strangely charged, humming with stolen potential.
+
+### Marda the Reformed Cutpurse (Your idea)
+
+<!-- review-key: lore-keeper:1e224fef-b487-49fb-bd90-9aa0a1588ac0 -->
+_From a lore-keeper chat, 2026-11-07 · Characters._
+
+Name: Marda the Reformed Cutpurse
+Race: Human
+Sex: Female
+Age: 37 (suggested)
+Role: Peddler – specializes in small tools & lockpicks (legally obtained), offering surprisingly sharp advice alongside her wares.
+Lives in: Stoutwell - occupies a stall in the central market square.
+Appearance: Lean build, perpetually smudged hands, dark eyes that seem to assess everything. Wears practical leather trousers and a worn tunic over a chainmail shirt beneath. Carries several pouches filled with tools and trinkets. A faint scar traces across her left hand.
+Personality: Pragmatic, cynical but possesses a dry wit and an unexpected sense of justice. She’s fiercely independent and distrustful of authority figures. Despite her past, she strives to be honest—though sometimes her honesty is delivered with a cutting remark.
+Magic: Limited detection magic – primarily used to identify locks and detect subtle alterations or tampering. It's unreliable and drains mana quickly.
+Connections: Glumtom (occasional dealings regarding enchanted components); Osric (a wary respect; he occasionally seeks out her expertise for seemingly innocuous tasks). The Elderhold (avoidance; they view her profession with suspicion.)
+Secret: Formerly a skilled cutpurse operating within the capital before turning herself in to the Guard. She still retains some of those skills, though rarely uses them overtly.
+Story Hooks: 1) A wealthy merchant suspects Marda of being involved in a recent theft targeting his valuables. 2) An artifact stolen from the capital arrives in Stoutwell, and its thief is believed to have connections to Marda. 3) Osric needs her assistance decoding a complex mechanism found during a dig site – one that may hold dangerous secrets.
+
+Who they are: Marda is a survivor, forged by hardship and regret. Her former life as a thief instilled in her a keen eye for detail, a knack for unlocking things (both literal and figurative), and a deep-seated distrust of power. Now, she runs a modest stall offering tools and advice, attempting to use her unique skillset for honest gain while perpetually looking over her shoulder. Her past haunts her, fueling both her cynicism and her desire to atone—though whether she truly believes she’s earned redemption remains an open question.
+
+### Northwind Harbour & Surrounding Mountains (Your idea)
+
+<!-- review-key: lore-keeper:24a9a537-e3c9-4e84-b576-55308e002982 -->
+_From a lore-keeper chat, 2026-11-08 · Regions & places._
+
+**Name:** Northwind Harbour & Surrounding Mountains
+
+**Kind:** Regions & Places – Mountainous coastal region north of Arandur’s capital.
+
+**The Rule:** Travel through the mountainous area surrounding Northwind Harbour requires specialized knowledge and carries inherent risks due to unpredictable terrain and dangerous creatures.
+
+**How It Works:** Travelers utilize experienced guides familiar with mountain paths, employing featherhooks for assisted climbing and relying on detection magic to anticipate creature movements and potential hazards - skilled navigators are rare and expensive.
+
+**Costs and Limits:** Navigation costs include guide fees (1-3 silver pieces per day), supplies (rations, rope, healing potions—5-10 silver pieces per week), and potentially weapon repairs/replacement if damaged by stonekin or wyverns. Limited by poor visibility, treacherous terrain, and constant threat of predation.  A strong wind can make travel near impossible.
+
+**Who It Affects:** Primarily travelers, merchants, soldiers, and the settlement of Stonehaven itself relies on timber and resources from these mountains. The Stonekin actively resist intrusion.
+
+**What It Changes:** Introduces new trade routes, expands the Kingdom's territory (albeit tenuously controlled), creates opportunities for encounters with unusual monsters, and adds a layer of danger to any journey outside the established roads. 
+
+**Clashes With Canon:** None
+
+**Open Questions:** (Suggested) – What is the nature of the Stonekin’s resistance? How do the wyvern populations relate to other known monstrous threats in Verrowen?
+
+In the world, Master Tobin Ashby stood at the edge of the Scarred Pass, his face weathered by wind and sun. His apprentice, young Elias, nervously adjusted the featherhook strapped to his wrist as they prepared to descend into the ravine. A thick fog clung to the mountain slopes, muting sound and obscuring vision - a familiar hazard intensified by the presence of the elusive Stonekin, whose low growls echoed faintly through the rock. He consulted Murrow’s Lodestone, its mirrorstone surface swirling with faint patterns indicating movement within the stone; it was time to proceed carefully, lest they trigger an ancient conflict.
+
+### Greyhaven (Your idea)
+
+<!-- review-key: lore-keeper:93b3380c-7946-4a31-9040-fade47812824 -->
+_From a lore-keeper chat, 2026-11-08 · Regions & places._
+
+**Name:** Greyhaven
+
+**Kind:** Regions & Places - A district within Stoutwell, bordering the Ashen Reach and the Guard Training Grounds.
+
+**The Rule:** Greyhaven is defined by its proximity to the training grounds and the constant flow of ash dust from the Ashen Reach, creating a perpetually gritty environment inhabited primarily by those unable to afford better housing.
+
+**How It Works:**  The district’s economy relies on scavenging, repair work, and informal trade facilitated by Doric's smithy, benefiting directly from discarded materials and surplus equipment from the Guard's training exercises.
+
+**Costs and Limits:** Accessing Greyhaven requires navigating dangerous conditions – ash inhalation causing chronic illness, frequent flooding, and potential encounters with wild beasts drawn to the exposed area. Mana expenditure is minimal here, mostly related to simple repairs or warding against minor environmental hazards. 
+
+**Who It Affects:** Primarily impoverished human families, some halflings, former Guard recruits, and occasional itinerant laborers seeking temporary employment. The Elderhold maintains nominal oversight but exerts little direct control. 
+
+**What It Changes:** Greyhaven subtly shifts Stoutwell’s social dynamic, acting as a visible reminder of inequality and providing a steady stream of low-skilled labor for the kingdom (and occasionally, unfortunately, for criminal enterprises). 
+
+**Clashes With Canon:** None. 
+
+**Open Questions:** (Suggested) - *What specific illnesses are prevalent in Greyhaven due to the ash?*
+
+---
+In the world:
+
+Rain hammered down on the corrugated iron roof of Silas’s workshop, drumming out a relentless rhythm alongside the clang of his hammer. He was painstakingly repairing a shattered shield for Corporal Garin, one of the newest Guardsmen emerging from the drills below. A fine layer of grey dust coated everything—Silas’s hands, his tools, even the meager meal he'd eaten before starting.  The smell of burnt timber mingled with the damp earth; the familiar scent of Greyhaven – a grim testament to Stoutwell’s edges. Murrow would soon be by, demanding an inventory report for Doric’s materials.
+
+### Saltwind Reach (Your idea)
+
+<!-- review-key: lore-keeper:02045820-9322-41b1-8148-3b60c9590bb0 -->
+_From a lore-keeper chat, 2026-11-08 · Regions & places._
+
+Name: Saltwind Reach
+
+Kind (Regions & Places): The Reach is notoriously difficult to navigate, prone to sudden squalls and monstrous marine life, demanding experienced sailors and sturdy vessels; attempting landings during poor weather can prove fatal.
+
+How it Works: Remnants of fortified coastal settlements dot the shoreline – evidence of earlier, smaller kingdoms that fell to the tides centuries ago. These were built not as grand fortresses but rather as practical tidal defenses against raiding parties from across the Narrow Sea. Local shipwrights utilize techniques passed down through generations, specializing in building ‘stormbreakers’ - ships reinforced with ironwood salvaged from shipwrecks. The reach's unique currents and seabed formations attract unusual fish populations – giant crabs and bioluminescent eels are common catches.
+
+Costs and Limits: Passage costs 1 Mana per day (primarily for navigating treacherous currents). A successful landing attempt requires at least two seasoned sailors (1 Mana/day each) and a set of 'sea hooks' crafted by local shipwrights (6 silver coins per hook), which often require regular maintenance. Injury within the reach incurs a 2 Mana cost—often worsened by cuts and bruises aggravated by jagged rocks. Severe weather necessitates reinforced stormbreakers and skilled captains – adding significantly to travel time.
+
+Who it Affects: Primarily fishermen, traders passing through, occasional royal surveyors, and the handful of hardy souls who call Saltwind Reach home. Stoutwell relies on its catch, though trade is limited due to the hazards.
+
+What it Changes: Its remote location limits sustained trade or significant Royal influence; represents a valuable source of rare materials and potential escape routes for dissidents.
+
+Clashes with canon (or “None”): None
+
+Open questions: (suggested) What specific creatures inhabit the deeper coves near the ruins?
+
+In the world:
+The rain hammered against the timbers of Silas’s small fishing boat as he hauled in his evening catch - mostly sea-slugs and phosphorescent shrimp. The wind howled off the cliffs, carrying spray that stung his face. Old Man Hemlock, mending nets beside him, grunted, "Stormbreaker's holding true tonight, boy. Best build in Verrowen hasn't seen conditions like this in a generation." A flash of blue light briefly illuminated from beneath the waves before disappearing into the dark depths--a common sight around Saltwind Reach, but always unsettling enough to make Silas check his hooks twice.
+
+### Brackwood Fringe (Your idea)
+
+<!-- review-key: lore-keeper:6521acef-9bc6-4a1d-b7a1-2955c0f8eaf7 -->
+_From a lore-keeper chat, 2026-11-08 · Physics & nature._
+
+Name: Brackwood Fringe
+
+Kind: Regions & Places - A perpetually damp, gnarled woodland bordering the southern edge of former farmland.
+
+The Rule: It’s a zone of dense, mutated wilderness rife with dangerous wildlife and remnants of forgotten settlements, challenging navigation and requiring specialized equipment or skilled trackers to traverse safely.
+
+How it Works: The terrain itself is inherently hostile due to fungal growth, unusual animal mutations stemming from the blight’s impact, and persistent fog that reduces visibility – all amplified by its isolation.
+
+Costs and Limits: Navigation requires either a seasoned tracker (3 Mana/day) or Featherhooks (5 silver coins per trip). Injury within the fringe incurs a 1 Mana cost. Travel time significantly increases without proper preparation.
+
+Who it Affects: Primarily travelers, hunters, and those seeking lost artifacts. Stoutwell villagers avoid it entirely. The Guard patrols occasionally, but rarely ventures deep.
+
+What it Changes: Represents a significant barrier to trade and communication between Verrowen and other regions.  It forces reliance on local resources and knowledge, potentially shifting power dynamics within Stoutwell.
+
+Clashes with Canon: None
+
+Open Questions: What specific creatures inhabit the Brackwood Fringe? (suggested)
+
+In the world:
+
+The rain hammered down relentlessly as Tobin Ashby wrestled with his tracking staff through the thick undergrowth of the Brackwood Fringe. A chill clung to everything—the air, his damp leather armor, even the meagre fire he'd built. He was attempting to retrieve a rumored fragment of amber, said to hold echoes of ancient songs, for a wealthy merchant in the capital. Every rustle sent a shiver down his spine; Gloom Rats scuttled beneath fallen logs, their bioluminescent eyes reflecting the gloom, while the persistent fog made judging distances nearly impossible. Murrow’s notes warned against relying solely on sight – the landscape played tricks with light and shadow.
+
+### Gilded Spine of the Silent Archivist (Your idea)
+
+<!-- review-key: lore-keeper:344894e1-38e5-418c-88d4-a63fca3289c9 -->
+_From a lore-keeper chat, 2026-11-08 · Anything._
+
+Name: Gilded Spine of the Silent Archivist
+Kind: Object - Relic
+What it is: This intricate silver locket whispers fragments of betrayal whenever worn by someone who has betrayed another person, amplifying their guilt and suspicion.
+The Details: The Spine manifests as fleeting auditory hallucinations—not full conversations, but snippets of phrases laced with accusation (“You lied…”, “I knew…”). The volume increases proportionally to the wearer’s stress levels or proximity to individuals they distrust. Osric would experience fragmented thoughts concerning his role within the Elderhold, subtly questioning loyalties amongst his peers – he wouldn't be driven mad, but certainly frustrated and paranoid. Silas initially experiences vague unease before being drawn towards more defined whispers related to those around him. The whispers don't *reveal* concrete betrayals, just the potential for them, feeding a cycle of paranoia and investigation. Murrow hypothesizes that the item draws on ambient magical echoes of past transgressions – lingering ‘residue’ from significant lies and broken oaths.
+
+Clashes with canon (None)
+Open questions: (Suggested) Trigger mechanism specifics (how does it activate?), Precise effect range/intensity (how loud are the whispers?) , Source of the magic (where did this relic come from?). 
+
+In the world:
+
+Silas clutched the Gilded Spine tightly, the cool metal strangely comforting against his burning brow. He was sitting in the Wellhouse tavern, nursing a pint of Stoutwell ale - an attempt at calming the incessant murmurings within his mind. A snippet of voice drifted through the room - "He promised me safety...but left me exposed." It wasn’t directed at anyone specific; rather a generalized echo of broken trust swirling within his skull.  The other patrons barely noticed his frown, engrossed in their own conversations, oblivious to the spectral accusations warring beneath his awareness. He took another gulp of ale, hoping to drown out the voices, but they persisted, unsettling reminders of his fractured past and the unknown dangers ahead.
+
+### Reinforced Gatehouse Beams (Your idea)
+
+<!-- review-key: lore-keeper:3bb43e83-ce3f-43eb-871d-099ae0f653b4 -->
+_From a lore-keeper chat, 2026-11-08 · Items & inventions._
+
+**Name:** Reinforced Gatehouse Beams
+
+**Kind (Items & Inventions):** Structural Enhancement via Elemental Infusion
+
+**The Rule:** Iron-banded oak beams reinforced with controlled elemental fire increase the structural integrity of the Stoutwell gatehouse against siege weaponry.
+
+**How it Works:** Doric forges oak beams with bands of iron, while Murrow subtly infuses them with channeled elemental fire – strengthening the wood’s grain through heat manipulation, layering a weak ward against impact. 
+
+**Costs and Limits:** Approximately 8-9 silver pieces per beam, labor from slum workers supplementing Doric's work (estimated 2 copper per day), risk of instability if Murrow overloads the infusion—potentially causing damage or injury (risk factor: medium). Primarily affects the guard rotation and those working near the gate. It strengthens the gatehouse considerably but doesn’t dramatically alter its appearance.
+
+**Who it Affects:** Doric (primary artisan), Murrow (manipulator of the magic), Guard Rotation (users of the strengthened structure), Slum Workers (labor force), potentially all residents within range of potential instabilities.
+
+**What it Changes:** Increases the gatehouse’s resistance to projectile attacks and blunt force trauma; shifts focus towards needing maintenance/monitoring by someone skilled in detecting magical disturbances. 
+
+**Clashes with Canon:** None
+
+**Open Questions:** (Suggested) - *“Does this significantly reduce the chance of a rift opening directly at the gate?”*
+
+In the world, the afternoon sun cast long shadows across the newly reinforced section of the Stoutwell Gatehouse as Tobin Ashby hammered a final rivet into place. The air still carried a faint scent of smoke – a subtle reminder of Murrow's careful work. A couple of grizzled guardsmen shifted uneasily, checking their shields, while Murrow adjusted his spectacles, meticulously examining the grain pattern of the oak for any signs of distress. The rhythmic clang of metal against metal mingled with the shouts of the slum workers hauling timber nearby, creating an oddly ordered scene amidst the rough-hewn village, solidifying the fortified frontier against the looming Monster Wood.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
+
+### Silas Blackwood (Your idea)
+
+<!-- review-key: verrowen:ac2ff160-77fd-4a15-8a85-cce9f8c1588c -->
+_From a Wake in Verrowen story, 2026-11-08 · Story._
+
+**Character Profile:**
+
+Name: Silas Blackwood (not found out yet)
+Sex: Male
+Race: Human
+Age: Approximately 38 years old
+Appearance: Tall and leanly built, with dark hair streaked with grey at the temples and piercing grey eyes that hold a deep sadness. He bears several scars - most notably a jagged wound across his left shoulder and a faint burn mark on his right hand – and wears worn leather clothing suited for travel and survival. 
+Magic: Detection – a weak but responsive ability allowing him to sense residual magic and identify magical objects; he’s capable of limited shielding against mental intrusion.
+Personality: Stoic, reserved, haunted by a profound sense of loss and burdened by fragmented memories. Prone to moments of intense focus and bursts of decisive action when under pressure. Deeply wary of others, but fiercely protective of those who earn his trust—a quality slowly emerging amidst his guarded exterior. 
+
+Skills: Combat (proficient with knives), Tracking, Survival, Limited Magical Detection.
+Background so far: Silas awoke with amnesia in a burned cottage high on the hillside outside Stoutwell, discovering a strange connection to an ancient silver locket and encountering unsettling remnants of forgotten magic. His initial disorientation is being replaced by a growing awareness of danger and a desperate need to uncover his past.
+Key items: Silver Locket (containing portraits of a young boy and a weeping woman); Goblin Knife; Hearthstone.
+Who they met: Murrow (artificer), Hesketh Reeve (Guard Captain), Wendeline Brackenford (Elder).
+Places they've been: Ruined Cottage near Stoutwell.
+Allies and enemies: None yet - potential allies are emerging through his encounters.
+Debts and promises: Unknown – he hasn’t made any commitments beyond surviving.
+Wounds and scars: Shoulder wound from an arrow, burn mark on right hand.
+Open mysteries: The origin and purpose of the silver locket, the fragmented memories haunting him, the nature of the energy emanating from the hearthstone, the fate of the child depicted within the portrait.
+
+The story so far: Silas Blackwood stumbled into a nightmare woven with snow, blood, and echoes of forgotten pain. He awoke disoriented, wounded, and stripped of all memory, only to discover a chilling connection to a vanished girl and a dangerous artifact—the silver locket. Driven by instinct and fueled by burgeoning magical abilities, he battled goblins guarding a ruined cottage, unearthed cryptic clues in a hidden journal, and confronted a torrent of unsettling visions triggered by the locket’s presence. As he attempted to understand these events, the faint hum resonating from the hearthstone grew stronger, hinting at a deeper mystery linked to Murrow, the artificer, and the shifting realities of the Grand Orrery. His journey has just begun, a descent into a world of ancient secrets and perilous possibilities. 
+
+Silas is now a haunted man grappling with lost memories and nascent magic, driven to unravel the truth behind his amnesia and confront whatever forces seek to control him.
 
 ## From rest mode
 
@@ -948,7 +1161,7 @@ _Made up by the AI in rest mode, 2026-11-07 · about a piece of Stoutwell's or t
 - **The Guard:** Hesketh Reeve, its Captain, over the full-time Guard of villagers picked for strength, with every villager taking a turn on the rotation.
 - **Outside the groups:** Murrow, the artificer of Monstradius. The Wellhouse family, Stoutwell's only elves, who own the tavern and do nothing for the village beyond it. Burn, the Wellhouse's regular, an outsider who came down the Woodland Road about fifteen years ago.
 - **Who:** About 220 people, roughly 72% human and 28% halfling, plus the Wellhouse elves.
-- **Where:** Inside the walls. The fishing settlement on the lake isn't part of the village, and none of GuildScribe's people live in Stoutwell.
+- **Where:** Within the walls. The fishing settlement on the lake is not part of the village, and none of GuildScribe’s people live in Stoutwell.
 - **How it works:** Stoutwell is off the Kingdom's rolls, so the nearest thing to a written roster is Bertram's ledgers and tithe counts, which is one more reason a guild ledger in the village would matter.
 - **Still to name:** The tanner, the woodworkers, farmers and herders, the millers and notable members of the Guard.
 
@@ -963,14 +1176,7 @@ _Made up by the AI in rest mode, 2026-11-07 · about a creature of the Monster W
 - **Where:** Specifically found within pockets of the Monster Wood characterized by unusually high humidity—particularly around fallen logs, stagnant pools, and deep ravines where the sunlight struggles to penetrate. Their dens are typically constructed within hollowed-out tree roots or beneath dense tangles of vines.
 - **How it Works:** The Silken Stalker doesn't rely on sight or sound; instead, it detects its prey (small animals, birds, even unwary travelers) using specialized organs located along its flanks that sense minute changes in air pressure caused by movement. These ‘pressure whispers’ allow it to pinpoint targets with incredible accuracy, effectively creating a 3D “map” of its surroundings.  It can also use this ability defensively, releasing a concentrated burst of compressed air as a disorienting shockwave.
 - **Limits:** Its sensitivity is heavily affected by strong winds or turbulent airflow – making open spaces perilous. Magical interference, especially spells that create sonic vibrations, severely disrupts its sensory system, causing intense pain and disorientation. Prolonged exposure to fire causes its fur to burn rapidly, stripping away its camouflage and leaving it vulnerable. It cannot reliably track magic users - they simply appear as static noise.
-- **Ties:** Murrow has observed the Silken Stalkers during his research
-
-### Riverstone Charm (Your idea)
-
-<!-- review-key: rest:idea-mw6ntuw3 -->
-_Made up by the AI in rest mode, 2026-11-07 · about a place in the Kingdom's capital or on the Kingdom's roads._
-
-- **Label:** A protective charm found near Stoutwell’s lake, tied to the fishing settlement’s secret passage.
+- **Ties:** Murrow has been observing the Silken Stalkers during his research
 
 ### The Silent Well (Your idea)
 
@@ -987,3 +1193,101 @@ _Made up by the AI in auto mode, 2026-11-07 · about a piece of Stoutwell's or t
 _Made up by the AI in auto mode, 2026-11-07 · about something about the Guard: a post, a habit, a piece of gear or a person._
 
 - Every fourth day, after the evening meal and before tending the walls, Hesketh Reeve gathers all members of the Guard for “The Stitching,” which involved meticulously inspecting each shield—patching cracks with hardened river clay, reinforcing weak points with strips of leather salvaged from damaged armor, and sharpening the edges with Doric’s finest steel. Ties: Connects directly to Hesketh Reeve and Doric, highlighting their working relationship and emphasizing the practical, almost obsessive nature of defensive preparedness within Stoutwell.
+
+### Whisperwind’s Watch (Your idea)
+
+<!-- review-key: rest:idea-mw6v766v -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-07 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- A lone halfling woman uses detection magic to detect danger within the Monster Wood, acting as a living early warning system for Stoutwell, despite being ostracized by the village.
+
+### Guard’s Ritual (Your idea)
+
+<!-- review-key: rest:idea-mw6ylddp -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-07 · about something about the Guard: a post, a habit, a piece of gear or a person._
+
+- Every month, after their shift ends and before retiring for the night, each member of the Guard must spend precisely five minutes meticulously polishing their shield with river clay – a ritual overseen by Captain Hesketh himself. It’s believed this process strengthens not just the metal, but also the bond between the soldier and his protection, warding against ill fortune and ensuring vigilance during the next patrol. This habit stems from an obscure Elderhold tradition dating back to the village's founding, when a particularly brutal goblin raid was repelled thanks to a newly polished shield reflecting moonlight directly into the attackers’ eyes. The practice now serves as both a practical maintenance task and a visible demonstration of discipline and loyalty within the Guard ranks, subtly reinforcing its authority.
+
+### Murrow’s Secret (Your idea)
+
+<!-- review-key: rest:idea-mw7073rc -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-07 · about a person who lives in Stoutwell._
+
+- **What it is:** A new villager – an extremely old artificer named Murrow – arrives in Stoutwell with a strange device called the Seeker’s Lodestone, seeking knowledge about the source of the village’s dried well and potentially uncovering a hidden connection between Stoutwell and the dangers beyond the Monster Wood.
+- **Who:** Murrow, an artificer over five hundred years old, is a secretive and guarded individual. He bears little resemblance to the stereotypical artificer from the lore books—he wears a dark hood to obscure his face, speaks rarely, and seems intensely focused on locating something specific within Stoutwell. Doric, the master blacksmith, is wary of him due to his unsettling calm demeanor and expertise with materials that seem impossibly ancient. Hesketh Reeve sees him as a potential threat, given his apparent knowledge of arcane matters and reluctance to share information.
+- **Where:** Murrow establishes a small workshop - Monstradius - near Murrow’s shop in the NW housing district, utilizing salvaged parts and ash wood (sourced from the Ashen Reach). He spends most of his time meticulously studying the Silent Well, examining its crumbling stone walls and attempting to use the Seeker's Lodestone to detect residual mana signatures. The lodestone itself appears to resonate faintly when brought near areas affected by the Blight or unusually strong elemental currents.
+- **How it works:** The Seeker's Lodestone functions through detecting faint traces of lingering magical energy – specifically, it responds strongest to events tied to significant shifts in the world’s structure like those caused by rifts. It doesn’t actively *find* things; rather, it guides Murrow towards locations where such energies are concentrated. Using it requires careful concentration and a steady hand, draining the user’s mana rapidly—a single prolonged scan could leave someone weak and dizzy.  Murrow seems to be using Doric's iron featherhooks to help channel this process, creating specific patterns on the stone that amplify the lodestone’s detection abilities, but he refuses to explain how.
+- **Limits:** The Seeker’s Lodestone is highly sensitive and easily disrupted by other sources
+
+### The Silent Offering (Your idea)
+
+<!-- review-key: rest:idea-mw70zdzo -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-07 · about a custom, saying, food or rule of daily life in Stoutwell._
+
+- **What it is:** A daily ritual performed by the Wellhouse elves where they leave a single, perfectly formed river stone upon the dried well, accompanied by a whispered request for continued prosperity – a silent offering meant to appease whatever spirit might dwell within the now-empty water source.
+- **Who:** Primarily practiced by the four Wellhouse elves - Wendeline Brackenford, Fenwick Larkspur, Bertram Quillby, Ysolde Ambergate – though all villagers quietly observe with respect. Burn, the Wellhouse’s regular, sometimes joins them, usually after a particularly potent ale.
+- **Where:** Directly on the dry basin of the old Stoutwell well, located in the center of the village square, always near the Gathering Hall. It stands adjacent to the crumbling walls that once held back the water, a stark reminder of its loss.
+- **How it works:** Each elf carefully selects a smooth, grey river stone from the nearby riverbank – stones are collected over several days. They then meticulously clean the well basin before placing the stone gently atop it, followed by a short, almost inaudible prayer or blessing (the exact wording varies between generations). The act takes approximately five minutes, during which time they remain motionless, facing the setting sun.
+- **Limits:** The effectiveness of this “offering” is entirely based on belief and tradition; there's no demonstrable magical effect. However, the ritual serves as a focal point for community goodwill and represents a tangible connection to the past and their ancestors.  The offering only has power if the person offering it *believes* it will work. If someone doubts it, nothing happens.
+- **Ties:** This custom directly links to the founding story of Stoutwell - the legend says the well dried up because the villagers forgot to offer respect to the spirit of the water. The elves’ arrival centuries ago was seen as a sign that their dedication would restore prosperity. Burn’s frequent presence at the well further solidifies the custom within the village’s culture.
+
+### Whisperwind’s Watch (Your idea)
+
+<!-- review-key: rest:idea-mw72o20l -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- The village guard utilizes a wind-sensitive bell system that warns them of approaching danger within the Monster Wood, relying heavily on a single, dedicated watcher.
+
+### Rook’s Watch (Your idea)
+
+<!-- review-key: rest:idea-mw75pi6h -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._
+
+- The Guard maintains a nightly watch over Whisperwind, using a series of strategically placed Wardbells that detect movement within a fifty-foot radius – however, only the trained ears of Hesketh Reeve can reliably interpret their frantic ringing, distinguishing between a startled rabbit and a potential threat.
+
+### Whisperwind’s Watch (Your idea)
+
+<!-- review-key: rest:idea-mw7a0bjx -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- **What it is:** A stone owl statue with subtly shifting eyes that trigger a brief detection spell when something significant leaves the Monster Wood - only effective for “big” events like creatures or people, not smaller things like animals or lost items.
+- **Who:** Constructed by Murrow using ash wood from the Ashen Reach, imbued with his own limited detection magic. It’s currently maintained by Whisperwind, a halfling Watcher tasked with its upkeep.
+- **Where:** Situated atop the highest point on the western wall of Stoutwell, overlooking the entrance to the Monster Wood – specifically positioned to catch any sign of movement through the trees. The owl faces west.
+- **How it works:** When a creature or person of considerable size (defined as roughly ten feet tall or larger) passes within a fifty-foot radius of the statue, the owl’s eyes briefly glow with pale blue light, triggering a short-range detection spell focused solely on the immediate area. This reveals the presence of magical signatures, but provides no details about what caused them—only a sense of "something else" is detected.  The effect lasts for one round and requires a successful Detection check (difficulty set by Murrow). Whisperwind refreshes the enchantment every few weeks with her own minor detection spells; this uses mana, so she must carefully monitor her reserves.
+- **Limits:** The statue's range is limited; it won't trigger if something simply walks past quickly. Its sensitivity is also low, meaning it can be easily overwhelmed by ambient magic in the woods. Critically, it *cannot* detect small creatures like goblins, rodents, or even large birds - only substantial things. It’s reliant on Whisperwind's continued maintenance, and the enchantment fades if not refreshed regularly. The statue itself does not speak or offer guidance beyond its triggered detection; its value lies purely in warning of potential threats.
+- **Ties:** This mechanism directly connects to Murrow's secretive research into locating other artificers and his concern about the Kingdom’s expansion – he fears that increased activity within the Monster Wood will draw unwanted attention from those who seek to exploit its resources. Hesketh Ree
+
+### Rook’s Vigil (Your idea)
+
+<!-- review-key: rest:idea-mw7ddxe0 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._
+
+- The Guard rotates through nightly shifts patrolling Whisperwind’s Watch, where a specific ritual performed under the light of the moon helps ward against creatures drawn by the village’s magical energy - specifically, the rooks that haunt Brackwood Fringe.
+
+### Whisperwind’s Vigil (Your idea)
+
+<!-- review-key: rest:idea-mw7yc2yn -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- **What it is:** A spectral hound, native only to the immediate area around the Monster Wood and especially active near Rook’s Watch, that acts as a living early warning system for intruders or significant magical disturbances within a roughly half-mile radius. It doesn't attack, instead emitting mournful howls when something triggers its heightened state – often before any physical threat materializes.
+- **Who:** Primarily controlled by Whisperwind, the village’s appointed “Watcher” - essentially a conduit and amplifier for the Hound’s abilities, though not its creator. The Hound itself seems ancient and unbound by normal rules of life and death.
+- **Where:** Specifically located along the western edge of Stoutwell where the Monster Wood begins, particularly concentrated around Rook’s Watch, a small elevated platform built atop a naturally occurring rock formation overlooking the woods. Its range extends approximately ½ mile outwards from Rook’s Watch. The wood grows dense enough here that most inhabitants don’t venture this far without Guard escort.
+- **How it works:** The Hound appears to be drawn to strong magical signatures—even faint ones—and areas with unusual energy fluctuations. When triggered, it emits three distinct types of howling: a low rumble signifying general unease; a high-pitched whine indicating immediate danger; and a sustained, sorrowful wail if the disturbance is unnatural (like magic gone wrong). Whisperwind can subtly adjust the Hound’s sensitivity, but only through focused meditation and quiet intention.  It requires constant attention, as extended periods of silence or distraction weaken its connection. A significant drain on mana is required for Whisperwind to sustain the contact – roughly equivalent to one hour of focused spellcasting.
+- **Limits:** The Hound's effectiveness is directly tied to Whisperwind’s ability to maintain focus. Loud noises, distractions, or emotional distress severely disrupt the link. It cannot “see” in the conventional sense, relying solely on sensory input filtered by its spectral awareness. Additionally, the Hound *cannot* predict the outcome of events – merely alert to their presence. Finally, prolonged exposure to the hound causes a dulling effect - those who stand near it for too long find themselves unusually sluggish and unable
+
+### Brackwood’s Watch (Your idea)
+
+<!-- review-key: rest:idea-mw7z4jrz -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about a place in the Kingdom's capital or on the Kingdom's roads._
+
+- Rook’s Vigil takes place near the towering Brackwood Fringe mountains along the south wall of Stoutwell, where a particularly dense patch of twisted trees blocks most sunlight and strange whispers carried by the wind warn of something lurking within.
