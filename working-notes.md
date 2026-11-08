@@ -1193,7 +1193,7 @@ In the world:
 
 The rain hammered against the slate roof of Monstradius as Murrow adjusted the Resonance Stone Device, its grey surface gleaming faintly beneath the workshop’s single oil lamp. A young Guard recruit, Tobin Ashby, stood awkwardly beside him, clad in leather gloves connected to the device.  Tobin shifted nervously, his face etched with concentration – a faint flush warming his cheeks as he described the subtle vibrations - “Like a swarm of tiny bees buzzing…almost.” Murrow nodded gravely, meticulously adjusting a copper coil. This wasn't grand detection magic, just a carefully calibrated link between human senses and the chaotic whispers of Verrowen's inherent magic, a start toward understanding something far greater.
 
-### Rootwraiths (Pitch)
+### Rootwraiths (Your idea)
 
 <!-- review-key: lore-keeper:b33535cc-56ae-426a-a304-933b3c5a7760 -->
 _From a lore-keeper chat, 2026-11-08 · Physics & nature._
