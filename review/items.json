@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T22:39:10.515Z",
+  "built": "2026-11-08T22:58:51.114Z",
   "branch": "review",
-  "commit": "534e0b5c2d546658d7b5994409b05d45f31d3266",
+  "commit": "c239f4f59e4428981644671e12916d06d7bc0d9b",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 16,
     "lore": 32,
-    "note": 188
+    "note": 189
   },
   "entities": [
     {
@@ -449,7 +449,8 @@
       "category": "Materials",
       "kind": "Stone & glass",
       "mentioned_in": [
-        "working-notes-the-seekers-lodestone"
+        "working-notes-the-seekers-lodestone",
+        "working-notes-monstradius-peculiar-pipe"
       ]
     },
     {
