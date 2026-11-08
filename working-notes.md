@@ -1071,7 +1071,7 @@ In the world:
 
 The rain hammered down relentlessly as Tobin Ashby wrestled with his tracking staff through the thick undergrowth of the Brackwood Fringe. A chill clung to everything—the air, his damp leather armor, even the meagre fire he'd built. He was attempting to retrieve a rumored fragment of amber, said to hold echoes of ancient songs, for a wealthy merchant in the capital. Every rustle sent a shiver down his spine; Gloom Rats scuttled beneath fallen logs, their bioluminescent eyes reflecting the gloom, while the persistent fog made judging distances nearly impossible. Murrow’s notes warned against relying solely on sight – the landscape played tricks with light and shadow.
 
-### Gilded Spine of the Silent Archivist (Pitch)
+### Gilded Spine of the Silent Archivist (Your idea)
 
 <!-- review-key: lore-keeper:344894e1-38e5-418c-88d4-a63fca3289c9 -->
 _From a lore-keeper chat, 2026-11-08 · Anything._
