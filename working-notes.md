@@ -1230,19 +1230,6 @@ _Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: 
 
 - The Guard rotates through nightly shifts patrolling Whisperwind’s Watch, where a specific ritual performed under the light of the moon helps ward against creatures drawn by the village’s magical energy - specifically, the rooks that haunt Brackwood Fringe.
 
-### Murrow’s Echo (Pitch)
-
-<!-- review-key: rest:idea-mw7e7ffo -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's guild hall keeps, does or is known for._
-
-- **What it is:** A faint, repeating sound that emanates from Murrow’s shop, Monstradius, believed by some villagers to be echoes of his long life or perhaps something he deliberately creates using magic.
-- **Who:** Primarily affects Murrow himself, but also causes unease amongst the residents of Stoutwell, particularly those close to the shop. It was first noticed after the well dried up, coinciding with Murrow taking on the irrigation project.
-- **Where:** Originating within the confines of Monstradius – specifically a small alcove behind his workbench where he conducts his most secretive experiments involving the Rift Compass. The echo seems strongest when he’s attempting to manipulate the device.
-- **How it works:** Villagers describe the sound as a low hum interspersed with brief, distorted whispers - sometimes recognizable snippets of conversation, other times just chaotic noise.  Murrow claims it's simply “residual mana” clinging to the stone walls, a side effect of his manipulations of magical energies. He insists it doesn’t harm anyone, merely serves as a reminder of the immense power contained within the space. However, several have reported feeling inexplicably cold and disoriented near the shop, especially during periods of heightened activity.
-- **Limits:** The volume and clarity of the echo fluctuate depending on Murrow's concentration and the level of mana he is expending. Stronger manipulation of the Rift Compass results in louder, more distinct echoes. Attempts by villagers to investigate further are met with an unsettling distortion of the sound that quickly overwhelms their senses.
-- **Ties:** Directly connected to Murrow’s secrecy surrounding his research into the Rift Compass and his reluctance to discuss his origins or his long lifespan. It has also fueled speculation about his potential dealings with entities beyond Stoutwell—as well as being linked to his past, possibly through some event from before he arrived at the village – now considered lost to time.
-
 ### Silas Blackwood (Pitch)
 
 <!-- review-key: rest:idea-mw7f0hfh -->
