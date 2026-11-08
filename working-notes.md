@@ -1464,7 +1464,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about a small everyday magic item
 - **Limits:** The raven's sensitivity diminishes rapidly outside of areas touched by magic. In open fields or around mundane objects, it remains utterly silent. Its range is limited – about 30 feet at most – due to the smallness of the mana it holds. Furthermore, it’s susceptible to interference: strong elemental attacks or powerful spells can overwhelm its senses, causing it to emit a jarring shriek that temporarily disrupts Murrow's concentration. Finally, the raven’s connection to Murrow means if he were to die, so would the device.
 - **Ties:** The ash wood used for the bird comes directly from the Ashen Reach, reflecting Murrow’s deep interest in understanding the nature of magical decay—a fascination born out of his experience with the Blight. He occasionally
 
-### Monstradius’s Quiet Watch (Pitch)
+### Monstradius’s Quiet Watch (Your idea)
 
 <!-- review-key: rest:idea-mw88hy6d -->
 <!-- added by the AI -->
