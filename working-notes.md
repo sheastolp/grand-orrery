@@ -1080,7 +1080,7 @@ _Made up by the AI in auto mode, 2026-11-07 · about a small everyday magic item
 - **Limits:** The shard only detects *active* traces of artificing magic, not dormant power. It's also incredibly sensitive: strong elemental magic or powerful divine spells can overwhelm its signal, rendering it useless. Furthermore, Murrow warns that overuse leads to "echoes" – brief flashes of fragmented memories from other artificers, potentially overwhelming the user with foreign thoughts and sensations. Finally, because it is a piece of mirrorstone itself, it cannot be charged by any external source, relying entirely on the user’s own Mana.
 - **Ties:** The shard was initially intended for tracking down Glumtom, but after Murrow discovered the Kingdom’s interest (and suspicion) regarding his activities he modified its function, using it primarily to detect potential threats within Stoutwell—namely, anyone attempting to replicate his work, such as Doric and his smithing secrets. He believes Hesketh has been paying attention to him, too, due to his unusual knowledge about Rift compass design.
 
-### Whisperwind’s Watch (Pitch)
+### Whisperwind’s Watch (Your idea)
 
 <!-- review-key: rest:idea-mw72o20l -->
 <!-- added by the AI -->
