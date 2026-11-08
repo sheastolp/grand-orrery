@@ -1286,7 +1286,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster W
 - **How it works:** The Hound appears to be drawn to strong magical signatures—even faint ones—and areas with unusual energy fluctuations. When triggered, it emits three distinct types of howling: a low rumble signifying general unease; a high-pitched whine indicating immediate danger; and a sustained, sorrowful wail if the disturbance is unnatural (like magic gone wrong). Whisperwind can subtly adjust the Hound’s sensitivity, but only through focused meditation and quiet intention.  It requires constant attention, as extended periods of silence or distraction weaken its connection. A significant drain on mana is required for Whisperwind to sustain the contact – roughly equivalent to one hour of focused spellcasting.
 - **Limits:** The Hound's effectiveness is directly tied to Whisperwind’s ability to maintain focus. Loud noises, distractions, or emotional distress severely disrupt the link. It cannot “see” in the conventional sense, relying solely on sensory input filtered by its spectral awareness. Additionally, the Hound *cannot* predict the outcome of events – merely alert to their presence. Finally, prolonged exposure to the hound causes a dulling effect - those who stand near it for too long find themselves unusually sluggish and unable
 
-### Brackwood’s Watch (Pitch)
+### Brackwood’s Watch (Your idea)
 
 <!-- review-key: rest:idea-mw7z4jrz -->
 <!-- added by the AI -->
