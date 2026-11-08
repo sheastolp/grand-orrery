@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T21:26:34.548Z",
+  "built": "2026-11-08T21:30:33.357Z",
   "branch": "review",
-  "commit": "5506f7243ece022c944e5e96e1b763d4273a3995",
+  "commit": "03abb44de8189567b7ee3498120e47555f8cf80e",
   "counts": {
     "person": 87,
     "role": 11,
@@ -3633,7 +3633,7 @@
       "type": "note",
       "name": "Murrow’s Peculiar Pipe",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw8at3xm",

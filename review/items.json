@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-08T21:26:34.548Z",
+  "built": "2026-11-08T21:30:33.357Z",
   "branch": "review",
-  "commit": "5506f7243ece022c944e5e96e1b763d4273a3995",
+  "commit": "03abb44de8189567b7ee3498120e47555f8cf80e",
   "counts": {
     "person": 87,
     "role": 11,
@@ -1990,7 +1990,7 @@
       "category": "Sent in from the chat",
       "kind": "From auto mode",
       "origin": "rest",
-      "status": "pitch",
+      "status": "decided",
       "fields": {
         "does": "A small, intricately carved pipe crafted from ashwood harvested – suspiciously quickly – from the Ashen Reach. It appears to subtly shift colors depending on the ambient light, displaying faint hues of grey, brown, and even a fleeting violet.",
         "made_by": "It was created by Silas Blackwood, a former apprentice artificer who vanished twenty years ago after being dismissed for “unorthodox experimentation.” He lived near Stoutwell, scavenging materials and obsessively studying the workings of Mundane objects.  Silas never sought riches or fame, only knowledge - particularly about how things held magic. Currently, he is known to be working within Monstradius's research building.",
