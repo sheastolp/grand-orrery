@@ -1200,3 +1200,16 @@ _Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers'
 _Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._
 
 - The Guard maintains a nightly watch over Whisperwind, using a series of strategically placed Wardbells that detect movement within a fifty-foot radius – however, only the trained ears of Hesketh Reeve can reliably interpret their frantic ringing, distinguishing between a startled rabbit and a potential threat.
+
+### Murrow’s Shard (Pitch)
+
+<!-- review-key: rest:idea-mw76k4sn -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's guild hall keeps, does or is known for._
+
+- **What it is:** A seemingly unremarkable piece of polished mirrorstone – about the size of a robin’s egg – that Murrow keeps locked within a specially constructed alcove in his shop, Monstradius. It subtly shifts color depending on the ambient light and emanates a faint hum only detectable by someone with latent magical sensitivity.
+- **Who:** Primarily Murrow, but he occasionally allows select villagers (usually Burn or Clementine Rook) a brief glimpse under strict supervision for testing purposes. He refuses to explain its function directly, claiming “the universe whispers secrets to those who listen.”
+- **Where:** Within a hidden compartment built into the far wall of Murrow’s workshop, Monstradius, located in Stoutwell’s Northwest district. The compartment itself is shielded by a minor warding spell – simple enough for Murrow to maintain, though easily disrupted.
+- **How it works:** When held near a source of strong magic (an active rift, a concentrated elemental blast, even a particularly potent healing ritual), the shard amplifies the magic’s effect—doubling the range of a wind gust summoned by a skilled user, strengthening an earth-based attack, or briefly increasing the potency of a healer's touch. However, this amplification comes at a cost; the holder suffers a significant mana drain – roughly equivalent to a full day's worth of exertion – and experiences a disorientation similar to mild vertigo.
+- **Limits:** The amplified effect lasts only a few seconds before fading completely. Overuse rapidly depletes the user's mana reserves. Furthermore, the Shard cannot *create* magic, merely focus and magnify what already exists. It doesn’t work on constructs created with mundane means (like Doric’s metalwork). Finally, if someone attempts to forcefully manipulate the shard without understanding its purpose, they risk a backlash - a surge of uncontrolled magical energy that can cause severe burns or temporary madness.
+- **Ties:**  The Shard’s creation dates back to a time when Murrow was attempting to replicate the effects of the Rift Compass. He discovered that certain mirrorstone formations resonated with ambient magical energies in ways he hadn
