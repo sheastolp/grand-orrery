@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T19:19:04.409Z",
+  "built": "2026-11-08T21:32:32.564Z",
   "branch": "main",
-  "commit": "de4270a6736e92aae3c9a7b1d2910ae63178ed90",
+  "commit": "fd1da0b1bc868bb98b70f2f0fcad2e7a3ca59a6b",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 92,
+    "item": 93,
     "place": 15,
-    "creature": 15,
-    "lore": 30,
-    "note": 182
+    "creature": 16,
+    "lore": 31,
+    "note": 186
   },
   "entities": [
     {
@@ -263,7 +263,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1196
+        "line": 1194
       },
       "icon": "🌿",
       "fields": {
@@ -298,7 +298,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1196
+        "line": 1194
       },
       "icon": "🍄",
       "fields": {
@@ -333,7 +333,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1196
+        "line": 1194
       },
       "icon": "🪱",
       "fields": {
@@ -362,13 +362,13 @@
       "world": "verrowen",
       "review_key": "lore-keeper:b33535cc-56ae-426a-a304-933b3c5a7760",
       "filed": "2026-11-08",
-      "body": "Name: Shadowhawks\nKind: Animal/Darkness (Silent Predation)\nThe Rule: These evolved hawks utilize darkness and silent flight to harass and incapacitate prey. \nHow It Works: Benefit from low light conditions; have advantage on stealth checks in shadows. Their attack relies on a single hit, but follow up attacks can easily overwhelm a target with overwhelming speed. \nCosts & Limits: Vulnerable to bright light and fire. Requires careful tracking and positioning. \nWho It Affects: Archers, scouts, any vulnerable creature exposed without cover. \nWhat It Changes: Adds a new aerial threat to the Deep Woods. \nClashes With Canon: None\nOpen Questions: (suggested) – Do they leave behind traces after their strikes? \n\n\n\n**In the World:**\n\nThe morning mist clung to Stoutwell’s croplands as Silas, the village woodcutter, strained against the weight of a fallen branch. He paused",
+      "body": "Name: Shadowhawks\nKind: Animal/Darkness (Silent Predation)\nThe Rule: These evolved hawks utilize darkness and silent flight to harass and incapacitate prey. \nHow It Works: Benefit from low light conditions; have advantage on stealth checks in shadows. Their attack relies on a single hit, but follow up attacks can easily overwhelm a target with overwhelming speed. \nCosts & Limits: Vulnerable to bright light and fire. Requires careful tracking and positioning. \nWho It Affects: Archers, scouts, any vulnerable creature exposed without cover. \nWhat It Changes: Adds a new aerial threat to the Deep Woods. \nClashes With Canon: None\nOpen Questions: (suggested) – Do they leave behind traces after their strikes? \n\n**In the World:**\n\nThe morning mist clung to Stoutwell’s croplands as Silas, the village woodcutter, strained against the weight of a fallen branch. He paused",
       "notes": [
         "working-notes-rootwraiths"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1196
+        "line": 1194
       },
       "icon": "🦅",
       "fields": {
@@ -403,7 +403,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1306
+        "line": 1301
       },
       "icon": "🐍",
       "fields": {
@@ -437,7 +437,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1413
+        "line": 1408
       },
       "icon": "👻",
       "fields": {
@@ -454,6 +454,40 @@
         "hp": 60,
         "to_hit": 5,
         "damage": "2d6+3"
+      }
+    },
+    {
+      "id": "whisperwinds-vigil-2",
+      "type": "creature",
+      "name": "Whisperwind’s Vigil",
+      "origin": "rest",
+      "status": "decided",
+      "world": "verrowen",
+      "review_key": "rest:idea-mw8bkqlt",
+      "filed": "2026-11-08",
+      "body": "_Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **What it is:** Within the deepest reaches of the Monster Wood, near where the gnarled trees weep sap that glows with an unsettling green light, dwells a creature known only as Rook – a “Rootwraith,” a being formed entirely of intertwined tree roots animated by residual magic left behind by the blight. It doesn't actively hunt or attack, instead meticulously collecting dropped items - lost tools, broken weapons, scraps of clothing – arranging them in intricate patterns around specific, ancient oaks.\n- **Who:** Rook is not sentient in any traditional sense. It is a construct, a lingering echo of the blighted wood’s desperate attempt to defend itself, now driven purely by instinctual compulsion. It seems to be roughly humanoid in shape, standing about seven feet tall, its body composed of dark, twisted branches interwoven with glowing moss and thorny vines. The glow isn’t warm, more like sickly moonlight.\n- **Where:** Rook resides exclusively within a small clearing approximately five miles into the Monster Wood, marked by three particularly grotesque, weeping oak trees clustered together—these are the focal points for its collection efforts.  The area is perpetually shrouded in mist and choked with fungal growth; a rare pocket untouched by the Blight’s outer reach. Specifically, this clearing sits at the foot of the Brackwood Fringe, where the woods begin to feel truly alien.\n- **How it works:** The Rootwraith’s movement is slow but relentless, powered by a subtle manipulation of the surrounding root systems. It can move silently through dense undergrowth, almost as if becoming part of the forest itself. Its primary “attack” mechanism involves ensnaring victims using rapidly extending roots – these aren't aggressive; they simply bind and restrain until the person becomes too exhausted to free themselves. Importantly, it doesn't seem to actively *consume* anything beyond what it collects, instead meticulously arranging them - items collected appear to create a complex map that shifts frequently.  It has no apparent weaknesses other than intense heat or fire--which seems to slowly burn away its form, though quickly re-forms.\n- **Limits:** The Rootwraith's influence weakens significantly outside of the immediate",
+      "notes": [
+        "working-notes-whisperwinds-vigil-2"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1495
+      },
+      "icon": "🍄",
+      "fields": {
+        "does": "Within the deepest reaches of the Monster Wood, near where the gnarled trees weep sap that glows with an unsettling green light, dwells a creature known only as Rook – a “Rootwraith,” a being formed entirely of intertwined tree roots animated by residual magic left behind by the blight. It doesn't actively hunt or attack, instead meticulously collecting dropped items - lost tools, broken weapons, scraps of clothing – arranging them in intricate patterns around specific, ancient oaks.",
+        "limits": "The Rootwraith's influence weakens significantly outside of the immediate",
+        "where": "Rook resides exclusively within a small clearing approximately five miles into the Monster Wood, marked by three particularly grotesque, weeping oak trees clustered together—these are the focal points for its collection efforts.  The area is perpetually shrouded in mist and choked with fungal growth; a rare pocket untouched by the Blight’s outer reach. Specifically, this clearing sits at the foot of the Brackwood Fringe, where the woods begin to feel truly alien.",
+        "stats": "CR 4 · AC 14 · HP 80 · +6 to hit · 2d8+3"
+      },
+      "place": "place-the-monster-woods-western-edge",
+      "stats_made": true,
+      "stats": {
+        "cr": "4",
+        "ac": 14,
+        "hp": 80,
+        "to_hit": 6,
+        "damage": "2d8+3"
       }
     }
   ]

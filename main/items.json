@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T19:19:04.409Z",
+  "built": "2026-11-08T21:32:32.564Z",
   "branch": "main",
-  "commit": "de4270a6736e92aae3c9a7b1d2910ae63178ed90",
+  "commit": "fd1da0b1bc868bb98b70f2f0fcad2e7a3ca59a6b",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 92,
+    "item": 93,
     "place": 15,
-    "creature": 15,
-    "lore": 30,
-    "note": 182
+    "creature": 16,
+    "lore": 31,
+    "note": 186
   },
   "entities": [
     {
@@ -84,7 +84,8 @@
         "working-notes-monstradius-items",
         "working-notes-constructed-items",
         "working-notes-brackwood-fringe",
-        "working-notes-mana-affinity-items-stabilized-tools"
+        "working-notes-mana-affinity-items-stabilized-tools",
+        "working-notes-murrows-peculiar-pipe"
       ]
     },
     {
@@ -215,7 +216,8 @@
         "working-notes-still-open-in-the-kingdom",
         "working-notes-how-he-ties-in",
         "working-notes-the-seekers-lodestone",
-        "working-notes-murrows-secret"
+        "working-notes-murrows-secret",
+        "working-notes-monstradiuss-quiet-watch"
       ]
     },
     {
@@ -1943,7 +1945,7 @@
       },
       "review_key": "lore-keeper:ebb8356f-32f4-4bdd-a147-bd8363d608b9",
       "filed": "2026-11-08",
-      "body": "_From a lore-keeper chat, 2026-11-08 · Items & inventions._\n\n**Name:** Resonance Stone Device\n\n**Kind:** Items & Inventions – A handheld device utilizing a resonance stone to passively amplify ambient magical signatures.\n\n**The Rule:** This device allows a single operator to detect nearby magic through enhanced sensory input, providing rudimentary awareness of their surroundings.\n\n**How it Works:** A finely-tuned resonator chamber within the device captures and amplifies subtle magical emanations, translating them into tactile sensations - warmth, pressure, slight vibrations – relayed directly to the operator’s nervous system via fine copper wiring connected to gloves. \n\n**Costs and Limits:** Three weeks of skilled smithing labor (Doric's work), approximately 25 silver coins for components, three days extracting a resonance stone from the Monster Wood, limited range dependent on surrounding mana strength, drains stone quickly with prolonged use, susceptible to feedback loops at overuse. \n\n**Who it Affects:** Primarily intended for individuals sensitive to magic—likely those untrained or inexperienced in detection—potentially useful for guards, scouts, and investigators needing basic situational awareness. It could also be used by Murrow himself for reconnaissance.\n\n**What it Changes:** Shifts perception; transforms passive observation into active sensing. Doesn't grant true \"detection\" but augments existing sensitivity, making users more attuned to fluctuations in magical energy.\n\n**Clashes with Canon:** None.\n\n**Open Questions:** (Suggested) The specific type of ‘sensations’ experienced will vary greatly depending on ambient magic; is there a way to standardize this? How does Glumtom’s Reanimator technology interact with such amplified signatures?\n\n\n\nIn the world:\n\nThe rain hammered against the slate roof of Monstradius as Murrow adjusted the Resonance Stone Device, its grey surface gleaming faintly beneath the workshop’s single oil lamp. A young Guard recruit, Tobin Ashby, stood awkwardly beside him, clad in leather gloves connected to the device.  Tobin shifted nervously, his face etched with concentration – a faint flush warming his cheeks as he described the subtle vibrations - “Like a swarm of tiny bees buzzing…almost.” Murrow nodded gravely, meticulously adjusting a copper coil. This wasn't grand detection magic, just a carefully calibrated link between human senses and the chaotic whispers of Verrowen's inherent magic, a start toward understanding something far greater.",
+      "body": "_From a lore-keeper chat, 2026-11-08 · Items & inventions._\n\n**Name:** Resonance Stone Device\n\n**Kind:** Items & Inventions – A handheld device utilizing a resonance stone to passively amplify ambient magical signatures.\n\n**The Rule:** This device allows a single operator to detect nearby magic through enhanced sensory input, providing rudimentary awareness of their surroundings.\n\n**How it Works:** A finely-tuned resonator chamber within the device captures and amplifies subtle magical emanations, translating them into tactile sensations - warmth, pressure, slight vibrations – relayed directly to the operator’s nervous system via fine copper wiring connected to gloves. \n\n**Costs and Limits:** Three weeks of skilled smithing labor (Doric's work), approximately 25 silver coins for components, three days extracting a resonance stone from the Monster Wood, limited range dependent on surrounding mana strength, drains stone quickly with prolonged use, susceptible to feedback loops at overuse. \n\n**Who it Affects:** Primarily intended for individuals sensitive to magic—likely those untrained or inexperienced in detection—potentially useful for guards, scouts, and investigators needing basic situational awareness. It could also be used by Murrow himself for reconnaissance.\n\n**What it Changes:** Shifts perception; transforms passive observation into active sensing. Doesn't grant true \"detection\" but augments existing sensitivity, making users more attuned to fluctuations in magical energy.\n\n**Clashes with Canon:** None.\n\n**Open Questions:** (Suggested) The specific type of ‘sensations’ experienced will vary greatly depending on ambient magic; is there a way to standardize this? How does Glumtom’s Reanimator technology interact with such amplified signatures?\n\nIn the world:\n\nThe rain hammered against the slate roof of Monstradius as Murrow adjusted the Resonance Stone Device, its grey surface gleaming faintly beneath the workshop’s single oil lamp. A young Guard recruit, Tobin Ashby, stood awkwardly beside him, clad in leather gloves connected to the device.  Tobin shifted nervously, his face etched with concentration – a faint flush warming his cheeks as he described the subtle vibrations - “Like a swarm of tiny bees buzzing…almost.” Murrow nodded gravely, meticulously adjusting a copper coil. This wasn't grand detection magic, just a carefully calibrated link between human senses and the chaotic whispers of Verrowen's inherent magic, a start toward understanding something far greater.",
       "notes": [
         "working-notes-resonance-stone-device"
       ],
@@ -1977,7 +1979,34 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1454
+        "line": 1449
+      }
+    },
+    {
+      "id": "murrows-peculiar-pipe",
+      "type": "item",
+      "name": "Murrow’s Peculiar Pipe",
+      "icon": "💡",
+      "category": "Sent in from the chat",
+      "kind": "From auto mode",
+      "origin": "rest",
+      "status": "decided",
+      "fields": {
+        "does": "A small, intricately carved pipe crafted from ashwood harvested – suspiciously quickly – from the Ashen Reach. It appears to subtly shift colors depending on the ambient light, displaying faint hues of grey, brown, and even a fleeting violet.",
+        "made_by": "It was created by Silas Blackwood, a former apprentice artificer who vanished twenty years ago after being dismissed for “unorthodox experimentation.” He lived near Stoutwell, scavenging materials and obsessively studying the workings of Mundane objects.  Silas never sought riches or fame, only knowledge - particularly about how things held magic. Currently, he is known to be working within Monstradius's research building.",
+        "where": "Initially found in Silas’ workshop, located just outside the slums in Stoutwell. Now resides primarily within Murrow’s shop, though its exact location within the cluttered space remains… ambiguous.",
+        "made": "The pipe doesn't produce smoke when lit with normal fuel (even charcoal). Instead, it draws upon the ambient mana present in an object nearby, condensing it into a visible haze that shimmers with rainbow colours. This haze isn’t truly \"smoke,\" but rather refined mana, cool to the touch and faintly smelling of rain-soaked stone. When used carefully, this condensed mana can temporarily enhance simple tasks: speeding up woodcutting, improving the precision of hammering, or briefly strengthening a fragile structure – effects mirroring Doric’s Featherhooks, but far weaker. Each use drains a small amount of Mana Affinity from the user; if they don’t have any latent affinity, the drain manifests as increased dizziness and coldness. If the user has affinity, there will be a subtle warming sensation followed by exhaustion.",
+        "limits": "The pipe’s effectiveness is directly tied to the surrounding environment. In areas rich in natural mana (like near strong elemental sources), it can operate for several minutes at a time. However, in places devoid of magic - like inside the walls of Monstradius's building - it quickly becomes inert. Furthermore, prolonged use causes increasing fatigue and disorientation in Murrow. It can only perform its function on one object at"
+      },
+      "review_key": "rest:idea-mw8at3xm",
+      "filed": "2026-11-08",
+      "body": "_Made up by the AI in auto mode, 2026-11-08 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** A small, intricately carved pipe crafted from ashwood harvested – suspiciously quickly – from the Ashen Reach. It appears to subtly shift colors depending on the ambient light, displaying faint hues of grey, brown, and even a fleeting violet.\n- **Who:** It was created by Silas Blackwood, a former apprentice artificer who vanished twenty years ago after being dismissed for “unorthodox experimentation.” He lived near Stoutwell, scavenging materials and obsessively studying the workings of Mundane objects.  Silas never sought riches or fame, only knowledge - particularly about how things held magic. Currently, he is known to be working within Monstradius's research building.\n- **Where:** Initially found in Silas’ workshop, located just outside the slums in Stoutwell. Now resides primarily within Murrow’s shop, though its exact location within the cluttered space remains… ambiguous.\n- **How it works:** The pipe doesn't produce smoke when lit with normal fuel (even charcoal). Instead, it draws upon the ambient mana present in an object nearby, condensing it into a visible haze that shimmers with rainbow colours. This haze isn’t truly \"smoke,\" but rather refined mana, cool to the touch and faintly smelling of rain-soaked stone. When used carefully, this condensed mana can temporarily enhance simple tasks: speeding up woodcutting, improving the precision of hammering, or briefly strengthening a fragile structure – effects mirroring Doric’s Featherhooks, but far weaker. Each use drains a small amount of Mana Affinity from the user; if they don’t have any latent affinity, the drain manifests as increased dizziness and coldness. If the user has affinity, there will be a subtle warming sensation followed by exhaustion.\n- **Limits:** The pipe’s effectiveness is directly tied to the surrounding environment. In areas rich in natural mana (like near strong elemental sources), it can operate for several minutes at a time. However, in places devoid of magic - like inside the walls of Monstradius's building - it quickly becomes inert. Furthermore, prolonged use causes increasing fatigue and disorientation in Murrow. It can only perform its function on one object at",
+      "notes": [
+        "working-notes-murrows-peculiar-pipe"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1483
       }
     }
   ]

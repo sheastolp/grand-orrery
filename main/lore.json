@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T19:19:04.409Z",
+  "built": "2026-11-08T21:32:32.564Z",
   "branch": "main",
-  "commit": "de4270a6736e92aae3c9a7b1d2910ae63178ed90",
+  "commit": "fd1da0b1bc868bb98b70f2f0fcad2e7a3ca59a6b",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 92,
+    "item": 93,
     "place": 15,
-    "creature": 15,
-    "lore": 30,
-    "note": 182
+    "creature": 16,
+    "lore": 31,
+    "note": 186
   },
   "entities": [
     {
@@ -509,6 +509,22 @@
         "featherhook",
         "truthglass",
         "timber"
+      ]
+    },
+    {
+      "id": "lore-magic-4",
+      "type": "lore",
+      "name": "MAGIC",
+      "text": "Elemental magic assists work, it doesn’t replace it. Types include wind, fire, earth, strength enhancement, detection. Everyday uses include mending things and loosening soil. Healing specialists are rare, exclusively human; Stoutwell has two. Artificers aren't healers but can heal, relying on natural healing or drawing other people’s magic nefariously. A fire user boiling water counts as super skilled. Everyone possesses mana that refills slowly, causing sickness if depleted. Fire opposes cold, so a low-mana fire user grows colder. Elves are most magical, then humans, then halflings. Objects hold mana but cannot make it. An item normally works only for its owner, a rare ability lets an item work without it. Wind users are rare and often human. Strength enhancement is common (Tobin uses it). GuildScribe’s guild hall keeps resonance stone devices to monitor fluctuations in mana signatures – primarily those originating from disturbances or monstrous activity within half a mile radius. These don’t actively detect monsters, registering unnatural shifts in energy correlating with their presence. Murrow and Burn maintain this system. The range is limited, reliant on ambient mana concentrations - the device struggles near saturated areas or shielded ones. It has no visual output, relying solely on tactile feedback and intuition. Prolonged operation drains Murrow’s personal mana reserves, making him colder and weaker.",
+      "order": 31,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 36
+      },
+      "mentions": [
+        "murrow",
+        "burn"
       ]
     }
   ]

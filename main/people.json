@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T19:19:04.409Z",
+  "built": "2026-11-08T21:32:32.564Z",
   "branch": "main",
-  "commit": "de4270a6736e92aae3c9a7b1d2910ae63178ed90",
+  "commit": "fd1da0b1bc868bb98b70f2f0fcad2e7a3ca59a6b",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 92,
+    "item": 93,
     "place": 15,
-    "creature": 15,
-    "lore": 30,
-    "note": 182
+    "creature": 16,
+    "lore": 31,
+    "note": 186
   },
   "entities": [
     {
@@ -257,7 +257,9 @@
         "working-notes-village-roster-2",
         "working-notes-the-silent-well",
         "working-notes-guards-routine",
-        "working-notes-murrows-secret"
+        "working-notes-murrows-secret",
+        "working-notes-monstradiuss-quiet-watch",
+        "working-notes-murrows-peculiar-pipe"
       ]
     },
     {
@@ -320,6 +322,7 @@
         "lore-items-2",
         "lore-artificers-2",
         "lore-items-3",
+        "lore-magic-4",
         "universe-healers",
         "universe-water-and-the-dead-well",
         "universe-layout",
@@ -364,7 +367,9 @@
         "working-notes-whisperwinds-watch-3",
         "working-notes-monstradiuss-secret",
         "working-notes-the-hearthstones-hum",
-        "working-notes-murrows-quiet-watch"
+        "working-notes-murrows-quiet-watch",
+        "working-notes-monstradiuss-quiet-watch",
+        "working-notes-murrows-peculiar-pipe"
       ]
     },
     {
@@ -407,10 +412,13 @@
       },
       "mentioned_in": [
         "lore-people",
+        "lore-magic-4",
         "universe-burn-the-wellhouses-regular",
         "working-notes-give-xabs-character-a-joke-pot-of-greed-make-it-functi",
         "working-notes-village-roster-2",
-        "working-notes-the-silent-offering"
+        "working-notes-the-silent-offering",
+        "working-notes-monstradiuss-quiet-watch",
+        "working-notes-silas-blackwood-2"
       ]
     },
     {
@@ -2080,7 +2088,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1258
+        "line": 1253
       }
     }
   ]
