@@ -967,6 +967,32 @@ Story Hooks: 1) A wealthy merchant suspects Marda of being involved in a recent 
 
 Who they are: Marda is a survivor, forged by hardship and regret. Her former life as a thief instilled in her a keen eye for detail, a knack for unlocking things (both literal and figurative), and a deep-seated distrust of power. Now, she runs a modest stall offering tools and advice, attempting to use her unique skillset for honest gain while perpetually looking over her shoulder. Her past haunts her, fueling both her cynicism and her desire to atone—though whether she truly believes she’s earned redemption remains an open question.
 
+### Northwind Harbour & Surrounding Mountains (Pitch)
+
+<!-- review-key: lore-keeper:24a9a537-e3c9-4e84-b576-55308e002982 -->
+_From a lore-keeper chat, 2026-11-08 · Regions & places._
+
+**Name:** Northwind Harbour & Surrounding Mountains
+
+**Kind:** Regions & Places – Mountainous coastal region north of Arandur’s capital.
+
+**The Rule:** Travel through the mountainous area surrounding Northwind Harbour requires specialized knowledge and carries inherent risks due to unpredictable terrain and dangerous creatures.
+
+**How It Works:** Travelers utilize experienced guides familiar with mountain paths, employing featherhooks for assisted climbing and relying on detection magic to anticipate creature movements and potential hazards - skilled navigators are rare and expensive.
+
+**Costs and Limits:** Navigation costs include guide fees (1-3 silver pieces per day), supplies (rations, rope, healing potions—5-10 silver pieces per week), and potentially weapon repairs/replacement if damaged by stonekin or wyverns. Limited by poor visibility, treacherous terrain, and constant threat of predation.  A strong wind can make travel near impossible.
+
+**Who It Affects:** Primarily travelers, merchants, soldiers, and the settlement of Stonehaven itself relies on timber and resources from these mountains. The Stonekin actively resist intrusion.
+
+**What It Changes:** Introduces new trade routes, expands the Kingdom's territory (albeit tenuously controlled), creates opportunities for encounters with unusual monsters, and adds a layer of danger to any journey outside the established roads. 
+
+**Clashes With Canon:** None
+
+**Open Questions:** (Suggested) – What is the nature of the Stonekin’s resistance? How do the wyvern populations relate to other known monstrous threats in Verrowen?
+
+
+In the world, Master Tobin Ashby stood at the edge of the Scarred Pass, his face weathered by wind and sun. His apprentice, young Elias, nervously adjusted the featherhook strapped to his wrist as they prepared to descend into the ravine. A thick fog clung to the mountain slopes, muting sound and obscuring vision - a familiar hazard intensified by the presence of the elusive Stonekin, whose low growls echoed faintly through the rock. He consulted Murrow’s Lodestone, its mirrorstone surface swirling with faint patterns indicating movement within the stone; it was time to proceed carefully, lest they trigger an ancient conflict.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
