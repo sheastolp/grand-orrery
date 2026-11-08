@@ -967,7 +967,7 @@ Story Hooks: 1) A wealthy merchant suspects Marda of being involved in a recent 
 
 Who they are: Marda is a survivor, forged by hardship and regret. Her former life as a thief instilled in her a keen eye for detail, a knack for unlocking things (both literal and figurative), and a deep-seated distrust of power. Now, she runs a modest stall offering tools and advice, attempting to use her unique skillset for honest gain while perpetually looking over her shoulder. Her past haunts her, fueling both her cynicism and her desire to atone—though whether she truly believes she’s earned redemption remains an open question.
 
-### Northwind Harbour & Surrounding Mountains (Pitch)
+### Northwind Harbour & Surrounding Mountains (Your idea)
 
 <!-- review-key: lore-keeper:24a9a537-e3c9-4e84-b576-55308e002982 -->
 _From a lore-keeper chat, 2026-11-08 · Regions & places._
