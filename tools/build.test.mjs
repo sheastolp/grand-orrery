@@ -1,7 +1,7 @@
 // node --test tools/
 import test from "node:test";
 import assert from "node:assert/strict";
-import { walkSections, parseBestiary, parseResources, parseLore, statsOf, build, proseParser } from "./build.mjs";
+import { walkSections, parseBestiary, parseResources, parseLore, statsOf, build, proseParser, ideaKind, makeStatLine, placeCreatures } from "./build.mjs";
 
 test("an item idea sent in from the chat is an item too, beside its note", () => {
   const md = [
@@ -86,4 +86,44 @@ test("the real documents build with unique ids and no secrets in public", () => 
   assert.deepEqual(problems, []);
   assert.equal(new Set(entities.map((e) => e.id)).size, entities.length);
   for (const t of ["person", "item", "creature", "place", "lore", "note"]) assert.ok(entities.some((e) => e.type === t), t);
+});
+
+test("an accepted creature from the chat becomes a huntable creature, one per Name", () => {
+  const md = [
+    "# W", "## From the lore-keeper",
+    "### Rootwraiths (Your idea)", "<!-- review-key: lore-keeper:abc -->",
+    "_From a lore-keeper chat, 2026-11-08 · Physics & nature._", "",
+    "Name: Rootwraiths", "Kind: Plant/Spirit (Entanglement)", "The Rule: Roots that grapple prey.", "",
+    "---", "", "Name: Gloomshrooms", "Kind: Fungus/Psychic", "How It Works: Spores need a DC12 Wisdom save.",
+  ].join("\n");
+  const notes = proseParser({ world: "verrowen" })(md, "working-notes.md").entities;
+  const beasts = parseBestiary(["# B", "## The Monster Wood's western edge (Your idea)", "- **For:** hunts", "- **Levels:** 1-10"].join("\n")).entities;
+  const all = [...beasts, ...notes];
+  placeCreatures(all);
+  const made = all.filter((e) => e.type === "creature");
+  assert.deepEqual(made.map((e) => e.name), ["Rootwraiths", "Gloomshrooms"]);
+  for (const c of made) {
+    assert.equal(c.status, "decided");
+    assert.equal(c.place, "place-the-monster-woods-western-edge");
+    assert.ok(c.stats && c.stats.ac && c.stats.hp, c.name + " has stats");
+    assert.equal(c.stats_made, true);
+    assert.deepEqual(c.notes, ["working-notes-rootwraiths"]);
+  }
+});
+
+test("a stat line written in the write-up is kept, and a made one is stable", () => {
+  assert.equal(makeStatLine("A small grub."), makeStatLine("A small grub."));
+  assert.match(makeStatLine("Ancient, huge and deadly."), /^CR \d+ · AC \d+ · HP \d+ · \+\d+ to hit · \d+d\d+\+\d+$/);
+  assert.match(makeStatLine("A beast. CR 7."), /^CR 7 /);
+  assert.deepEqual(statsOf(makeStatLine("A beast")), { cr: "2", ac: 13, hp: 45, to_hit: 5, damage: "1d10+3" });
+});
+
+test("auto mode's creature topic needs the write-up to describe a creature", () => {
+  const topic = "_Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster Wood._";
+  assert.equal(ideaKind("- **What it is:** A spectral hound that stalks the wood's edge.", topic), "creature");
+  assert.equal(ideaKind("- **What it is:** A stone owl statue that watches for creatures.", topic), null);
+  assert.equal(ideaKind("- A lone halfling woman keeps watch.", topic), null);
+  assert.equal(ideaKind("**Kind:** Regions & Places - A damp wood.", ""), "place");
+  assert.equal(ideaKind("Name: Marda\nRace: Human\nRole: Peddler", ""), "person");
+  assert.equal(ideaKind("**Kind:** An office of the Kingdom's court.", ""), null);
 });

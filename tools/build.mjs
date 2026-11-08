@@ -29,6 +29,10 @@
 //                     What the review page files from the chat, the Codex or
 //                     the lore-keeper carries origin and review_key, and a
 //                     Wake in Verrowen character also becomes a person.
+//                     A write-up from the chat or auto mode also becomes
+//                     the item, creature, place or person it describes; a
+//                     creature is put in a hunting ground and given a stat
+//                     line if it has none, so GuildScribe can hunt it.
 // Every record has id, type, name, status (decided, pitch, open, dm-lore,
 // draft, untagged) and source. Notes list the people, items, creatures and
 // places they mention, and those list mentioned_in back.
@@ -294,6 +298,7 @@ export function proseParser({ world = null, defaultStatus = null } = {}) {
       entities.push(e);
       if (s.origin === "verrowen") entities.push(wakeCharacter(s, e, file));
       else if (s.origin && isItemIdea(s)) entities.push(chatItem(s, e, file));
+      else if (s.origin) entities.push(...chatThings(s, e, file));
     }
     return { entities, problems: [] };
   };
@@ -351,6 +356,194 @@ function chatItem(s, note, file) {
   e.source = { file, line: s.line };
   e[SOFT] = true;
   return e;
+}
+
+// ── creatures, places and people sent in from the chat ──
+//
+// Accepting a lore-keeper or auto mode write-up only changes its tag in
+// working-notes.md, so the build turns the write-up itself into the thing it
+// describes: a creature (which GuildScribe hunts once it's decided), a place
+// or a person. One write-up can hold several, split by "---" lines, each
+// with its own "Name:". Anything that isn't clearly one of these stays a note.
+
+// A write-up's parts: the text between "---" lines that names something.
+function blocksOf(body) {
+  const parts = body.split(/^\s*-{3,}\s*$/m).map((b) => b.trim()).filter(Boolean);
+  const named = parts.filter((b, i) => i === 0 || profileOf(b).name);
+  return named.length ? named : [body];
+}
+
+// "**Xan**" on a line of its own names a character write-up that has no "Name:".
+const loneBold = (b) => (b.match(/^\s*\*\*([^*:]{2,60})\*\*\s*$/m) || [])[1];
+const cleanName = (n) => String(n).replace(/\*\*/g, "").replace(/\s*\([^)]*\)\s*$/, "").trim();
+// The topic the review page stamped: "_From a lore-keeper chat, 2026-11-08 · Physics & nature._"
+const topicOf = (body) => body.match(/^_[^_]*_$/m)?.[0] || "";
+
+const LIVING = /\b(creature|beast|monster|animal|predator|spirit|wraith|undead|plant|fungus|fungi|insect|vermin|serpent|bird|grub|swarm)s?\b/i;
+const FIGHTS = /\b(attack|prey|predator|hunts?|ambush|grapple|bite|claws?|jaws?|saving throw|saves?|DC\s*\d+|damage|venom|ensnare|stalk|spores?)/i;
+// What the thing itself is, in its first words: "A spectral hound…", not "A stone owl statue…".
+const BEING = /\b(creature|predator|beast|monster|animal|hound|wolf|serpent|snake|spirit|wraith|wyrm|bird|owl|hawk|insect|spider|grub|worm|fungus|plant)s?\b/i;
+const NOT_BEING = /\b(statue|carving|bell|device|tool|system|ritual|custom|woman|man|halfling|human|elf|dwarf|watcher|guard|post|tower|stone|charm)\b/i;
+
+/** Which kind of thing a write-up's part is: "creature", "place", "person" or null. */
+export function ideaKind(block, topic = "") {
+  const prof = profileOf(block);
+  const kindLabel = (block.match(/^\W*Kind\s*\(([^)]*)\)/im) || [])[1] || "";
+  const kind = `${kindLabel} ${prof.kind || ""}`;
+  if (LIVING.test(kind) && FIGHTS.test(block)) return "creature";
+  // Auto mode's creature topic doesn't always get a creature back, so the
+  // write-up has to say it is one.
+  if (/about a creature\b/i.test(topic)) {
+    const says = [prof.what_it_is, prof.label, (block.match(/^\s*[-*]\s+(.+)$/m) || [])[1]].filter(Boolean).map((t) => String(t).replace(/\*\*/g, ""));
+    if (says.some((t) => BEING.test(t.slice(0, 80)) && !NOT_BEING.test(t.slice(0, 40)))) return "creature";
+    return null;
+  }
+  if (/^\s*regions?\s*(?:&|and)\s*places/i.test(kindLabel) || /^\s*regions?\s*(?:&|and)\s*places/i.test(prof.kind || "")) return "place";
+  if (prof.race && (prof.role || prof.lives_in || prof.personality)) return "person";
+  return null;
+}
+
+function chatThings(s, note, file) {
+  const topic = topicOf(s.body);
+  const out = [];
+  for (const block of blocksOf(s.body)) {
+    const kind = ideaKind(block, topic);
+    if (!kind) continue;
+    const prof = profileOf(block);
+    // 'What it is: A "Silken Stalker," a small…' names the creature itself.
+    const quoted = kind === "creature" && !prof.name && (String(prof.what_it_is || "").match(/^\W*(?:an?|the)?\s*["“]([^"”]{2,40}?)[,.]?["”]/i) || [])[1];
+    const name = cleanName(prof.name || quoted || loneBold(block) || s.title);
+    if (!name || name.length > 60) continue;
+    const base = { name, origin: s.origin, status: s.status || "pitch", world: "verrowen" };
+    if (s.review_key) base.review_key = s.review_key;
+    if (s.filed) base.filed = s.filed;
+    base.body = block;
+    base.notes = [note.id];
+    base.source = { file, line: s.line };
+    let e;
+    if (kind === "creature") {
+      const fields = {};
+      const does = prof.the_rule || prof.what_it_is || prof.label || prof.how_it_works;
+      if (does) fields.does = does;
+      const limits = prof.costs_and_limits || prof.costs_limits || prof.limits;
+      if (limits) fields.limits = limits;
+      if (prof.what_it_changes) fields.story = prof.what_it_changes;
+      if (prof.where) fields.where = prof.where;
+      if (prof.kind) fields.kind = prof.kind;
+      const stats = (s.fields.stats && blocksOf(s.body).length === 1 ? s.fields.stats : prof.stats) || "";
+      if (stats) fields.stats = String(stats).replace(/`/g, "");
+      e = { id: slug(name), type: "creature", ...base, icon: creatureIcon(`${name} ${prof.kind || ""}`, `${prof.what_it_is || prof.label || ""} ${block}`), fields };
+    } else if (kind === "place") {
+      const fields = {};
+      const kindText = (prof.kind || "").replace(/^\s*regions?\s*(?:&|and)\s*places\s*[-–—:]?\s*/i, "");
+      const where = prof.where || kindText;
+      if (where) fields.where = where;
+      if (prof.the_rule || prof.what_it_is) fields.what = prof.the_rule || prof.what_it_is;
+      if (prof.how_it_works) fields.how = prof.how_it_works;
+      if (prof.costs_and_limits || prof.costs_limits) fields.limits = prof.costs_and_limits || prof.costs_limits;
+      if (prof.who_it_affects) fields.who = prof.who_it_affects;
+      e = { id: "place-" + slug(name), type: "place", kind: "region", ...base, fields };
+    } else {
+      const p = { id: slug(name), type: "person", ...base, kind: "chat-character" };
+      if (prof.race) p.race = prof.race;
+      if (prof.sex) p.sex = SEXES[prof.sex] || prof.sex.toLowerCase();
+      const age = prof.age && prof.age.match(/\d+/);
+      if (age) p.age = +age[0];
+      if (prof.role) p.role = prof.role;
+      if (prof.lives_in) p.where = prof.lives_in;
+      for (const k of ["magic", "personality", "appearance"]) if (prof[k]) p[k] = prof[k];
+      if (prof.secret) p.secret = prof.secret;
+      // Group them the way the roster does, by where they live.
+      const lives = prof.lives_in || "";
+      p.section = /stoutwell/i.test(lives) ? "Stoutwell" : /capital|kingdom/i.test(lives) ? "The Kingdom" : "Elsewhere in Verrowen";
+      e = p;
+    }
+    e[SOFT] = true;
+    out.push(e);
+  }
+  return out;
+}
+
+// The icon by what the name and kind say first, then by the rest of the write-up.
+function creatureIcon(first, rest = "") {
+  const icons = [[/shroom|fung|spore|mold|mould/i, "🍄"], [/root|vine|thorn|bramble|plant|tree/i, "🌿"], [/grub|worm|larva|burrow/i, "🪱"],
+    [/wraith|spirit|ghost|spectral|shade/i, "👻"], [/serpent|snake|stalker|wyrm/i, "🐍"], [/spider/i, "🕷️"], [/bird|owl|hawk|raven|crow|wing/i, "🦅"],
+    [/wolf|hound|dog/i, "🐺"], [/bear/i, "🐻"], [/boar|pig/i, "🐗"], [/fish|eel|shark|marine|sea\b/i, "🐟"], [/rat|vermin/i, "🐀"], [/insect|beetle|swarm|bee/i, "🪲"]];
+  for (const t of [first, rest]) { const hit = icons.find(([re]) => re.test(t)); if (hit) return hit[1]; }
+  return "🐾";
+}
+
+// ── stat lines for creatures written without one ──
+
+// What a creature of each challenge rating has, close to the bestiary's own
+// hand-written lines: [CR, AC, HP, to hit, damage].
+const CR_TABLE = [
+  ["1/8", 12, 9, 3, "1d4+1"], ["1/4", 12, 13, 3, "1d6+1"], ["1/2", 13, 18, 4, "1d6+2"], ["1", 13, 28, 4, "1d8+2"],
+  ["2", 13, 45, 5, "1d10+3"], ["3", 13, 60, 5, "2d6+3"], ["4", 14, 80, 6, "2d8+3"], ["5", 15, 95, 7, "2d8+4"],
+  ["6", 15, 110, 7, "2d10+4"], ["7", 15, 125, 7, "2d10+5"], ["8", 16, 140, 8, "2d12+5"], ["9", 16, 155, 8, "2d12+6"],
+  ["10", 17, 170, 9, "3d10+5"], ["11", 17, 185, 9, "3d10+6"], ["12", 17, 200, 9, "3d12+6"], ["13", 18, 215, 10, "3d12+7"],
+  ["14", 18, 230, 10, "4d10+7"], ["15", 18, 245, 11, "4d10+8"], ["16", 18, 260, 11, "4d12+8"], ["17", 19, 280, 12, "4d12+9"],
+  ["18", 19, 300, 12, "5d10+9"], ["19", 19, 320, 12, "5d10+10"], ["20", 19, 340, 13, "5d12+10"],
+];
+const crValue = (cr) => (String(cr).includes("/") ? 1 / +String(cr).split("/")[1] : +cr);
+const crIndex = (v) => CR_TABLE.reduce((best, row, i) => (Math.abs(crValue(row[0]) - v) < Math.abs(crValue(CR_TABLE[best][0]) - v) ? i : best), 0);
+
+// How dangerous a write-up makes a creature sound: steps up or down from CR 2.
+function threatOf(text) {
+  let steps = 0;
+  if (/\b(tiny|small|little|minor|weak|cluster|clusters|grubs?|swarm of tiny)\b/i.test(text)) steps -= 1;
+  if (/\b(large|powerful|armou?red|pack|packs|fierce|aggressive)\b/i.test(text)) steps += 1;
+  if (/\b(huge|giant|massive|colossal|ancient|deadly|terrifying)\b/i.test(text)) steps += 2;
+  if (/\b(legendary|titanic|world-ending)\b/i.test(text)) steps += 4;
+  return steps;
+}
+
+/** A stat line for a creature that has none: "CR 2 · AC 13 · HP 45 · +5 to hit · 1d10+3".
+ * The same write-up always gets the same line. A "CR n" in the write-up is kept. */
+export function makeStatLine(text, band = null) {
+  const said = text.match(/\bCR\s*(\d+(?:\/\d+)?)\b/i);
+  let v = said ? crValue(said[1]) : crValue(CR_TABLE[Math.max(0, Math.min(CR_TABLE.length - 1, crIndex(2) + threatOf(text)))][0]);
+  if (!said && band) v = Math.min(Math.max(v, band[0]), band[1]);
+  const [cr, ac0, hp0, hit, dmg] = CR_TABLE[crIndex(v)];
+  let ac = ac0, hp = hp0;
+  if (/\b(armou?r(ed)?|shell|plated|stone|bark|scales?)\b/i.test(text)) ac += 1;
+  if (/\b(fragile|frail|swarm)\b/i.test(text)) hp = Math.round(hp * 0.8);
+  return `CR ${cr} · AC ${ac} · HP ${hp} · +${hit} to hit · ${dmg}`;
+}
+
+// The challenge ratings a hunting ground's levels suit, from the bestiary's own pairings.
+const bandOf = (levels) => (levels ? [Math.max(1 / 8, levels[0] / 3), Math.max(1, levels[1] / 1.3)] : null);
+
+const STOP = new Set(["the", "and", "edge", "western", "eastern", "northern", "southern", "lands", "land", "kingdoms", "kingdom"]);
+// The words a hunting ground goes by: "The Monster Wood's western edge" → monster, wood.
+const groundWords = (p) => `${p.name} ${p.fields?.also_called || ""}`.toLowerCase().replace(/['’]s\b/g, "").split(/[^a-z]+/).filter((w) => w.length > 3 && !STOP.has(w)).map((w) => w.replace(/s$/, ""));
+
+/** Puts every creature from the chat in a decided hunting ground, and gives
+ * it a stat line if it has none, so GuildScribe can hunt it. */
+export function placeCreatures(entities) {
+  const grounds = entities.filter((e) => e.type === "place" && e.kind === "hunting-ground" && (e.status === "decided" || e.status === "dm-lore") && (e.uses || []).includes("hunts"));
+  if (!grounds.length) return;
+  for (const c of entities) {
+    if (c.type !== "creature" || !c[SOFT]) continue;
+    const text = `${c.name}\n${c.body || ""}`;
+    const low = text.toLowerCase();
+    let best = null, bestScore = 0;
+    for (const g of grounds) {
+      let score = groundWords(g).filter((w) => new RegExp(`\\b${w}`, "i").test(low)).length;
+      if (/\bdeep(est)?\b/i.test(low) && /deep/i.test(g.name)) score += 2;
+      if (score > bestScore) { best = g; bestScore = score; }
+    }
+    // Nothing named: the Monster Wood is where Verrowen's monsters come from.
+    if (!best) best = grounds.find((g) => /monster wood/i.test(g.name)) || grounds[0];
+    if (!c.place) c.place = best.id;
+    c.fields = c.fields || {};
+    if (!c.fields.stats) {
+      c.fields.stats = makeStatLine(text, bandOf(best.levels));
+      c.stats_made = true; // made by the build, not written by hand
+    }
+    const stats = statsOf(c.fields.stats);
+    if (stats) c.stats = stats;
+  }
 }
 
 // "Name: Silas Blackwood (not found out yet)" and the rest of a Wake in
@@ -492,6 +685,7 @@ export function build() {
     entities.push(...r.entities);
     problems.push(...r.problems);
   }
+  placeCreatures(entities);
 
   // Hand-made things claim their ids first; notes and characters filed from
   // the chat take a numbered id when theirs is taken.
@@ -507,8 +701,10 @@ export function build() {
     // roster is the same person: the roster's record gets the story note.
     const same = seen.get(e.id);
     // Likewise an item from the chat that's since been written into
-    // resources.md: the resources.md entry gets the note.
-    if (((e.kind === "wake-character" && same?.type === "person") || (e.type === "item" && same?.type === "item")) && same && !same[SOFT]) {
+    // resources.md: the resources.md entry gets the note. The same goes for a
+    // creature, place or character from the chat that's since been written
+    // into the bestiary or the roster.
+    if (((["wake-character", "chat-character"].includes(e.kind) && same?.type === "person") || (["item", "creature", "place"].includes(e.type) && same?.type === e.type)) && same && !same[SOFT]) {
       same.notes = [...(same.notes || []), ...e.notes];
       merged.add(e);
       continue;
