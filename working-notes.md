@@ -1330,3 +1330,11 @@ _Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's gui
 - **How it works:** Murrow believes the egg holds a fragment of Xan’s wildshape magic, potentially a source for understanding and controlling similar abilities, though he acknowledges its immense instability. He uses detection magic daily on the egg and the case to maintain containment, layering protections against accidental activation – any attempt to breach the ward causes localized tremors and minor elemental surges. The chill temperature slows the growth process, allowing him to study the creature without immediate danger.
 - **Limits:** The egg's volatile nature means prolonged exposure to warmth or strong magical energy could trigger an explosive release; opening the case requires precise timing and a specific sequence of runes known only to Murrow, as even a slight misstep could unleash a torrent of chromatic drake essence.
 - **Ties:** This project stems from Murrow's secretive obsession with preventing another Rift disaster like the "Floating Men" incident where a structure was pulled through. Silas Blackwood discovered fragments of this expedition during a recent inventory, prompting a renewed focus on containing anomalous materials before they become dangerous again. It connects directly to Murrow’s reluctance to reveal details about his origins or past expeditions, hinting at a far more extensive history than anyone suspects.
+
+### The Hearthstone’s Hum (Pitch)
+
+<!-- review-key: rest:idea-mw83yw0a -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about a custom, saying, food or rule of daily life in Stoutwell._
+
+- Every evening at sunset, before the villagers settle down to supper, Murrow will sit by his hearthstone – a river stone he’d charged with fire – and quietly hum a tuneless melody. It’s said that if you listen closely, you can hear the faint thrumming of the stone, a tiny echo of the world’s connection, and sometimes, just sometimes, it helps calm a child's fears about the monsters lurking in the Monster Wood.
