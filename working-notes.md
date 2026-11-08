@@ -1088,7 +1088,7 @@ In the world:
 
 Silas clutched the Gilded Spine tightly, the cool metal strangely comforting against his burning brow. He was sitting in the Wellhouse tavern, nursing a pint of Stoutwell ale - an attempt at calming the incessant murmurings within his mind. A snippet of voice drifted through the room - "He promised me safety...but left me exposed." It wasn’t directed at anyone specific; rather a generalized echo of broken trust swirling within his skull.  The other patrons barely noticed his frown, engrossed in their own conversations, oblivious to the spectral accusations warring beneath his awareness. He took another gulp of ale, hoping to drown out the voices, but they persisted, unsettling reminders of his fractured past and the unknown dangers ahead.
 
-### Reinforced Gatehouse Beams (Pitch)
+### Reinforced Gatehouse Beams (Your idea)
 
 <!-- review-key: lore-keeper:3bb43e83-ce3f-43eb-871d-099ae0f653b4 -->
 _From a lore-keeper chat, 2026-11-08 · Items & inventions._
