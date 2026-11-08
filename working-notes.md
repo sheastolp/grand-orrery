@@ -1087,3 +1087,16 @@ _Made up by the AI in auto mode, 2026-11-07 · about a small everyday magic item
 _Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster Wood: where it lives, what it does, its limits._
 
 - The village guard utilizes a wind-sensitive bell system that warns them of approaching danger within the Monster Wood, relying heavily on a single, dedicated watcher.
+
+### Murrow’s Shard (Pitch)
+
+<!-- review-key: rest:idea-mw740tb7 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-08 · about a piece of Stoutwell's or the Kingdom's history._
+
+- **What it is:** A perfectly smooth, obsidian shard about the size of a robin’s egg – Murrow’s Shard – that faintly pulses with residual mana when held by someone attuned to artificing, specifically revealing faint traces of other people’s past magic use within a limited radius (approximately 10 feet). It doesn't reveal *who* used the magic, only the *type* and intensity.  It requires a detection user every few weeks to refresh its ability.
+- **Who:** Primarily Murrow, but can be briefly activated by any skilled artificer or even someone with unusually strong latent magical abilities. The shard appears to have been created during a particularly violent rift opening near the Ashen Reach centuries ago - possibly linked to the initial construction of Stoutwell's defenses.
+- **Where:** Initially discovered embedded deep within the crumbling foundations of Monstradius, Murrow's primary research building, shortly after he began experimenting with stabilizing small, controlled rifts. It's now kept locked away in his most secure cabinet alongside the Seeker's Lodestone.
+- **How it works:** Holding the shard causes a brief surge of warmth followed by a visual overlay showing spectral “threads” of energy connected to objects and locations within range. These threads intensify where significant magical activity has occurred recently. The stronger the original spell cast, the more prominent the thread becomes. A healer’s touch shows as a bright orange, while a simple earth-loosening enchantment might appear as a faint grey. Overuse quickly drains the shard's power, requiring a "refresh" – typically involving a focused detection spell – performed by a skilled magic user (or, reluctantly, by Murrow himself).
+- **Limits:**  The shard only reveals *traces* of past magic; it doesn’t show detailed spells or complex rituals. Its effective radius is limited, shrinking drastically when used extensively. It also cannot detect old magic that’s long decayed—the residue fades over centuries. Furthermore, attempting to force its use without an attuned mind results in painful feedback and disorientation.
+- **Ties:** This discovery reinforces Murrow's suspicion that the Blight wasn
