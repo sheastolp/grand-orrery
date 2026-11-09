@@ -1738,3 +1738,16 @@ _Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster W
 _Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or the Kingdom's history._
 
 - the wellspring
+
+### A whisper of magic (Pitch)
+
+<!-- review-key: rest:idea-mw9u5gy8 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._
+
+- TEXT: “The air itself hums with barely perceptible energy today,” declared Silas Blackwood, his spectacles gleaming under the gentle light filtering through the leaves of the Ancient Oak. Beside him stood Doric, a master blacksmith whose hands seemed to hold secrets into shape. “Just a little bit more warmth for the forge this morning!” he chuckled, expertly flicking a spark towards the shimmering pile of steel. "A little encouragement for our workers."
+- “Indeed,” said Elara Swiftleaf, her fingers tracing the smooth bark of an oak branch, practically vibrating with enthusiasm. "Especially after the recent revitalization of the Wellspring.” She pointed to the sparkling stream that tumbled from the rocks near the village center. "It’s all thanks to the careful tending by the Hearthcircle!"
+- "Don't forget the careful tending," nodded Doric, wiping dust off a particularly gleeful anvil. "Little tweaks, just enough to ensure everything flows smoothly. The wellspring still needs a little boost – perhaps a good sprinkle of enchantment?"
+- "Absolutely!" cried Wendell Larkspur, adjusting her crimson cap. "A lovely spell, wouldn't you agree? Guaranteed to bring prosperity and smiles to everyone's face!"
+- A cheerful greeting from Osric (the Halfling Guard), always ready with a wink and a joke.
+- “Good morning to you too!” boomed Hesketh Reeve, his mustache perfectly groomed. "Another glorious day in the Kingdom! Ready for a good work dance?” A playful shove from his trusty boots.
