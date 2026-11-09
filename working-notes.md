@@ -1650,7 +1650,7 @@ _Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stout
 - Close friend - Liora Finchling;
 - Neighbors known since childhood;
 
-### Whisperwind’s Relic: Featherhook (Pitch)
+### Whisperwind’s Relic: Featherhook (Your idea)
 
 <!-- review-key: rest:idea-mw9ghqmo -->
 <!-- added by the AI -->
