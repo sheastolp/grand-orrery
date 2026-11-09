@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T17:23:28.115Z",
+  "built": "2026-11-09T17:45:44.484Z",
   "branch": "review",
-  "commit": "65ddefadb98cd05242b32ec5ed10d53e5b8632d7",
+  "commit": "ee6d42e9dc2264b4cbb4e0f78d25508cc79beff0",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 201,
+    "note": 202,
     "document": 10,
     "map": 4
   },
@@ -9892,6 +9892,29 @@
       "source": {
         "file": "working-notes.md",
         "line": 1664
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwinds-toast-3",
+      "type": "note",
+      "name": "Whisperwind’s Toast",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw9jxp3l",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_its": "An end-of-day custom where villagers toast with their freshly brewed stout ale.",
+        "who": "All residents share this tradition regardless of age or occupation.",
+        "where_how_it_works": "Every evening after dinner at each household table around Verrowen village under twilight skies makes for perfect conditions to enjoy Whisprwing’s Toast ceremony that connects everyone together through stories shared over warm mugs while enjoying magical properties embedded within every sip enhancing social bonds further between individuals thus creating harmony across different races coexistence despite differences which also adds another layer upon already existing sense belongingness throughout community collectively rather than just individualistic identities tied solely personal interests when participating actively involved observing quietly listening attentively acknowledging responses providing feedback during these moments people reflect deeply memories emotions connecting present circumstances as well indirectly referencing past traditions thereby adding additional dimensions onto everyday life experiences making them even richer more meaningful ultimately leading towards greater appreciation understanding amongst participants eventually resulting in stronger cohesion forming tight-knit fabric uniting inhabitants tightly knit closely bound family-like ties transcending generations passed down continuing building lasting legacies evolving into timeless customs gradually transforming from simple gestures becoming profound expressions symbolizing enduring unity amidst diversity cultural identity."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **What it's:** An end-of-day custom where villagers toast with their freshly brewed stout ale.\n- **Who:** All residents share this tradition regardless of age or occupation.\n- **Where & How It Works:** Every evening after dinner at each household table around Verrowen village under twilight skies makes for perfect conditions to enjoy Whisprwing’s Toast ceremony that connects everyone together through stories shared over warm mugs while enjoying magical properties embedded within every sip enhancing social bonds further between individuals thus creating harmony across different races coexistence despite differences which also adds another layer upon already existing sense belongingness throughout community collectively rather than just individualistic identities tied solely personal interests when participating actively involved observing quietly listening attentively acknowledging responses providing feedback during these moments people reflect deeply memories emotions connecting present circumstances as well indirectly referencing past traditions thereby adding additional dimensions onto everyday life experiences making them even richer more meaningful ultimately leading towards greater appreciation understanding amongst participants eventually resulting in stronger cohesion forming tight-knit fabric uniting inhabitants tightly knit closely bound family-like ties transcending generations passed down continuing building lasting legacies evolving into timeless customs gradually transforming from simple gestures becoming profound expressions symbolizing enduring unity amidst diversity cultural identity.\n- Limit - A person must raise his glass slightly before taking a swig but not too much so they don't spill any beer on themselves, otherwise it could ruin the momentary feeling achieved heightened awareness induced by collective participation itself contributing significantly toward reinforcing emotional connections among villagers additionally serving purpose of promoting orderliness minimizing potential messes generated due possible excess enthusiasm excitement expressed physically expressing inner feelings experienced internally simultaneously demonstrating externally maintaining internal equilibrium whilst engaging with external environment.\n- Ties- The Hearthcircle's rule establishing rotating guard duty alongwith other obligations equally distributes workload evenly preventing overburdening particular groups within population ensures fair distribution resources necessary carrying out daily tasks while ensuring harmony remains intact further facilitating ongoing cooperation achieving common goals together overcoming challenges encountered individually working alongside others combining efforts collectively thus strengthening sense belongingness shared across entire village effectively enhancing interpersonal relations throughout community overall fostering atmosphere conducive social interaction encouraging exchanges beyond mere transactions occurring during this regular custom practiced universally every evening around Verrowen as well providing opportunity for individuals experiencing new dimensions upon already rich lives everyday experiences ultimately leaving more significant mark shaping perception reality in meaningful",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1675
       },
       "world": "verrowen"
     },
