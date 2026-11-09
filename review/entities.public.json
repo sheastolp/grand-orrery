@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T04:51:09.348Z",
+  "built": "2026-11-09T05:13:37.687Z",
   "branch": "review",
-  "commit": "7bffaa59ea72d512b350f270cbed7c7da105272e",
+  "commit": "b7cbb6a35f7bedf83d56dbe55bb292885bdcdd6c",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 16,
     "lore": 33,
-    "note": 199
+    "note": 200
   },
   "entities": [
     {
@@ -210,7 +210,8 @@
         "working-notes-reinforced-gatehouse-beams",
         "working-notes-resonance-stone-device",
         "working-notes-village-roster-2",
-        "working-notes-whisperwinds-toast-2"
+        "working-notes-whisperwinds-toast-2",
+        "working-notes-whisperwinds-morning-riddle-2"
       ]
     },
     {
@@ -295,7 +296,8 @@
         "working-notes-murrows-secret",
         "working-notes-rooks-watch",
         "working-notes-monstradius-peculiar-pipe",
-        "working-notes-whisperwind-whistle"
+        "working-notes-whisperwind-whistle",
+        "working-notes-whisperwinds-morning-riddle-2"
       ]
     },
     {
@@ -379,7 +381,8 @@
         "working-notes-whisperwinds-whistle",
         "working-notes-whisperwinds-hidden-gate",
         "working-notes-whisperwinds-whispers",
-        "working-notes-whisperwind-whistle"
+        "working-notes-whisperwind-whistle",
+        "working-notes-whisperwinds-morning-riddle-2"
       ]
     },
     {
@@ -9802,6 +9805,29 @@
         "file": "working-notes.md",
         "line": 1637
       }
+    },
+    {
+      "id": "working-notes-whisperwinds-morning-riddle-2",
+      "type": "note",
+      "name": "Whisperwind’s Morning Riddle",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8t2d81",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- A mysterious tradition where each morning at dawn before sunrise guards start their rounds across Verrowen.\n- The halfling Guard Captain Hesketh Reeve initiates this custom for his unit to pass down through generations within stonemason families like that of Tobin Ashby working near Murrow Monstradius’ shop.\n- Every corner of Virewoodland village with every family hearth warming by early springtime fire or autumn twilight glow when new recruits gather around listening keenly over mugs brimming warm cider steeped from Stoutwell well itself brewed strong enough even after centuries asleep beneath ash trees upon which elves once walked tender care in hushed tones shared stories weaving life lessons into riddles spun cleverly tied subtly wrapped gifts awaiting minds willing decipher truths hidden therein whispered words carrying wisdom passed on not merely as tales told anew daily routine becoming a sacred secret ceremony deeply rooted both old ways clinging firmly despite winds ever shifting landscape timeworn passage marking guard day-to-day existence transforming simple tasks grander sense unity belonging found among those under watchful eyes seeking guidance amidst challenges facing them journey ahead hand-in-hand.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1648
+      },
+      "world": "verrowen",
+      "mentions": [
+        "tobin-ashby",
+        "hesketh-reeve",
+        "murrow"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
