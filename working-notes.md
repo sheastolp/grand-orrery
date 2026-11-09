@@ -1584,7 +1584,7 @@ _Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stout
 - **Where:** Lives near Monstradius.
 - **How she works her power subtly into life choices**
 
-### Whisperwind’s Toast (Pitch)
+### Whisperwind’s Toast (Your idea)
 
 <!-- review-key: rest:idea-mw8s9mn7 -->
 <!-- added by the AI -->
