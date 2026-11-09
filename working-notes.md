@@ -1649,7 +1649,7 @@ _Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item
 
 - **Where found at Morrows shop Monstradius**
 
-### Elara Swiftleaf (Pitch)
+### Elara Swiftleaf (Your idea)
 
 <!-- review-key: rest:idea-mw995f68 -->
 <!-- added by the AI -->
