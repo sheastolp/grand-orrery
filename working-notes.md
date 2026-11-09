@@ -1703,15 +1703,6 @@ _Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stout
 - Close friend - Liora Finchling;
 - Neighbors known since childhood;
 
-### Whisperwind’s Morning Riddle (Pitch)
-
-<!-- review-key: rest:idea-mw99zetp -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or rule of daily life in Stoutwell._
-
-- **What it's:** An annual riddle given by Burn to children at sunrise.
-- **Who:** Children living near Ashling Sprite Spring during winter solstice night when frost forms shapes resembling riddles around their homes’ windows or doors.
-
 ### Whisperwind Whistle (Pitch)
 
 <!-- review-key: rest:idea-mw9au6es -->
