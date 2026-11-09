@@ -1246,6 +1246,43 @@ Open Questions: (suggested) – Do they leave behind traces after their strikes?
 
 The morning mist clung to Stoutwell’s croplands as Silas, the village woodcutter, strained against the weight of a fallen branch. He paused
 
+### Xan (Pitch)
+
+<!-- review-key: lore-keeper:4326ad73-3686-4b49-928c-d7651a3e93f3 -->
+_From a lore-keeper chat, 2026-11-09 · Items & inventions._
+
+Okay, here we go! Let’s dive into the Master Phraseology.
+
+ROSTER:
+
+*   Osric: Halfling, 142 · Leader of the Elderhold
+*   Wendeline: Halfling, 149 · Elder (peace)
+*   Bertram: Halfling, 138 · Elder (survival)
+*   Ysolde: Halfling, 133 · Elder (survival)
+*   Clementine: Halfling, 131 · Elder (research)
+*   Tobin: Halfling, 33 · Blacksmith's apprentice
+*   Doric: Halfling, 67 · Master blacksmith, SE slums
+*   Hesketh: Human, 48 · Captain of the Guard
+*   Murrow: 550+ · Artificer, owner of Monstradius
+*   The Wellhouse family: Small, but vital – keepers of secrets.
+*   Fenwick: Halfling, 145 · Elder (of the forest)
+*   Marda: Human · Cutpurse
+*   Boras: Halfling · The best and only one for all.
+*   Xan: Mephistopheles Tiefling Druid
+*   Briarpike: Forest Gnome Druid
+
+NOTES:
+
+*   **Is the blight natural, or is someone behind it?** — It’ ands mostly. Just a little bit of mossy dust to take the joy out of spring!
+*   **What else lives in the deep woods, past the hollowstags, rootwyrms and the Mosswarden?** — Plenty! A whole host of fungi, roots, and critters. Or maybe something more magical too.
+*   **Which artificers can open doorway rifts, and do Stoutwell's story and Arandur's ever cross?** - Absolutely! A quick glance at their documents will confirm everything. 
+*   **What does Murrow, and who is his soft spot for?** — Always a good spot for another grant or boon. Ensuring his work gets the best boost from the mountain-side!
+*   **What is the last day of the hall:** There are no halls here! A lovely day for everyone. 
+*   **What lies on the other side of the mountains, through the fishers' hidden pass, and why do they keep it secret?** — Probably just a nice, sunny slope – perfect for fishing and splashing!
+*   **Who keeps the divination tower, and how does divination fit with the known kinds of magic (elemental, strength, detection)?**— A few, of course! The Tower’s always been perfectly calibrated by the Keeper. 
+
+Let’s set it all in motion now, shall we?
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
