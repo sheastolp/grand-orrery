@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T16:09:20.465Z",
+  "built": "2026-11-09T16:22:35.698Z",
   "branch": "review",
-  "commit": "55b1a8cca8152f350fdfcf6eed29931c7d9388da",
+  "commit": "293babd08131226c3554cc1711e0136d8b2543cf",
   "counts": {
     "person": 87,
     "role": 11,
@@ -9808,7 +9808,7 @@
       "type": "note",
       "name": "Whisperwind’s Relic: Featherhook",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw9ghqmo",
@@ -9840,7 +9840,7 @@
       "category": "Peddlers' wares",
       "kind": "Relics",
       "origin": "rest",
-      "status": "pitch",
+      "status": "decided",
       "fields": {
         "does": "An iron hook with intricate wind patterns etched into it.",
         "made_by": "Doric forges these hooks using his unique blacksmithing techniques combined by Murrow to infuse elemental magic",
