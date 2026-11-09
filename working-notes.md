@@ -1271,7 +1271,7 @@ Okay, here we go – let’ a little bit more polish on the idea!
 
 **In the world:** The sun shines warm over the cobbled streets of Stoutwell, cobblestones gleaming under the gentle light of morning. A small crowd has gathered outside the Wellhouse tavern, eager to hear tales from their beloved GuildScribe, Esmeralda Willowbrook. The air is thick with anticipation, fueled by freshly baked pastries and the promise of a vibrant history lesson.
 
-### Elara Willowbrook (Pitch)
+### Elara Willowbrook (Your idea)
 
 <!-- review-key: lore-keeper:5125c2f8-0a75-4030-b20d-54e696b0fd43 -->
 _From a lore-keeper chat, 2026-11-09 · Peoples & groups._
