@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T23:34:41.083Z",
+  "built": "2026-11-09T23:38:46.238Z",
   "branch": "review",
-  "commit": "05ccaf35626cecc8935a1cf938eb8ac6a2019955",
+  "commit": "a932be745ed2e5cec4ea21080225a2a222945934",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 206,
+    "note": 205,
     "document": 10,
     "map": 4
   },
@@ -9986,7 +9986,7 @@
       "type": "note",
       "name": "a short name",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw9vniqq",
@@ -9996,24 +9996,6 @@
       "source": {
         "file": "working-notes.md",
         "line": 1747
-      },
-      "world": "verrowen"
-    },
-    {
-      "id": "working-notes-a-short-name-2",
-      "type": "note",
-      "name": "a short name",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mw9wehgf",
-      "filed": "2026-11-09",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._\n\n- the wellspring",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1755
       },
       "world": "verrowen"
     },
