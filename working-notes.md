@@ -1592,3 +1592,13 @@ _Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers'
 - In his shop Monstradius or during gatherings at Wellhouse tavern.
 - **Who & Where:** Artificer Mirra Willowwhistle crafts this relic using rare Ashen Reach ash for her instrument cases.
 - **How It Works:** When playing along with certain melodies from Verrowen lullabies sung beneath moonlit skies over Stoutwell village wall gates facing eastwards under specific constellations aligning to mark new seasons dawns:
+
+### Whisperwind Whistle (Pitch)
+
+<!-- review-key: rest:idea-mw8lzo5c -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about something about the Guard: a post, a habit, a piece of gear or a person._
+
+- A unique musical instrument used by Halfling Guards to communicate silently over long distances.
+- The new postmaster assigned specifically for Guard communication purposes within their ranks at Verrowen Village Schoolhouse.
+- Located near Murrow’s shop Monstradius inside his home district area which also contains Hesketh Reeve’ s guard house close-by under roof from where he directs all operations across different posts like north east corner gates etc
