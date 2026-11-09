@@ -1621,7 +1621,7 @@ _Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stout
 - Job Ambition/Talent?
 - Aspiring to become an Artificer like Murrow.
 
-### Ashling Sprite (Pitch)
+### Ashling Sprite (Your idea)
 
 <!-- review-key: rest:idea-mw8x2b38 -->
 <!-- added by the AI -->
