@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T14:45:43.274Z",
+  "built": "2026-11-09T14:46:13.749Z",
   "branch": "review",
-  "commit": "699399f0d5f3c5af5e2553cc6393dc0e49ff236f",
+  "commit": "32ab46a478aefff3f4917302d021fea2d4b8482e",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 19,
     "lore": 33,
-    "note": 212
+    "note": 211
   },
   "entities": [
     {
@@ -75,7 +75,7 @@
         "working-notes-silas-blackwood",
         "working-notes-village-roster-2",
         "working-notes-the-silent-offering",
-        "working-notes-whisperwinds-morning-riddle-2"
+        "working-notes-whisperwinds-morning-riddle"
       ]
     },
     {
@@ -212,8 +212,7 @@
         "working-notes-resonance-stone-device",
         "working-notes-village-roster-2",
         "working-notes-whisperwinds-toast-2",
-        "working-notes-whisperwinds-morning-riddle",
-        "working-notes-whisperwinds-morning-riddle-2"
+        "working-notes-whisperwinds-morning-riddle"
       ]
     },
     {
@@ -300,8 +299,7 @@
         "working-notes-guards-routine",
         "working-notes-murrows-secret",
         "working-notes-rooks-watch",
-        "working-notes-monstradius-peculiar-pipe",
-        "working-notes-whisperwinds-morning-riddle"
+        "working-notes-monstradius-peculiar-pipe"
       ]
     },
     {
@@ -383,7 +381,6 @@
         "working-notes-murrows-peculiar-pipe",
         "working-notes-monstradius-peculiar-pipe",
         "working-notes-whisperwinds-whistle",
-        "working-notes-whisperwinds-morning-riddle",
         "working-notes-whispersong-crystals",
         "working-notes-liora-finchling",
         "working-notes-whisperwinds-whispers",
@@ -443,7 +440,7 @@
         "working-notes-monstradiuss-quiet-watch",
         "working-notes-silas-blackwood-2",
         "working-notes-whisperwinds-whispers",
-        "working-notes-whisperwinds-morning-riddle-4"
+        "working-notes-whisperwinds-morning-riddle-3"
       ]
     },
     {

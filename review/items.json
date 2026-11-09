@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T14:45:43.274Z",
+  "built": "2026-11-09T14:46:13.749Z",
   "branch": "review",
-  "commit": "699399f0d5f3c5af5e2553cc6393dc0e49ff236f",
+  "commit": "32ab46a478aefff3f4917302d021fea2d4b8482e",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 19,
     "lore": 33,
-    "note": 212
+    "note": 211
   },
   "entities": [
     {
@@ -2107,7 +2107,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1680
+        "line": 1670
       }
     },
     {
@@ -2127,7 +2127,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1701
+        "line": 1691
       }
     },
     {
@@ -2147,11 +2147,11 @@
       "filed": "2026-11-09",
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** An enchanting rattle that poses simple morning riddles to children.\n- **Who:** Silas Blackwood crafts this relic at Verrowen with his unique skill set involving minor magic manipulation related to wind elements,\n- **Where** each child's favorite breakfast food corresponds directly with their answer choice for an extra dose of magical energy derived from elemental affinity.\n- Children only interact briefly before eating requiring them quickly consume either hot cereal milk juice biscuits fruit salad yogurt parfait pudding pie pastries donuts crepes ice creams custards scones cookies macaroons cupcakes sandwiches cakes brownies tarts croissants flan muffins loaves rolls doughnuts pies cheesecakes tartlets pastry trays platters portions servings slices scoops measuring cups tablespoons grams ounces pinches teaspoons and spoons amounts",
       "notes": [
-        "working-notes-whisperwinds-morning-riddle-3"
+        "working-notes-whisperwinds-morning-riddle-2"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1732
+        "line": 1722
       }
     },
     {
@@ -2171,7 +2171,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1761
+        "line": 1751
       }
     }
   ]
