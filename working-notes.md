@@ -1665,3 +1665,18 @@ _Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's gui
 - Murrow
 - Monstradius’ shop within Village Roster district.
 - These crystals can amplify or diminish ambient magical winds when placed near an active source like hearthstones to control fire-related tasks more precisely without depleting mana drastically from users regularly practicing wind magic for other mundane activities such as logging with featherhooks.
+
+### Liora Finchling (Pitch)
+
+<!-- review-key: rest:idea-mw8unjwo -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._
+
+- Name & Race
+- Rinae Fincliffing Halfling with delicate features.
+- Age:
+- Early Twenties.
+- Trade/Occupation:
+- Apprentice Blacksmith at Doric’s Forge
+- Job Ambition/Talent?
+- Aspiring to become an Artificer like Murrow.
