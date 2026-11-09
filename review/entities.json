@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T01:33:27.232Z",
+  "built": "2026-11-09T01:55:25.038Z",
   "branch": "review",
-  "commit": "fc2a35c74937203e12c253093d4dcd0123c843f8",
+  "commit": "d820533ec5dea6699ae78f8bcfe49a923ab1048d",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 16,
     "lore": 33,
-    "note": 194
+    "note": 195
   },
   "entities": [
     {
@@ -296,7 +296,8 @@
         "working-notes-guards-routine",
         "working-notes-murrows-secret",
         "working-notes-rooks-watch",
-        "working-notes-monstradius-peculiar-pipe"
+        "working-notes-monstradius-peculiar-pipe",
+        "working-notes-whisperwind-whistle"
       ]
     },
     {
@@ -380,7 +381,8 @@
         "working-notes-monstradius-peculiar-pipe",
         "working-notes-whisperwinds-whistle",
         "working-notes-whisperwinds-hidden-gate",
-        "working-notes-whisperwinds-whispers"
+        "working-notes-whisperwinds-whispers",
+        "working-notes-whisperwind-whistle"
       ]
     },
     {
@@ -9678,6 +9680,28 @@
         "file": "working-notes.md",
         "line": 1585
       }
+    },
+    {
+      "id": "working-notes-whisperwind-whistle",
+      "type": "note",
+      "name": "Whisperwind Whistle",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8lzo5c",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- A unique musical instrument used by Halfling Guards to communicate silently over long distances.\n- The new postmaster assigned specifically for Guard communication purposes within their ranks at Verrowen Village Schoolhouse.\n- Located near Murrow’s shop Monstradius inside his home district area which also contains Hesketh Reeve’ s guard house close-by under roof from where he directs all operations across different posts like north east corner gates etc",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1596
+      },
+      "world": "verrowen",
+      "mentions": [
+        "hesketh-reeve",
+        "murrow"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
