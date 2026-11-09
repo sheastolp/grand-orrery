@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T01:11:19.698Z",
+  "built": "2026-11-09T01:33:27.232Z",
   "branch": "review",
-  "commit": "9e38be134beb9541bc1b39cbdf3817e840ccc181",
+  "commit": "fc2a35c74937203e12c253093d4dcd0123c843f8",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 95,
+    "item": 96,
     "place": 15,
     "creature": 16,
     "lore": 33,
-    "note": 193
+    "note": 194
   },
   "entities": [
     {
@@ -2060,6 +2060,31 @@
       "source": {
         "file": "working-notes.md",
         "line": 1555
+      }
+    },
+    {
+      "id": "whisperwinds-whispers",
+      "type": "item",
+      "name": "Whisperwind’s Whispers",
+      "icon": "🏺",
+      "category": "Peddlers' wares",
+      "kind": "Relics",
+      "origin": "rest",
+      "status": "pitch",
+      "fields": {
+        "does": "An enchanted reed flute given by Murrow that reveals hidden truths when played.",
+        "who_where": "Artificer Mirra Willowwhistle crafts this relic using rare Ashen Reach ash for her instrument cases.",
+        "made": "When playing along with certain melodies from Verrowen lullabies sung beneath moonlit skies over Stoutwell village wall gates facing eastwards under specific constellations aligning to mark new seasons dawns:"
+      },
+      "review_key": "rest:idea-mw8l7diq",
+      "filed": "2026-11-09",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** An enchanted reed flute given by Murrow that reveals hidden truths when played.\n- In his shop Monstradius or during gatherings at Wellhouse tavern.\n- **Who & Where:** Artificer Mirra Willowwhistle crafts this relic using rare Ashen Reach ash for her instrument cases.\n- **How It Works:** When playing along with certain melodies from Verrowen lullabies sung beneath moonlit skies over Stoutwell village wall gates facing eastwards under specific constellations aligning to mark new seasons dawns:",
+      "notes": [
+        "working-notes-whisperwinds-whispers"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1585
       }
     }
   ]
