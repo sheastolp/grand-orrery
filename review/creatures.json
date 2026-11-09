@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T10:03:47.221Z",
+  "built": "2026-11-09T10:26:58.098Z",
   "branch": "review",
-  "commit": "df426cfdb2e7a7e507ce79d89813511e9a2f957d",
+  "commit": "c3c7ddcebb4ae709abbf48883a075ca6f1211cb4",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
     "item": 100,
     "place": 15,
-    "creature": 17,
+    "creature": 18,
     "lore": 33,
-    "note": 210
+    "note": 211
   },
   "entities": [
     {
@@ -509,6 +509,38 @@
       },
       "icon": "🌿",
       "fields": {
+        "stats": "CR 1 · AC 13 · HP 28 · +4 to hit · 1d8+2"
+      },
+      "place": "place-the-monster-woods-western-edge",
+      "stats_made": true,
+      "stats": {
+        "cr": "1",
+        "ac": 13,
+        "hp": 28,
+        "to_hit": 4,
+        "damage": "1d8+2"
+      }
+    },
+    {
+      "id": "whisperspring-sprite",
+      "type": "creature",
+      "name": "Whisperspring Sprite",
+      "origin": "rest",
+      "status": "pitch",
+      "world": "verrowen",
+      "review_key": "rest:idea-mw949g8i",
+      "filed": "2026-11-09",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **What it Is:** Tiny creatures that emerge at twilight near Whisperwind’s Watch.\n- They feed off residual magic left by mortals after sunset.\n- How It Works:\n- A single sprite can carry only minimal energy before needing another meal",
+      "notes": [
+        "working-notes-whisperspring-sprite"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1768
+      },
+      "icon": "🐾",
+      "fields": {
+        "does": "Tiny creatures that emerge at twilight near Whisperwind’s Watch.",
         "stats": "CR 1 · AC 13 · HP 28 · +4 to hit · 1d8+2"
       },
       "place": "place-the-monster-woods-western-edge",
