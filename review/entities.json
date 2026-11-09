@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T21:53:59.834Z",
+  "built": "2026-11-09T21:54:51.408Z",
   "branch": "review",
-  "commit": "3fdc7334a4dc0c9975e261b3e62469e5307e5f8d",
+  "commit": "e69fa29f0e27bc47d8a8b10f377ffd1ee3af1c69",
   "counts": {
     "person": 87,
     "role": 11,
@@ -8683,7 +8683,7 @@
       "type": "note",
       "name": "The Emerald Echoes - A revitalized gem of Verrowen’s history",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From the lore-keeper",
       "origin": "lore-keeper",
       "review_key": "lore-keeper:c390b49f-df23-4e08-918e-df962296ff62",
