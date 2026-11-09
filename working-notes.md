@@ -1702,3 +1702,12 @@ _Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item
 
 - **What it is:** A tiny enchanted flute that boosts morale.
 - **Who:** Murrow crafts these using rare whispering ashwood found only near Verrowen’s Ashen Reach where wind magic thrives subtly enhanced by proximity to elemental rifts.
+
+### Ashling Sprite (Pitch)
+
+<!-- review-key: rest:idea-mw8x2b38 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- Tiny winged creatures living beneath ash trees.
+- Halflings called "Ashlings" by villagers.
