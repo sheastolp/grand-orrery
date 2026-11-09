@@ -1731,7 +1731,7 @@ _Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster W
 - RESOURCES: The Village Handbook (a collection of ancient texts), the Whispering Stone (a smooth pebble said to hold wisdom), and Lore itself, meticulously recorded within the pages of the Great Codex.
 - DEFENSES & LAW: Protection from goblins comes from herers and woodcutters. Laws are often flexible when it suits someone' to their benefit.
 
-### A whisper of magic (Pitch)
+### A whisper of magic (Your idea)
 
 <!-- review-key: rest:idea-mw9u5gy8 -->
 <!-- added by the AI -->
