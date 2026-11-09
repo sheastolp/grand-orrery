@@ -1660,3 +1660,16 @@ _Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers'
 - **Who:** Doric forges these hooks using his unique blacksmithing techniques combined by Murrow to infuse elemental magic
 - **Where:** In Monstradius’ shop within Saintville
 - **How it works:** A feather attached near an engraving weaves through air currents invisibly without effort when placed at right angles against gusts due to latent human affinity tied together with minor arcane enhancements provided from Wind user's magical abilities or detection tools that helps reveal hidden energies.
+
+### Hidden (Pitch)
+
+<!-- review-key: rest:idea-mw9rwiw7 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- TONE: Mysterious and alluring, hinting at secrets and adventure.
+- MAGIC: Subtle enchantments, perhaps tied to nature or personal charm – healing potions that shimmer with light, whispered spells that make a breeze fall faster, charms to protect travelers. Simple magic involves a little boost to efficiency - getting more done with just a flick of the wrist, a touch of cleverness.
+- ARTIFICERS: A seasoned mage named Elara, the village healer, or maybe a young apprentice who’s just starting to get noticed. Perhaps a grizzled stonecutter named Thomas, whose tools have been blessed by the earth. Or even a charming merchant, Lyra, with a secret potion for trouble!
+- ITEMS: A polished silver pendant shaped like an emerald leaf, hidden beneath a tapestry. Ancient maps leading to forgotten treasures. A shimmering gemstone that grants wishes. And certainly a well-kept scroll written in elegant script.
+- RESOURCES: The Village Handbook (a collection of ancient texts), the Whispering Stone (a smooth pebble said to hold wisdom), and Lore itself, meticulously recorded within the pages of the Great Codex.
+- DEFENSES & LAW: Protection from goblins comes from herers and woodcutters. Laws are often flexible when it suits someone' to their benefit.
