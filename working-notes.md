@@ -1724,3 +1724,14 @@ _Made up by the AI in auto mode, 2026-11-09 · about a place in the Kingdom's ca
 - **How it works:** Murrow harnesses wind mana that fills tiny whisperwinds within ash tree leaves
 - **Limits:** Only children present can understand fully without distraction
 - **Ties:** Tied closely to Burn from Northwind Harbour & Surrounding Mountains
+
+### Murrow’s Harvest Blessing (Pitch)
+
+<!-- review-key: rest:idea-mw8yne25 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or the Kingdom's history._
+
+- **What it is:** An annual ritual performed by artificer Monstradius where he blesses crops with elemental magic.
+- **Who:** Artificer Morrows
+- **Where:** In front of Saint Brackenford Farm located outside town square
+- **How it works:** During winter solstice eve using his rare mirrorstone Seeker Lodestone to channel magical energy into seeds that then grow more plentifully for harvesters.
