@@ -24,7 +24,13 @@
 //                   secret taken out. Only turn it on for the owner's tools,
 //                   never for anything that goes into a bot's or AI's prompt.
 //   refreshMinutes  how often to check for a new build (default 5; 0 = never)
+//   cache           where to keep the last good copy, so an app that starts
+//                   while GitHub is out of reach still has the Orrery (not a
+//                   hand-written list of its own): fileCache("./data/orrery.json")
+//                   in Deno or Node, storageCache() in a browser, or any
+//                   { load(): data | null, save(data) } (sync or async)
 //   fallback        an { entities: [...] } to use until the first good read
+//                   (prefer cache: the Orrery should be the only copy)
 //   repo            "sheastolp/grand-orrery"
 //   githubToken     optional, for a higher GitHub API limit
 //   fetch           a fetch to use instead of the global one
@@ -49,6 +55,7 @@
  * @property {boolean} [secrets]
  * @property {number} [refreshMinutes]
  * @property {{ entities: OrreryEntity[] } | null} [fallback]
+ * @property {{ load(): any, save(data: any): any } | null} [cache]
  * @property {string | null} [githubToken]
  * @property {(url: string, init?: RequestInit) => Promise<Response>} [fetch]
  */
@@ -60,6 +67,7 @@ const DEFAULTS = {
   secrets: false,
   refreshMinutes: 5,
   fallback: null,
+  cache: null,
   githubToken: null,
 };
 
@@ -79,7 +87,8 @@ export class Orrery {
     this.lastError = null;
     this.lastRead = null;
     if (this.options.fallback) this._set(this.options.fallback);
-    this._first = this.refresh();
+    // The last good copy first (if there is one), then the Orrery itself.
+    this._first = this._loadCache().then(() => this.refresh());
     const every = Number(this.options.refreshMinutes) * 60_000;
     if (every > 0) {
       this._timer = setInterval(() => this.refresh(), every);
@@ -92,6 +101,9 @@ export class Orrery {
   /** Resolves once the first read is done: true if the Orrery was read.
    * @returns {Promise<boolean>} */
   async ready() { await this._first; return this._data !== null && !this._data.__fallback; }
+
+  /** True once something from the Orrery is held: a fresh read or the last good copy. */
+  get loaded() { return !!this._data && !this._data.__fallback; }
 
   /** When it was built, from which branch and commit, and how many of each type.
    * @returns {OrreryMeta | null} */
@@ -183,8 +195,9 @@ export class Orrery {
       if (ref !== "data") this._sha = ref;
       this.lastRead = new Date();
       this.lastError = null;
-      const changed = !this._data || this._data.__fallback || this._data.commit !== data.commit || this._data.built !== data.built;
+      const changed = !this._data || this._data.__fallback || this._data.__cached || this._data.commit !== data.commit || this._data.built !== data.built;
       this._set(data);
+      if (changed && this.options.cache) { try { await this.options.cache.save(data); } catch { /* best effort */ } }
       if (changed) for (const fn of this._listeners) { try { fn(this); } catch (e) { console.error("orrery onChange", e); } }
       return changed;
     } catch (e) {
@@ -193,10 +206,53 @@ export class Orrery {
     }
   }
 
+  async _loadCache() {
+    const c = this.options.cache;
+    if (!c) return;
+    try {
+      const data = await c.load();
+      if (Array.isArray(data?.entities) && (!this._data || this._data.__fallback)) {
+        this._set(data);
+        this._data.__cached = true;
+        this.cachedFrom = data.built || null;
+      }
+    } catch { /* no copy yet */ }
+  }
+
   _set(data) {
     this._data = data === this.options.fallback ? { ...data, __fallback: true } : data;
     this._byId = new Map((data.entities || []).map((e) => [e.id, e]));
   }
+}
+
+/** Keeps the last good copy in a file (Deno or Node). */
+export function fileCache(path = "./data/orrery.json") {
+  return {
+    async load() {
+      const text = globalThis.Deno ? await Deno.readTextFile(path) : await (await import("node:fs/promises")).readFile(path, "utf8");
+      return JSON.parse(text);
+    },
+    async save(data) {
+      const text = JSON.stringify(data);
+      if (globalThis.Deno) {
+        const dir = path.replace(/[\\/][^\\/]*$/, "");
+        if (dir && dir !== path) await Deno.mkdir(dir, { recursive: true }).catch(() => {});
+        await Deno.writeTextFile(path + ".tmp", text); await Deno.rename(path + ".tmp", path);
+      } else {
+        const fs = await import("node:fs/promises"), p = await import("node:path");
+        await fs.mkdir(p.dirname(path), { recursive: true });
+        await fs.writeFile(path + ".tmp", text); await fs.rename(path + ".tmp", path);
+      }
+    },
+  };
+}
+
+/** Keeps the last good copy in the browser's localStorage. */
+export function storageCache(key = "orrery-db") {
+  return {
+    load() { try { return JSON.parse(globalThis.localStorage.getItem(key) || "null"); } catch { return null; } },
+    save(data) { try { globalThis.localStorage.setItem(key, JSON.stringify(data)); } catch { /* full or blocked */ } },
+  };
 }
 
 export default Orrery;
