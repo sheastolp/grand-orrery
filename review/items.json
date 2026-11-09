@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T15:03:07.101Z",
+  "built": "2026-11-09T15:03:31.032Z",
   "branch": "review",
-  "commit": "30b72478862924e85e10785025eb406e30b510aa",
+  "commit": "ee812bca31c88959c9a86b0ae40d42a6216affa4",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 19,
     "lore": 33,
-    "note": 205
+    "note": 204
   },
   "entities": [
     {
@@ -2099,7 +2099,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1666
+        "line": 1657
       }
     }
   ]
