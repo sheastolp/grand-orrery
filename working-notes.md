@@ -1751,3 +1751,16 @@ _Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers'
 _Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's guild hall keeps, does or is known for._
 
 - the wellspring
+
+### A little bit about the land (Pitch)
+
+<!-- review-key: rest:idea-mw9x5iqv -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or rule of daily life in Stoutwell._
+
+- WORLD: Verrowen’s world is a beautiful tapestry woven with sunshine, rolling hills, and shimmering rivers. Ancient trees stand proudly alongside lively streams, all nestled within a cozy village called Eldoria. Lush green fields sparkle under a constant azure sky, perfect for planting plump crops and welcoming happy villagers. The best houses of Eldoria are built of stone or timber, adorned by flowers and vines. Elves still call it home, and their laughter flows like water through the streets. The villages residents spend their time with great joy. It all seems very straightforward!
+- TONE: Warm, inviting, and slightly whimsical. Gentle, friendly voice. Suggesting easygoing days. Perfect for describing the life in a quaint village.
+- MAGIC: Magic flows freely and naturally here, thanks to gentle spirits and friendly smiles. Most folk just use common sense, and sometimes a little well-placed charm. Small spells of enchantment go with any request. Simple blessings keep everything smooth.
+- ARTIFICERS: There are few true specialists needed – mostly simple folk! There' of the village hearthkeepers - ensuring the wood is warm and the fire is bright. If you need some help moving a boulder? There is no problem. For a good boost to your harvest? Easy peasy. Or maybe just a nice greeting from one of them.
+- ITEMS: A fresh loaf of bread, sparkling dew drops collected from leaves, a smile as sweet as honey, and an eye for beauty that shines brighter than sunshine. Sometimes a freshly-picked berry, perfect for a snack.
+- DEFENSES & LAW: Fortified by sturdy walls and watchful guards – especially one or two friendly halflings always ready to lend a hand. Good cheer keeps everyone happy and harmonious. Laws are simple enough to remember: fair trade for fair goods, honest service for a good day’s work, and everyone gets their share of the bounty.
