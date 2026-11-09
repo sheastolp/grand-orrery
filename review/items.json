@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T02:40:06.541Z",
+  "built": "2026-11-09T03:02:03.088Z",
   "branch": "review",
-  "commit": "c5fac4bafb156ba4e20c729989033fea117ae7d1",
+  "commit": "6be72c638b39dca364809b559f05304348fbb4a1",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 16,
     "lore": 33,
-    "note": 197
+    "note": 198
   },
   "entities": [
     {
@@ -85,7 +85,8 @@
         "working-notes-constructed-items",
         "working-notes-brackwood-fringe",
         "working-notes-mana-affinity-items-stabilized-tools",
-        "working-notes-murrows-peculiar-pipe"
+        "working-notes-murrows-peculiar-pipe",
+        "working-notes-whisperwinds-morning-riddle"
       ]
     },
     {

@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T02:40:06.541Z",
+  "built": "2026-11-09T03:02:03.088Z",
   "branch": "review",
-  "commit": "c5fac4bafb156ba4e20c729989033fea117ae7d1",
+  "commit": "6be72c638b39dca364809b559f05304348fbb4a1",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 16,
     "lore": 33,
-    "note": 197
+    "note": 198
   },
   "entities": [
     {
@@ -3947,6 +3947,32 @@
         "line": 1614
       },
       "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwinds-morning-riddle",
+      "type": "note",
+      "name": "Whisperwind’s Morning Riddle",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8odc8j",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "In Verrowen village at dawn each morning before sunrise.",
+        "who": "Villagers",
+        "where": "All entrances leading out into fields during daybreak"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **What it is:** In Verrowen village at dawn each morning before sunrise.\n- Every villager must utter their favorite riddle or secret question to pass through doors that only appear for an hour after nightfall.\n- **Who:** Villagers\n- **Where:** All entrances leading out into fields during daybreak\n- Halflings naturally hot-resistant align well being a favored type here due to magical properties;\n- Small towners easily carrying items like Featherhooks while halting logs perfectly using latent magic;",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1624
+      },
+      "world": "verrowen",
+      "mentions": [
+        "featherhook"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
