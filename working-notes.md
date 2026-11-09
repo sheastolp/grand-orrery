@@ -1246,7 +1246,7 @@ Open Questions: (suggested) – Do they leave behind traces after their strikes?
 
 The morning mist clung to Stoutwell’s croplands as Silas, the village woodcutter, strained against the weight of a fallen branch. He paused
 
-### The Emerald Echoes - A revitalized gem of Verrowen’s history (Pitch)
+### The Emerald Echoes - A revitalized gem of Verrowen’s history (Your idea)
 
 <!-- review-key: lore-keeper:c390b49f-df23-4e08-918e-df962296ff62 -->
 _From a lore-keeper chat, 2026-11-09 · Peoples & groups._
