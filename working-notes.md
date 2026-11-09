@@ -1649,18 +1649,6 @@ _Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item
 
 - **Where found at Morrows shop Monstradius**
 
-### Liora Finchling’s Secret (Pitch)
-
-<!-- review-key: rest:idea-mw95wj6c -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or the Kingdom's history._
-
-- **What it is:** An annual village tradition where children solve an intricate riddle to predict upcoming events.
-- **Who:** Children at age 10 gather around Elder Ysolde every year during autumn equinox.
-- **Where:** Village square near Murrow Monstradius’ shop under Birchwood Fringe trees.
-- **How It Works:** Each September morning after dawn prayer service held by Wellhouse elf Tamsin Ashlight, villagers give each child three golden coins inscribed with "Whisper Wind."
-- Limit: Not used until children hit exact turning point between fifth sixth grade transition mark roughly average annual timing remains unaffected any deviations occur randomly but never skew significantly affecting overall outcome success rate around 95% accuracy sustained across many cycles till present timeframes considered.
-
 ### Elara Swiftleaf (Pitch)
 
 <!-- review-key: rest:idea-mw995f68 -->
