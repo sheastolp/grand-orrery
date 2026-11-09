@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T00:03:15.120Z",
+  "built": "2026-11-09T00:04:56.385Z",
   "branch": "review",
-  "commit": "d4876eafe2a83a53061baa1a499716ebf85f64f8",
+  "commit": "12386cd6173cc29f51c2cd16d24f0e77be32c438",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10,7 +10,7 @@
     "item": 95,
     "place": 15,
     "creature": 16,
-    "lore": 32,
+    "lore": 33,
     "note": 191
   },
   "entities": [
@@ -5066,6 +5066,18 @@
         "silwen",
         "faelan"
       ]
+    },
+    {
+      "id": "lore-wellhouse-3",
+      "type": "lore",
+      "name": "WELLHOUSE",
+      "text": "A family known as “The Wandering Shadows,” originally traveling performers who settled centuries ago due to unrest; they cherish quiet evenings at Wellhouse tavern. Their deep respect is shown through subtle enchantments woven subtly throughout craftwork reflecting storytelling and illusion heritage.",
+      "order": 33,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 38
+      }
     },
     {
       "id": "universe-the-universe-the-grand-orrery",
