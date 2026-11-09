@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T03:02:03.088Z",
+  "built": "2026-11-09T04:51:09.348Z",
   "branch": "review",
-  "commit": "6be72c638b39dca364809b559f05304348fbb4a1",
+  "commit": "7bffaa59ea72d512b350f270cbed7c7da105272e",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 96,
+    "item": 97,
     "place": 15,
     "creature": 16,
     "lore": 33,
-    "note": 198
+    "note": 199
   },
   "entities": [
     {
@@ -2086,6 +2086,26 @@
       "source": {
         "file": "working-notes.md",
         "line": 1585
+      }
+    },
+    {
+      "id": "whisperwinds-toast",
+      "type": "item",
+      "name": "Whisperwind’s Toast",
+      "icon": "🏺",
+      "category": "Peddlers' wares",
+      "kind": "Relics",
+      "origin": "rest",
+      "status": "pitch",
+      "review_key": "rest:idea-mw8s9mn7",
+      "filed": "2026-11-09",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- **Who/Where/Who related to LORE world?**\n- Whimsically crafted at his Monstradius shop.\n- Tobin Ashby helps with baking trials\n- Village Roster includes all locals except two children from wellhouse tavern",
+      "notes": [
+        "working-notes-whisperwinds-toast-2"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1637
       }
     }
   ]
