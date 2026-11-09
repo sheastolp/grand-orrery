@@ -1563,7 +1563,7 @@ _Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item
 - **Where used at home?:** Throughout Verrowen village for various tasks like boiling water or helping with crop planting by enhancing wind user efficiency when blowing into this instrument to make seeds dance away dirt efficiently.
 - Only works while actively blown (no sustained silent power without motion needed)
 
-### Whisperwind’s Watch (Pitch)
+### Whisperwind’s Watch (Your idea)
 
 <!-- review-key: rest:idea-mw8jm0yr -->
 <!-- added by the AI -->
