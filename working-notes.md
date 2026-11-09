@@ -1654,3 +1654,14 @@ _Made up by the AI in auto mode, 2026-11-09 · about something about the Guard: 
 - A mysterious tradition where each morning at dawn before sunrise guards start their rounds across Verrowen.
 - The halfling Guard Captain Hesketh Reeve initiates this custom for his unit to pass down through generations within stonemason families like that of Tobin Ashby working near Murrow Monstradius’ shop.
 - Every corner of Virewoodland village with every family hearth warming by early springtime fire or autumn twilight glow when new recruits gather around listening keenly over mugs brimming warm cider steeped from Stoutwell well itself brewed strong enough even after centuries asleep beneath ash trees upon which elves once walked tender care in hushed tones shared stories weaving life lessons into riddles spun cleverly tied subtly wrapped gifts awaiting minds willing decipher truths hidden therein whispered words carrying wisdom passed on not merely as tales told anew daily routine becoming a sacred secret ceremony deeply rooted both old ways clinging firmly despite winds ever shifting landscape timeworn passage marking guard day-to-day existence transforming simple tasks grander sense unity belonging found among those under watchful eyes seeking guidance amidst challenges facing them journey ahead hand-in-hand.
+
+### Whispersong Crystals (Pitch)
+
+<!-- review-key: rest:idea-mw8tuqx4 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's guild hall keeps, does or is known for._
+
+- Small crystalline objects that contain whispers of elemental magic.
+- Murrow
+- Monstradius’ shop within Village Roster district.
+- These crystals can amplify or diminish ambient magical winds when placed near an active source like hearthstones to control fire-related tasks more precisely without depleting mana drastically from users regularly practicing wind magic for other mundane activities such as logging with featherhooks.
