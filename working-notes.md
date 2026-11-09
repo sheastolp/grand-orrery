@@ -1744,7 +1744,7 @@ _Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers'
 - A cheerful greeting from Osric (the Halfling Guard), always ready with a wink and a joke.
 - “Good morning to you too!” boomed Hesketh Reeve, his mustache perfectly groomed. "Another glorious day in the Kingdom! Ready for a good work dance?” A playful shove from his trusty boots.
 
-### a short name (Pitch)
+### a short name (Your idea)
 
 <!-- review-key: rest:idea-mw9vniqq -->
 <!-- added by the AI -->
