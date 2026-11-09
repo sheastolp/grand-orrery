@@ -1764,3 +1764,14 @@ _Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's gui
 _Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
 
 - **Where found at Morrows shop Monstradius**
+
+### Whisperspring Sprite (Pitch)
+
+<!-- review-key: rest:idea-mw949g8i -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- **What it Is:** Tiny creatures that emerge at twilight near Whisperwind’s Watch.
+- They feed off residual magic left by mortals after sunset.
+- How It Works:
+- A single sprite can carry only minimal energy before needing another meal
