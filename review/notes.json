@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T15:06:26.030Z",
+  "built": "2026-11-09T15:06:48.257Z",
   "branch": "review",
-  "commit": "55fc0a0e322ccccc54d36baa5a6f1e0687b99d33",
+  "commit": "57e49aae4e12458b60c0f08c8d0276dd3569c425",
   "counts": {
     "person": 87,
     "role": 11,
@@ -3990,7 +3990,7 @@
       "type": "note",
       "name": "Elara Swiftleaf",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw995f68",
