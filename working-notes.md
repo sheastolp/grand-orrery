@@ -1552,7 +1552,7 @@ _Made up by the AI in auto mode, 2026-11-08 · about a custom, saying, food or r
 - **What it's:** An unspoken custom where villagers toast each other with their stout ale before starting daily chores.
 - **How it's works:** After first light, villagers congregate beneath Whisperswood trees located just northwest where morning mist hugs earth tightly blending seamlessly into one continuous foggy blanket hovering slightly above ground level whisperwind spirits said responsible for this daily custom animate themselves encouraging everyone participating raise glasses filled half full each holding their favorite mug crafted by skilled artisan local potter specializing solely producing earthenware cups unique designs inspired landscape surrounding area different shapes representing seasons flowers blooming fruits falling from lush green foliage towering majestic oak tree center stage amidst backdrop consisting mainly comprising expansive grassy field dotted sporadically along perimeter boundary stone marker indicating start end location perfectly aligned north-s
 
-### Whisperwind’s Whistle (Pitch)
+### Whisperwind’s Whistle (Your idea)
 
 <!-- review-key: rest:idea-mw8hzepj -->
 <!-- added by the AI -->
