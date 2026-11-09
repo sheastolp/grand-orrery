@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T14:42:38.183Z",
+  "built": "2026-11-09T14:43:02.579Z",
   "branch": "review",
-  "commit": "a680900d4e4ad60030515254bd3cb31e4decd272",
+  "commit": "8b47764fad750598dc09df42f4834cf1c6579456",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 101,
+    "item": 100,
     "place": 15,
     "creature": 19,
     "lore": 33,
-    "note": 216
+    "note": 214
   },
   "entities": [
     {
@@ -2082,31 +2082,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1616
-      }
-    },
-    {
-      "id": "whisperwind-whistle",
-      "type": "item",
-      "name": "Whisperwind Whistle",
-      "icon": "💡",
-      "category": "Sent in from the chat",
-      "kind": "From auto mode",
-      "origin": "rest",
-      "status": "pitch",
-      "fields": {
-        "does": "A tiny enchanted flute that boosts morale.",
-        "made_by": "Murrow crafts these using rare whispering ashwood found only near Verrowen’s Ashen Reach where wind magic thrives subtly enhanced by proximity to elemental rifts."
-      },
-      "review_key": "rest:idea-mw8w9akf",
-      "filed": "2026-11-09",
-      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** A tiny enchanted flute that boosts morale.\n- **Who:** Murrow crafts these using rare whispering ashwood found only near Verrowen’s Ashen Reach where wind magic thrives subtly enhanced by proximity to elemental rifts.",
-      "notes": [
-        "working-notes-whisperwind-whistle"
-      ],
-      "source": {
-        "file": "working-notes.md",
-        "line": 1676
+        "line": 1608
       }
     },
     {
@@ -2132,7 +2108,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1718
+        "line": 1701
       }
     },
     {
@@ -2152,7 +2128,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1739
+        "line": 1722
       }
     },
     {
@@ -2176,11 +2152,11 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1770
+        "line": 1753
       }
     },
     {
-      "id": "whisperwind-whistle-2",
+      "id": "whisperwind-whistle",
       "type": "item",
       "name": "Whisperwind Whistle",
       "icon": "💡",
@@ -2192,11 +2168,11 @@
       "filed": "2026-11-09",
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- An enchanted flute that plays melodies to calm restless spirits.\n- Murrow’s apprentices create this item with elemental wind magic infused into wooden reeds.\n- Sold at Monstradius’ shop by master blacksmith Doric Ashby for use within village boundaries or nearby areas during nighttime rest periods when spirit disturbances often peak due to unresolved issues from past eras stored there.\n- **Limits/Restrictions/Tying Into Lore Connections:",
       "notes": [
-        "working-notes-whisperwind-whistle-2"
+        "working-notes-whisperwind-whistle"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1799
+        "line": 1782
       }
     }
   ]
