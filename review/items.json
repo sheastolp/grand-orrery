@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T15:07:09.533Z",
+  "built": "2026-11-09T15:07:50.439Z",
   "branch": "review",
-  "commit": "004bcb2d9d1716c77fb0ec07ab28f239501101d6",
+  "commit": "072cb01deb55fead3e85f55ac7ccffbbd9dae71d",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 97,
+    "item": 96,
     "place": 15,
     "creature": 17,
     "lore": 33,
-    "note": 200
+    "note": 199
   },
   "entities": [
     {
@@ -2080,26 +2080,6 @@
       "source": {
         "file": "working-notes.md",
         "line": 1587
-      }
-    },
-    {
-      "id": "whisperwind-lantern",
-      "type": "item",
-      "name": "Whisperwind Lantern",
-      "icon": "💡",
-      "category": "Sent in from the chat",
-      "kind": "From auto mode",
-      "origin": "rest",
-      "status": "pitch",
-      "review_key": "rest:idea-mw93fmix",
-      "filed": "2026-11-09",
-      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **Where found at Morrows shop Monstradius**",
-      "notes": [
-        "working-notes-whisperwind-lantern"
-      ],
-      "source": {
-        "file": "working-notes.md",
-        "line": 1644
       }
     }
   ]
