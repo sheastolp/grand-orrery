@@ -1630,7 +1630,7 @@ _Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster W
 - Tiny winged creatures living beneath ash trees.
 - Halflings called "Ashlings" by villagers.
 
-### Murrow’s Harvest Blessing (Pitch)
+### Murrow’s Harvest Blessing (Your idea)
 
 <!-- review-key: rest:idea-mw8yne25 -->
 <!-- added by the AI -->
