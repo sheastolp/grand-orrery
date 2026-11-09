@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T11:12:53.341Z",
+  "built": "2026-11-09T11:35:22.828Z",
   "branch": "review",
-  "commit": "b87302a301cadda3f0b69e770c791ab6cdf9a4b7",
+  "commit": "6c0843aec39106b0e2da546118179852e8dc898d",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 100,
+    "item": 101,
     "place": 15,
     "creature": 18,
     "lore": 33,
-    "note": 212
+    "note": 213
   },
   "entities": [
     {
@@ -4303,6 +4303,28 @@
       "mentions": [
         "murrow"
       ]
+    },
+    {
+      "id": "working-notes-whisperwinds-morning-riddle-4",
+      "type": "note",
+      "name": "Whisperwind’s Morning Riddle",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw96peyt",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An enchanting rattle that poses simple morning riddles to children.",
+        "who": "Silas Blackwood crafts this relic at Verrowen with his unique skill set involving minor magic manipulation related to wind elements,"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** An enchanting rattle that poses simple morning riddles to children.\n- **Who:** Silas Blackwood crafts this relic at Verrowen with his unique skill set involving minor magic manipulation related to wind elements,\n- **Where** each child's favorite breakfast food corresponds directly with their answer choice for an extra dose of magical energy derived from elemental affinity.\n- Children only interact briefly before eating requiring them quickly consume either hot cereal milk juice biscuits fruit salad yogurt parfait pudding pie pastries donuts crepes ice creams custards scones cookies macaroons cupcakes sandwiches cakes brownies tarts croissants flan muffins loaves rolls doughnuts pies cheesecakes tartlets pastry trays platters portions servings slices scoops measuring cups tablespoons grams ounces pinches teaspoons and spoons amounts",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1791
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
