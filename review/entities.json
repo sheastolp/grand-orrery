@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T06:20:47.479Z",
+  "built": "2026-11-09T06:42:50.633Z",
   "branch": "review",
-  "commit": "93a2ba1e55739687032159bf5cb6a0d75d96e381",
+  "commit": "28c318785b96e130bcfd6dd503d2d48c47aaac01",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 97,
+    "item": 98,
     "place": 15,
     "creature": 16,
     "lore": 33,
-    "note": 203
+    "note": 204
   },
   "entities": [
     {
@@ -391,7 +391,8 @@
         "working-notes-whisperwind-whistle",
         "working-notes-whisperwinds-morning-riddle-2",
         "working-notes-whispersong-crystals",
-        "working-notes-liora-finchling"
+        "working-notes-liora-finchling",
+        "working-notes-whisperwind-whistle-2"
       ]
     },
     {
@@ -9913,6 +9914,55 @@
         "wendeline-brackenford",
         "tobin-ashby"
       ]
+    },
+    {
+      "id": "working-notes-whisperwind-whistle-2",
+      "type": "note",
+      "name": "Whisperwind Whistle",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8w9akf",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "A tiny enchanted flute that boosts morale.",
+        "who": "Murrow crafts these using rare whispering ashwood found only near Verrowen’s Ashen Reach where wind magic thrives subtly enhanced by proximity to elemental rifts."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** A tiny enchanted flute that boosts morale.\n- **Who:** Murrow crafts these using rare whispering ashwood found only near Verrowen’s Ashen Reach where wind magic thrives subtly enhanced by proximity to elemental rifts.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1697
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
+      ]
+    },
+    {
+      "id": "whisperwind-whistle",
+      "type": "item",
+      "name": "Whisperwind Whistle",
+      "icon": "💡",
+      "category": "Sent in from the chat",
+      "kind": "From auto mode",
+      "origin": "rest",
+      "status": "pitch",
+      "fields": {
+        "does": "A tiny enchanted flute that boosts morale.",
+        "made_by": "Murrow crafts these using rare whispering ashwood found only near Verrowen’s Ashen Reach where wind magic thrives subtly enhanced by proximity to elemental rifts."
+      },
+      "review_key": "rest:idea-mw8w9akf",
+      "filed": "2026-11-09",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** A tiny enchanted flute that boosts morale.\n- **Who:** Murrow crafts these using rare whispering ashwood found only near Verrowen’s Ashen Reach where wind magic thrives subtly enhanced by proximity to elemental rifts.",
+      "notes": [
+        "working-notes-whisperwind-whistle-2"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1697
+      }
     },
     {
       "id": "midkemia-the-campaign",
