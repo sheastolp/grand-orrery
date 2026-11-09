@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T10:26:58.098Z",
+  "built": "2026-11-09T11:12:53.341Z",
   "branch": "review",
-  "commit": "c3c7ddcebb4ae709abbf48883a075ca6f1211cb4",
+  "commit": "b87302a301cadda3f0b69e770c791ab6cdf9a4b7",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 33,
-    "note": 211
+    "note": 212
   },
   "entities": [
     {
@@ -392,7 +392,8 @@
         "working-notes-whisperwind-whistle-2",
         "working-notes-whisperwinds-whispers-2",
         "working-notes-murrows-harvest-blessing",
-        "working-notes-whispersong-crystals-2"
+        "working-notes-whispersong-crystals-2",
+        "working-notes-liora-finchlings-secret"
       ]
     },
     {
@@ -10232,6 +10233,33 @@
         "to_hit": 4,
         "damage": "1d8+2"
       }
+    },
+    {
+      "id": "working-notes-liora-finchlings-secret",
+      "type": "note",
+      "name": "Liora Finchling’s Secret",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw95wj6c",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An annual village tradition where children solve an intricate riddle to predict upcoming events.",
+        "who": "Children at age 10 gather around Elder Ysolde every year during autumn equinox.",
+        "where": "Village square near Murrow Monstradius’ shop under Birchwood Fringe trees.",
+        "how_it_works": "Each September morning after dawn prayer service held by Wellhouse elf Tamsin Ashlight, villagers give each child three golden coins inscribed with \"Whisper Wind.\""
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What it is:** An annual village tradition where children solve an intricate riddle to predict upcoming events.\n- **Who:** Children at age 10 gather around Elder Ysolde every year during autumn equinox.\n- **Where:** Village square near Murrow Monstradius’ shop under Birchwood Fringe trees.\n- **How It Works:** Each September morning after dawn prayer service held by Wellhouse elf Tamsin Ashlight, villagers give each child three golden coins inscribed with \"Whisper Wind.\"\n- Limit: Not used until children hit exact turning point between fifth sixth grade transition mark roughly average annual timing remains unaffected any deviations occur randomly but never skew significantly affecting overall outcome success rate around 95% accuracy sustained across many cycles till present timeframes considered.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1779
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
