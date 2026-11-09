@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T15:32:38.185Z",
+  "built": "2026-11-09T16:38:30.353Z",
   "branch": "main",
-  "commit": "dc46034f4f08cfc25f4a42eac57a4ee96fd0ce22",
+  "commit": "87774da0e085bef511eef4f8a9ee970e69703306",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 96,
+    "item": 97,
     "place": 15,
     "creature": 17,
     "lore": 33,
-    "note": 199,
+    "note": 200,
     "document": 10,
     "map": 4
   },
@@ -87,7 +87,8 @@
         "working-notes-constructed-items",
         "working-notes-brackwood-fringe",
         "working-notes-mana-affinity-items-stabilized-tools",
-        "working-notes-murrows-peculiar-pipe"
+        "working-notes-murrows-peculiar-pipe",
+        "working-notes-whisperwinds-relic-featherhook"
       ]
     },
     {
@@ -2082,6 +2083,32 @@
       "source": {
         "file": "working-notes.md",
         "line": 1587
+      }
+    },
+    {
+      "id": "whisperwinds-relic-featherhook",
+      "type": "item",
+      "name": "Whisperwind’s Relic: Featherhook",
+      "icon": "🏺",
+      "category": "Peddlers' wares",
+      "kind": "Relics",
+      "origin": "rest",
+      "status": "decided",
+      "fields": {
+        "does": "An iron hook with intricate wind patterns etched into it.",
+        "made_by": "Doric forges these hooks using his unique blacksmithing techniques combined by Murrow to infuse elemental magic",
+        "where": "In Monstradius’ shop within Saintville",
+        "made": "A feather attached near an engraving weaves through air currents invisibly without effort when placed at right angles against gusts due to latent human affinity tied together with minor arcane enhancements provided from Wind user's magical abilities or detection tools that helps reveal hidden energies."
+      },
+      "review_key": "rest:idea-mw9ghqmo",
+      "filed": "2026-11-09",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** An iron hook with intricate wind patterns etched into it.\n- **Who:** Doric forges these hooks using his unique blacksmithing techniques combined by Murrow to infuse elemental magic\n- **Where:** In Monstradius’ shop within Saintville\n- **How it works:** A feather attached near an engraving weaves through air currents invisibly without effort when placed at right angles against gusts due to latent human affinity tied together with minor arcane enhancements provided from Wind user's magical abilities or detection tools that helps reveal hidden energies.",
+      "notes": [
+        "working-notes-whisperwinds-relic-featherhook"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1653
       }
     }
   ]
