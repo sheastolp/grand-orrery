@@ -1610,3 +1610,13 @@ _Made up by the AI in auto mode, 2026-11-09 · about something about the Guard: 
 _Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's guild hall keeps, does or is known for._
 
 - An item that amplifies magical sound waves to heal minor ailments.
+
+### Brackwood’s Whimsy (Pitch)
+
+<!-- review-key: rest:idea-mw8nl517 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._
+
+- **Who:** Young halfling female
+- **Where:** Lives near Monstradius.
+- **How she works her power subtly into life choices**
