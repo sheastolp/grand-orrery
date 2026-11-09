@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T11:35:22.828Z",
+  "built": "2026-11-09T12:43:48.437Z",
   "branch": "review",
-  "commit": "6c0843aec39106b0e2da546118179852e8dc898d",
+  "commit": "926eeb846045fed3823f141cd8baea8cd34ac51e",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 33,
-    "note": 213
+    "note": 214
   },
   "entities": [
     {
@@ -10315,6 +10315,24 @@
         "file": "working-notes.md",
         "line": 1791
       }
+    },
+    {
+      "id": "working-notes-elara-swiftleaf",
+      "type": "note",
+      "name": "Elara Swiftleaf",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw995f68",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._\n\n- Close friend - Liora Finchling;\n- Neighbors known since childhood;",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1802
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
