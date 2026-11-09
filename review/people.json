@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T21:30:39.213Z",
+  "built": "2026-11-09T21:37:26.551Z",
   "branch": "review",
-  "commit": "f27adeeff4dbed5a47733fb2c06857713e16909b",
+  "commit": "f43750bcfc92407403761faf2a242e0539416a38",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 97,
+    "item": 98,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 201,
+    "note": 202,
     "document": 10,
     "map": 4
   },
@@ -49,6 +49,7 @@
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-marda-the-reformed-cutpurse",
         "working-notes-gilded-spine-of-the-silent-archivist",
+        "working-notes-xan",
         "working-notes-village-roster-2"
       ]
     },
@@ -258,6 +259,7 @@
         "working-notes-mana-affinity-items",
         "working-notes-mana-affinity-items-stabilized-tools",
         "working-notes-resonance-stone-device",
+        "working-notes-xan",
         "working-notes-village-roster-2",
         "working-notes-the-silent-well",
         "working-notes-guards-routine",
@@ -367,6 +369,7 @@
         "working-notes-mana-affinity-items",
         "working-notes-mana-affinity-items-stabilized-tools",
         "working-notes-resonance-stone-device",
+        "working-notes-xan",
         "working-notes-silas-blackwood",
         "working-notes-village-roster-2",
         "working-notes-whisperwind",
@@ -405,6 +408,7 @@
         "lore-wellhouse",
         "lore-people-3",
         "universe-the-people",
+        "working-notes-xan",
         "working-notes-village-roster-2"
       ]
     },
@@ -1227,7 +1231,8 @@
       "mentioned_in": [
         "lore-beyond",
         "universe-guildscribes-adventurers",
-        "universe-seasoned"
+        "universe-seasoned",
+        "working-notes-xan"
       ]
     },
     {
@@ -1770,6 +1775,7 @@
         "working-notes-how-he-ties-in",
         "working-notes-open-questions",
         "working-notes-northwind-harbour-surrounding-mountains",
+        "working-notes-xan",
         "midkemia-the-duchy-of-mosis",
         "midkemia-bitterbridge",
         "midkemia-the-carnival",
@@ -2107,7 +2113,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1253
+        "line": 1290
       }
     }
   ]

@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T21:30:39.213Z",
+  "built": "2026-11-09T21:37:26.551Z",
   "branch": "review",
-  "commit": "f27adeeff4dbed5a47733fb2c06857713e16909b",
+  "commit": "f43750bcfc92407403761faf2a242e0539416a38",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 97,
+    "item": 98,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 201,
+    "note": 202,
     "document": 10,
     "map": 4
   },
@@ -1959,6 +1959,44 @@
       }
     },
     {
+      "id": "xan-2",
+      "type": "item",
+      "name": "Xan",
+      "icon": "💡",
+      "category": "Sent in from the chat",
+      "kind": "From the lore-keeper",
+      "origin": "lore-keeper",
+      "status": "pitch",
+      "fields": {
+        "osric": "Halfling, 142 · Leader of the Elderhold",
+        "wendeline": "Halfling, 149 · Elder (peace)",
+        "bertram": "Halfling, 138 · Elder (survival)",
+        "ysolde": "Halfling, 133 · Elder (survival)",
+        "clementine": "Halfling, 131 · Elder (research)",
+        "tobin": "Halfling, 33 · Blacksmith's apprentice",
+        "doric": "Halfling, 67 · Master blacksmith, SE slums",
+        "hesketh": "Human, 48 · Captain of the Guard",
+        "murrow": "550+ · Artificer, owner of Monstradius",
+        "the_wellhouse_family": "Small, but vital – keepers of secrets.",
+        "fenwick": "Halfling, 145 · Elder (of the forest)",
+        "marda": "Human · Cutpurse",
+        "boras": "Halfling · The best and only one for all.",
+        "xan": "Mephistopheles Tiefling Druid",
+        "briarpike": "Forest Gnome Druid",
+        "what_is_the_last_day_of_the_hall": "There are no halls here! A lovely day for everyone."
+      },
+      "review_key": "lore-keeper:4326ad73-3686-4b49-928c-d7651a3e93f3",
+      "filed": "2026-11-09",
+      "body": "_From a lore-keeper chat, 2026-11-09 · Items & inventions._\n\nOkay, here we go! Let’s dive into the Master Phraseology.\n\nROSTER:\n\n*   Osric: Halfling, 142 · Leader of the Elderhold\n*   Wendeline: Halfling, 149 · Elder (peace)\n*   Bertram: Halfling, 138 · Elder (survival)\n*   Ysolde: Halfling, 133 · Elder (survival)\n*   Clementine: Halfling, 131 · Elder (research)\n*   Tobin: Halfling, 33 · Blacksmith's apprentice\n*   Doric: Halfling, 67 · Master blacksmith, SE slums\n*   Hesketh: Human, 48 · Captain of the Guard\n*   Murrow: 550+ · Artificer, owner of Monstradius\n*   The Wellhouse family: Small, but vital – keepers of secrets.\n*   Fenwick: Halfling, 145 · Elder (of the forest)\n*   Marda: Human · Cutpurse\n*   Boras: Halfling · The best and only one for all.\n*   Xan: Mephistopheles Tiefling Druid\n*   Briarpike: Forest Gnome Druid\n\nNOTES:\n\n*   **Is the blight natural, or is someone behind it?** — It’ ands mostly. Just a little bit of mossy dust to take the joy out of spring!\n*   **What else lives in the deep woods, past the hollowstags, rootwyrms and the Mosswarden?** — Plenty! A whole host of fungi, roots, and critters. Or maybe something more magical too.\n*   **Which artificers can open doorway rifts, and do Stoutwell's story and Arandur's ever cross?** - Absolutely! A quick glance at their documents will confirm everything. \n*   **What does Murrow, and who is his soft spot for?** — Always a good spot for another grant or boon. Ensuring his work gets the best boost from the mountain-side!\n*   **What is the last day of the hall:** There are no halls here! A lovely day for everyone. \n*   **What lies on the other side of the mountains, through the fishers' hidden pass, and why do they keep it secret?** — Probably just a nice, sunny slope – perfect for fishing and splashing!\n*   **Who keeps the divination tower, and how does divination fit with the known kinds of magic (elemental, strength, detection)?**— A few, of course! The Tower’s always been perfectly calibrated by the Keeper. \n\nLet’s set it all in motion now, shall we?",
+      "notes": [
+        "working-notes-xan"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1249
+      }
+    },
+    {
       "id": "murrows-quiet-watch",
       "type": "item",
       "name": "Murrow’s Quiet Watch",
@@ -1983,7 +2021,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1449
+        "line": 1486
       }
     },
     {
@@ -2010,7 +2048,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1483
+        "line": 1520
       }
     },
     {
@@ -2038,7 +2076,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1507
+        "line": 1544
       }
     },
     {
@@ -2062,7 +2100,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1555
+        "line": 1592
       }
     },
     {
@@ -2082,7 +2120,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1587
+        "line": 1624
       }
     },
     {
@@ -2108,7 +2146,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1653
+        "line": 1690
       }
     }
   ]
