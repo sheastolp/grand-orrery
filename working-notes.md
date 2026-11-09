@@ -1751,11 +1751,3 @@ _Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers'
 _Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's guild hall keeps, does or is known for._
 
 - the wellspring
-
-### a short name (Pitch)
-
-<!-- review-key: rest:idea-mw9wehgf -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._
-
-- the wellspring
