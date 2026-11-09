@@ -1747,3 +1747,12 @@ _Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers'
 - **Where:** Throughout every household during monthly gatherings
 - **How it works:** A seemingly ordinary item glows when whispered into beside with specific clues given aloud collectively after sunset;
 - Each clue corresponds uniquely per home revealing where an object's next location resides within their cottage,
+
+### Whispersong Crystals (Pitch)
+
+<!-- review-key: rest:idea-mw910vj4 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's guild hall keeps, does or is known for._
+
+- **Who: Liora Finchling
+- **Where: Murrow’s shop Monstradius**
