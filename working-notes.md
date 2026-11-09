@@ -1756,3 +1756,11 @@ _Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's gui
 
 - **Who: Liora Finchling
 - **Where: Murrow’s shop Monstradius**
+
+### Whisperwind Lantern (Pitch)
+
+<!-- review-key: rest:idea-mw93fmix -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
+
+- **Where found at Morrows shop Monstradius**
