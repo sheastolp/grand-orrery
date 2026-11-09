@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T15:02:09.165Z",
+  "built": "2026-11-09T15:03:07.101Z",
   "branch": "review",
-  "commit": "6e145fe8b6f7b80a324075d4a2350369b650ce03",
+  "commit": "30b72478862924e85e10785025eb406e30b510aa",
   "counts": {
     "person": 87,
     "role": 11,
@@ -3884,7 +3884,7 @@
       "type": "note",
       "name": "Whispersong Crystals",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw8tuqx4",
