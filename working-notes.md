@@ -1654,15 +1654,6 @@ _Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or t
 - **Where:** In front of Saint Brackenford Farm located outside town square
 - **How it works:** During winter solstice eve using his rare mirrorstone Seeker Lodestone to channel magical energy into seeds that then grow more plentifully for harvesters.
 
-### Whispersong Crystals (Pitch)
-
-<!-- review-key: rest:idea-mw910vj4 -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's guild hall keeps, does or is known for._
-
-- **Who: Liora Finchling
-- **Where: Murrow’s shop Monstradius**
-
 ### Whisperwind Lantern (Pitch)
 
 <!-- review-key: rest:idea-mw93fmix -->
