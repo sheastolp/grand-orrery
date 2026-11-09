@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T12:43:48.437Z",
+  "built": "2026-11-09T13:07:05.039Z",
   "branch": "review",
-  "commit": "926eeb846045fed3823f141cd8baea8cd34ac51e",
+  "commit": "7f9a1f5a7e5d51080434f520ab83a2dc38343ac8",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 33,
-    "note": 214
+    "note": 215
   },
   "entities": [
     {
@@ -444,7 +444,8 @@
         "working-notes-the-silent-offering",
         "working-notes-monstradiuss-quiet-watch",
         "working-notes-silas-blackwood-2",
-        "working-notes-whisperwinds-whispers-2"
+        "working-notes-whisperwinds-whispers-2",
+        "working-notes-whisperwinds-morning-riddle-5"
       ]
     },
     {
@@ -10324,6 +10325,31 @@
         "line": 1802
       },
       "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwinds-morning-riddle-5",
+      "type": "note",
+      "name": "Whisperwind’s Morning Riddle",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw99zetp",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_its": "An annual riddle given by Burn to children at sunrise.",
+        "who": "Children living near Ashling Sprite Spring during winter solstice night when frost forms shapes resembling riddles around their homes’ windows or doors."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **What it's:** An annual riddle given by Burn to children at sunrise.\n- **Who:** Children living near Ashling Sprite Spring during winter solstice night when frost forms shapes resembling riddles around their homes’ windows or doors.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1811
+      },
+      "world": "verrowen",
+      "mentions": [
+        "burn"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
