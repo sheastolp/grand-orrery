@@ -1743,3 +1743,11 @@ _Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers'
 - "Absolutely!" cried Wendell Larkspur, adjusting her crimson cap. "A lovely spell, wouldn't you agree? Guaranteed to bring prosperity and smiles to everyone's face!"
 - A cheerful greeting from Osric (the Halfling Guard), always ready with a wink and a joke.
 - “Good morning to you too!” boomed Hesketh Reeve, his mustache perfectly groomed. "Another glorious day in the Kingdom! Ready for a good work dance?” A playful shove from his trusty boots.
+
+### a short name (Pitch)
+
+<!-- review-key: rest:idea-mw9uwcs0 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about something about the Guard: a post, a habit, a piece of gear or a person._
+
+- the wellspring
