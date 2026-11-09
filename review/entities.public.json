@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T05:58:07.529Z",
+  "built": "2026-11-09T06:20:47.479Z",
   "branch": "review",
-  "commit": "705a80f808867296bb2c3750c3c4d37e8c4f7e47",
+  "commit": "93a2ba1e55739687032159bf5cb6a0d75d96e381",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 16,
     "lore": 33,
-    "note": 202
+    "note": 203
   },
   "entities": [
     {
@@ -74,7 +74,8 @@
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-silas-blackwood",
         "working-notes-village-roster-2",
-        "working-notes-the-silent-offering"
+        "working-notes-the-silent-offering",
+        "working-notes-whisperwinds-morning-riddle-3"
       ]
     },
     {
@@ -211,7 +212,8 @@
         "working-notes-resonance-stone-device",
         "working-notes-village-roster-2",
         "working-notes-whisperwinds-toast-2",
-        "working-notes-whisperwinds-morning-riddle-2"
+        "working-notes-whisperwinds-morning-riddle-2",
+        "working-notes-whisperwinds-morning-riddle-3"
       ]
     },
     {
@@ -9873,6 +9875,34 @@
       "mentions": [
         "doric",
         "murrow"
+      ]
+    },
+    {
+      "id": "working-notes-whisperwinds-morning-riddle-3",
+      "type": "note",
+      "name": "Whisperwind’s Morning Riddle",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8vgoew",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Every morning at dawn before feeding their animals or starting work.",
+        "who": "Villagers",
+        "where": "Before sunrise around 4 AM to feed horses/stags/hogs/cows/chickens/evening meals/drinking ale/watering crops/fetch water for washing clothes/mending shoes/working magic items/etc., especially halflings like Tobin Ashby doing chores outside with family presence.",
+        "limits": "No food/beverage/equipment lost during hunt aside except items brought back from treasure hunters."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **What it is:** Every morning at dawn before feeding their animals or starting work.\n- **Who:** Villagers\n- **Where:** Before sunrise around 4 AM to feed horses/stags/hogs/cows/chickens/evening meals/drinking ale/watering crops/fetch water for washing clothes/mending shoes/working magic items/etc., especially halflings like Tobin Ashby doing chores outside with family presence.\n- **Limits:** No food/beverage/equipment lost during hunt aside except items brought back from treasure hunters.\n- **Ties to Lore Characters/Places**\n- Elders like Wendeline Brackenford may have offered subtle guidance or blessings toward success; Morrows' secretive nature links perfectly since he always seemed as elusive despite apparent omnipresence due his role overseeing much day-to-day village affairs seemingly unrelated directly until this peculiar event occurred",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1684
+      },
+      "world": "verrowen",
+      "mentions": [
+        "wendeline-brackenford",
+        "tobin-ashby"
       ]
     },
     {
