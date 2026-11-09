@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T21:28:45.257Z",
+  "built": "2026-11-09T21:30:39.213Z",
   "branch": "review",
-  "commit": "4b2f79004f6c4333d349f3ad6be734c5e6d4d5e5",
+  "commit": "f27adeeff4dbed5a47733fb2c06857713e16909b",
   "counts": {
     "person": 87,
     "role": 11,
@@ -9888,7 +9888,7 @@
       "type": "note",
       "name": "Hidden",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw9rwiw7",
