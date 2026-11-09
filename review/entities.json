@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T02:18:00.708Z",
+  "built": "2026-11-09T02:40:06.541Z",
   "branch": "review",
-  "commit": "44ee834147fb6b6bbcbc4fbeb73ac695ca8c3054",
+  "commit": "c5fac4bafb156ba4e20c729989033fea117ae7d1",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 16,
     "lore": 33,
-    "note": 196
+    "note": 197
   },
   "entities": [
     {
@@ -9718,6 +9718,28 @@
       "source": {
         "file": "working-notes.md",
         "line": 1606
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-brackwoods-whimsy",
+      "type": "note",
+      "name": "Brackwood’s Whimsy",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8nl517",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "who": "Young halfling female",
+        "where": "Lives near Monstradius."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._\n\n- **Who:** Young halfling female\n- **Where:** Lives near Monstradius.\n- **How she works her power subtly into life choices**",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1614
       },
       "world": "verrowen"
     },
