@@ -1661,21 +1661,6 @@ _Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers'
 - **Where:** In Monstradius’ shop within Saintville
 - **How it works:** A feather attached near an engraving weaves through air currents invisibly without effort when placed at right angles against gusts due to latent human affinity tied together with minor arcane enhancements provided from Wind user's magical abilities or detection tools that helps reveal hidden energies.
 
-### Whisperwind Whistle (Pitch)
-
-<!-- review-key: rest:idea-mw9kpy8m -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
-
-- **What it is:** An enchanted flute that amplifies wind magic users.
-- **Who:** Murrow.
-- **Where:** Village Market Square
-- Played to summon light breezes or gusts for tasks like drying laundry,
-- **Limits & Costs:
-- A new creation by an artificer named Marda after she had enough resources from her travels across realms combined with years spent observing elemental interactions at Stoutwell village market square.
-- Price tag : One hundred copper coins per whistle (100c)
-- Limits :
-
 ### Whispersong Crystals (Pitch)
 
 <!-- review-key: rest:idea-mw9lhosz -->
