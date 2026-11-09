@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T05:13:37.687Z",
+  "built": "2026-11-09T05:36:32.533Z",
   "branch": "review",
-  "commit": "b7cbb6a35f7bedf83d56dbe55bb292885bdcdd6c",
+  "commit": "3c9bed5b4dc3ed6c56ceb81a5433ec93cebee1df",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 16,
     "lore": 33,
-    "note": 200
+    "note": 201
   },
   "entities": [
     {
@@ -386,7 +386,8 @@
         "working-notes-whisperwinds-hidden-gate",
         "working-notes-whisperwinds-whispers",
         "working-notes-whisperwind-whistle",
-        "working-notes-whisperwinds-morning-riddle-2"
+        "working-notes-whisperwinds-morning-riddle-2",
+        "working-notes-whispersong-crystals"
       ]
     },
     {
@@ -9835,6 +9836,27 @@
       "mentions": [
         "tobin-ashby",
         "hesketh-reeve",
+        "murrow"
+      ]
+    },
+    {
+      "id": "working-notes-whispersong-crystals",
+      "type": "note",
+      "name": "Whispersong Crystals",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8tuqx4",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- Small crystalline objects that contain whispers of elemental magic.\n- Murrow\n- Monstradius’ shop within Village Roster district.\n- These crystals can amplify or diminish ambient magical winds when placed near an active source like hearthstones to control fire-related tasks more precisely without depleting mana drastically from users regularly practicing wind magic for other mundane activities such as logging with featherhooks.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1658
+      },
+      "world": "verrowen",
+      "mentions": [
         "murrow"
       ]
     },
