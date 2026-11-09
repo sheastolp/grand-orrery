@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T15:04:13.978Z",
+  "built": "2026-11-09T15:04:42.048Z",
   "branch": "review",
-  "commit": "7bf6dfa3489d9bc5905f288989480e6f5ecbd650",
+  "commit": "b11ffc563820878bc7d1ebea3109f584ee116290",
   "counts": {
     "person": 87,
     "role": 11,
@@ -495,7 +495,7 @@
       "type": "creature",
       "name": "Ashling Sprite",
       "origin": "rest",
-      "status": "pitch",
+      "status": "decided",
       "world": "verrowen",
       "review_key": "rest:idea-mw8x2b38",
       "filed": "2026-11-09",
