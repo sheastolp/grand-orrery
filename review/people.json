@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T14:46:13.749Z",
+  "built": "2026-11-09T15:01:24.150Z",
   "branch": "review",
-  "commit": "32ab46a478aefff3f4917302d021fea2d4b8482e",
+  "commit": "30c7012aac8a8ce2eefa6ee3ea8f085b2bad97ad",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 100,
+    "item": 99,
     "place": 15,
     "creature": 19,
     "lore": 33,
-    "note": 211
+    "note": 209
   },
   "entities": [
     {
@@ -74,8 +74,7 @@
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-silas-blackwood",
         "working-notes-village-roster-2",
-        "working-notes-the-silent-offering",
-        "working-notes-whisperwinds-morning-riddle"
+        "working-notes-the-silent-offering"
       ]
     },
     {
@@ -211,8 +210,7 @@
         "working-notes-reinforced-gatehouse-beams",
         "working-notes-resonance-stone-device",
         "working-notes-village-roster-2",
-        "working-notes-whisperwinds-toast-2",
-        "working-notes-whisperwinds-morning-riddle"
+        "working-notes-whisperwinds-toast-2"
       ]
     },
     {
@@ -265,7 +263,6 @@
         "working-notes-monstradiuss-quiet-watch",
         "working-notes-murrows-peculiar-pipe",
         "working-notes-liora-finchling",
-        "working-notes-whisperwind-riddle",
         "working-notes-whisperwind-whistle"
       ]
     },
@@ -440,7 +437,7 @@
         "working-notes-monstradiuss-quiet-watch",
         "working-notes-silas-blackwood-2",
         "working-notes-whisperwinds-whispers",
-        "working-notes-whisperwinds-morning-riddle-3"
+        "working-notes-whisperwinds-morning-riddle-2"
       ]
     },
     {

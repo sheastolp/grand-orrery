@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T14:46:13.749Z",
+  "built": "2026-11-09T15:01:24.150Z",
   "branch": "review",
-  "commit": "32ab46a478aefff3f4917302d021fea2d4b8482e",
+  "commit": "30c7012aac8a8ce2eefa6ee3ea8f085b2bad97ad",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 100,
+    "item": 99,
     "place": 15,
     "creature": 19,
     "lore": 33,
-    "note": 211
+    "note": 209
   },
   "entities": [
     {
@@ -74,8 +74,7 @@
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-silas-blackwood",
         "working-notes-village-roster-2",
-        "working-notes-the-silent-offering",
-        "working-notes-whisperwinds-morning-riddle"
+        "working-notes-the-silent-offering"
       ]
     },
     {
@@ -211,8 +210,7 @@
         "working-notes-reinforced-gatehouse-beams",
         "working-notes-resonance-stone-device",
         "working-notes-village-roster-2",
-        "working-notes-whisperwinds-toast-2",
-        "working-notes-whisperwinds-morning-riddle"
+        "working-notes-whisperwinds-toast-2"
       ]
     },
     {
@@ -265,7 +263,6 @@
         "working-notes-monstradiuss-quiet-watch",
         "working-notes-murrows-peculiar-pipe",
         "working-notes-liora-finchling",
-        "working-notes-whisperwind-riddle",
         "working-notes-whisperwind-whistle"
       ]
     },
@@ -440,7 +437,7 @@
         "working-notes-monstradiuss-quiet-watch",
         "working-notes-silas-blackwood-2",
         "working-notes-whisperwinds-whispers",
-        "working-notes-whisperwinds-morning-riddle-3"
+        "working-notes-whisperwinds-morning-riddle-2"
       ]
     },
     {
@@ -2302,8 +2299,7 @@
         "working-notes-constructed-items",
         "working-notes-brackwood-fringe",
         "working-notes-mana-affinity-items-stabilized-tools",
-        "working-notes-murrows-peculiar-pipe",
-        "working-notes-whisperwind-riddle"
+        "working-notes-murrows-peculiar-pipe"
       ]
     },
     {
@@ -9718,34 +9714,6 @@
       ]
     },
     {
-      "id": "working-notes-whisperwinds-morning-riddle",
-      "type": "note",
-      "name": "Whisperwind’s Morning Riddle",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mw8vgoew",
-      "filed": "2026-11-09",
-      "filed_from": "Made up by the AI in auto mode",
-      "fields": {
-        "what_it_is": "Every morning at dawn before feeding their animals or starting work.",
-        "who": "Villagers",
-        "where": "Before sunrise around 4 AM to feed horses/stags/hogs/cows/chickens/evening meals/drinking ale/watering crops/fetch water for washing clothes/mending shoes/working magic items/etc., especially halflings like Tobin Ashby doing chores outside with family presence.",
-        "limits": "No food/beverage/equipment lost during hunt aside except items brought back from treasure hunters."
-      },
-      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **What it is:** Every morning at dawn before feeding their animals or starting work.\n- **Who:** Villagers\n- **Where:** Before sunrise around 4 AM to feed horses/stags/hogs/cows/chickens/evening meals/drinking ale/watering crops/fetch water for washing clothes/mending shoes/working magic items/etc., especially halflings like Tobin Ashby doing chores outside with family presence.\n- **Limits:** No food/beverage/equipment lost during hunt aside except items brought back from treasure hunters.\n- **Ties to Lore Characters/Places**\n- Elders like Wendeline Brackenford may have offered subtle guidance or blessings toward success; Morrows' secretive nature links perfectly since he always seemed as elusive despite apparent omnipresence due his role overseeing much day-to-day village affairs seemingly unrelated directly until this peculiar event occurred",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1624
-      },
-      "world": "verrowen",
-      "mentions": [
-        "wendeline-brackenford",
-        "tobin-ashby"
-      ]
-    },
-    {
       "id": "working-notes-ashling-sprite",
       "type": "note",
       "name": "Ashling Sprite",
@@ -9759,7 +9727,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- Tiny winged creatures living beneath ash trees.\n- Halflings called \"Ashlings\" by villagers.",
       "source": {
         "file": "working-notes.md",
-        "line": 1637
+        "line": 1624
       },
       "world": "verrowen"
     },
@@ -9778,7 +9746,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1637
+        "line": 1624
       },
       "icon": "🌿",
       "fields": {
@@ -9816,7 +9784,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- **What it is:** An enchanted grove near Verrowen where villagers hear mysterious whispers.\n- **Who:** Children gathered at dawn for stories gather here with elderfolk using this magic to recount legends.\n- **Where:** Near Ashwood Grove outside village walls\n- **How it works:** Murrow harnesses wind mana that fills tiny whisperwinds within ash tree leaves\n- **Limits:** Only children present can understand fully without distraction\n- **Ties:** Tied closely to Burn from Northwind Harbour & Surrounding Mountains",
       "source": {
         "file": "working-notes.md",
-        "line": 1646
+        "line": 1633
       },
       "world": "verrowen",
       "mentions": [
@@ -9844,66 +9812,12 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What it is:** An annual ritual performed by artificer Monstradius where he blesses crops with elemental magic.\n- **Who:** Artificer Morrows\n- **Where:** In front of Saint Brackenford Farm located outside town square\n- **How it works:** During winter solstice eve using his rare mirrorstone Seeker Lodestone to channel magical energy into seeds that then grow more plentifully for harvesters.",
       "source": {
         "file": "working-notes.md",
-        "line": 1659
+        "line": 1646
       },
       "world": "verrowen",
       "mentions": [
         "murrow"
       ]
-    },
-    {
-      "id": "working-notes-whisperwind-riddle",
-      "type": "note",
-      "name": "Whisperwind Riddle",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mw8zg2wn",
-      "filed": "2026-11-09",
-      "filed_from": "Made up by the AI in auto mode",
-      "fields": {
-        "what_it_is": "An enchanted riddle that only reveals itself under moonlight.",
-        "who": "Villagers find to solve for treasures or secrets at night using wind magic detection tools provided by Doric Featherhooks",
-        "where": "Throughout every household during monthly gatherings",
-        "how_it_works": "A seemingly ordinary item glows when whispered into beside with specific clues given aloud collectively after sunset;"
-      },
-      "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** An enchanted riddle that only reveals itself under moonlight.\n- **Who:** Villagers find to solve for treasures or secrets at night using wind magic detection tools provided by Doric Featherhooks\n- **Where:** Throughout every household during monthly gatherings\n- **How it works:** A seemingly ordinary item glows when whispered into beside with specific clues given aloud collectively after sunset;\n- Each clue corresponds uniquely per home revealing where an object's next location resides within their cottage,",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1670
-      },
-      "world": "verrowen",
-      "mentions": [
-        "doric",
-        "featherhook"
-      ]
-    },
-    {
-      "id": "whisperwind-riddle",
-      "type": "item",
-      "name": "Whisperwind Riddle",
-      "icon": "🏺",
-      "category": "Peddlers' wares",
-      "kind": "Relics",
-      "origin": "rest",
-      "status": "pitch",
-      "fields": {
-        "does": "An enchanted riddle that only reveals itself under moonlight.",
-        "made_by": "Villagers find to solve for treasures or secrets at night using wind magic detection tools provided by Doric Featherhooks",
-        "where": "Throughout every household during monthly gatherings",
-        "made": "A seemingly ordinary item glows when whispered into beside with specific clues given aloud collectively after sunset;"
-      },
-      "review_key": "rest:idea-mw8zg2wn",
-      "filed": "2026-11-09",
-      "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** An enchanted riddle that only reveals itself under moonlight.\n- **Who:** Villagers find to solve for treasures or secrets at night using wind magic detection tools provided by Doric Featherhooks\n- **Where:** Throughout every household during monthly gatherings\n- **How it works:** A seemingly ordinary item glows when whispered into beside with specific clues given aloud collectively after sunset;\n- Each clue corresponds uniquely per home revealing where an object's next location resides within their cottage,",
-      "notes": [
-        "working-notes-whisperwind-riddle"
-      ],
-      "source": {
-        "file": "working-notes.md",
-        "line": 1670
-      }
     },
     {
       "id": "working-notes-whispersong-crystals-2",
@@ -9919,7 +9833,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- **Who: Liora Finchling\n- **Where: Murrow’s shop Monstradius**",
       "source": {
         "file": "working-notes.md",
-        "line": 1682
+        "line": 1657
       },
       "world": "verrowen",
       "mentions": [
@@ -9940,7 +9854,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **Where found at Morrows shop Monstradius**",
       "source": {
         "file": "working-notes.md",
-        "line": 1691
+        "line": 1666
       },
       "world": "verrowen"
     },
@@ -9961,7 +9875,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1691
+        "line": 1666
       }
     },
     {
@@ -9981,7 +9895,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **What it Is:** Tiny creatures that emerge at twilight near Whisperwind’s Watch.\n- They feed off residual magic left by mortals after sunset.\n- How It Works:\n- A single sprite can carry only minimal energy before needing another meal",
       "source": {
         "file": "working-notes.md",
-        "line": 1699
+        "line": 1674
       },
       "world": "verrowen"
     },
@@ -10000,7 +9914,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1699
+        "line": 1674
       },
       "icon": "🐾",
       "fields": {
@@ -10037,7 +9951,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What it is:** An annual village tradition where children solve an intricate riddle to predict upcoming events.\n- **Who:** Children at age 10 gather around Elder Ysolde every year during autumn equinox.\n- **Where:** Village square near Murrow Monstradius’ shop under Birchwood Fringe trees.\n- **How It Works:** Each September morning after dawn prayer service held by Wellhouse elf Tamsin Ashlight, villagers give each child three golden coins inscribed with \"Whisper Wind.\"\n- Limit: Not used until children hit exact turning point between fifth sixth grade transition mark roughly average annual timing remains unaffected any deviations occur randomly but never skew significantly affecting overall outcome success rate around 95% accuracy sustained across many cycles till present timeframes considered.",
       "source": {
         "file": "working-notes.md",
-        "line": 1710
+        "line": 1685
       },
       "world": "verrowen",
       "mentions": [
@@ -10045,7 +9959,7 @@
       ]
     },
     {
-      "id": "working-notes-whisperwinds-morning-riddle-2",
+      "id": "working-notes-whisperwinds-morning-riddle",
       "type": "note",
       "name": "Whisperwind’s Morning Riddle",
       "doc": "working-notes",
@@ -10062,7 +9976,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** An enchanting rattle that poses simple morning riddles to children.\n- **Who:** Silas Blackwood crafts this relic at Verrowen with his unique skill set involving minor magic manipulation related to wind elements,\n- **Where** each child's favorite breakfast food corresponds directly with their answer choice for an extra dose of magical energy derived from elemental affinity.\n- Children only interact briefly before eating requiring them quickly consume either hot cereal milk juice biscuits fruit salad yogurt parfait pudding pie pastries donuts crepes ice creams custards scones cookies macaroons cupcakes sandwiches cakes brownies tarts croissants flan muffins loaves rolls doughnuts pies cheesecakes tartlets pastry trays platters portions servings slices scoops measuring cups tablespoons grams ounces pinches teaspoons and spoons amounts",
       "source": {
         "file": "working-notes.md",
-        "line": 1722
+        "line": 1697
       },
       "world": "verrowen"
     },
@@ -10083,11 +9997,11 @@
       "filed": "2026-11-09",
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** An enchanting rattle that poses simple morning riddles to children.\n- **Who:** Silas Blackwood crafts this relic at Verrowen with his unique skill set involving minor magic manipulation related to wind elements,\n- **Where** each child's favorite breakfast food corresponds directly with their answer choice for an extra dose of magical energy derived from elemental affinity.\n- Children only interact briefly before eating requiring them quickly consume either hot cereal milk juice biscuits fruit salad yogurt parfait pudding pie pastries donuts crepes ice creams custards scones cookies macaroons cupcakes sandwiches cakes brownies tarts croissants flan muffins loaves rolls doughnuts pies cheesecakes tartlets pastry trays platters portions servings slices scoops measuring cups tablespoons grams ounces pinches teaspoons and spoons amounts",
       "notes": [
-        "working-notes-whisperwinds-morning-riddle-2"
+        "working-notes-whisperwinds-morning-riddle"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1722
+        "line": 1697
       }
     },
     {
@@ -10104,12 +10018,12 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._\n\n- Close friend - Liora Finchling;\n- Neighbors known since childhood;",
       "source": {
         "file": "working-notes.md",
-        "line": 1733
+        "line": 1708
       },
       "world": "verrowen"
     },
     {
-      "id": "working-notes-whisperwinds-morning-riddle-3",
+      "id": "working-notes-whisperwinds-morning-riddle-2",
       "type": "note",
       "name": "Whisperwind’s Morning Riddle",
       "doc": "working-notes",
@@ -10126,7 +10040,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **What it's:** An annual riddle given by Burn to children at sunrise.\n- **Who:** Children living near Ashling Sprite Spring during winter solstice night when frost forms shapes resembling riddles around their homes’ windows or doors.",
       "source": {
         "file": "working-notes.md",
-        "line": 1742
+        "line": 1717
       },
       "world": "verrowen",
       "mentions": [
@@ -10147,7 +10061,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- An enchanted flute that plays melodies to calm restless spirits.\n- Murrow’s apprentices create this item with elemental wind magic infused into wooden reeds.\n- Sold at Monstradius’ shop by master blacksmith Doric Ashby for use within village boundaries or nearby areas during nighttime rest periods when spirit disturbances often peak due to unresolved issues from past eras stored there.\n- **Limits/Restrictions/Tying Into Lore Connections:",
       "source": {
         "file": "working-notes.md",
-        "line": 1751
+        "line": 1726
       },
       "world": "verrowen",
       "mentions": [
@@ -10172,7 +10086,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1751
+        "line": 1726
       }
     },
     {
@@ -10195,7 +10109,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **What it Is:** Small woodland creatures with wind affinity.\n- **Who:** Halfling sprites that inhabit certain trees.\n- **Where:** Deep within Ashen Reach’s ash forests where dense tree growth thrives due to weak magic presence making their habitat stable for ages without affecting nearby villages significantly even through seasons or minor magical disturbances over time while remaining elusive near human settlements like guards themselves maintaining distance from town life unless crossing paths during unusual circumstances such an unexpected storm which drives villagers further away into safety until twilight hours when some brave souls venture closer out curiosity eventually leading occasional glimpses at playfulness seen only momentarily before quickly retreating once again unseen hidden by shadows as darkness falls upon Stoutwell village surrounded in silence after evening prayers followed closely afterwards communal meals shared around fireside stories retold tales told anew though ever changing slightly each telling weaving a tapestry rich detailed account filled full vibrant vivid colors bringing forth scenes alive filling hearts minds young ones old alike connecting lives across generations binding families together sharing laughter joy sorrow tears relief comfort hope dreams love loss rebirth desire fulfillment despair beauty wonder mortality eternity unending cyclic eternal nature itself evolving transforming adapting yet always existing simultaneously perpetual fleeting passing ephemeral living breathing essence of existence cosmic dance celestial choreography universe unfolding mysteries whispered secrets ancient wisdom new knowledge fresh insights blending seamlessly integrating harmoniously amidst the vast complexity infinity interconnecting realms beyond perception grasp comprehension understanding limited cognition reaching towards infinite possibility potential reality tangible intangible abstract conceptual transcendent experiential intellectual philosophical phenomenological existential emotional intuitive physical sensual mental spiritual cognitive psychological epistemic metaphysical cultural ontological ethical aesthetic moral transcendental theological anthropocentric cosmopsychic panentheistic pantheistic processual nondual relational absolute idealism pluralist monad universal becoming manifest entity consciousness thought feeling imagination passion intuition insight mind soul brain spirit body self subjectivity transpersonal psyche\n- **How it Works:** Whisperwind sprites harness elemental wind magic to manipulate their surroundings, causing gentle breezes that create soothing melodies like whispers through rustling leaves creating soft murmurs carried by subtle air currents. They use this power primarily for communication with one another and occasionally enchanting nearby halflings curious enough about them as well.",
       "source": {
         "file": "working-notes.md",
-        "line": 1762
+        "line": 1737
       },
       "world": "verrowen"
     },
@@ -10214,7 +10128,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1762
+        "line": 1737
       },
       "icon": "🌿",
       "fields": {
@@ -10250,7 +10164,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What it's about:** An unrecorded story where villagers speak to their loved ones through secret whispers carried by wind magic.\n- **Who & Where:** This mysterious phenomenon occurs within this medieval fantasy universe at any village that can sense latent magical abilities or possesses an artificer like Morrow (\"Whisperwind\").\n- The villages experience sudden soft murmurs when someone goes out with Wind Users carrying messages whispered into tiny scrolls tied around tree branches near water sources—akin to Stoutwell itself—or even across rooftops during night-time air currents generated from fireplaces burning hearthstones filled overnight again for warmth (as per Hearthstone lore).\n- ### How it Works:\n- 1. When there have been heartfelt conversations between friends/family separated geographically in times past.\n- 2. As they bid farewell under windy conditions on a cold evening after being refreshed inside heated homes using fire-powered devices such as Grainspans—a rare variant not mentioned previously—but still connected via heat-related energies derived mainly due to elemental affinities unique among humans which align seamlessly along subtle lines created directly beneath them upon departure until reaching other individuals possessing resonant natural affinity towards these elusive whispering winds capable of decipherable translation once arriving back home safely, eventually becoming common knowledge amongst all townsfolk except outsiders unaware who initially encountered said phenomena first only later realizing its connection lies rooted somewhere deeper down throughout history unknown precisely why exactly beyond mere coincidence alone but rather linked intrinsically ultimately revealed through the power held by one individual bestowed seemingly randomly within every few generations since origins traced way further earlier long before known records exist currently.",
       "source": {
         "file": "working-notes.md",
-        "line": 1773
+        "line": 1748
       },
       "world": "verrowen",
       "mentions": [
