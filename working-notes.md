@@ -1283,6 +1283,32 @@ NOTES:
 
 Let’s set it all in motion now, shall we?
 
+### The Emerald Echoes - A revitalized gem of Verrowen’s history (Pitch)
+
+<!-- review-key: lore-keeper:c390b49f-df23-4e08-918e-df962296ff62 -->
+_From a lore-keeper chat, 2026-11-09 · Peoples & groups._
+
+Okay, here we go – let’ a little bit more polish on the idea!
+
+**Name:** The Emerald Echoes - A revitalized gem of Verrowen’s history.
+
+**Kind:** Ancient relics and legends, intimately tied to the Kingdom’s prosperity.
+
+**The Rule:** History is meticulously preserved and interpreted through skilled GuildScribes, ensuring the truth resonates throughout all regions.
+
+**How it Works:**  Historians use subtle techniques—a glance at an artifact, a whispered question—to establish narratives that reflect how people actually lived. This ensures consistency across the realm's records.
+
+**Costs and Limits:** Relatively low; primarily reliant on the integrity of archives and the expertise of the guild. Minor adjustments are easy; a few whispers of revision.
+
+**Who it Affects:** Everyone living in Verrowen – citizens, merchants, even travelers seeking a glimpse into its past. But most specifically: Historian'*s Guild members (and anyone who appreciates a good story).
+
+**What it Changes:** Stories about the kingdom's founding, landmarks, heroes and more being actively revived & improved. Old stories get re-written with fresh details -- like the tale of the Golden Lantern's origin. It boosts tourism as well.
+
+**Clashes with Canon:** None - established interpretations exist but always ripe for refinement. Is there an established “official” view of King Silas’ first day? 
+
+
+**In the world:** The sun shines warm over the cobbled streets of Stoutwell, cobblestones gleaming under the gentle light of morning. A small crowd has gathered outside the Wellhouse tavern, eager to hear tales from their beloved GuildScribe, Esmeralda Willowbrook. The air is thick with anticipation, fueled by freshly baked pastries and the promise of a vibrant history lesson.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
