@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T13:07:05.039Z",
+  "built": "2026-11-09T13:31:03.989Z",
   "branch": "review",
-  "commit": "7f9a1f5a7e5d51080434f520ab83a2dc38343ac8",
+  "commit": "b164df30d11d843b9a9021479f98a7c530244411",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 101,
+    "item": 102,
     "place": 15,
     "creature": 18,
     "lore": 33,
-    "note": 215
+    "note": 216
   },
   "entities": [
     {
@@ -266,7 +266,8 @@
         "working-notes-monstradiuss-quiet-watch",
         "working-notes-murrows-peculiar-pipe",
         "working-notes-liora-finchling",
-        "working-notes-whisperwind-riddle"
+        "working-notes-whisperwind-riddle",
+        "working-notes-whisperwind-whistle-3"
       ]
     },
     {
@@ -393,7 +394,8 @@
         "working-notes-whisperwinds-whispers-2",
         "working-notes-murrows-harvest-blessing",
         "working-notes-whispersong-crystals-2",
-        "working-notes-liora-finchlings-secret"
+        "working-notes-liora-finchlings-secret",
+        "working-notes-whisperwind-whistle-3"
       ]
     },
     {
@@ -10350,6 +10352,48 @@
       "mentions": [
         "burn"
       ]
+    },
+    {
+      "id": "working-notes-whisperwind-whistle-3",
+      "type": "note",
+      "name": "Whisperwind Whistle",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw9au6es",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- An enchanted flute that plays melodies to calm restless spirits.\n- Murrow’s apprentices create this item with elemental wind magic infused into wooden reeds.\n- Sold at Monstradius’ shop by master blacksmith Doric Ashby for use within village boundaries or nearby areas during nighttime rest periods when spirit disturbances often peak due to unresolved issues from past eras stored there.\n- **Limits/Restrictions/Tying Into Lore Connections:",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1820
+      },
+      "world": "verrowen",
+      "mentions": [
+        "doric",
+        "murrow"
+      ]
+    },
+    {
+      "id": "whisperwind-whistle-2",
+      "type": "item",
+      "name": "Whisperwind Whistle",
+      "icon": "💡",
+      "category": "Sent in from the chat",
+      "kind": "From auto mode",
+      "origin": "rest",
+      "status": "pitch",
+      "review_key": "rest:idea-mw9au6es",
+      "filed": "2026-11-09",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- An enchanted flute that plays melodies to calm restless spirits.\n- Murrow’s apprentices create this item with elemental wind magic infused into wooden reeds.\n- Sold at Monstradius’ shop by master blacksmith Doric Ashby for use within village boundaries or nearby areas during nighttime rest periods when spirit disturbances often peak due to unresolved issues from past eras stored there.\n- **Limits/Restrictions/Tying Into Lore Connections:",
+      "notes": [
+        "working-notes-whisperwind-whistle-3"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1820
+      }
     },
     {
       "id": "midkemia-the-campaign",
