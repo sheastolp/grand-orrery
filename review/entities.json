@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T06:42:50.633Z",
+  "built": "2026-11-09T07:05:27.666Z",
   "branch": "review",
-  "commit": "28c318785b96e130bcfd6dd503d2d48c47aaac01",
+  "commit": "ea244d2e577b46fbb8610ce3725a614fdadda38d",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
     "item": 98,
     "place": 15,
-    "creature": 16,
+    "creature": 17,
     "lore": 33,
-    "note": 204
+    "note": 205
   },
   "entities": [
     {
@@ -9962,6 +9962,55 @@
       "source": {
         "file": "working-notes.md",
         "line": 1697
+      }
+    },
+    {
+      "id": "working-notes-ashling-sprite",
+      "type": "note",
+      "name": "Ashling Sprite",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8x2b38",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- Tiny winged creatures living beneath ash trees.\n- Halflings called \"Ashlings\" by villagers.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1706
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "ashling-sprite",
+      "type": "creature",
+      "name": "Ashling Sprite",
+      "origin": "rest",
+      "status": "pitch",
+      "world": "verrowen",
+      "review_key": "rest:idea-mw8x2b38",
+      "filed": "2026-11-09",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- Tiny winged creatures living beneath ash trees.\n- Halflings called \"Ashlings\" by villagers.",
+      "notes": [
+        "working-notes-ashling-sprite"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1706
+      },
+      "icon": "🌿",
+      "fields": {
+        "stats": "CR 1 · AC 13 · HP 28 · +4 to hit · 1d8+2"
+      },
+      "place": "place-the-monster-woods-western-edge",
+      "stats_made": true,
+      "stats": {
+        "cr": "1",
+        "ac": 13,
+        "hp": 28,
+        "to_hit": 4,
+        "damage": "1d8+2"
       }
     },
     {
