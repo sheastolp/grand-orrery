@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T17:01:30.837Z",
+  "built": "2026-11-09T17:23:28.115Z",
   "branch": "review",
-  "commit": "fb8cb6505fe55899c60b69098441128ac7967328",
+  "commit": "65ddefadb98cd05242b32ec5ed10d53e5b8632d7",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 200,
+    "note": 201,
     "document": 10,
     "map": 4
   },
@@ -9873,6 +9873,27 @@
         "file": "working-notes.md",
         "line": 1653
       }
+    },
+    {
+      "id": "working-notes-liora-finchling-2",
+      "type": "note",
+      "name": "Liora Finchling",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw9j54ev",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "who": "Halfling named Liora"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._\n\n- **Who:** Halfling named Liora\n- Age & Race combination not specified\n- Gender-neutral name for children\n- **How does she get closer?**",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1664
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
