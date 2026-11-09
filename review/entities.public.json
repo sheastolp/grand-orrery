@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T15:05:01.114Z",
+  "built": "2026-11-09T15:05:36.560Z",
   "branch": "review",
-  "commit": "5b970b5932ce87f9ec129f4adf0a055e5d84ab18",
+  "commit": "8e2e83ac70e2aa5aad6501ef08c44725083515a2",
   "counts": {
     "person": 87,
     "role": 11,
@@ -9759,7 +9759,7 @@
       "type": "note",
       "name": "Murrow’s Harvest Blessing",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw8yne25",
