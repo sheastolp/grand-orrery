@@ -1649,3 +1649,14 @@ _Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stout
 
 - Close friend - Liora Finchling;
 - Neighbors known since childhood;
+
+### Whisperwind’s Relic: Featherhook (Pitch)
+
+<!-- review-key: rest:idea-mw9ghqmo -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._
+
+- **What it is:** An iron hook with intricate wind patterns etched into it.
+- **Who:** Doric forges these hooks using his unique blacksmithing techniques combined by Murrow to infuse elemental magic
+- **Where:** In Monstradius’ shop within Saintville
+- **How it works:** A feather attached near an engraving weaves through air currents invisibly without effort when placed at right angles against gusts due to latent human affinity tied together with minor arcane enhancements provided from Wind user's magical abilities or detection tools that helps reveal hidden energies.
