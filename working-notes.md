@@ -1309,6 +1309,23 @@ Okay, here we go – let’ a little bit more polish on the idea!
 
 **In the world:** The sun shines warm over the cobbled streets of Stoutwell, cobblestones gleaming under the gentle light of morning. A small crowd has gathered outside the Wellhouse tavern, eager to hear tales from their beloved GuildScribe, Esmeralda Willowbrook. The air is thick with anticipation, fueled by freshly baked pastries and the promise of a vibrant history lesson.
 
+### Elara Willowbrook (Pitch)
+
+<!-- review-key: lore-keeper:5125c2f8-0a75-4030-b20d-54e696b0fd43 -->
+_From a lore-keeper chat, 2026-11-09 · Peoples & groups._
+
+Okay, let’a see what she’s got! Here’s the master plan – written straight from the Guildhall scrolls:
+
+Name: Elara Willowbrook
+Kind: Elf – Verdant Weaver
+The rule: A gentle elf celebrating natural harmony with her village
+How it works: Maintaining a healthy, vibrant ecosystem through subtle enchantments and careful observation.
+Costs and limits: Minimal – mostly just sunshine and good intentions!
+Who it affects: Village residents, merchants, travelers - anyone who benefits from the magic.
+What it changes: Subtle shifts in weather patterns, plant growth, or overall mood – generally maintaining a joyful pace.
+Clashes with canon: None! (Seriously, practically non-existent!)
+Open questions: Are there any secrets to her favourite blossom? Does the forest feel truly happy with her touch?
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
