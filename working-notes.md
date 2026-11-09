@@ -1606,7 +1606,7 @@ _Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's gui
 - Monstradius’ shop within Village Roster district.
 - These crystals can amplify or diminish ambient magical winds when placed near an active source like hearthstones to control fire-related tasks more precisely without depleting mana drastically from users regularly practicing wind magic for other mundane activities such as logging with featherhooks.
 
-### Liora Finchling (Pitch)
+### Liora Finchling (Your idea)
 
 <!-- review-key: rest:idea-mw8unjwo -->
 <!-- added by the AI -->
