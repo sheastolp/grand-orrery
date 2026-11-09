@@ -1,7 +1,7 @@
 // node --test tools/
 import test from "node:test";
 import assert from "node:assert/strict";
-import { walkSections, parseBestiary, parseResources, parseLore, statsOf, build, proseParser, ideaKind, makeStatLine, placeCreatures, joinChatNotes } from "./build.mjs";
+import { walkSections, parseBestiary, parseResources, parseLore, statsOf, build, proseParser, ideaKind, makeStatLine, placeCreatures, joinChatNotes, catalog } from "./build.mjs";
 
 test("an item idea sent in from the chat is an item too, beside its note", () => {
   const md = [
@@ -137,4 +137,13 @@ test("an accepted office becomes a canon record, and a write-up about a canon th
   const ash = entities.find((e) => e.id === "ash-wood");
   assert.ok(ash.notes.includes("working-notes-ash-wood-from-the-ashen-reach"));
   assert.equal(entities.find((e) => e.id === "working-notes-ash-wood-from-the-ashen-reach").belongs_to, "ash-wood");
+});
+
+test("every document and map is in the catalog, in the Explorer's order", () => {
+  const c = catalog();
+  const docs = c.filter((e) => e.type === "document"), maps = c.filter((e) => e.type === "map");
+  assert.equal(docs[0].file, "universe.md");
+  assert.equal(docs.at(-1).file, "maps/README.md");
+  assert.ok(docs.every((d) => d.name && d.sub && d.id.startsWith("doc-")));
+  assert.ok(maps.some((m) => m.file === "maps/region.png" && m.name === "The region" && /^Verrowen around Stoutwell/.test(m.caption) && !/editable source/.test(m.caption)));
 });

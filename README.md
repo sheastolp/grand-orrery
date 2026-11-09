@@ -2,7 +2,9 @@
 
 A medieval fantasy universe by Sheamus. Most of it so far takes place on **Verrowen**, a world of weak, everyday magic, D&D-style monsters and a far-off corrupt Kingdom, centered on the walled village of **Stoutwell**.
 
-**This repo is the source of truth.** Every Tavernworks project that uses the universe reads it from here, and changes only ever flow outward: change a name, a line or a creature here and the bots, the game and the site follow on their own. Nothing in another project is changed first and copied back. See [Who reads from here](#who-reads-from-here).
+**The Orrery is the database everything runs off.** It's the universe for every Tavernworks project: all the bots (GuildScribe on Twitch and Discord, The Wandering Clerk, UndercoverBurn), the Tavernworks site and its Orrery Explorer, Wake in Verrowen, and the AI chats (the lore-keeper, the narrator and the bots' AI replies). Every one of them reads it from here, and changes only ever flow outward: change a name, a line, a creature, a document or a map here and they all follow on their own. Nothing in another project is changed first and copied back. See [Who reads from here](#who-reads-from-here).
+
+Every change waits on the `review` branch first. On the [review page](https://tavernworks.dev/orrery/control/review/) the owner **approves** what's waiting, **views** it in the Review Clone, and **publishes** it to `main`. Auto mode (the laptop's AI) can write ideas and give its view on each one, but it never publishes.
 
 It's built so any place, person or idea can be lifted out and used on its own: in a D&D campaign, a story or a book. It's a work in progress, and names and details may still change.
 
@@ -55,7 +57,7 @@ Everything below reads [the database](#the-database) built from this repo's `mai
 
 | Project | Reads | How often |
 | --- | --- | --- |
-| [Orrery Explorer](https://tavernworks.dev/orrery/) | The database for its people, items, beasts and places (the Review Clone reads `review`'s), plus the documents and maps themselves for the Documents and Maps tabs | On open |
+| [Orrery Explorer](https://tavernworks.dev/orrery/) | The database for everything it shows: people, items, beasts, places, worlds, and which documents and maps there are (the Review Clone reads `review`'s). It reads the documents' and maps' own text for the Documents and Maps tabs. A new document, map or world shows up without changing the Explorer | On open, then follows every change live (checked every 30 seconds, at once after a publish) |
 | [Wake in Verrowen](https://tavernworks.dev/verrowen/) narrator, and the Codex | The database's lore lines (compiled from `lore.md`) | Every turn, checked again every 10 minutes |
 | GuildScribe (Twitch bot, `dnd-twitch-bot`) | The database: lore lines (AI replies), places and creatures (where fights happen, Verrowen's beasts), people (the peddlers, and the Scribe's and peddlers' lines) and items with a **Sold:** line (the peddlers' stall) | Every 5 minutes, and at once when a new database is live |
 | GuildScribe (Discord bot, `guildscribe-discord`) | The same as the Twitch bot: it runs the Twitch bot's game code, synced every 15 minutes | Same |
@@ -69,7 +71,7 @@ Only decided content reaches them: the bots and the narrator only use records wh
 The Orrery is meant to be the database of everything in the universe, and every app should get its people, places and things from it. The documents are still where things get written, by hand or by the review page. The *Build the Orrery database* action ([`.github/workflows/build-data.yml`](.github/workflows/build-data.yml)) runs [`tools/build.mjs`](tools/build.mjs) on every push, which compiles them into JSON: every thing as one record with a stable id, a type and its fields.
 
 - **Where it lives:** the `data` branch, one folder per source branch: `main/` for the live Orrery and `review/` for what's waiting. Nothing is ever committed to `main` or `review` by the build, so it can't get in the way of the review page's writes.
-- **The files:** `entities.public.json` holds everything with every secret taken out, and is what bots and AI prompts read. `entities.json` is the same with secrets, for the owner's tools only. There's also one public file per type (`people.json`, `items.json`, `creatures.json`, `places.json`, `lore.json`, `notes.json`, `roles.json`, `worlds.json`).
+- **The files:** `entities.public.json` holds everything with every secret taken out, and is what bots and AI prompts read. `entities.json` is the same with secrets, for the owner's tools only. There's also one public file per type (`people.json`, `items.json`, `creatures.json`, `places.json`, `lore.json`, `notes.json`, `roles.json`, `worlds.json`, `documents.json`, `maps.json`). Documents and maps are records too: every `*.md` here and in `maps/` (title, file, one line) and every `maps/*.png` (title, caption from `maps/README.md`), so apps list what the Orrery has rather than keeping a list of their own.
 - **Reading it:** use [`client/orrery.js`](client/orrery.js) instead of parsing anything. It works the same in Deno, Node and the browser, refreshes on its own, reads the exact newest build rather than the raw server's lagging copy, and never throws: until the first good read, lookups return nothing (or the app's fallback).
 
   ```js

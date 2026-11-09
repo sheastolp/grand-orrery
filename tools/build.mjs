@@ -24,6 +24,10 @@
 //   resources.md      item (category, kind, icon, fields like sold/does/made)
 //   bestiary.md       place (where fights happen) and creature (stats)
 //   lore.md           lore: each line the narrator reads, in order
+//   every *.md, maps/ document (one each, with its title, file and line
+//                     for the Explorer) and map (one per maps/*.png, with
+//                     its title and caption), so the Explorer lists what the
+//                     Orrery has instead of a list of its own
 //   universe.md, working-notes.md, midkemia.md
 //                     note: every section, with its status from its tag.
 //                     What the review page files from the chat, the Codex or
@@ -37,7 +41,7 @@
 // draft, untagged) and source. Notes list the people, items, creatures and
 // places they mention, and those list mentioned_in back.
 
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync } from "node:fs";
 import { execSync } from "node:child_process";
 import { join, dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -675,6 +679,75 @@ const PARSERS = {
   "midkemia.md": proseParser({ world: "midkemia", defaultStatus: "dm-lore" }),
 };
 
+
+// ── the catalog: documents and maps ──
+//
+// Every Markdown document in the repo (top level and maps/) and every map
+// picture is a record too, so the Explorer (and anything else) lists what
+// the Orrery actually has. A new document or map shows up on its own.
+// orrery.json (written by the review page's New document and New map) can
+// give a document's one line or a map's title and caption.
+
+// The order the Explorer shows the documents in, and their one lines; any
+// other document follows, then the README and the maps notes.
+const DOC_ORDER = ["universe.md", "working-notes.md", "lore.md", "roster.md", "resources.md", "bestiary.md", "midkemia.md", "rifts.md"];
+const DOC_LAST = ["README.md", "maps/README.md"];
+const DOC_SUB = {
+  "universe.md": "The universe draft · decided",
+  "working-notes.md": "Working notes · tagged per section",
+  "lore.md": "What Wake in Verrowen and the bots' AI read",
+  "roster.md": "Everyone decided, at a glance",
+  "resources.md": "Items and resources by category and type",
+  "bestiary.md": "Where GuildScribe's adventurers hunt and duel, and what lives there · the bots read it",
+  "midkemia.md": "Rose's D&D campaign · DM lore",
+  "rifts.md": "The worlds the rifts reach, and where to play or follow each",
+  "README.md": "About the Orrery · where everything shows up",
+  "maps/README.md": "maps/README.md",
+};
+const DOC_TITLE = { "working-notes.md": "Village Hero", "universe.md": "Stoutwell & Beyond", "lore.md": "Narrator lore", "roster.md": "Character Roster", "README.md": "About the Orrery", "maps/README.md": "Maps notes" };
+const MAP_TITLE = { region: "The region", lake: "The lake", stoutwell: "Stoutwell", capital: "The Kingdom's capital" };
+
+function readJson(file) {
+  try { return JSON.parse(readFileSync(join(ROOT, file), "utf8")); } catch { return null; }
+}
+/** Every document and map in the repo as records. */
+export function catalog(root = ROOT) {
+  const out = [];
+  const extra = readJson("orrery.json") || {};
+  const extraDoc = new Map((Array.isArray(extra.documents) ? extra.documents : []).filter((d) => d && d.file).map((d) => [d.file, d]));
+  const extraMap = new Map((Array.isArray(extra.maps) ? extra.maps : []).filter((m) => m && m.file).map((m) => [m.file, m]));
+  const files = [
+    ...readdirSync(root).filter((f) => /\.md$/i.test(f)),
+    ...(existsSync(join(root, "maps")) ? readdirSync(join(root, "maps")).filter((f) => /\.md$/i.test(f)).map((f) => "maps/" + f) : []),
+  ];
+  const rank = (f) => { const a = DOC_ORDER.indexOf(f), z = DOC_LAST.indexOf(f); return a >= 0 ? a : z >= 0 ? 1000 + z : 500; };
+  files.sort((a, b) => rank(a) - rank(b) || a.localeCompare(b));
+  files.forEach((file, i) => {
+    const text = readFileSync(join(root, file), "utf8");
+    const h1 = (text.match(/^#\s+(.+)$/m) || [])[1];
+    const title = DOC_TITLE[file] || String(extraDoc.get(file)?.title || h1 || file).replace(/[*_`]/g, "").trim();
+    // Its one line: given, or the first sentence of its opening paragraph.
+    const intro = text.replace(/<!--[\s\S]*?-->/g, "").split(/\n\s*\n/).map((p) => p.trim())
+      .find((p) => p && !/^#/.test(p) && !/^\d{4}-\d\d-\d\d/.test(p) && !/^[|>-]/.test(p)) || "";
+    const first = (intro.replace(/\[([^\]]+)\]\([^)]*\)/g, "$1").replace(/[*_`]/g, "").match(/^.*?[.!?](\s|$)/) || [intro])[0].trim();
+    const id = "doc-" + slug(file.replace(/\.md$/i, "").replace("/", "-"));
+    out.push({ id, type: "document", name: title, file, sub: String(extraDoc.get(file)?.sub || DOC_SUB[file] || first).slice(0, 200), order: i + 1, status: "decided", source: { file, line: 1 } });
+  });
+  // Maps: every picture in maps/, captioned by maps/README.md's bullet for it.
+  const notes = existsSync(join(root, "maps/README.md")) ? readFileSync(join(root, "maps/README.md"), "utf8") : "";
+  const pics = existsSync(join(root, "maps")) ? readdirSync(join(root, "maps")).filter((f) => /\.png$/i.test(f)) : [];
+  const mrank = (f) => { const k = Object.keys(MAP_TITLE).indexOf(f.replace(/\.png$/i, "")); return k >= 0 ? k : 100; };
+  pics.sort((a, b) => mrank(a) - mrank(b) || a.localeCompare(b)).forEach((f, i) => {
+    const file = "maps/" + f, stem = f.replace(/\.png$/i, "");
+    const given = extraMap.get(file) || {};
+    const bullet = (notes.match(new RegExp("^- `" + stem.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\.png`:\\s*(.+)$", "m")) || [])[1] || "";
+    const caption = String(given.caption || bullet.replace(/`[^`]+\.svg` is its editable source\.?/, "").replace(/[`*_]/g, "").trim()).replace(/^./, (c) => c.toUpperCase()).slice(0, 600);
+    const name = String(given.title || MAP_TITLE[stem] || stem.replace(/[-_]+/g, " ").replace(/^./, (c) => c.toUpperCase())).slice(0, 80);
+    out.push({ id: "map-" + slug(stem), type: "map", name, file, svg: existsSync(join(root, "maps", stem + ".svg")) ? `maps/${stem}.svg` : null, caption, order: i + 1, status: "decided", source: { file: "maps/README.md", line: 1 } });
+  });
+  return out;
+}
+
 // ── build ──
 
 function git(cmd) {
@@ -691,6 +764,7 @@ export function build() {
     problems.push(...r.problems);
   }
   placeCreatures(entities);
+  entities.push(...catalog());
 
   // Hand-made things claim their ids first; notes and characters filed from
   // the chat take a numbered id when theirs is taken.
