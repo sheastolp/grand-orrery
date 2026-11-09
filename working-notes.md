@@ -1798,3 +1798,12 @@ _Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers'
 - **Who:** Silas Blackwood crafts this relic at Verrowen with his unique skill set involving minor magic manipulation related to wind elements,
 - **Where** each child's favorite breakfast food corresponds directly with their answer choice for an extra dose of magical energy derived from elemental affinity.
 - Children only interact briefly before eating requiring them quickly consume either hot cereal milk juice biscuits fruit salad yogurt parfait pudding pie pastries donuts crepes ice creams custards scones cookies macaroons cupcakes sandwiches cakes brownies tarts croissants flan muffins loaves rolls doughnuts pies cheesecakes tartlets pastry trays platters portions servings slices scoops measuring cups tablespoons grams ounces pinches teaspoons and spoons amounts
+
+### Elara Swiftleaf (Pitch)
+
+<!-- review-key: rest:idea-mw995f68 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._
+
+- Close friend - Liora Finchling;
+- Neighbors known since childhood;
