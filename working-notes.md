@@ -1574,14 +1574,6 @@ _Made up by the AI in auto mode, 2026-11-09 · about a place in the Kingdom's ca
 - **Where:** Found within Stoutwell Village itself near the southern slums bordering their walls outpost located just before crossing into Ashy Reach Training Grounds
 - **How It Works:** By reciting rhymes composed from memories shared around kitchen fires over generations (with a pinch of locally brewed ale), any villager can request predictions in return that they pay like other tavern entertainment offerings made available as per standard practice all ages between childhood bedtime stories up until adulthood maturity rites graduation years passed since birth determined by current day season starting today then ending next month tomorrow each subsequent following week thereafter continuing weekly cycle repeating back again four times total making one year equivalent and lasting time spent observing phenomenon, not counting upon passing birthdays either adding age acquired nor subtractive decrements taken away. This way villagers know how many weeks have gone forward backward respectively elapsed overall across temporal dimension wherein such knowledge is gathered based solely on observable occurrences surrounding them while accounting exclusively without regard towards hypothetical scenarios conjured mentally perhaps erroneously instead relying strictly only factual data derived empirically accumulated through observational means specifically via Whispwold’s Watch; thus serving purpose both entertainingly fulfilling practical functions simultaneously satisfying curiosity among inhabitants seeking guidance for decisions facing uncertainties ahead during future unknown outcomes anticipated occurring throughout various stages experienced along life's journey spanning beginning middle to end.
 
-### Whisperwind’s Hidden Gate (Pitch)
-
-<!-- review-key: rest:idea-mw8key98 -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or the Kingdom's history._
-
-- **Murrow:** Whisperswood's secret gate connects via thin rifts Murrows' unique ability to sense latent magic allows him uncover presence then manipulate elements accordingly facilitating controlled access portal unseen until desired moments when its existence becomes revealed upon
-
 ### Brackwood’s Whimsy (Pitch)
 
 <!-- review-key: rest:idea-mw8nl517 -->
