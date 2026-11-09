@@ -1703,17 +1703,6 @@ _Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stout
 - Close friend - Liora Finchling;
 - Neighbors known since childhood;
 
-### Whisperwind Whistle (Pitch)
-
-<!-- review-key: rest:idea-mw9au6es -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
-
-- An enchanted flute that plays melodies to calm restless spirits.
-- Murrow’s apprentices create this item with elemental wind magic infused into wooden reeds.
-- Sold at Monstradius’ shop by master blacksmith Doric Ashby for use within village boundaries or nearby areas during nighttime rest periods when spirit disturbances often peak due to unresolved issues from past eras stored there.
-- **Limits/Restrictions/Tying Into Lore Connections:
-
 ### Whisperwind Sprite (Pitch)
 
 <!-- review-key: rest:idea-mw9bn88i -->
