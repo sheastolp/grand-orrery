@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T21:54:51.408Z",
+  "built": "2026-11-09T21:55:26.054Z",
   "branch": "review",
-  "commit": "e69fa29f0e27bc47d8a8b10f377ffd1ee3af1c69",
+  "commit": "60032c412b224099f6f9572efab52c583e00ba63",
   "counts": {
     "person": 87,
     "role": 11,
@@ -8701,7 +8701,7 @@
       "type": "note",
       "name": "Elara Willowbrook",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From the lore-keeper",
       "origin": "lore-keeper",
       "review_key": "lore-keeper:5125c2f8-0a75-4030-b20d-54e696b0fd43",
