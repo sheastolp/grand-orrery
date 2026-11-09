@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T07:27:43.414Z",
+  "built": "2026-11-09T07:50:00.227Z",
   "branch": "review",
-  "commit": "b39f6e099dd05b6472bc0ccba538f4e817c3623c",
+  "commit": "3b1bc47578cb1d4d7eb38ac3d0d10205ce8510c0",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 33,
-    "note": 206
+    "note": 207
   },
   "entities": [
     {
@@ -389,7 +389,8 @@
         "working-notes-whispersong-crystals",
         "working-notes-liora-finchling",
         "working-notes-whisperwind-whistle-2",
-        "working-notes-whisperwinds-whispers-2"
+        "working-notes-whisperwinds-whispers-2",
+        "working-notes-murrows-harvest-blessing"
       ]
     },
     {
@@ -10034,6 +10035,33 @@
       "mentions": [
         "murrow",
         "burn"
+      ]
+    },
+    {
+      "id": "working-notes-murrows-harvest-blessing",
+      "type": "note",
+      "name": "Murrow’s Harvest Blessing",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8yne25",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An annual ritual performed by artificer Monstradius where he blesses crops with elemental magic.",
+        "who": "Artificer Morrows",
+        "where": "In front of Saint Brackenford Farm located outside town square",
+        "how_it_works": "During winter solstice eve using his rare mirrorstone Seeker Lodestone to channel magical energy into seeds that then grow more plentifully for harvesters."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What it is:** An annual ritual performed by artificer Monstradius where he blesses crops with elemental magic.\n- **Who:** Artificer Morrows\n- **Where:** In front of Saint Brackenford Farm located outside town square\n- **How it works:** During winter solstice eve using his rare mirrorstone Seeker Lodestone to channel magical energy into seeds that then grow more plentifully for harvesters.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1728
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
       ]
     },
     {
