@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T23:00:30.575Z",
+  "built": "2026-11-09T15:08:12.938Z",
   "branch": "main",
-  "commit": "bcbeea95a344b7f41c4f5ff4c0d16c9f2be7d27b",
+  "commit": "072cb01deb55fead3e85f55ac7ccffbbd9dae71d",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 94,
+    "item": 96,
     "place": 15,
-    "creature": 16,
-    "lore": 32,
-    "note": 189
+    "creature": 17,
+    "lore": 33,
+    "note": 199
   },
   "entities": [
     {
@@ -209,7 +209,8 @@
         "working-notes-northwind-harbour-surrounding-mountains",
         "working-notes-reinforced-gatehouse-beams",
         "working-notes-resonance-stone-device",
-        "working-notes-village-roster-2"
+        "working-notes-village-roster-2",
+        "working-notes-whisperwinds-toast-2"
       ]
     },
     {
@@ -260,7 +261,8 @@
         "working-notes-guards-routine",
         "working-notes-murrows-secret",
         "working-notes-monstradiuss-quiet-watch",
-        "working-notes-murrows-peculiar-pipe"
+        "working-notes-murrows-peculiar-pipe",
+        "working-notes-liora-finchling"
       ]
     },
     {
@@ -373,7 +375,11 @@
         "working-notes-murrows-quiet-watch",
         "working-notes-monstradiuss-quiet-watch",
         "working-notes-murrows-peculiar-pipe",
-        "working-notes-monstradius-peculiar-pipe"
+        "working-notes-monstradius-peculiar-pipe",
+        "working-notes-whisperwinds-whistle",
+        "working-notes-whispersong-crystals",
+        "working-notes-liora-finchling",
+        "working-notes-murrows-harvest-blessing"
       ]
     },
     {
@@ -5059,6 +5065,18 @@
       ]
     },
     {
+      "id": "lore-wellhouse-3",
+      "type": "lore",
+      "name": "WELLHOUSE",
+      "text": "A family known as “The Wandering Shadows,” originally traveling performers who settled centuries ago due to unrest; they cherish quiet evenings at Wellhouse tavern. Their deep respect is shown through subtle enchantments woven subtly throughout craftwork reflecting storytelling and illusion heritage.",
+      "order": 33,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 38
+      }
+    },
+    {
       "id": "universe-the-universe-the-grand-orrery",
       "type": "note",
       "name": "The Universe: The Grand Orrery",
@@ -9484,6 +9502,301 @@
         "murrow",
         "mirrorstone"
       ]
+    },
+    {
+      "id": "working-notes-whisperwinds-toast",
+      "type": "note",
+      "name": "Whisperwind’s Toast",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8h2mxm",
+      "filed": "2026-11-08",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_its": "An unspoken custom where villagers toast each other with their stout ale before starting daily chores.",
+        "how_its_works": "After first light, villagers congregate beneath Whisperswood trees located just northwest where morning mist hugs earth tightly blending seamlessly into one continuous foggy blanket hovering slightly above ground level whisperwind spirits said responsible for this daily custom animate themselves encouraging everyone participating raise glasses filled half full each holding their favorite mug crafted by skilled artisan local potter specializing solely producing earthenware cups unique designs inspired landscape surrounding area different shapes representing seasons flowers blooming fruits falling from lush green foliage towering majestic oak tree center stage amidst backdrop consisting mainly comprising expansive grassy field dotted sporadically along perimeter boundary stone marker indicating start end location perfectly aligned north-s"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-08 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **What it's:** An unspoken custom where villagers toast each other with their stout ale before starting daily chores.\n- **How it's works:** After first light, villagers congregate beneath Whisperswood trees located just northwest where morning mist hugs earth tightly blending seamlessly into one continuous foggy blanket hovering slightly above ground level whisperwind spirits said responsible for this daily custom animate themselves encouraging everyone participating raise glasses filled half full each holding their favorite mug crafted by skilled artisan local potter specializing solely producing earthenware cups unique designs inspired landscape surrounding area different shapes representing seasons flowers blooming fruits falling from lush green foliage towering majestic oak tree center stage amidst backdrop consisting mainly comprising expansive grassy field dotted sporadically along perimeter boundary stone marker indicating start end location perfectly aligned north-s",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1546
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwinds-whistle",
+      "type": "note",
+      "name": "Whisperwind’s Whistle",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8hzepj",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An enchanted flute that amplifies elemental magic.",
+        "where_used_at_home": "Throughout Verrowen village for various tasks like boiling water or helping with crop planting by enhancing wind user efficiency when blowing into this instrument to make seeds dance away dirt efficiently."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** An enchanted flute that amplifies elemental magic.\n- **Who** makes? Murrow\n- **Where used at home?:** Throughout Verrowen village for various tasks like boiling water or helping with crop planting by enhancing wind user efficiency when blowing into this instrument to make seeds dance away dirt efficiently.\n- Only works while actively blown (no sustained silent power without motion needed)",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1555
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
+      ]
+    },
+    {
+      "id": "whisperwinds-whistle",
+      "type": "item",
+      "name": "Whisperwind’s Whistle",
+      "icon": "💡",
+      "category": "Sent in from the chat",
+      "kind": "From auto mode",
+      "origin": "rest",
+      "status": "decided",
+      "fields": {
+        "does": "An enchanted flute that amplifies elemental magic.",
+        "where_used_at_home": "Throughout Verrowen village for various tasks like boiling water or helping with crop planting by enhancing wind user efficiency when blowing into this instrument to make seeds dance away dirt efficiently."
+      },
+      "review_key": "rest:idea-mw8hzepj",
+      "filed": "2026-11-09",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** An enchanted flute that amplifies elemental magic.\n- **Who** makes? Murrow\n- **Where used at home?:** Throughout Verrowen village for various tasks like boiling water or helping with crop planting by enhancing wind user efficiency when blowing into this instrument to make seeds dance away dirt efficiently.\n- Only works while actively blown (no sustained silent power without motion needed)",
+      "notes": [
+        "working-notes-whisperwinds-whistle"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1555
+      }
+    },
+    {
+      "id": "working-notes-whisperwinds-watch-4",
+      "type": "note",
+      "name": "Whisperwind’s Watch",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8jm0yr",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An enchanted night-watchman with secret knowledge.",
+        "who": "A halfling named Wilbur Gristful takes this moniker because he claims it's what others call him when under sleep-deprivation during full moon nights at guard rotation shifts or festive celebrations past midnight where magic runs rampant after sundown hours.",
+        "where": "Found within Stoutwell Village itself near the southern slums bordering their walls outpost located just before crossing into Ashy Reach Training Grounds",
+        "how_it_works": "By reciting rhymes composed from memories shared around kitchen fires over generations (with a pinch of locally brewed ale), any villager can request predictions in return that they pay like other tavern entertainment offerings made available as per standard practice all ages between childhood bedtime stories up until adulthood maturity rites graduation years passed since birth determined by current day season starting today then ending next month tomorrow each subsequent following week thereafter continuing weekly cycle repeating back again four times total making one year equivalent and lasting time spent observing phenomenon, not counting upon passing birthdays either adding age acquired nor subtractive decrements taken away. This way villagers know how many weeks have gone forward backward respectively elapsed overall across temporal dimension wherein such knowledge is gathered based solely on observable occurrences surrounding them while accounting exclusively without regard towards hypothetical scenarios conjured mentally perhaps erroneously instead relying strictly only factual data derived empirically accumulated through observational means specifically via Whispwold’s Watch; thus serving purpose both entertainingly fulfilling practical functions simultaneously satisfying curiosity among inhabitants seeking guidance for decisions facing uncertainties ahead during future unknown outcomes anticipated occurring throughout various stages experienced along life's journey spanning beginning middle to end."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- **What it is:** An enchanted night-watchman with secret knowledge.\n- **Who:** A halfling named Wilbur Gristful takes this moniker because he claims it's what others call him when under sleep-deprivation during full moon nights at guard rotation shifts or festive celebrations past midnight where magic runs rampant after sundown hours.\n- **Where:** Found within Stoutwell Village itself near the southern slums bordering their walls outpost located just before crossing into Ashy Reach Training Grounds\n- **How It Works:** By reciting rhymes composed from memories shared around kitchen fires over generations (with a pinch of locally brewed ale), any villager can request predictions in return that they pay like other tavern entertainment offerings made available as per standard practice all ages between childhood bedtime stories up until adulthood maturity rites graduation years passed since birth determined by current day season starting today then ending next month tomorrow each subsequent following week thereafter continuing weekly cycle repeating back again four times total making one year equivalent and lasting time spent observing phenomenon, not counting upon passing birthdays either adding age acquired nor subtractive decrements taken away. This way villagers know how many weeks have gone forward backward respectively elapsed overall across temporal dimension wherein such knowledge is gathered based solely on observable occurrences surrounding them while accounting exclusively without regard towards hypothetical scenarios conjured mentally perhaps erroneously instead relying strictly only factual data derived empirically accumulated through observational means specifically via Whispwold’s Watch; thus serving purpose both entertainingly fulfilling practical functions simultaneously satisfying curiosity among inhabitants seeking guidance for decisions facing uncertainties ahead during future unknown outcomes anticipated occurring throughout various stages experienced along life's journey spanning beginning middle to end.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1566
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-brackwoods-whimsy",
+      "type": "note",
+      "name": "Brackwood’s Whimsy",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8nl517",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "who": "Young halfling female",
+        "where": "Lives near Monstradius."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._\n\n- **Who:** Young halfling female\n- **Where:** Lives near Monstradius.\n- **How she works her power subtly into life choices**",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1577
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwinds-toast-2",
+      "type": "note",
+      "name": "Whisperwind’s Toast",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8s9mn7",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- **Who/Where/Who related to LORE world?**\n- Whimsically crafted at his Monstradius shop.\n- Tobin Ashby helps with baking trials\n- Village Roster includes all locals except two children from wellhouse tavern",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1587
+      },
+      "world": "verrowen",
+      "mentions": [
+        "tobin-ashby"
+      ]
+    },
+    {
+      "id": "whisperwinds-toast",
+      "type": "item",
+      "name": "Whisperwind’s Toast",
+      "icon": "🏺",
+      "category": "Peddlers' wares",
+      "kind": "Relics",
+      "origin": "rest",
+      "status": "decided",
+      "review_key": "rest:idea-mw8s9mn7",
+      "filed": "2026-11-09",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- **Who/Where/Who related to LORE world?**\n- Whimsically crafted at his Monstradius shop.\n- Tobin Ashby helps with baking trials\n- Village Roster includes all locals except two children from wellhouse tavern",
+      "notes": [
+        "working-notes-whisperwinds-toast-2"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1587
+      }
+    },
+    {
+      "id": "working-notes-whispersong-crystals",
+      "type": "note",
+      "name": "Whispersong Crystals",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8tuqx4",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- Small crystalline objects that contain whispers of elemental magic.\n- Murrow\n- Monstradius’ shop within Village Roster district.\n- These crystals can amplify or diminish ambient magical winds when placed near an active source like hearthstones to control fire-related tasks more precisely without depleting mana drastically from users regularly practicing wind magic for other mundane activities such as logging with featherhooks.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1598
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
+      ]
+    },
+    {
+      "id": "working-notes-liora-finchling",
+      "type": "note",
+      "name": "Liora Finchling",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8unjwo",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._\n\n- Name & Race\n- Rinae Fincliffing Halfling with delicate features.\n- Age:\n- Early Twenties.\n- Trade/Occupation:\n- Apprentice Blacksmith at Doric’s Forge\n- Job Ambition/Talent?\n- Aspiring to become an Artificer like Murrow.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1609
+      },
+      "world": "verrowen",
+      "mentions": [
+        "doric",
+        "murrow"
+      ]
+    },
+    {
+      "id": "working-notes-ashling-sprite",
+      "type": "note",
+      "name": "Ashling Sprite",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8x2b38",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- Tiny winged creatures living beneath ash trees.\n- Halflings called \"Ashlings\" by villagers.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1624
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "ashling-sprite",
+      "type": "creature",
+      "name": "Ashling Sprite",
+      "origin": "rest",
+      "status": "decided",
+      "world": "verrowen",
+      "review_key": "rest:idea-mw8x2b38",
+      "filed": "2026-11-09",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- Tiny winged creatures living beneath ash trees.\n- Halflings called \"Ashlings\" by villagers.",
+      "notes": [
+        "working-notes-ashling-sprite"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1624
+      },
+      "icon": "🌿",
+      "fields": {
+        "stats": "CR 1 · AC 13 · HP 28 · +4 to hit · 1d8+2"
+      },
+      "place": "place-the-monster-woods-western-edge",
+      "stats_made": true,
+      "stats": {
+        "cr": "1",
+        "ac": 13,
+        "hp": 28,
+        "to_hit": 4,
+        "damage": "1d8+2"
+      }
+    },
+    {
+      "id": "working-notes-murrows-harvest-blessing",
+      "type": "note",
+      "name": "Murrow’s Harvest Blessing",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8yne25",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An annual ritual performed by artificer Monstradius where he blesses crops with elemental magic.",
+        "who": "Artificer Morrows",
+        "where": "In front of Saint Brackenford Farm located outside town square",
+        "how_it_works": "During winter solstice eve using his rare mirrorstone Seeker Lodestone to channel magical energy into seeds that then grow more plentifully for harvesters."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What it is:** An annual ritual performed by artificer Monstradius where he blesses crops with elemental magic.\n- **Who:** Artificer Morrows\n- **Where:** In front of Saint Brackenford Farm located outside town square\n- **How it works:** During winter solstice eve using his rare mirrorstone Seeker Lodestone to channel magical energy into seeds that then grow more plentifully for harvesters.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1633
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
+      ]
+    },
+    {
+      "id": "working-notes-elara-swiftleaf",
+      "type": "note",
+      "name": "Elara Swiftleaf",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw995f68",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._\n\n- Close friend - Liora Finchling;\n- Neighbors known since childhood;",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1644
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",

@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T23:00:30.575Z",
+  "built": "2026-11-09T15:08:12.938Z",
   "branch": "main",
-  "commit": "bcbeea95a344b7f41c4f5ff4c0d16c9f2be7d27b",
+  "commit": "072cb01deb55fead3e85f55ac7ccffbbd9dae71d",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 94,
+    "item": 96,
     "place": 15,
-    "creature": 16,
-    "lore": 32,
-    "note": 189
+    "creature": 17,
+    "lore": 33,
+    "note": 199
   },
   "entities": [
     {
@@ -488,6 +488,37 @@
         "hp": 80,
         "to_hit": 6,
         "damage": "2d8+3"
+      }
+    },
+    {
+      "id": "ashling-sprite",
+      "type": "creature",
+      "name": "Ashling Sprite",
+      "origin": "rest",
+      "status": "decided",
+      "world": "verrowen",
+      "review_key": "rest:idea-mw8x2b38",
+      "filed": "2026-11-09",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- Tiny winged creatures living beneath ash trees.\n- Halflings called \"Ashlings\" by villagers.",
+      "notes": [
+        "working-notes-ashling-sprite"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1624
+      },
+      "icon": "🌿",
+      "fields": {
+        "stats": "CR 1 · AC 13 · HP 28 · +4 to hit · 1d8+2"
+      },
+      "place": "place-the-monster-woods-western-edge",
+      "stats_made": true,
+      "stats": {
+        "cr": "1",
+        "ac": 13,
+        "hp": 28,
+        "to_hit": 4,
+        "damage": "1d8+2"
       }
     }
   ]
