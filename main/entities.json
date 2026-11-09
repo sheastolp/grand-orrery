@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T16:38:30.353Z",
+  "built": "2026-11-09T17:22:11.996Z",
   "branch": "main",
-  "commit": "87774da0e085bef511eef4f8a9ee970e69703306",
+  "commit": "fb8cb6505fe55899c60b69098441128ac7967328",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10,7 +10,7 @@
     "item": 97,
     "place": 15,
     "creature": 17,
-    "lore": 33,
+    "lore": 34,
     "note": 200,
     "document": 10,
     "map": 4
@@ -407,6 +407,7 @@
       },
       "mentioned_in": [
         "lore-wellhouse",
+        "lore-people-3",
         "universe-the-people",
         "working-notes-village-roster-2"
       ]
@@ -5088,6 +5089,21 @@
         "file": "lore.md",
         "line": 38
       }
+    },
+    {
+      "id": "lore-people-3",
+      "type": "lore",
+      "name": "PEOPLE",
+      "text": "The Wellhouse family consists of elves who moved centuries ago and settled in the village known collectively among themselves not yet assigned name related folklore surrounding origins indicating arrival during period called \"Great Unrest\"",
+      "order": 34,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 39
+      },
+      "mentions": [
+        "the-wellhouse-family"
+      ]
     },
     {
       "id": "universe-the-universe-the-grand-orrery",
