@@ -1735,3 +1735,15 @@ _Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or t
 - **Who:** Artificer Morrows
 - **Where:** In front of Saint Brackenford Farm located outside town square
 - **How it works:** During winter solstice eve using his rare mirrorstone Seeker Lodestone to channel magical energy into seeds that then grow more plentifully for harvesters.
+
+### Whisperwind Riddle (Pitch)
+
+<!-- review-key: rest:idea-mw8zg2wn -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._
+
+- **What it is:** An enchanted riddle that only reveals itself under moonlight.
+- **Who:** Villagers find to solve for treasures or secrets at night using wind magic detection tools provided by Doric Featherhooks
+- **Where:** Throughout every household during monthly gatherings
+- **How it works:** A seemingly ordinary item glows when whispered into beside with specific clues given aloud collectively after sunset;
+- Each clue corresponds uniquely per home revealing where an object's next location resides within their cottage,
