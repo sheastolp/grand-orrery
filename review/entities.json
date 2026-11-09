@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T22:39:36.130Z",
+  "built": "2026-11-09T22:42:31.717Z",
   "branch": "review",
-  "commit": "dab906d3a841abc86860ba9dfba9698d51564827",
+  "commit": "c3908cb27c6a25a332ab49d6fac1684af9a95164",
   "counts": {
     "person": 87,
     "role": 11,
@@ -9949,7 +9949,7 @@
       "type": "note",
       "name": "A whisper of magic",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw9u5gy8",
@@ -9975,7 +9975,7 @@
       "category": "Peddlers' wares",
       "kind": "Relics",
       "origin": "rest",
-      "status": "pitch",
+      "status": "decided",
       "fields": {
         "text": "“The air itself hums with barely perceptible energy today,” declared Silas Blackwood, his spectacles gleaming under the gentle light filtering through the leaves of the Ancient Oak. Beside him stood Doric, a master blacksmith whose hands seemed to hold secrets into shape. “Just a little bit more warmth for the forge this morning!” he chuckled, expertly flicking a spark towards the shimmering pile of steel. \"A little encouragement for our workers.\""
       },
