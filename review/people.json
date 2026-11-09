@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T16:22:35.698Z",
+  "built": "2026-11-09T16:34:24.359Z",
   "branch": "review",
-  "commit": "293babd08131226c3554cc1711e0136d8b2543cf",
+  "commit": "3fed0aab8d8cf62f716ab01b3e63b1fe7d375f7e",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 33,
-    "note": 200,
+    "note": 201,
     "document": 10,
     "map": 4
   },
@@ -298,7 +298,8 @@
         "working-notes-guards-routine",
         "working-notes-murrows-secret",
         "working-notes-rooks-watch",
-        "working-notes-monstradius-peculiar-pipe"
+        "working-notes-monstradius-peculiar-pipe",
+        "working-notes-whisperwinds-whimsy"
       ]
     },
     {

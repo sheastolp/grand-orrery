@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T16:22:35.698Z",
+  "built": "2026-11-09T16:34:24.359Z",
   "branch": "review",
-  "commit": "293babd08131226c3554cc1711e0136d8b2543cf",
+  "commit": "3fed0aab8d8cf62f716ab01b3e63b1fe7d375f7e",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 33,
-    "note": 200,
+    "note": 201,
     "document": 10,
     "map": 4
   },
@@ -298,7 +298,8 @@
         "working-notes-guards-routine",
         "working-notes-murrows-secret",
         "working-notes-rooks-watch",
-        "working-notes-monstradius-peculiar-pipe"
+        "working-notes-monstradius-peculiar-pipe",
+        "working-notes-whisperwinds-whimsy"
       ]
     },
     {
@@ -9857,6 +9858,31 @@
         "file": "working-notes.md",
         "line": 1653
       }
+    },
+    {
+      "id": "working-notes-whisperwinds-whimsy",
+      "type": "note",
+      "name": "Whisperwind’s Whimsy",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw9hdzxd",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An unusual habit that Guard Captain Hesketh Reeve developed to boost morale.",
+        "who": "Grumpy-tongued Halfling Wardens like Rook wear this cheeriness with surprising enthusiasm when facing fatigue or danger after long hours patrolling walls around Verrowen village."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- **What it is:** An unusual habit that Guard Captain Hesketh Reeve developed to boost morale.\n- **Who:** Grumpy-tongued Halfling Wardens like Rook wear this cheeriness with surprising enthusiasm when facing fatigue or danger after long hours patrolling walls around Verrowen village.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1664
+      },
+      "world": "verrowen",
+      "mentions": [
+        "hesketh-reeve"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
