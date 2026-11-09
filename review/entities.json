@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T14:39:06.190Z",
+  "built": "2026-11-09T14:41:37.698Z",
   "branch": "review",
-  "commit": "291a857bcf5ae396e2cac2f3348cc128382424da",
+  "commit": "3c768a1650bea2eaf61d16d71001bdc176a2fc6c",
   "counts": {
     "person": 87,
     "role": 11,
@@ -9561,7 +9561,7 @@
       "type": "note",
       "name": "Whisperwind’s Whistle",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw8hzepj",
@@ -9589,7 +9589,7 @@
       "category": "Sent in from the chat",
       "kind": "From auto mode",
       "origin": "rest",
-      "status": "pitch",
+      "status": "decided",
       "fields": {
         "does": "An enchanted flute that amplifies elemental magic.",
         "where_used_at_home": "Throughout Verrowen village for various tasks like boiling water or helping with crop planting by enhancing wind user efficiency when blowing into this instrument to make seeds dance away dirt efficiently."

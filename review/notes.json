@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T14:39:06.190Z",
+  "built": "2026-11-09T14:41:37.698Z",
   "branch": "review",
-  "commit": "291a857bcf5ae396e2cac2f3348cc128382424da",
+  "commit": "3c768a1650bea2eaf61d16d71001bdc176a2fc6c",
   "counts": {
     "person": 87,
     "role": 11,
@@ -3792,7 +3792,7 @@
       "type": "note",
       "name": "Whisperwind’s Whistle",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw8hzepj",
