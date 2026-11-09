@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-08T23:39:26.740Z",
+  "built": "2026-11-09T00:03:15.120Z",
   "branch": "review",
-  "commit": "3a7412f8a37ed2288d3d59b94a501829d964ce14",
+  "commit": "d4876eafe2a83a53061baa1a499716ebf85f64f8",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 94,
+    "item": 95,
     "place": 15,
     "creature": 16,
     "lore": 32,
-    "note": 190
+    "note": 191
   },
   "entities": [
     {
@@ -373,7 +373,8 @@
         "working-notes-murrows-quiet-watch",
         "working-notes-monstradiuss-quiet-watch",
         "working-notes-murrows-peculiar-pipe",
-        "working-notes-monstradius-peculiar-pipe"
+        "working-notes-monstradius-peculiar-pipe",
+        "working-notes-whisperwinds-whistle"
       ]
     },
     {
@@ -9506,6 +9507,55 @@
         "line": 1546
       },
       "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwinds-whistle",
+      "type": "note",
+      "name": "Whisperwind’s Whistle",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw8hzepj",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An enchanted flute that amplifies elemental magic.",
+        "where_used_at_home": "Throughout Verrowen village for various tasks like boiling water or helping with crop planting by enhancing wind user efficiency when blowing into this instrument to make seeds dance away dirt efficiently."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** An enchanted flute that amplifies elemental magic.\n- **Who** makes? Murrow\n- **Where used at home?:** Throughout Verrowen village for various tasks like boiling water or helping with crop planting by enhancing wind user efficiency when blowing into this instrument to make seeds dance away dirt efficiently.\n- Only works while actively blown (no sustained silent power without motion needed)",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1555
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
+      ]
+    },
+    {
+      "id": "whisperwinds-whistle",
+      "type": "item",
+      "name": "Whisperwind’s Whistle",
+      "icon": "💡",
+      "category": "Sent in from the chat",
+      "kind": "From auto mode",
+      "origin": "rest",
+      "status": "pitch",
+      "fields": {
+        "does": "An enchanted flute that amplifies elemental magic.",
+        "where_used_at_home": "Throughout Verrowen village for various tasks like boiling water or helping with crop planting by enhancing wind user efficiency when blowing into this instrument to make seeds dance away dirt efficiently."
+      },
+      "review_key": "rest:idea-mw8hzepj",
+      "filed": "2026-11-09",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** An enchanted flute that amplifies elemental magic.\n- **Who** makes? Murrow\n- **Where used at home?:** Throughout Verrowen village for various tasks like boiling water or helping with crop planting by enhancing wind user efficiency when blowing into this instrument to make seeds dance away dirt efficiently.\n- Only works while actively blown (no sustained silent power without motion needed)",
+      "notes": [
+        "working-notes-whisperwinds-whistle"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1555
+      }
     },
     {
       "id": "midkemia-the-campaign",
