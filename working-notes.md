@@ -1602,3 +1602,11 @@ _Made up by the AI in auto mode, 2026-11-09 · about something about the Guard: 
 - A unique musical instrument used by Halfling Guards to communicate silently over long distances.
 - The new postmaster assigned specifically for Guard communication purposes within their ranks at Verrowen Village Schoolhouse.
 - Located near Murrow’s shop Monstradius inside his home district area which also contains Hesketh Reeve’ s guard house close-by under roof from where he directs all operations across different posts like north east corner gates etc
+
+### Whisperwind’s Harmonic Conduit (Pitch)
+
+<!-- review-key: rest:idea-mw8msn8x -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's guild hall keeps, does or is known for._
+
+- An item that amplifies magical sound waves to heal minor ailments.
