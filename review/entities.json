@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T13:53:38.252Z",
+  "built": "2026-11-09T14:39:06.190Z",
   "branch": "review",
-  "commit": "11a826f37b1924cdce17f2696ee56e84f2aadaac",
+  "commit": "291a857bcf5ae396e2cac2f3348cc128382424da",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 19,
     "lore": 33,
-    "note": 217
+    "note": 218
   },
   "entities": [
     {
@@ -399,7 +399,8 @@
         "working-notes-murrows-harvest-blessing",
         "working-notes-whispersong-crystals-2",
         "working-notes-liora-finchlings-secret",
-        "working-notes-whisperwind-whistle-3"
+        "working-notes-whisperwind-whistle-3",
+        "working-notes-murrows-whisperwind-whispers"
       ]
     },
     {
@@ -2277,7 +2278,8 @@
         "working-notes-monstradius-items",
         "working-notes-constructed-items",
         "working-notes-silas-blackwood",
-        "working-notes-the-hearthstones-hum"
+        "working-notes-the-hearthstones-hum",
+        "working-notes-murrows-whisperwind-whispers"
       ]
     },
     {
@@ -10460,6 +10462,32 @@
         "to_hit": 5,
         "damage": "2d6+3"
       }
+    },
+    {
+      "id": "working-notes-murrows-whisperwind-whispers",
+      "type": "note",
+      "name": "Murrow’s Whisperwind Whispers",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw9d9o8u",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_its_about": "An unrecorded story where villagers speak to their loved ones through secret whispers carried by wind magic.",
+        "who_where": "This mysterious phenomenon occurs within this medieval fantasy universe at any village that can sense latent magical abilities or possesses an artificer like Morrow (\"Whisperwind\")."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What it's about:** An unrecorded story where villagers speak to their loved ones through secret whispers carried by wind magic.\n- **Who & Where:** This mysterious phenomenon occurs within this medieval fantasy universe at any village that can sense latent magical abilities or possesses an artificer like Morrow (\"Whisperwind\").\n- The villages experience sudden soft murmurs when someone goes out with Wind Users carrying messages whispered into tiny scrolls tied around tree branches near water sources—akin to Stoutwell itself—or even across rooftops during night-time air currents generated from fireplaces burning hearthstones filled overnight again for warmth (as per Hearthstone lore).\n- ### How it Works:\n- 1. When there have been heartfelt conversations between friends/family separated geographically in times past.\n- 2. As they bid farewell under windy conditions on a cold evening after being refreshed inside heated homes using fire-powered devices such as Grainspans—a rare variant not mentioned previously—but still connected via heat-related energies derived mainly due to elemental affinities unique among humans which align seamlessly along subtle lines created directly beneath them upon departure until reaching other individuals possessing resonant natural affinity towards these elusive whispering winds capable of decipherable translation once arriving back home safely, eventually becoming common knowledge amongst all townsfolk except outsiders unaware who initially encountered said phenomena first only later realizing its connection lies rooted somewhere deeper down throughout history unknown precisely why exactly beyond mere coincidence alone but rather linked intrinsically ultimately revealed through the power held by one individual bestowed seemingly randomly within every few generations since origins traced way further earlier long before known records exist currently.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1842
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow",
+        "hearthstone"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
