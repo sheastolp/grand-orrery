@@ -1584,19 +1584,6 @@ _Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stout
 - **Where:** Lives near Monstradius.
 - **How she works her power subtly into life choices**
 
-### Whisperwind’s Morning Riddle (Pitch)
-
-<!-- review-key: rest:idea-mw8odc8j -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or rule of daily life in Stoutwell._
-
-- **What it is:** In Verrowen village at dawn each morning before sunrise.
-- Every villager must utter their favorite riddle or secret question to pass through doors that only appear for an hour after nightfall.
-- **Who:** Villagers
-- **Where:** All entrances leading out into fields during daybreak
-- Halflings naturally hot-resistant align well being a favored type here due to magical properties;
-- Small towners easily carrying items like Featherhooks while halting logs perfectly using latent magic;
-
 ### Whisperwind’s Toast (Pitch)
 
 <!-- review-key: rest:idea-mw8s9mn7 -->
