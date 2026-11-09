@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T22:11:05.844Z",
+  "built": "2026-11-09T22:31:40.923Z",
   "branch": "review",
-  "commit": "48e870a207d4e9e165af6b01aed49190cec7603a",
+  "commit": "95e907f63349de4bb06ebe46a08cbc0372e854ec",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 97,
+    "item": 98,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 204,
+    "note": 205,
     "document": 10,
     "map": 4
   },
@@ -49,7 +49,8 @@
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-marda-the-reformed-cutpurse",
         "working-notes-gilded-spine-of-the-silent-archivist",
-        "working-notes-village-roster-2"
+        "working-notes-village-roster-2",
+        "working-notes-a-whisper-of-magic"
       ]
     },
     {
@@ -265,7 +266,8 @@
         "working-notes-monstradiuss-quiet-watch",
         "working-notes-murrows-peculiar-pipe",
         "working-notes-liora-finchling",
-        "working-notes-whisperwinds-relic-featherhook"
+        "working-notes-whisperwinds-relic-featherhook",
+        "working-notes-a-whisper-of-magic"
       ]
     },
     {
@@ -298,7 +300,8 @@
         "working-notes-guards-routine",
         "working-notes-murrows-secret",
         "working-notes-rooks-watch",
-        "working-notes-monstradius-peculiar-pipe"
+        "working-notes-monstradius-peculiar-pipe",
+        "working-notes-a-whisper-of-magic"
       ]
     },
     {
@@ -9949,6 +9952,52 @@
         "line": 1734
       },
       "world": "verrowen"
+    },
+    {
+      "id": "working-notes-a-whisper-of-magic",
+      "type": "note",
+      "name": "A whisper of magic",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw9u5gy8",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- TEXT: “The air itself hums with barely perceptible energy today,” declared Silas Blackwood, his spectacles gleaming under the gentle light filtering through the leaves of the Ancient Oak. Beside him stood Doric, a master blacksmith whose hands seemed to hold secrets into shape. “Just a little bit more warmth for the forge this morning!” he chuckled, expertly flicking a spark towards the shimmering pile of steel. \"A little encouragement for our workers.\"\n- “Indeed,” said Elara Swiftleaf, her fingers tracing the smooth bark of an oak branch, practically vibrating with enthusiasm. \"Especially after the recent revitalization of the Wellspring.” She pointed to the sparkling stream that tumbled from the rocks near the village center. \"It’s all thanks to the careful tending by the Hearthcircle!\"\n- \"Don't forget the careful tending,\" nodded Doric, wiping dust off a particularly gleeful anvil. \"Little tweaks, just enough to ensure everything flows smoothly. The wellspring still needs a little boost – perhaps a good sprinkle of enchantment?\"\n- \"Absolutely!\" cried Wendell Larkspur, adjusting her crimson cap. \"A lovely spell, wouldn't you agree? Guaranteed to bring prosperity and smiles to everyone's face!\"\n- A cheerful greeting from Osric (the Halfling Guard), always ready with a wink and a joke.\n- “Good morning to you too!” boomed Hesketh Reeve, his mustache perfectly groomed. \"Another glorious day in the Kingdom! Ready for a good work dance?” A playful shove from his trusty boots.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1742
+      },
+      "world": "verrowen",
+      "mentions": [
+        "osric",
+        "doric",
+        "hesketh-reeve"
+      ]
+    },
+    {
+      "id": "a-whisper-of-magic",
+      "type": "item",
+      "name": "A whisper of magic",
+      "icon": "🏺",
+      "category": "Peddlers' wares",
+      "kind": "Relics",
+      "origin": "rest",
+      "status": "pitch",
+      "fields": {
+        "text": "“The air itself hums with barely perceptible energy today,” declared Silas Blackwood, his spectacles gleaming under the gentle light filtering through the leaves of the Ancient Oak. Beside him stood Doric, a master blacksmith whose hands seemed to hold secrets into shape. “Just a little bit more warmth for the forge this morning!” he chuckled, expertly flicking a spark towards the shimmering pile of steel. \"A little encouragement for our workers.\""
+      },
+      "review_key": "rest:idea-mw9u5gy8",
+      "filed": "2026-11-09",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- TEXT: “The air itself hums with barely perceptible energy today,” declared Silas Blackwood, his spectacles gleaming under the gentle light filtering through the leaves of the Ancient Oak. Beside him stood Doric, a master blacksmith whose hands seemed to hold secrets into shape. “Just a little bit more warmth for the forge this morning!” he chuckled, expertly flicking a spark towards the shimmering pile of steel. \"A little encouragement for our workers.\"\n- “Indeed,” said Elara Swiftleaf, her fingers tracing the smooth bark of an oak branch, practically vibrating with enthusiasm. \"Especially after the recent revitalization of the Wellspring.” She pointed to the sparkling stream that tumbled from the rocks near the village center. \"It’s all thanks to the careful tending by the Hearthcircle!\"\n- \"Don't forget the careful tending,\" nodded Doric, wiping dust off a particularly gleeful anvil. \"Little tweaks, just enough to ensure everything flows smoothly. The wellspring still needs a little boost – perhaps a good sprinkle of enchantment?\"\n- \"Absolutely!\" cried Wendell Larkspur, adjusting her crimson cap. \"A lovely spell, wouldn't you agree? Guaranteed to bring prosperity and smiles to everyone's face!\"\n- A cheerful greeting from Osric (the Halfling Guard), always ready with a wink and a joke.\n- “Good morning to you too!” boomed Hesketh Reeve, his mustache perfectly groomed. \"Another glorious day in the Kingdom! Ready for a good work dance?” A playful shove from his trusty boots.",
+      "notes": [
+        "working-notes-a-whisper-of-magic"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1742
+      }
     },
     {
       "id": "midkemia-the-campaign",
