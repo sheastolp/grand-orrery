@@ -1582,14 +1582,6 @@ _Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or t
 
 - **Murrow:** Whisperswood's secret gate connects via thin rifts Murrows' unique ability to sense latent magic allows him uncover presence then manipulate elements accordingly facilitating controlled access portal unseen until desired moments when its existence becomes revealed upon
 
-### Whisperwind’s Harmonic Conduit (Pitch)
-
-<!-- review-key: rest:idea-mw8msn8x -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's guild hall keeps, does or is known for._
-
-- An item that amplifies magical sound waves to heal minor ailments.
-
 ### Brackwood’s Whimsy (Pitch)
 
 <!-- review-key: rest:idea-mw8nl517 -->
