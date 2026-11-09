@@ -1595,7 +1595,7 @@ _Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers'
 - Tobin Ashby helps with baking trials
 - Village Roster includes all locals except two children from wellhouse tavern
 
-### Whispersong Crystals (Pitch)
+### Whispersong Crystals (Your idea)
 
 <!-- review-key: rest:idea-mw8tuqx4 -->
 <!-- added by the AI -->
