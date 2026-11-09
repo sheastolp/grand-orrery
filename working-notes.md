@@ -1581,3 +1581,14 @@ _Made up by the AI in auto mode, 2026-11-09 · about a place in the Kingdom's ca
 _Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or the Kingdom's history._
 
 - **Murrow:** Whisperswood's secret gate connects via thin rifts Murrows' unique ability to sense latent magic allows him uncover presence then manipulate elements accordingly facilitating controlled access portal unseen until desired moments when its existence becomes revealed upon
+
+### Whisperwind’s Whispers (Pitch)
+
+<!-- review-key: rest:idea-mw8l7diq -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._
+
+- **What it is:** An enchanted reed flute given by Murrow that reveals hidden truths when played.
+- In his shop Monstradius or during gatherings at Wellhouse tavern.
+- **Who & Where:** Artificer Mirra Willowwhistle crafts this relic using rare Ashen Reach ash for her instrument cases.
+- **How It Works:** When playing along with certain melodies from Verrowen lullabies sung beneath moonlit skies over Stoutwell village wall gates facing eastwards under specific constellations aligning to mark new seasons dawns:
