@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T08:12:18.710Z",
+  "built": "2026-11-09T08:56:16.503Z",
   "branch": "review",
-  "commit": "c55b06bca9edaae346960a637913bce03205d613",
+  "commit": "02700d35aa61dbc7a6497eaf1e50a6ce5cee90be",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 33,
-    "note": 208
+    "note": 209
   },
   "entities": [
     {
@@ -395,7 +395,8 @@
         "working-notes-liora-finchling",
         "working-notes-whisperwind-whistle-2",
         "working-notes-whisperwinds-whispers-2",
-        "working-notes-murrows-harvest-blessing"
+        "working-notes-murrows-harvest-blessing",
+        "working-notes-whispersong-crystals-2"
       ]
     },
     {
@@ -10128,6 +10129,27 @@
         "file": "working-notes.md",
         "line": 1739
       }
+    },
+    {
+      "id": "working-notes-whispersong-crystals-2",
+      "type": "note",
+      "name": "Whispersong Crystals",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw910vj4",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- **Who: Liora Finchling\n- **Where: Murrow’s shop Monstradius**",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1751
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
