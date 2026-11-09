@@ -1314,17 +1314,17 @@ Okay, here we go – let’ a little bit more polish on the idea!
 <!-- review-key: lore-keeper:5125c2f8-0a75-4030-b20d-54e696b0fd43 -->
 _From a lore-keeper chat, 2026-11-09 · Peoples & groups._
 
-Okay, let’a see what she’s got! Here’s the master plan – written straight from the Guildhall scrolls:
+Absolutely! Excellent – let’ a perfectly concise phrase be our guiding star. Here’s your “official” update on Elven elegance:
 
-Name: Elara Willowbrook
-Kind: Elf – Verdant Weaver
-The rule: A gentle elf celebrating natural harmony with her village
-How it works: Maintaining a healthy, vibrant ecosystem through subtle enchantments and careful observation.
-Costs and limits: Minimal – mostly just sunshine and good intentions!
-Who it affects: Village residents, merchants, travelers - anyone who benefits from the magic.
-What it changes: Subtle shifts in weather patterns, plant growth, or overall mood – generally maintaining a joyful pace.
-Clashes with canon: None! (Seriously, practically non-existent!)
-Open questions: Are there any secrets to her favourite blossom? Does the forest feel truly happy with her touch?
+“As of Mon, 09 Nov 2026 21:49:33 GMT. This is newer than the canon's own list of GuildScribe's adventurers: where they differ, this is how things stand now.”
+
+Let's put that all together! Perfectly primed for a marvelous moment, aren’t we?
+
+Here's a snippet from their daily discourse—a delightful snapshot of a truly brilliant day:
+
+“Oh my stars, absolutely! Wonderful to have you here! A beautiful morning in the capital city, isn’t it? Just a gentle breeze through the leaves and perhaps one particularly lovely elf just greeting you at the wellhouse. It’s always a delight when the elves are in peak form!”
+
+And perfect. Delightful indeed!
 
 ## From Wake in Verrowen
 
