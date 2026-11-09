@@ -1641,14 +1641,6 @@ _Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or t
 - **Where:** In front of Saint Brackenford Farm located outside town square
 - **How it works:** During winter solstice eve using his rare mirrorstone Seeker Lodestone to channel magical energy into seeds that then grow more plentifully for harvesters.
 
-### Whisperwind Lantern (Pitch)
-
-<!-- review-key: rest:idea-mw93fmix -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
-
-- **Where found at Morrows shop Monstradius**
-
 ### Elara Swiftleaf (Your idea)
 
 <!-- review-key: rest:idea-mw995f68 -->
