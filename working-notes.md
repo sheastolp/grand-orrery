@@ -1621,19 +1621,6 @@ _Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stout
 - Job Ambition/Talent?
 - Aspiring to become an Artificer like Murrow.
 
-### Whisperwind’s Morning Riddle (Pitch)
-
-<!-- review-key: rest:idea-mw8vgoew -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or rule of daily life in Stoutwell._
-
-- **What it is:** Every morning at dawn before feeding their animals or starting work.
-- **Who:** Villagers
-- **Where:** Before sunrise around 4 AM to feed horses/stags/hogs/cows/chickens/evening meals/drinking ale/watering crops/fetch water for washing clothes/mending shoes/working magic items/etc., especially halflings like Tobin Ashby doing chores outside with family presence.
-- **Limits:** No food/beverage/equipment lost during hunt aside except items brought back from treasure hunters.
-- **Ties to Lore Characters/Places**
-- Elders like Wendeline Brackenford may have offered subtle guidance or blessings toward success; Morrows' secretive nature links perfectly since he always seemed as elusive despite apparent omnipresence due his role overseeing much day-to-day village affairs seemingly unrelated directly until this peculiar event occurred
-
 ### Ashling Sprite (Pitch)
 
 <!-- review-key: rest:idea-mw8x2b38 -->
