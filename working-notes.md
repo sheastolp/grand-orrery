@@ -1675,3 +1675,15 @@ _Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item
 - A new creation by an artificer named Marda after she had enough resources from her travels across realms combined with years spent observing elemental interactions at Stoutwell village market square.
 - Price tag : One hundred copper coins per whistle (100c)
 - Limits :
+
+### Whispersong Crystals (Pitch)
+
+<!-- review-key: rest:idea-mw9lhosz -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- **What it is:** Small crystalline artifacts found within Whisperwind that glow softly when near magic.
+- **Who:** Ashling Sprites.
+- **Where:** Near Murrow’s shop Monstradius along with several scattered locations around Village Roster districts like Brackwood Fringe or Elders’ Elderhold meetings grounds
+- **How it works:** Ingested by creatures such as halflings which increase magical affinity tenfold for brief periods allowing more intense detection spells from non-artificer sources to be cast without depleting mana reserves quickly
+- Limits:* Glowing only lasts 5 minutes before needing another dose * Only glows while consuming crystal* Must rest after every use to avoid overheating (causing mild dizziness) A single sprite will always have five ready in its pouch giving a safe margin against overuse during extended battles. Children can carry them safely since they tend not to misplace things easily They come alive through an unknown mineral discovered on Stoutwell's doorstep at dawn daily bringing joy The crystals do little harm if swallowed unless heated under strong sunlight causing discomforting cramps until recovery .
