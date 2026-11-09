@@ -1816,3 +1816,14 @@ _Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or r
 
 - **What it's:** An annual riddle given by Burn to children at sunrise.
 - **Who:** Children living near Ashling Sprite Spring during winter solstice night when frost forms shapes resembling riddles around their homes’ windows or doors.
+
+### Whisperwind Whistle (Pitch)
+
+<!-- review-key: rest:idea-mw9au6es -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
+
+- An enchanted flute that plays melodies to calm restless spirits.
+- Murrow’s apprentices create this item with elemental wind magic infused into wooden reeds.
+- Sold at Monstradius’ shop by master blacksmith Doric Ashby for use within village boundaries or nearby areas during nighttime rest periods when spirit disturbances often peak due to unresolved issues from past eras stored there.
+- **Limits/Restrictions/Tying Into Lore Connections:
