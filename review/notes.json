@@ -1,17 +1,19 @@
 {
   "schema": 1,
-  "built": "2026-11-09T15:07:50.439Z",
+  "built": "2026-11-09T16:09:20.465Z",
   "branch": "review",
-  "commit": "072cb01deb55fead3e85f55ac7ccffbbd9dae71d",
+  "commit": "55b1a8cca8152f350fdfcf6eed29931c7d9388da",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 96,
+    "item": 97,
     "place": 15,
     "creature": 17,
     "lore": 33,
-    "note": 199
+    "note": 200,
+    "document": 10,
+    "map": 4
   },
   "entities": [
     {
@@ -3984,6 +3986,35 @@
         "line": 1644
       },
       "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwinds-relic-featherhook",
+      "type": "note",
+      "name": "Whisperwind’s Relic: Featherhook",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw9ghqmo",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An iron hook with intricate wind patterns etched into it.",
+        "who": "Doric forges these hooks using his unique blacksmithing techniques combined by Murrow to infuse elemental magic",
+        "where": "In Monstradius’ shop within Saintville",
+        "how_it_works": "A feather attached near an engraving weaves through air currents invisibly without effort when placed at right angles against gusts due to latent human affinity tied together with minor arcane enhancements provided from Wind user's magical abilities or detection tools that helps reveal hidden energies."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** An iron hook with intricate wind patterns etched into it.\n- **Who:** Doric forges these hooks using his unique blacksmithing techniques combined by Murrow to infuse elemental magic\n- **Where:** In Monstradius’ shop within Saintville\n- **How it works:** A feather attached near an engraving weaves through air currents invisibly without effort when placed at right angles against gusts due to latent human affinity tied together with minor arcane enhancements provided from Wind user's magical abilities or detection tools that helps reveal hidden energies.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1653
+      },
+      "world": "verrowen",
+      "mentions": [
+        "doric",
+        "murrow",
+        "featherhook"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
