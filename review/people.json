@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T15:05:53.649Z",
+  "built": "2026-11-09T15:06:26.030Z",
   "branch": "review",
-  "commit": "c34ae3d86f9fc31f71d4986a744bd16f3e011d16",
+  "commit": "55fc0a0e322ccccc54d36baa5a6f1e0687b99d33",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 33,
-    "note": 202
+    "note": 201
   },
   "entities": [
     {
@@ -379,8 +379,7 @@
         "working-notes-whisperwinds-whistle",
         "working-notes-whispersong-crystals",
         "working-notes-liora-finchling",
-        "working-notes-murrows-harvest-blessing",
-        "working-notes-liora-finchlings-secret"
+        "working-notes-murrows-harvest-blessing"
       ]
     },
     {

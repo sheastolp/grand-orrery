@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T15:05:53.649Z",
+  "built": "2026-11-09T15:06:26.030Z",
   "branch": "review",
-  "commit": "c34ae3d86f9fc31f71d4986a744bd16f3e011d16",
+  "commit": "55fc0a0e322ccccc54d36baa5a6f1e0687b99d33",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 33,
-    "note": 202
+    "note": 201
   },
   "entities": [
     {
@@ -379,8 +379,7 @@
         "working-notes-whisperwinds-whistle",
         "working-notes-whispersong-crystals",
         "working-notes-liora-finchling",
-        "working-notes-murrows-harvest-blessing",
-        "working-notes-liora-finchlings-secret"
+        "working-notes-murrows-harvest-blessing"
       ]
     },
     {
@@ -9820,33 +9819,6 @@
       }
     },
     {
-      "id": "working-notes-liora-finchlings-secret",
-      "type": "note",
-      "name": "Liora Finchling’s Secret",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mw95wj6c",
-      "filed": "2026-11-09",
-      "filed_from": "Made up by the AI in auto mode",
-      "fields": {
-        "what_it_is": "An annual village tradition where children solve an intricate riddle to predict upcoming events.",
-        "who": "Children at age 10 gather around Elder Ysolde every year during autumn equinox.",
-        "where": "Village square near Murrow Monstradius’ shop under Birchwood Fringe trees.",
-        "how_it_works": "Each September morning after dawn prayer service held by Wellhouse elf Tamsin Ashlight, villagers give each child three golden coins inscribed with \"Whisper Wind.\""
-      },
-      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What it is:** An annual village tradition where children solve an intricate riddle to predict upcoming events.\n- **Who:** Children at age 10 gather around Elder Ysolde every year during autumn equinox.\n- **Where:** Village square near Murrow Monstradius’ shop under Birchwood Fringe trees.\n- **How It Works:** Each September morning after dawn prayer service held by Wellhouse elf Tamsin Ashlight, villagers give each child three golden coins inscribed with \"Whisper Wind.\"\n- Limit: Not used until children hit exact turning point between fifth sixth grade transition mark roughly average annual timing remains unaffected any deviations occur randomly but never skew significantly affecting overall outcome success rate around 95% accuracy sustained across many cycles till present timeframes considered.",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1652
-      },
-      "world": "verrowen",
-      "mentions": [
-        "murrow"
-      ]
-    },
-    {
       "id": "working-notes-elara-swiftleaf",
       "type": "note",
       "name": "Elara Swiftleaf",
@@ -9860,7 +9832,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._\n\n- Close friend - Liora Finchling;\n- Neighbors known since childhood;",
       "source": {
         "file": "working-notes.md",
-        "line": 1664
+        "line": 1652
       },
       "world": "verrowen"
     },
@@ -9884,7 +9856,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **What it Is:** Small woodland creatures with wind affinity.\n- **Who:** Halfling sprites that inhabit certain trees.\n- **Where:** Deep within Ashen Reach’s ash forests where dense tree growth thrives due to weak magic presence making their habitat stable for ages without affecting nearby villages significantly even through seasons or minor magical disturbances over time while remaining elusive near human settlements like guards themselves maintaining distance from town life unless crossing paths during unusual circumstances such an unexpected storm which drives villagers further away into safety until twilight hours when some brave souls venture closer out curiosity eventually leading occasional glimpses at playfulness seen only momentarily before quickly retreating once again unseen hidden by shadows as darkness falls upon Stoutwell village surrounded in silence after evening prayers followed closely afterwards communal meals shared around fireside stories retold tales told anew though ever changing slightly each telling weaving a tapestry rich detailed account filled full vibrant vivid colors bringing forth scenes alive filling hearts minds young ones old alike connecting lives across generations binding families together sharing laughter joy sorrow tears relief comfort hope dreams love loss rebirth desire fulfillment despair beauty wonder mortality eternity unending cyclic eternal nature itself evolving transforming adapting yet always existing simultaneously perpetual fleeting passing ephemeral living breathing essence of existence cosmic dance celestial choreography universe unfolding mysteries whispered secrets ancient wisdom new knowledge fresh insights blending seamlessly integrating harmoniously amidst the vast complexity infinity interconnecting realms beyond perception grasp comprehension understanding limited cognition reaching towards infinite possibility potential reality tangible intangible abstract conceptual transcendent experiential intellectual philosophical phenomenological existential emotional intuitive physical sensual mental spiritual cognitive psychological epistemic metaphysical cultural ontological ethical aesthetic moral transcendental theological anthropocentric cosmopsychic panentheistic pantheistic processual nondual relational absolute idealism pluralist monad universal becoming manifest entity consciousness thought feeling imagination passion intuition insight mind soul brain spirit body self subjectivity transpersonal psyche\n- **How it Works:** Whisperwind sprites harness elemental wind magic to manipulate their surroundings, causing gentle breezes that create soothing melodies like whispers through rustling leaves creating soft murmurs carried by subtle air currents. They use this power primarily for communication with one another and occasionally enchanting nearby halflings curious enough about them as well.",
       "source": {
         "file": "working-notes.md",
-        "line": 1673
+        "line": 1661
       },
       "world": "verrowen"
     },
@@ -9903,7 +9875,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1673
+        "line": 1661
       },
       "icon": "🌿",
       "fields": {
