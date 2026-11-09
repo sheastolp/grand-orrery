@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T14:41:37.698Z",
+  "built": "2026-11-09T14:42:38.183Z",
   "branch": "review",
-  "commit": "3c768a1650bea2eaf61d16d71001bdc176a2fc6c",
+  "commit": "a680900d4e4ad60030515254bd3cb31e4decd272",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 102,
+    "item": 101,
     "place": 15,
     "creature": 19,
     "lore": 33,
-    "note": 218
+    "note": 216
   },
   "entities": [
     {
@@ -2066,31 +2066,6 @@
       }
     },
     {
-      "id": "whisperwinds-whispers",
-      "type": "item",
-      "name": "Whisperwind’s Whispers",
-      "icon": "🏺",
-      "category": "Peddlers' wares",
-      "kind": "Relics",
-      "origin": "rest",
-      "status": "pitch",
-      "fields": {
-        "does": "An enchanted reed flute given by Murrow that reveals hidden truths when played.",
-        "who_where": "Artificer Mirra Willowwhistle crafts this relic using rare Ashen Reach ash for her instrument cases.",
-        "made": "When playing along with certain melodies from Verrowen lullabies sung beneath moonlit skies over Stoutwell village wall gates facing eastwards under specific constellations aligning to mark new seasons dawns:"
-      },
-      "review_key": "rest:idea-mw8l7diq",
-      "filed": "2026-11-09",
-      "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** An enchanted reed flute given by Murrow that reveals hidden truths when played.\n- In his shop Monstradius or during gatherings at Wellhouse tavern.\n- **Who & Where:** Artificer Mirra Willowwhistle crafts this relic using rare Ashen Reach ash for her instrument cases.\n- **How It Works:** When playing along with certain melodies from Verrowen lullabies sung beneath moonlit skies over Stoutwell village wall gates facing eastwards under specific constellations aligning to mark new seasons dawns:",
-      "notes": [
-        "working-notes-whisperwinds-whispers"
-      ],
-      "source": {
-        "file": "working-notes.md",
-        "line": 1585
-      }
-    },
-    {
       "id": "whisperwinds-toast",
       "type": "item",
       "name": "Whisperwind’s Toast",
@@ -2107,7 +2082,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1637
+        "line": 1616
       }
     },
     {
@@ -2127,11 +2102,11 @@
       "filed": "2026-11-09",
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** A tiny enchanted flute that boosts morale.\n- **Who:** Murrow crafts these using rare whispering ashwood found only near Verrowen’s Ashen Reach where wind magic thrives subtly enhanced by proximity to elemental rifts.",
       "notes": [
-        "working-notes-whisperwind-whistle-2"
+        "working-notes-whisperwind-whistle"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1697
+        "line": 1676
       }
     },
     {
@@ -2157,7 +2132,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1739
+        "line": 1718
       }
     },
     {
@@ -2177,7 +2152,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1760
+        "line": 1739
       }
     },
     {
@@ -2201,7 +2176,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1791
+        "line": 1770
       }
     },
     {
@@ -2217,11 +2192,11 @@
       "filed": "2026-11-09",
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- An enchanted flute that plays melodies to calm restless spirits.\n- Murrow’s apprentices create this item with elemental wind magic infused into wooden reeds.\n- Sold at Monstradius’ shop by master blacksmith Doric Ashby for use within village boundaries or nearby areas during nighttime rest periods when spirit disturbances often peak due to unresolved issues from past eras stored there.\n- **Limits/Restrictions/Tying Into Lore Connections:",
       "notes": [
-        "working-notes-whisperwind-whistle-3"
+        "working-notes-whisperwind-whistle-2"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1820
+        "line": 1799
       }
     }
   ]

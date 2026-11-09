@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-09T14:41:37.698Z",
+  "built": "2026-11-09T14:42:38.183Z",
   "branch": "review",
-  "commit": "3c768a1650bea2eaf61d16d71001bdc176a2fc6c",
+  "commit": "a680900d4e4ad60030515254bd3cb31e4decd272",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 102,
+    "item": 101,
     "place": 15,
     "creature": 19,
     "lore": 33,
-    "note": 218
+    "note": 216
   },
   "entities": [
     {
@@ -505,7 +505,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1706
+        "line": 1685
       },
       "icon": "🌿",
       "fields": {
@@ -536,7 +536,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1768
+        "line": 1747
       },
       "icon": "🐾",
       "fields": {
@@ -568,7 +568,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1831
+        "line": 1810
       },
       "icon": "🌿",
       "fields": {
