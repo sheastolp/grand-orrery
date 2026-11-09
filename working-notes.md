@@ -1644,3 +1644,13 @@ _Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers'
 - Whimsically crafted at his Monstradius shop.
 - Tobin Ashby helps with baking trials
 - Village Roster includes all locals except two children from wellhouse tavern
+
+### Whisperwind’s Morning Riddle (Pitch)
+
+<!-- review-key: rest:idea-mw8t2d81 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about something about the Guard: a post, a habit, a piece of gear or a person._
+
+- A mysterious tradition where each morning at dawn before sunrise guards start their rounds across Verrowen.
+- The halfling Guard Captain Hesketh Reeve initiates this custom for his unit to pass down through generations within stonemason families like that of Tobin Ashby working near Murrow Monstradius’ shop.
+- Every corner of Virewoodland village with every family hearth warming by early springtime fire or autumn twilight glow when new recruits gather around listening keenly over mugs brimming warm cider steeped from Stoutwell well itself brewed strong enough even after centuries asleep beneath ash trees upon which elves once walked tender care in hushed tones shared stories weaving life lessons into riddles spun cleverly tied subtly wrapped gifts awaiting minds willing decipher truths hidden therein whispered words carrying wisdom passed on not merely as tales told anew daily routine becoming a sacred secret ceremony deeply rooted both old ways clinging firmly despite winds ever shifting landscape timeworn passage marking guard day-to-day existence transforming simple tasks grander sense unity belonging found among those under watchful eyes seeking guidance amidst challenges facing them journey ahead hand-in-hand.
