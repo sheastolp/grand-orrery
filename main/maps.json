@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "built": "2026-11-09T15:32:38.185Z",
+  "branch": "main",
+  "commit": "dc46034f4f08cfc25f4a42eac57a4ee96fd0ce22",
+  "counts": {
+    "person": 87,
+    "role": 11,
+    "world": 3,
+    "item": 96,
+    "place": 15,
+    "creature": 17,
+    "lore": 33,
+    "note": 199,
+    "document": 10,
+    "map": 4
+  },
+  "entities": [
+    {
+      "id": "map-region",
+      "type": "map",
+      "name": "The region",
+      "file": "maps/region.png",
+      "svg": "maps/region.svg",
+      "caption": "Verrowen around Stoutwell. It shows the Kingdom and its capital (GuildScribe, Glumtom's workshop, the Rolls House and the heartland around it), the Monster Wood (the Blight over the deep woods and their beasts, the hollowstags, rootwyrms and the Mosswarden; the goblin lands; troll territory; and how far adventurers from the west have gotten, along the road as far as the goblin lands' edge and never into the deep woods), the Woodland Road and the last waystation where merchants hire their escorts, the croplands, Stoutwell, the Ashen Reach (its training grounds, to the south, with a few short as",
+      "order": 1,
+      "status": "decided",
+      "source": {
+        "file": "maps/README.md",
+        "line": 1
+      }
+    },
+    {
+      "id": "map-lake",
+      "type": "map",
+      "name": "The lake",
+      "file": "maps/lake.png",
+      "svg": "maps/lake.svg",
+      "caption": "The lake, close up. It shows where the river ends, the near-shore landing and the footpath back to the mills and Stoutwell, the fishing boats, the fishing settlement (5 to 10 folk) on the far shore, the corner of the mountain wall, the hidden pass the fishers keep secret and the Ashen Reach (with its few short, twisted ash trees) to the northwest, between the lake and Stoutwell, with the mountains' southern arm well to its south.",
+      "order": 2,
+      "status": "decided",
+      "source": {
+        "file": "maps/README.md",
+        "line": 1
+      }
+    },
+    {
+      "id": "map-stoutwell",
+      "type": "map",
+      "name": "Stoutwell",
+      "file": "maps/stoutwell.png",
+      "svg": "maps/stoutwell.svg",
+      "caption": "Inside the walls. It shows the four gates, the main roads from each gate to the town square and the lanes into each district, the districts and the slanted divide (slums along the south and SE), the Gathering Hall, the dried well, the Wellhouse, Monstradius and the research building, Murrow's home, Doric's smithy, the lumber yard, the river mills and the Ashen Reach to the south.",
+      "order": 3,
+      "status": "decided",
+      "source": {
+        "file": "maps/README.md",
+        "line": 1
+      }
+    },
+    {
+      "id": "map-capital",
+      "type": "map",
+      "name": "The Kingdom's capital",
+      "file": "maps/capital.png",
+      "svg": "maps/capital.svg",
+      "caption": "The Kingdom's capital, west of the Monster Wood. It shows the old wall and, inside it, the Crown's seat with the Rolls House beside it (the Highwrit's seal), the mint, GuildScribe's hall, arena and Archives (the Scribe lives above), the market square with the peddlers' open stall, the workshop quarter where the Hearthcircle's fine metalwork is made, and Glumtom's workshop; outside it, the poor quarters and the newer walls still going up, some built by Glumtom's undead; around it, the heartland's grain and wool farms, timber and river towns; and the Clerk's road east toward the waystations and ",
+      "order": 4,
+      "status": "decided",
+      "source": {
+        "file": "maps/README.md",
+        "line": 1
+      }
+    }
+  ]
+}
