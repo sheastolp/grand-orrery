@@ -1633,3 +1633,14 @@ _Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or r
 - **Where:** All entrances leading out into fields during daybreak
 - Halflings naturally hot-resistant align well being a favored type here due to magical properties;
 - Small towners easily carrying items like Featherhooks while halting logs perfectly using latent magic;
+
+### Whisperwind’s Toast (Pitch)
+
+<!-- review-key: rest:idea-mw8s9mn7 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._
+
+- **Who/Where/Who related to LORE world?**
+- Whimsically crafted at his Monstradius shop.
+- Tobin Ashby helps with baking trials
+- Village Roster includes all locals except two children from wellhouse tavern
