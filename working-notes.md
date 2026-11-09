@@ -1661,7 +1661,7 @@ _Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers'
 - **Where:** In Monstradius’ shop within Saintville
 - **How it works:** A feather attached near an engraving weaves through air currents invisibly without effort when placed at right angles against gusts due to latent human affinity tied together with minor arcane enhancements provided from Wind user's magical abilities or detection tools that helps reveal hidden energies.
 
-### Hidden (Pitch)
+### Hidden (Your idea)
 
 <!-- review-key: rest:idea-mw9rwiw7 -->
 <!-- added by the AI -->
