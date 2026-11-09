@@ -1314,17 +1314,33 @@ Okay, here we go – let’ a little bit more polish on the idea!
 <!-- review-key: lore-keeper:5125c2f8-0a75-4030-b20d-54e696b0fd43 -->
 _From a lore-keeper chat, 2026-11-09 · Peoples & groups._
 
-Absolutely! Excellent – let’ a perfectly concise phrase be our guiding star. Here’s your “official” update on Elven elegance:
+Okay, here’ “It’s all set!” – let’s see if it shines like dewdrop on leaves.
 
-“As of Mon, 09 Nov 2026 21:49:33 GMT. This is newer than the canon's own list of GuildScribe's adventurers: where they differ, this is how things stand now.”
+“Write it up” – Excellent! Here’s the master description of the elf’s profile, primed and ready for her to craft some dazzling prose.
 
-Let's put that all together! Perfectly primed for a marvelous moment, aren’t we?
+Alright, then! Perfect little snippet of magic, isn't she? Let’s have fun with it!
 
-Here's a snippet from their daily discourse—a delightful snapshot of a truly brilliant day:
+“Write it up” – Sounds splendid! Absolutely splendid.
 
-“Oh my stars, absolutely! Wonderful to have you here! A beautiful morning in the capital city, isn’t it? Just a gentle breeze through the leaves and perhaps one particularly lovely elf just greeting you at the wellhouse. It’s always a delight when the elves are in peak form!”
+Here’s how we can make that even *better*:
 
-And perfect. Delightful indeed!
+*   **Height:** Slightly taller than average humanfolk, naturally leaning toward graceful curves. A little taller of the taller folk - practically sculpted by sunlight and fresh blooms!
+*   **Personality:** Think of it as a lovely elfian blessing upon you!—perfect for creating joy amongst a grove of silver birch trees.
+
+To simply say… well, delightful indeed. 😊 How perfect!
+
+And now... let's unveil them:
+
+“What’s all that delightful sparkle sparkling for a delightful greeting?”
+
+
+Perfectly timed.
+
+Well, *absolutely*! It’s delightfully primed. Now just give us the flourish...
+
+"A little burst of sunshine and smiles!" Wonderful! Then, "Let's begin!" 
+
+Excellent! Perfectly streamlined – ready for launch.
 
 ## From Wake in Verrowen
 
