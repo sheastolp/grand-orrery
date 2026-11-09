@@ -1630,19 +1630,6 @@ _Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster W
 - Tiny winged creatures living beneath ash trees.
 - Halflings called "Ashlings" by villagers.
 
-### Whisperwind’s Whispers (Pitch)
-
-<!-- review-key: rest:idea-mw8xur9e -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-09 · about a place in the Kingdom's capital or on the Kingdom's roads._
-
-- **What it is:** An enchanted grove near Verrowen where villagers hear mysterious whispers.
-- **Who:** Children gathered at dawn for stories gather here with elderfolk using this magic to recount legends.
-- **Where:** Near Ashwood Grove outside village walls
-- **How it works:** Murrow harnesses wind mana that fills tiny whisperwinds within ash tree leaves
-- **Limits:** Only children present can understand fully without distraction
-- **Ties:** Tied closely to Burn from Northwind Harbour & Surrounding Mountains
-
 ### Murrow’s Harvest Blessing (Pitch)
 
 <!-- review-key: rest:idea-mw8yne25 -->
