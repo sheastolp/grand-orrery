@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T00:58:44.002Z",
+  "built": "2026-11-10T01:19:45.984Z",
   "branch": "review",
-  "commit": "354234d0639b8ae5a10cfa2559486d3c13e9e3fb",
+  "commit": "8d08b79f0f3e64a207fae185265b17c6f0c91d3e",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 210,
+    "note": 211,
     "document": 10,
     "map": 4
   },
@@ -4209,6 +4209,27 @@
       "source": {
         "file": "working-notes.md",
         "line": 1825
+      },
+      "world": "verrowen",
+      "mentions": [
+        "doric"
+      ]
+    },
+    {
+      "id": "working-notes-what-is-it",
+      "type": "note",
+      "name": "what is it?",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwa05lu9",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or the Kingdom's history._\n\n- What’s the secret to keeping everything running smoothly? It’s all about tradition – carefully crafted rules, long-standing practices, and a whole lot of good cheer! It's easy for every citizen of Verrowen to agree with it—everyone loves a well-written law, and everyone agrees that if everything goes right, then everything will be fine, too! Absolutely perfect for stability and prosperity - absolutely nothing to worry about.\n- TONE: Warm, friendly, and perfectly pitched for a medieval fairytale!\n- MAGIC: Subtle enchantments, flowing like honeyed wine. A little sunshine, a dash of pixie dust, and a whole heap of faith – enough to make even goblins smile.\n- ARTIFICERS: Well, practically *all* of them, really! The hearty Hearthcircle keeps things moving, while the cleverest artisans ensure a smooth workflow. And don' to forget, everyone relies on their own favorite spells - sometimes a simple charm or a blessing from the village healer.\n- ITEMS: A freshly polished silver coin, perhaps a sturdy horseshoe, a hand-woven scarf, or one of Doric's trusty tools – a sharpened arrow tip, gleaming bright.\n- DEFENSE AND LAW: Protection through tradition, guided by the Elders and the watchful Guard.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1838
       },
       "world": "verrowen",
       "mentions": [
