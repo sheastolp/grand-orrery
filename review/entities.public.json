@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T00:16:42.963Z",
+  "built": "2026-11-10T00:37:44.779Z",
   "branch": "review",
-  "commit": "ef143489eb617c3f83a6a41d0648dcf7b67a58c5",
+  "commit": "4403b97f176e0ad3da7aff8af6d73da57643096c",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 207,
+    "note": 208,
     "document": 10,
     "map": 4
   },
@@ -77,7 +77,8 @@
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-silas-blackwood",
         "working-notes-village-roster-2",
-        "working-notes-the-silent-offering"
+        "working-notes-the-silent-offering",
+        "working-notes-blight-watch"
       ]
     },
     {
@@ -301,7 +302,8 @@
         "working-notes-murrows-secret",
         "working-notes-rooks-watch",
         "working-notes-monstradius-peculiar-pipe",
-        "working-notes-a-whisper-of-magic"
+        "working-notes-a-whisper-of-magic",
+        "working-notes-blight-watch"
       ]
     },
     {
@@ -10054,6 +10056,28 @@
         "file": "working-notes.md",
         "line": 1768
       }
+    },
+    {
+      "id": "working-notes-blight-watch",
+      "type": "note",
+      "name": "Blight Watch",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw9ynkoy",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- The air hangs heavy with dew and secrets in Verrowen’s heartland – the village of Sunstone. The wellspring of life, nestled snugly between shimmering forests and rolling hills, where cobblestone streets wind through timbered buildings, all humming with steady good cheer. It’s home to the hearty villagers of Sunstone, and sturdy, loyal folk. But beneath the surface, a subtle shift begins - a creeping blight threatening to steal the village’s very vitality.\n- For centuries, the Sunstones have been blessed by the gentle warmth of their sun-drenched fields, rich soil, and skilled artisans. Now, however, a shadowy scent of green fingers suggests an unwelcome intruder. Old Silas Blackwood, the village' togle-smith, has laid eyes on this new threat!\n- But don't worry! There are two stalwart guardians ready to defend the Village from any danger: the steadfast Hearthcircle elder, Wendeline Brackenford, and her keen-eyed Halfling Guard, Tobic Ashby!\n- Wendeline is ever-ready, with a cheerful smile and tools for every job, ensuring everyone's happy and smooth sailing within the Village. With some clever spells and one glance, she can fix even the most troublesome thorn.  And Tobic? Well, he's always got a handy tool or two for a little bit of protection... or perhaps just a good morning greeting.\n- Then there's Hesketh Reeve, the watchful Captain of the Guard, who makes sure everything runs smoothly, keeping a hawk eye on all things.\n- They're a team, but whose strengths lie in protecting the Village of Sunstone - a perfect balance between strong and steady, efficient and kind. The whole system relies on it, too, because if not, they’ll be fine! All thanks to the well-oiled gears of the Kingdom's Crown and its elegant houses.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1781
+      },
+      "world": "verrowen",
+      "mentions": [
+        "wendeline-brackenford",
+        "hesketh-reeve"
+      ]
     },
     {
       "id": "midkemia-the-campaign",

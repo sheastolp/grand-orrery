@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T00:16:42.963Z",
+  "built": "2026-11-10T00:37:44.779Z",
   "branch": "review",
-  "commit": "ef143489eb617c3f83a6a41d0648dcf7b67a58c5",
+  "commit": "4403b97f176e0ad3da7aff8af6d73da57643096c",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 207,
+    "note": 208,
     "document": 10,
     "map": 4
   },
@@ -77,7 +77,8 @@
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-silas-blackwood",
         "working-notes-village-roster-2",
-        "working-notes-the-silent-offering"
+        "working-notes-the-silent-offering",
+        "working-notes-blight-watch"
       ]
     },
     {
@@ -301,7 +302,8 @@
         "working-notes-murrows-secret",
         "working-notes-rooks-watch",
         "working-notes-monstradius-peculiar-pipe",
-        "working-notes-a-whisper-of-magic"
+        "working-notes-a-whisper-of-magic",
+        "working-notes-blight-watch"
       ]
     },
     {
