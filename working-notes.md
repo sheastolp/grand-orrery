@@ -1351,7 +1351,7 @@ Okay, here's the review conclusion summarized:
 
 “Changes to make” : Short and sweet—perfectly aligned with the current conversation flow! Excellent work!
 
-### Grand Orrery Narrative Outline (Pitch)
+### Grand Orrery Narrative Outline (Your idea)
 
 <!-- review-key: lore-keeper:5a900c3a-96f4-4c1e-9bde-41a250f934bb -->
 _From a lore-keeper chat, 2026-11-10 · Regions & places._
