@@ -1303,6 +1303,38 @@ Well, *absolutely*! It’s delightfully primed. Now just give us the flourish...
 
 Excellent! Perfectly streamlined – ready for launch.
 
+### The fishing village: Its name, (undecided) who lives the… (Pitch)
+
+<!-- review-key: lore-keeper:3368141a-c2a9-465b-942e-af54e5b28e2c -->
+_From a lore-keeper chat, 2026-11-10 · Regions & places._
+
+Okay, here we go – let's refine this little snippet of Verrowenian prose!
+
+**The Author’s Question:** “Write it up.”
+
+**Idea as it Stands:** Perfectly suitable – a concise description of the current situation and direction for the narrative.
+
+**Rule:** “Write it up,” meaning, ensure this description is fresh and appealing to readers.
+
+**Tone:** Gentle, inviting, and subtly suggestive of a story coming together.
+
+**Vocabulary:** Well-chosen language, painting a picture without being overly verbose.
+
+**Cost and Limits:** Essentially zero cost - this is just a gentle nudge to keep things flowing smoothly.
+
+**Who it Affects:** Primarily readers who are interested in seeing the next chapter unfold!
+
+**What it Changes:** Nothing really – maintaining a consistent pace and keeping everything bright and cheerful.
+
+**Clashes with Canon:** None at all – currently, the description is a perfect fit!
+
+**Open Questions:** Excellent, nothing more needed!
+
+
+**In the world:** “Welcome to Verrowen, dear reader!”
+
+**Paragraph of About 80 Words (Everyday Scene):** "Today, the sun shines brightly on bustling cobblestone streets, where the fisherman, Silas, deftly ties his sails while greeting Old Corrin. The village' A delightful scene, wouldn’t you agree? Perhaps he has a good tale of fish to tell or two warm mugs of ale waiting for her!"
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
