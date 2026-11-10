@@ -1752,7 +1752,7 @@ _Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's gui
 
 - the wellspring
 
-### A little bit about the land (Pitch)
+### A little bit about the land (Your idea)
 
 <!-- review-key: rest:idea-mw9x5iqv -->
 <!-- added by the AI -->
