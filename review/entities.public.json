@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T05:01:18.510Z",
+  "built": "2026-11-10T05:01:51.797Z",
   "branch": "review",
-  "commit": "62e521234e08548a5388cb4dc7d888f0ec5950e3",
+  "commit": "79a806211106a00e953c5569dbbdcb730ad81bea",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 100,
+    "item": 99,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 216,
+    "note": 213,
     "document": 10,
     "map": 4
   },
@@ -10188,80 +10188,6 @@
         "line": 1861
       },
       "world": "verrowen"
-    },
-    {
-      "id": "working-notes-a-short-name-2",
-      "type": "note",
-      "name": "a short name",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwa64fba",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- a little secret\n- a well-kept secret\n- the Royal decree",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1874
-      },
-      "world": "verrowen"
-    },
-    {
-      "id": "working-notes-a-short-name-3",
-      "type": "note",
-      "name": "a short name",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwa6uzgo",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or the Kingdom's history._\n\n- The Royal Cipher\n- The Scholar’s Secret\n- The Village Blueprint\n- The Emerald Eye",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1884
-      },
-      "world": "verrowen"
-    },
-    {
-      "id": "working-notes-a-short-name-4",
-      "type": "note",
-      "name": "a short name",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwa7lye3",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- a little green",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1895
-      },
-      "world": "verrowen"
-    },
-    {
-      "id": "a-short-name",
-      "type": "item",
-      "name": "a short name",
-      "icon": "🏺",
-      "category": "Peddlers' wares",
-      "kind": "Relics",
-      "origin": "rest",
-      "status": "pitch",
-      "review_key": "rest:idea-mwa7lye3",
-      "filed": "2026-11-10",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- a little green",
-      "notes": [
-        "working-notes-a-short-name-4"
-      ],
-      "source": {
-        "file": "working-notes.md",
-        "line": 1895
-      }
     },
     {
       "id": "midkemia-the-campaign",
