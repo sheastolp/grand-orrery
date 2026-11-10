@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T17:29:41.563Z",
+  "built": "2026-11-10T17:30:31.873Z",
   "branch": "review",
-  "commit": "37c167dec26a8bd0f7300f2d38a07693eb028392",
+  "commit": "fe894be0674ae2526d3d66844e9c851cb7cff459",
   "counts": {
     "person": 88,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 218,
+    "note": 217,
     "document": 10,
     "map": 4
   },
@@ -1983,7 +1983,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1576
+        "line": 1554
       }
     },
     {
@@ -2010,7 +2010,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1610
+        "line": 1588
       }
     },
     {
@@ -2038,7 +2038,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1634
+        "line": 1612
       }
     },
     {
@@ -2062,7 +2062,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1682
+        "line": 1660
       }
     },
     {
@@ -2082,7 +2082,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1714
+        "line": 1692
       }
     },
     {
@@ -2108,7 +2108,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1780
+        "line": 1758
       }
     },
     {
@@ -2131,7 +2131,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1804
+        "line": 1782
       }
     },
     {
@@ -2151,7 +2151,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1838
+        "line": 1816
       }
     },
     {
@@ -2174,7 +2174,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1903
+        "line": 1881
       }
     }
   ]
