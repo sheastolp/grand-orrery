@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T10:00:09.366Z",
+  "built": "2026-11-10T10:21:14.271Z",
   "branch": "review",
-  "commit": "aec68bd8c37d3bc682b76704bbf86bfda1d5b37c",
+  "commit": "e4fee92b144e9abf43745b3a571fd789c4688368",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 224,
+    "note": 225,
     "document": 10,
     "map": 4
   },
@@ -10433,6 +10433,24 @@
       "mentions": [
         "doric"
       ]
+    },
+    {
+      "id": "working-notes-a-short-name-8",
+      "type": "note",
+      "name": "a short name",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwajhw3l",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- the legendary treasure!",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1993
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
