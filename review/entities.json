@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T13:16:06.526Z",
+  "built": "2026-11-10T13:17:13.348Z",
   "branch": "review",
-  "commit": "cec89ab45742b489d21c3bf43d459dd9e5fee164",
+  "commit": "d63ee6adaf68777f6573a8aaf7035dee6df13474",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10478,7 +10478,7 @@
       "type": "note",
       "name": "What is the most important thing about Stoutwell?",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwanyis7",
