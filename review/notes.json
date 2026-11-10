@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T19:58:05.556Z",
+  "built": "2026-11-10T20:19:47.888Z",
   "branch": "review",
-  "commit": "8a33b4703814cb732a8334d301acea960b09b769",
+  "commit": "887024ed05b0bfe367b776197a612e0a6aa97bac",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 37,
-    "note": 222,
+    "note": 223,
     "document": 10,
     "map": 4
   },
@@ -4470,6 +4470,24 @@
       "mentions": [
         "murrow"
       ]
+    },
+    {
+      "id": "working-notes-whisperwinds-vigil-3",
+      "type": "note",
+      "name": "Whisperwind’s Vigil",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwb4vnxi",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- The Guard maintains a nightly vigil along the western wall overlooking the Monster Wood, relying heavily on the unique abilities of their “Whisperwinds” – halfling scouts trained to listen for subtle signs of approaching danger through heightened hearing and attuned to the sounds of the wood.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2001
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
