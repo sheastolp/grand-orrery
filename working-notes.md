@@ -1303,7 +1303,7 @@ Well, *absolutely*! It’s delightfully primed. Now just give us the flourish...
 
 Excellent! Perfectly streamlined – ready for launch.
 
-### The fishing village: Its name, (undecided) who lives the… (Pitch)
+### The fishing village: Its name, (undecided) who lives the… (Your idea)
 
 <!-- review-key: lore-keeper:3368141a-c2a9-465b-942e-af54e5b28e2c -->
 _From a lore-keeper chat, 2026-11-10 · Regions & places._
