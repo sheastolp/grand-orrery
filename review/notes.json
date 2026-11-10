@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T01:40:49.548Z",
+  "built": "2026-11-10T02:01:47.128Z",
   "branch": "review",
-  "commit": "7d56d40d9ef48f132385cf522cecb14f7602c36e",
+  "commit": "9331363e7fad1ed7701b11ededbb210f168b540d",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 212,
+    "note": 213,
     "document": 10,
     "map": 4
   },
@@ -4251,6 +4251,24 @@
       "source": {
         "file": "working-notes.md",
         "line": 1851
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-a-short-name-3",
+      "type": "note",
+      "name": "a short name",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwa1nn1g",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- a weathered relic\n- a shining gem\n- a well-worn page",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1859
       },
       "world": "verrowen"
     },
