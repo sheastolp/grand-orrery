@@ -1985,7 +1985,7 @@ _Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or t
 - **How it works:**  The three herbs possess potent properties – Nightshade induces temporary paralysis, Rue disrupts spectral forms, and Belladonna dulls emotions, effectively calming hostile intentions.  Elara must recite a short prayer passed down through generations alongside the offering; she's learned that simply throwing them in isn't enough – they have to be presented *with* intent. This requires precise timing: the ritual has to occur during the darkest night and must be performed between midnight and 1 AM. If done correctly, the spirits briefly recognize a gesture of peace within the offerings and cease their aggression; if not, they become enraged and attack. After the completion of the Offering, any lingering magic fades quickly after one hour. A single successful Offering lasts until the next full moon.
 - **Limits:** The effect is entirely dependent on Elara’s ability to focus her intention while reciting the prayer, draining mana from her own body. Prolonged use or failure leads to debilitating weakness and disorientation. The rootwraiths don't disappear, just calm temporarily. Also, attempting to force an offer with less than the required ingredients will result in chaotic surges of energy which can cause unpredictable damage
 
-### Bellweather’s Boon (Pitch)
+### Bellweather’s Boon (Your idea)
 
 <!-- review-key: rest:idea-mwb43rnu -->
 <!-- added by the AI -->
