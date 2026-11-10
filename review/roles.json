@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "built": "2026-11-10T15:41:46.747Z",
+  "built": "2026-11-10T16:29:50.307Z",
   "branch": "review",
-  "commit": "9a360ced69a60479668a4fb831a231eeaa4caad7",
+  "commit": "4a0b615839fb5b403129c1d0c5030f018f709ca9",
   "counts": {
-    "person": 87,
+    "person": 88,
     "role": 11,
     "world": 3,
     "item": 100,
@@ -23,7 +23,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 154
+        "line": 155
       }
     },
     {
@@ -33,7 +33,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 155
+        "line": 156
       }
     },
     {
@@ -43,7 +43,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 156
+        "line": 157
       }
     },
     {
@@ -53,7 +53,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 157
+        "line": 158
       }
     },
     {
@@ -63,7 +63,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 158
+        "line": 159
       }
     },
     {
@@ -73,7 +73,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 159
+        "line": 160
       }
     },
     {
@@ -83,7 +83,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 160
+        "line": 161
       }
     },
     {
@@ -93,7 +93,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 161
+        "line": 162
       }
     },
     {
@@ -103,7 +103,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 162
+        "line": 163
       }
     },
     {
@@ -113,7 +113,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 163
+        "line": 164
       }
     },
     {
@@ -123,7 +123,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 164
+        "line": 165
       }
     }
   ]
