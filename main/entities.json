@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "built": "2026-11-10T15:42:12.232Z",
+  "built": "2026-11-10T16:33:42.079Z",
   "branch": "main",
-  "commit": "9a360ced69a60479668a4fb831a231eeaa4caad7",
+  "commit": "4a0b615839fb5b403129c1d0c5030f018f709ca9",
   "counts": {
-    "person": 87,
+    "person": 88,
     "role": 11,
     "world": 3,
     "item": 100,
@@ -455,6 +455,24 @@
       ]
     },
     {
+      "id": "the-town-crier",
+      "type": "person",
+      "name": "The Town Crier",
+      "race": "Halfling",
+      "sex": "male",
+      "age": 58,
+      "role": "Town crier",
+      "line": "Booming, cheerful and impossible to ignore — remarkable in a halfling. Rings the bell at the market cross, calls every notice exactly as it's written, and makes a small ceremony of it. Fond of a tankard once the last call is done.",
+      "world": "verrowen",
+      "section": "Stoutwell: the village",
+      "place": "stoutwell",
+      "status": "decided",
+      "source": {
+        "file": "roster.md",
+        "line": 32
+      }
+    },
+    {
       "id": "glumtom",
       "type": "person",
       "name": "Glumtom",
@@ -469,7 +487,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 37
+        "line": 38
       },
       "mentioned_in": [
         "lore-beyond",
@@ -509,7 +527,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 45
+        "line": 46
       },
       "mentioned_in": [
         "universe-the-scribe-the-peddlers-and-the-wandering-clerk",
@@ -534,7 +552,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 46
+        "line": 47
       },
       "mentioned_in": [
         "lore-beyond",
@@ -557,7 +575,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 52
+        "line": 53
       },
       "mentioned_in": [
         "universe-the-capital-peddlers",
@@ -578,7 +596,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 53
+        "line": 54
       },
       "mentioned_in": [
         "lore-beyond",
@@ -601,7 +619,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 54
+        "line": 55
       },
       "mentioned_in": [
         "universe-the-scribe-the-peddlers-and-the-wandering-clerk",
@@ -623,7 +641,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 55
+        "line": 56
       },
       "notes": [
         "working-notes-marda-the-reformed-cutpurse"
@@ -648,7 +666,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 56
+        "line": 57
       },
       "mentioned_in": [
         "universe-the-capital-peddlers",
@@ -669,7 +687,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 57
+        "line": 58
       },
       "mentioned_in": [
         "universe-the-capital-peddlers",
@@ -690,7 +708,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 58
+        "line": 59
       },
       "mentioned_in": [
         "universe-the-capital-peddlers",
@@ -711,7 +729,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 59
+        "line": 60
       },
       "mentioned_in": [
         "universe-the-capital-peddlers",
@@ -732,7 +750,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 60
+        "line": 61
       },
       "mentioned_in": [
         "universe-the-capital-peddlers",
@@ -753,7 +771,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 61
+        "line": 62
       },
       "mentioned_in": [
         "universe-the-capital-peddlers",
@@ -774,7 +792,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 62
+        "line": 63
       },
       "mentioned_in": [
         "universe-the-capital-peddlers",
@@ -795,7 +813,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 63
+        "line": 64
       },
       "mentioned_in": [
         "universe-the-capital-peddlers",
@@ -816,7 +834,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 69
+        "line": 70
       },
       "mentioned_in": [
         "lore-beyond",
@@ -838,7 +856,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 70
+        "line": 71
       },
       "mentioned_in": [
         "lore-beyond",
@@ -860,7 +878,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 71
+        "line": 72
       },
       "mentioned_in": [
         "lore-beyond",
@@ -883,7 +901,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 72
+        "line": 73
       },
       "mentioned_in": [
         "lore-beyond",
@@ -906,7 +924,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 73
+        "line": 74
       },
       "mentioned_in": [
         "lore-beyond",
@@ -928,7 +946,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 74
+        "line": 75
       },
       "mentioned_in": [
         "lore-beyond",
@@ -950,7 +968,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 75
+        "line": 76
       },
       "mentioned_in": [
         "lore-beyond",
@@ -972,7 +990,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 76
+        "line": 77
       },
       "mentioned_in": [
         "lore-beyond",
@@ -994,7 +1012,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 77
+        "line": 78
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1022,7 +1040,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 85
+        "line": 86
       }
     },
     {
@@ -1045,7 +1063,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 86
+        "line": 87
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1072,7 +1090,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 87
+        "line": 88
       }
     },
     {
@@ -1094,7 +1112,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 88
+        "line": 89
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1118,7 +1136,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 89
+        "line": 90
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1144,7 +1162,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 90
+        "line": 91
       }
     },
     {
@@ -1163,7 +1181,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 91
+        "line": 92
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1189,7 +1207,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 92
+        "line": 93
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1216,7 +1234,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 93
+        "line": 94
       },
       "notes": [
         "working-notes-give-xabs-character-a-joke-pot-of-greed-make-it-functi"
@@ -1241,7 +1259,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 94
+        "line": 95
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1268,7 +1286,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 95
+        "line": 96
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1292,7 +1310,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 96
+        "line": 97
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1315,7 +1333,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 97
+        "line": 98
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1341,7 +1359,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 98
+        "line": 99
       }
     },
     {
@@ -1360,7 +1378,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 99
+        "line": 100
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1383,7 +1401,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 100
+        "line": 101
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1406,7 +1424,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 101
+        "line": 102
       }
     },
     {
@@ -1425,7 +1443,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 102
+        "line": 103
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1448,7 +1466,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 103
+        "line": 104
       }
     },
     {
@@ -1467,7 +1485,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 104
+        "line": 105
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1490,7 +1508,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 105
+        "line": 106
       },
       "mentioned_in": [
         "universe-novices"
@@ -1512,7 +1530,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 106
+        "line": 107
       }
     },
     {
@@ -1531,7 +1549,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 107
+        "line": 108
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1554,7 +1572,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 108
+        "line": 109
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1577,7 +1595,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 109
+        "line": 110
       }
     },
     {
@@ -1596,7 +1614,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 110
+        "line": 111
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1619,7 +1637,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 111
+        "line": 112
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1642,7 +1660,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 112
+        "line": 113
       }
     },
     {
@@ -1661,7 +1679,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 113
+        "line": 114
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1684,7 +1702,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 114
+        "line": 115
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1707,7 +1725,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 115
+        "line": 116
       },
       "mentioned_in": [
         "lore-beyond",
@@ -1730,7 +1748,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 116
+        "line": 117
       }
     },
     {
@@ -1749,7 +1767,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 117
+        "line": 118
       },
       "mentioned_in": [
         "universe-novices"
@@ -1768,7 +1786,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 125
+        "line": 126
       },
       "mentioned_in": [
         "lore-other-worlds",
@@ -1811,7 +1829,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 126
+        "line": 127
       },
       "mentioned_in": [
         "lore-other-worlds",
@@ -1836,7 +1854,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 127
+        "line": 128
       },
       "mentioned_in": [
         "lore-other-worlds",
@@ -1859,7 +1877,7 @@
       "status": "dm-lore",
       "source": {
         "file": "roster.md",
-        "line": 135
+        "line": 136
       },
       "mentioned_in": [
         "working-notes-at-the-table",
@@ -1885,7 +1903,7 @@
       "status": "dm-lore",
       "source": {
         "file": "roster.md",
-        "line": 136
+        "line": 137
       },
       "mentioned_in": [
         "midkemia-the-party"
@@ -1903,7 +1921,7 @@
       "status": "dm-lore",
       "source": {
         "file": "roster.md",
-        "line": 137
+        "line": 138
       }
     },
     {
@@ -1916,7 +1934,7 @@
       "status": "dm-lore",
       "source": {
         "file": "roster.md",
-        "line": 138
+        "line": 139
       },
       "mentioned_in": [
         "midkemia-the-party"
@@ -1932,7 +1950,7 @@
       "status": "dm-lore",
       "source": {
         "file": "roster.md",
-        "line": 139
+        "line": 140
       },
       "mentioned_in": [
         "midkemia-the-party"
@@ -1948,7 +1966,7 @@
       "status": "dm-lore",
       "source": {
         "file": "roster.md",
-        "line": 140
+        "line": 141
       },
       "mentioned_in": [
         "midkemia-the-party"
@@ -1965,7 +1983,7 @@
       "status": "dm-lore",
       "source": {
         "file": "roster.md",
-        "line": 141
+        "line": 142
       },
       "mentioned_in": [
         "midkemia-the-party"
@@ -1983,7 +2001,7 @@
       "status": "dm-lore",
       "source": {
         "file": "roster.md",
-        "line": 142
+        "line": 143
       },
       "mentioned_in": [
         "midkemia-the-quest",
@@ -2002,7 +2020,7 @@
       "status": "dm-lore",
       "source": {
         "file": "roster.md",
-        "line": 143
+        "line": 144
       },
       "mentioned_in": [
         "midkemia-kegamosa",
@@ -2021,7 +2039,7 @@
       "status": "dm-lore",
       "source": {
         "file": "roster.md",
-        "line": 144
+        "line": 145
       },
       "mentioned_in": [
         "midkemia-the-carnival"
@@ -2038,7 +2056,7 @@
       "status": "dm-lore",
       "source": {
         "file": "roster.md",
-        "line": 145
+        "line": 146
       },
       "mentioned_in": [
         "midkemia-the-wilds-of-rylan-pirate-island",
@@ -2059,7 +2077,7 @@
       "status": "dm-lore",
       "source": {
         "file": "roster.md",
-        "line": 146
+        "line": 147
       },
       "mentioned_in": [
         "working-notes-at-the-table",
@@ -2079,7 +2097,7 @@
       "status": "dm-lore",
       "source": {
         "file": "roster.md",
-        "line": 147
+        "line": 148
       },
       "mentioned_in": [
         "midkemia-bitterbridge",
@@ -2098,7 +2116,7 @@
       "status": "dm-lore",
       "source": {
         "file": "roster.md",
-        "line": 148
+        "line": 149
       },
       "mentioned_in": [
         "midkemia-bitterbridge",
@@ -2112,7 +2130,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 154
+        "line": 155
       }
     },
     {
@@ -2122,7 +2140,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 155
+        "line": 156
       }
     },
     {
@@ -2132,7 +2150,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 156
+        "line": 157
       }
     },
     {
@@ -2142,7 +2160,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 157
+        "line": 158
       }
     },
     {
@@ -2152,7 +2170,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 158
+        "line": 159
       }
     },
     {
@@ -2162,7 +2180,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 159
+        "line": 160
       }
     },
     {
@@ -2172,7 +2190,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 160
+        "line": 161
       }
     },
     {
@@ -2182,7 +2200,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 161
+        "line": 162
       }
     },
     {
@@ -2192,7 +2210,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 162
+        "line": 163
       }
     },
     {
@@ -2202,7 +2220,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 163
+        "line": 164
       }
     },
     {
@@ -2212,7 +2230,7 @@
       "status": "open",
       "source": {
         "file": "roster.md",
-        "line": 164
+        "line": 165
       }
     },
     {
@@ -2232,7 +2250,7 @@
       "status": "decided",
       "source": {
         "file": "roster.md",
-        "line": 119
+        "line": 120
       }
     },
     {
@@ -2242,7 +2260,7 @@
       "status": "dm-lore",
       "source": {
         "file": "roster.md",
-        "line": 129
+        "line": 130
       }
     },
     {
