@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T07:55:19.417Z",
+  "built": "2026-11-10T08:15:53.922Z",
   "branch": "review",
-  "commit": "5eb6f531af5b4d13b3e53ea0f9fc04541a5dafd5",
+  "commit": "0baf6e0f41c766505a7f5da4497b14af25fa27dd",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 218,
+    "note": 219,
     "document": 10,
     "map": 4
   },
@@ -4361,6 +4361,27 @@
         "line": 1917
       },
       "world": "verrowen"
+    },
+    {
+      "id": "working-notes-what-does-the-king-say",
+      "type": "note",
+      "name": "What does the King say?",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwaf0rws",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- IDEA: The King’s decree! It speaks of the greatest treasure – the Sparkling Jewel of Verdant Valley - which must be delivered to the Royal Palace by the end of next week. Only those with impeccable manners and a steady supply of honey cakes will be deemed worthy of its reward. A royal inspection is planned for all. He needs someone to oversee the task and ensure it goes smoothly—a simple, diligent elf named Elara Swiftleaf from the Greenwood, or a loyal halfling named Doric. Her duties include overseeing the delivery of supplies, keeping an eye on the workers, ensuring everyone is happy, and verifying everything is accounted for. If she works well, then they' very likely need her! Moreover, there is always a little extra sparkle to make this event even more enticing in the eyes of a discerning royal patron, like Lord Beaumont himself, who believes that beauty makes for a good ruler (and a prosperous kingdom!). And finally, the royal herald, Bartholomew Brightside, says his own little praises for Elara’s swiftness, and promises a few bonuses to keep her happy. The King has plans for young and old. He wishes for her to ensure the treasures are secured for when he returns to town. The King has a small plan for the future of the village as well– he wants to boost their economy through investments such as more roads, more buildings and more merchants! It's about solidifying his power - one shimmering jewel at a time.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1930
+      },
+      "world": "verrowen",
+      "mentions": [
+        "doric"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
