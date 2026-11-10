@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T05:04:27.376Z",
+  "built": "2026-11-10T13:42:44.316Z",
   "branch": "main",
-  "commit": "875820c5e9a941bf4b878c2ccd6c06ec7256d685",
+  "commit": "34353d1c32829be1b314e20ba173232fdbf64ac0",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 99,
+    "item": 100,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 212,
+    "note": 217,
     "document": 10,
     "map": 4
   },
@@ -214,7 +214,8 @@
         "working-notes-reinforced-gatehouse-beams",
         "working-notes-resonance-stone-device",
         "working-notes-village-roster-2",
-        "working-notes-whisperwinds-toast-2"
+        "working-notes-whisperwinds-toast-2",
+        "working-notes-what-is-the-most-important-thing-about-stoutwell"
       ]
     },
     {
@@ -270,7 +271,10 @@
         "working-notes-whisperwinds-relic-featherhook",
         "working-notes-a-whisper-of-magic",
         "working-notes-a-little-bit-more",
-        "working-notes-what-is-it"
+        "working-notes-what-is-it",
+        "working-notes-what-does-the-king-say",
+        "working-notes-what-does-it-mean",
+        "working-notes-what-is-the-most-important-thing-about-stoutwell"
       ]
     },
     {
@@ -305,7 +309,8 @@
         "working-notes-rooks-watch",
         "working-notes-monstradius-peculiar-pipe",
         "working-notes-a-whisper-of-magic",
-        "working-notes-blight-watch"
+        "working-notes-blight-watch",
+        "working-notes-what-is-the-most-important-thing-about-stoutwell"
       ]
     },
     {
@@ -390,7 +395,8 @@
         "working-notes-whispersong-crystals",
         "working-notes-liora-finchling",
         "working-notes-murrows-harvest-blessing",
-        "working-notes-whisperwinds-relic-featherhook"
+        "working-notes-whisperwinds-relic-featherhook",
+        "working-notes-what-is-the-most-important-thing-about-stoutwell"
       ]
     },
     {
