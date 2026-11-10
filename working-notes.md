@@ -1858,7 +1858,7 @@ _Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stout
 - DEFENSE AND LAW: The Guard rotation ensures smooth sailing; the Guard Tithe checks and balances, with coins flowing freely thanks to the friendly Halflings in the Village Workers, and the steady work done by the hardworking, well-paid Woodworkers. For stability, they have robust policies—the well-kept ledgers and efficient practices guarantee things run like clockwork, overseen by the reliable and kind Hearthcircle members, especially the respected Wendeline. A few simple rules keep everyone happy: it’s all about good manners and fair exchange – everything is agreed upon.
 - LEADERSHIP: The Hearthcircle leaders are chosen for their wisdom and kindness, particularly the warm and welcoming Eldery, who ensure that everyone feels welcome, and the wise Bertram has a little more than two years on the job. He’s got a gentle touch when it comes to keeping
 
-### Keepers of the Key (Pitch)
+### Keepers of the Key (Your idea)
 
 <!-- review-key: rest:idea-mwa5e32p -->
 <!-- added by the AI -->
