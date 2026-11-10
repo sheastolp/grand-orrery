@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T02:43:49.199Z",
+  "built": "2026-11-10T03:04:47.043Z",
   "branch": "review",
-  "commit": "d6e38124ece8b99559069af4cc493dd78886827a",
+  "commit": "363f1b9541ee557cef120a616bf150e3c9c9da2b",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 215,
+    "note": 216,
     "document": 10,
     "map": 4
   },
@@ -10244,6 +10244,24 @@
         "doric",
         "hesketh-reeve"
       ]
+    },
+    {
+      "id": "working-notes-a-short-name-5",
+      "type": "note",
+      "name": "a short name",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwa3wprh",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- the wellspring",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1887
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
