@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T15:23:51.513Z",
+  "built": "2026-11-10T15:33:56.258Z",
   "branch": "review",
-  "commit": "390770e0004573ac017fccbe00f5abdcd8beb9e3",
+  "commit": "c6c3159b71cb516e1a55d1509f45100451f5184b",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 223,
+    "note": 224,
     "document": 10,
     "map": 4
   },
@@ -4461,6 +4461,24 @@
       "source": {
         "file": "working-notes.md",
         "line": 1972
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-a-short-name-6",
+      "type": "note",
+      "name": "a short name",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwauo1w1",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- the hidden well",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1980
       },
       "world": "verrowen"
     },
