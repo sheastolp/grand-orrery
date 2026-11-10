@@ -1891,3 +1891,16 @@ _Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stout
 _Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._
 
 - the wellspring
+
+### Keepers of the Key (Pitch)
+
+<!-- review-key: rest:idea-mwa5e32p -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- TONE: Adventurous and whimsical, hinting at mystery and magic!
+- WORLD: Lush, green valleys dotted with sparkling waterfalls, quaint villages nestled amongst rolling hills, and friendly villagers welcoming visitors with warm smiles. Towering trees provide shade for bustling markets filled with colorful goods. And the Royal Castle glows brightly, adorned with shimmering jewels and banners fluttering in the breeze. A cheerful melody accompanies the flow of life for all.
+- ARTIFICERS: Princess Lilybell, a renowned herbalist and healer; brave Sir Reginald Boldfoot, master knight and protector of the realm; Jasper Finch, clever alchemist whose potions sparkle with magic; gentle Maeve Willowbrook, wise oracle, blessed with accurate visions.
+- ITEMS: Sparkling gemstones, enchanted arrows, loyal steeds, well-preserved maps, charming trinkets.
+- LIFE: Villagers have lots of fun jobs - tending crops, crafting beautiful wares, or entertaining guests with stories and songs. They celebrate festivals with feasting, merry greetings and good cheer. There are lots of opportunities to make friends (or acquire a favor) within the village. Good manners are key to happiness. Everything is calm, peaceful, and full of happy laughter. The best part? Every single day brings fresh adventures, cozy evenings, and plenty of sunshine.
+- DEFENSE AND LAW: Simple and straightforward – mostly friendly greetings and smiles! Protecting the kingdom’ the villagers' best knights, guardians, and loyal guards who uphold the law. Lots of checks and balances, as well.
