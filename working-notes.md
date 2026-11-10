@@ -1848,14 +1848,6 @@ _Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or t
 - ITEMS: A freshly polished silver coin, perhaps a sturdy horseshoe, a hand-woven scarf, or one of Doric's trusty tools – a sharpened arrow tip, gleaming bright.
 - DEFENSE AND LAW: Protection through tradition, guided by the Elders and the watchful Guard.
 
-### a short name (Pitch)
-
-<!-- review-key: rest:idea-mwa2eruc -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's guild hall keeps, does or is known for._
-
-- the hidden path
-
 ### What makes Stoutwell special? (Pitch)
 
 <!-- review-key: rest:idea-mwa35q70 -->
