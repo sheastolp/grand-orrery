@@ -1903,14 +1903,6 @@ _Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or r
 
 - the Village
 
-### a short name (Pitch)
-
-<!-- review-key: rest:idea-mwahzvfy -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
-
-- the beastly
-
 ### What does it mean? (Pitch)
 
 <!-- review-key: rest:idea-mwaiqu5x -->
