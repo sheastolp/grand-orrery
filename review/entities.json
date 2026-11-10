@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T20:19:47.888Z",
+  "built": "2026-11-10T20:41:41.830Z",
   "branch": "review",
-  "commit": "887024ed05b0bfe367b776197a612e0a6aa97bac",
+  "commit": "240ff0b7a5b62337bc9067f662566b47b7568545",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 37,
-    "note": 223,
+    "note": 224,
     "document": 10,
     "map": 4
   },
@@ -317,7 +317,8 @@
         "working-notes-a-whisper-of-magic",
         "working-notes-blight-watch",
         "working-notes-what-is-the-most-important-thing-about-stoutwell",
-        "working-notes-the-silent-offering-2"
+        "working-notes-the-silent-offering-2",
+        "working-notes-monstradius-peculiar-pipe-2"
       ]
     },
     {
@@ -409,7 +410,8 @@
         "working-notes-whisperwinds-relic-featherhook",
         "working-notes-what-is-the-most-important-thing-about-stoutwell",
         "working-notes-brackwoods-whimsy-2",
-        "working-notes-bellweathers-boon"
+        "working-notes-bellweathers-boon",
+        "working-notes-monstradius-peculiar-pipe-2"
       ]
     },
     {
@@ -10576,6 +10578,36 @@
         "line": 2001
       },
       "world": "verrowen"
+    },
+    {
+      "id": "working-notes-monstradius-peculiar-pipe-2",
+      "type": "note",
+      "name": "Monstradius’ Peculiar Pipe",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwb5nv6z",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Monstradius, the artificer who runs the shop “Monstradius,” keeps a peculiar pipe carved from blackened ashwood – harvested from trees growing only in the Ashen Reach – that he uses to collect stray mana. It isn't for smoking; he never uses tobacco or anything else. Instead, the pipe subtly draws ambient mana into itself, creating a faint hum detectable by skilled artificers like Murrow.",
+        "who": "Primarily used by Monstradius himself, though occasionally Hesketh Reeve will visit with complaints about aching joints and ask if Monstradius can ‘quiet the noise.’ The Elderhold suspects something and has set up discreet observation posts around the shop.",
+        "where": "Located within Monstradius' workshop, nestled amongst his arcane devices and experimental tools.  It sits on a small pedestal near a complex array of resonators, constantly emitting a barely perceptible vibration.",
+        "how_it_works": "The ashwood acts as a surprisingly efficient conductor and collector of low-level mana, passively absorbing it over time. When filled with enough mana, the pipe emits a distinct, rhythmic thrum—a signal that Monstradius monitors closely. This collected mana isn't stored directly, but instead flows through the instrument to augment other creations or perform minor enchantments.",
+        "limits": "The pipe’s capacity is limited - roughly equivalent to one short healing spell cast at once. Overuse drains its effectiveness, requiring several days to recharge in a location saturated with natural magic (like the Ashen Reach). Exposure to particularly chaotic magic disrupts its function temporarily.",
+        "ties": "It was crafted using wood from the Ashen Reach – a region known for strange magical residue due to an ancient, partially contained rift—and mirrors Monstradius’ secretive pursuit of understanding unstable magic and how to harness energies beyond conventional means. He claims it helps him maintain focus while conducting dangerous experiments, and he has been seen carefully cleaning the intricate carvings when no one else is around."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- **What it is:** Monstradius, the artificer who runs the shop “Monstradius,” keeps a peculiar pipe carved from blackened ashwood – harvested from trees growing only in the Ashen Reach – that he uses to collect stray mana. It isn't for smoking; he never uses tobacco or anything else. Instead, the pipe subtly draws ambient mana into itself, creating a faint hum detectable by skilled artificers like Murrow.\n- **Who:** Primarily used by Monstradius himself, though occasionally Hesketh Reeve will visit with complaints about aching joints and ask if Monstradius can ‘quiet the noise.’ The Elderhold suspects something and has set up discreet observation posts around the shop.\n- **Where:** Located within Monstradius' workshop, nestled amongst his arcane devices and experimental tools.  It sits on a small pedestal near a complex array of resonators, constantly emitting a barely perceptible vibration.\n- **How it works:** The ashwood acts as a surprisingly efficient conductor and collector of low-level mana, passively absorbing it over time. When filled with enough mana, the pipe emits a distinct, rhythmic thrum—a signal that Monstradius monitors closely. This collected mana isn't stored directly, but instead flows through the instrument to augment other creations or perform minor enchantments.\n- **Limits:** The pipe’s capacity is limited - roughly equivalent to one short healing spell cast at once. Overuse drains its effectiveness, requiring several days to recharge in a location saturated with natural magic (like the Ashen Reach). Exposure to particularly chaotic magic disrupts its function temporarily.\n- **Ties:** It was crafted using wood from the Ashen Reach – a region known for strange magical residue due to an ancient, partially contained rift—and mirrors Monstradius’ secretive pursuit of understanding unstable magic and how to harness energies beyond conventional means. He claims it helps him maintain focus while conducting dangerous experiments, and he has been seen carefully cleaning the intricate carvings when no one else is around.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2009
+      },
+      "world": "verrowen",
+      "mentions": [
+        "hesketh-reeve",
+        "murrow"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
