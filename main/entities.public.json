@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T19:02:42.343Z",
+  "built": "2026-11-10T19:11:48.394Z",
   "branch": "main",
-  "commit": "570d0e8ebdc3a249a14f9c6d2151fed5da99464e",
+  "commit": "ec112954880f597318b99e4aed1ea039f3e59fc4",
   "counts": {
     "person": 89,
     "role": 11,
     "world": 3,
     "item": 100,
     "place": 15,
-    "creature": 18,
-    "lore": 34,
-    "note": 220,
+    "creature": 17,
+    "lore": 37,
+    "note": 219,
     "document": 10,
     "map": 4
   },
@@ -205,6 +205,7 @@
       },
       "mentioned_in": [
         "lore-people",
+        "lore-people-4",
         "universe-tobin-ashby",
         "working-notes-the-character",
         "working-notes-trades-crafts",
@@ -243,6 +244,8 @@
         "lore-items-2",
         "lore-items-3",
         "lore-people-2",
+        "lore-items-4",
+        "lore-people-4",
         "universe-maps",
         "universe-layout",
         "universe-trades",
@@ -342,6 +345,8 @@
         "lore-items-3",
         "lore-magic-4",
         "lore-people-2",
+        "lore-items-4",
+        "lore-people-4",
         "universe-healers",
         "universe-water-and-the-dead-well",
         "universe-layout",
@@ -2283,6 +2288,7 @@
         "lore-resources",
         "lore-items-2",
         "lore-items-3",
+        "lore-items-4",
         "universe-murrows-items",
         "working-notes-murrow-the-artificer",
         "working-notes-monstradius-items",
@@ -2318,6 +2324,7 @@
         "lore-resources",
         "lore-items-2",
         "lore-items-3",
+        "lore-items-4",
         "universe-trades",
         "universe-doric",
         "universe-murrows-items",
@@ -2387,6 +2394,7 @@
         "lore-resources",
         "lore-items-2",
         "lore-items-3",
+        "lore-items-4",
         "universe-murrows-items",
         "universe-beyond-the-village",
         "working-notes-monstradius-items",
@@ -2421,6 +2429,7 @@
       "mentioned_in": [
         "lore-items",
         "lore-items-2",
+        "lore-items-4",
         "universe-murrows-items",
         "working-notes-murrow-the-artificer",
         "working-notes-monstradius-items",
@@ -2742,7 +2751,8 @@
       "mentioned_in": [
         "lore-resources",
         "lore-items-2",
-        "lore-items-3"
+        "lore-items-3",
+        "lore-items-4"
       ]
     },
     {
@@ -2817,6 +2827,7 @@
       "mentioned_in": [
         "lore-resources",
         "lore-items-2",
+        "lore-items-4",
         "universe-trades"
       ]
     },
@@ -5127,6 +5138,57 @@
       },
       "mentions": [
         "the-wellhouse-family"
+      ]
+    },
+    {
+      "id": "lore-magic-5",
+      "type": "lore",
+      "name": "MAGIC",
+      "text": "Common but weak. It assists work, it doesn’t replace it. Types: elemental (wind, fire, earth), strength enhancement, detection. Everyday uses include mending torn or cracked things and loosening or firming soil. Healing specialists are very rare and only ever human, from humans’ affinity for it; a small or medium village may have 2 or 3 at a time (Stoutwell has 2). Healers use magic to assist the body’s own healing. Artificers aren’t healers but can still heal, leaning on natural healing and on drawing other people’s healing magic, sometimes nefariously. A fire user who can boil a pot of water counts as super skilled. Everyone has a well of mana. It refills more slowly than the body heals, and there’s no visible bar. Running out (mana deprivation) causes sickness, dizziness or passing out. Fire is the opposite of cold, so a fire user low on mana grows cold, more so the emptier they are. Elves are most magical, then humans, then halflings. People can have latent magic they don’t know about. Objects hold mana but can’t make it. A charged item normally works only for the person whose mana is in it; a very rare ability, nearly as rare as artificing, lets an item work without its owner. Wind users are rare and far more often human. Strength enhancement is fairly common (Tobin uses it to hammer hot steel). GuildScribe's guild hall keeps resonance stone devices to monitor fluctuations in mana signatures – primarily those originating from disturbances or monstrous activity within half a mile radius. These don’t actively detect monsters, registering unnatural shifts in energy correlating with their presence.",
+      "order": 35,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 40
+      }
+    },
+    {
+      "id": "lore-items-4",
+      "type": "lore",
+      "name": "ITEMS",
+      "text": "Hearthstones are charged river stones; the Truthglass is rare clear quartz; mirrorstone is rare black glass shaped by magic. Doric forges iron (Featherhook hooks to Murrow’s specifications, the Guard’s gear, ornate work) with a smith’s hammer. Timber comes from dead-tree runs, is cut at the lumber mill and stored in the lumber yard. A few short, twisted ash trees grow on the Ashen Reach; their dense, tough wood is too short for beams but prized by the woodworkers for tool handles, weapon hilts and arrow shafts. Leather comes from the herders’ cattle, worked at the tannery, and clothes everyone. The grain mill grinds flour. The fishing settlement’s catch feeds Stoutwell. The halfling Guard fights behind big shields; human archers carry bows. Coin is gold, silver and copper; Murrow takes coin or barter on the same terms for everyone, and his rare items cost more than people expect. The Rift compass doesn’t point to a world: it shows how thick the rifts are nearby, and a needle twitching wildly means many unstable tears. It can’t tell you which world a rift leads to.",
+      "order": 36,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 41
+      },
+      "mentions": [
+        "doric",
+        "murrow",
+        "hearthstone",
+        "featherhook",
+        "truthglass",
+        "rift-compass",
+        "timber",
+        "leather"
+      ]
+    },
+    {
+      "id": "lore-people-4",
+      "type": "lore",
+      "name": "PEOPLE",
+      "text": "Tobin Ashby (halfling, 33, blacksmith's apprentice; determined, loyal, efficient). Doric (halfling, 67, strict, proud master smith; stung that the Hearthcircle buys its fine metalwork from the capital, not him). Murrow (artificer over 550 years old, race unknown, hidden under a deep hood; cold and businesslike, never mean; fears the Kingdom; his",
+      "order": 37,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 42
+      },
+      "mentions": [
+        "tobin-ashby",
+        "doric",
+        "murrow"
       ]
     },
     {
@@ -10375,66 +10437,6 @@
         "hesketh-reeve",
         "murrow"
       ]
-    },
-    {
-      "id": "working-notes-whisperwinds-vigil-3",
-      "type": "note",
-      "name": "Whisperwind’s Vigil",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwb24i3p",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "fields": {
-        "the_idea": "Within the depths of the Monster Wood, near the edge where the sickly grey soil begins, dwells a creature called a Rook – a spectral hound with eyes like polished obsidian that patrols the borders of the village, alerting the Guard to any disturbances or encroaching threats within the darkwood.",
-        "what_it_is": "A Rook is not truly alive, but rather a lingering echo of a powerful earth spirit corrupted by the Blight. It manifests as a large, shadowy canine form—roughly the size of a draft horse—with feathers instead of fur along its spine, perpetually wreathed in swirling mist. These mists aren't cold, but carry a faint scent of decaying leaves and damp stone.",
-        "who": "The Rooks are overseen by Whisperwind, an ancient, almost forgotten Guardian spirit bound to the area around Stoutwell. She appears sporadically at the edges of the patrol, guiding the Rook’s movements through subtle shifts in wind currents.",
-        "where": "They primarily patrol the western border of the Monster Wood, focusing on the immediate vicinity of the Brackwood Fringe - a particularly dense tangle of twisted trees and thorny undergrowth. Their range extends approximately half a mile from the village walls before fading into nothingness.",
-        "how_it_works": "Whisperwind doesn’t directly control the Rook; she influences it via minute changes in the air pressure, creating instinctive urges and heightened senses in the spectral hound. When danger approaches – a goblin raiding party, a rootwyrm emerging from the soil, even just unusually loud noises within the wood – the Rook will begin to circle, emitting a low growl that intensifies with the perceived threat. Its obsidian eyes glow faintly when focused on potential dangers. It does not actively attack, but alerts the Guard. If something is moving quickly or has unnatural strength, the Rook lets out a piercing howl—a warning signal only it can hear. Hesketh uses this as his “Watch” during the night rotation.",
-        "limits": "The Rook's influence wanes drastically after sunset, becoming almost entirely passive. During the day, it sleeps, drifting amongst the shadows. Also, the Blight itself"
-      },
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **The Idea:** Within the depths of the Monster Wood, near the edge where the sickly grey soil begins, dwells a creature called a Rook – a spectral hound with eyes like polished obsidian that patrols the borders of the village, alerting the Guard to any disturbances or encroaching threats within the darkwood.\n- **What it is:** A Rook is not truly alive, but rather a lingering echo of a powerful earth spirit corrupted by the Blight. It manifests as a large, shadowy canine form—roughly the size of a draft horse—with feathers instead of fur along its spine, perpetually wreathed in swirling mist. These mists aren't cold, but carry a faint scent of decaying leaves and damp stone.\n- **Who:** The Rooks are overseen by Whisperwind, an ancient, almost forgotten Guardian spirit bound to the area around Stoutwell. She appears sporadically at the edges of the patrol, guiding the Rook’s movements through subtle shifts in wind currents.\n- **Where:** They primarily patrol the western border of the Monster Wood, focusing on the immediate vicinity of the Brackwood Fringe - a particularly dense tangle of twisted trees and thorny undergrowth. Their range extends approximately half a mile from the village walls before fading into nothingness.\n- **How it works:**  Whisperwind doesn’t directly control the Rook; she influences it via minute changes in the air pressure, creating instinctive urges and heightened senses in the spectral hound. When danger approaches – a goblin raiding party, a rootwyrm emerging from the soil, even just unusually loud noises within the wood – the Rook will begin to circle, emitting a low growl that intensifies with the perceived threat. Its obsidian eyes glow faintly when focused on potential dangers. It does not actively attack, but alerts the Guard. If something is moving quickly or has unnatural strength, the Rook lets out a piercing howl—a warning signal only it can hear. Hesketh uses this as his “Watch” during the night rotation.\n- **Limits:** The Rook's influence wanes drastically after sunset, becoming almost entirely passive. During the day, it sleeps, drifting amongst the shadows. Also, the Blight itself",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1968
-      },
-      "world": "verrowen"
-    },
-    {
-      "id": "whisperwinds-vigil-3",
-      "type": "creature",
-      "name": "Whisperwind’s Vigil",
-      "origin": "rest",
-      "status": "pitch",
-      "world": "verrowen",
-      "review_key": "rest:idea-mwb24i3p",
-      "filed": "2026-11-10",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **The Idea:** Within the depths of the Monster Wood, near the edge where the sickly grey soil begins, dwells a creature called a Rook – a spectral hound with eyes like polished obsidian that patrols the borders of the village, alerting the Guard to any disturbances or encroaching threats within the darkwood.\n- **What it is:** A Rook is not truly alive, but rather a lingering echo of a powerful earth spirit corrupted by the Blight. It manifests as a large, shadowy canine form—roughly the size of a draft horse—with feathers instead of fur along its spine, perpetually wreathed in swirling mist. These mists aren't cold, but carry a faint scent of decaying leaves and damp stone.\n- **Who:** The Rooks are overseen by Whisperwind, an ancient, almost forgotten Guardian spirit bound to the area around Stoutwell. She appears sporadically at the edges of the patrol, guiding the Rook’s movements through subtle shifts in wind currents.\n- **Where:** They primarily patrol the western border of the Monster Wood, focusing on the immediate vicinity of the Brackwood Fringe - a particularly dense tangle of twisted trees and thorny undergrowth. Their range extends approximately half a mile from the village walls before fading into nothingness.\n- **How it works:**  Whisperwind doesn’t directly control the Rook; she influences it via minute changes in the air pressure, creating instinctive urges and heightened senses in the spectral hound. When danger approaches – a goblin raiding party, a rootwyrm emerging from the soil, even just unusually loud noises within the wood – the Rook will begin to circle, emitting a low growl that intensifies with the perceived threat. Its obsidian eyes glow faintly when focused on potential dangers. It does not actively attack, but alerts the Guard. If something is moving quickly or has unnatural strength, the Rook lets out a piercing howl—a warning signal only it can hear. Hesketh uses this as his “Watch” during the night rotation.\n- **Limits:** The Rook's influence wanes drastically after sunset, becoming almost entirely passive. During the day, it sleeps, drifting amongst the shadows. Also, the Blight itself",
-      "notes": [
-        "working-notes-whisperwinds-vigil-3"
-      ],
-      "source": {
-        "file": "working-notes.md",
-        "line": 1968
-      },
-      "icon": "🌿",
-      "fields": {
-        "does": "A Rook is not truly alive, but rather a lingering echo of a powerful earth spirit corrupted by the Blight. It manifests as a large, shadowy canine form—roughly the size of a draft horse—with feathers instead of fur along its spine, perpetually wreathed in swirling mist. These mists aren't cold, but carry a faint scent of decaying leaves and damp stone.",
-        "limits": "The Rook's influence wanes drastically after sunset, becoming almost entirely passive. During the day, it sleeps, drifting amongst the shadows. Also, the Blight itself",
-        "where": "They primarily patrol the western border of the Monster Wood, focusing on the immediate vicinity of the Brackwood Fringe - a particularly dense tangle of twisted trees and thorny undergrowth. Their range extends approximately half a mile from the village walls before fading into nothingness.",
-        "stats": "CR 5 · AC 16 · HP 95 · +7 to hit · 2d8+4"
-      },
-      "place": "place-the-monster-woods-western-edge",
-      "stats_made": true,
-      "stats": {
-        "cr": "5",
-        "ac": 16,
-        "hp": 95,
-        "to_hit": 7,
-        "damage": "2d8+4"
-      }
     },
     {
       "id": "midkemia-the-campaign",
