@@ -1351,6 +1351,30 @@ Okay, here's the review conclusion summarized:
 
 “Changes to make” : Short and sweet—perfectly aligned with the current conversation flow! Excellent work!
 
+### Grand Orrery Narrative Outline (Pitch)
+
+<!-- review-key: lore-keeper:5a900c3a-96f4-4c1e-9bde-41a250f934bb -->
+_From a lore-keeper chat, 2026-11-10 · Regions & places._
+
+Alright, let’s dive into that! Here’s our “idea”:
+
+“Okay, here’s the updated draft of the narrative plan for Verrowen!”
+
+Name: Grand Orrery Narrative Outline
+Kind: Ongoing development
+The rule: To ensure consistency throughout the stories and visual cues.
+How it works: This is simply building on existing lore and storylines to strengthen the characters and locations.
+Costs and limits: Essentially zero – just keeping it fresh and engaging!
+Who it affects: The entire narrative team, including writers, artists, and planners alike!
+What it changes: Enhancements to descriptions, character introductions, and plot points that will enrich the overall tale.
+Clashes with canon: None at all - everything' staying consistent through its well-established rules!
+Open questions: Just a little thought ahead – how can we make every detail sparkling!
+
+*   Are there any specific scenes or events already planned in the future? Let’s make sure they’re aligned with the vision.
+*   And what does this story represent in terms of themes and value – are we reinforcing the very heart of Verrowen’s identity? What could be subtly changed to really highlight it?
+
+In the world, imagine: nestled amongst the rolling green hills of the Kingdom, nestled close to the forest road and overlooking the shimmering waters of the River Slagter, resides one of Verrowen's most beloved landmarks—the Grand Orrery, standing as a testament to centuries past and perfectly captured within it’s very framework of elements.”
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
