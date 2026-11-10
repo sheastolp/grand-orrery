@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T19:35:11.037Z",
+  "built": "2026-11-10T19:58:05.556Z",
   "branch": "review",
-  "commit": "948d05ddaaafa04f0c6334975051fc33bfda6623",
+  "commit": "8a33b4703814cb732a8334d301acea960b09b769",
   "counts": {
     "person": 89,
     "role": 11,
     "world": 3,
-    "item": 100,
+    "item": 101,
     "place": 15,
     "creature": 17,
     "lore": 37,
-    "note": 221,
+    "note": 222,
     "document": 10,
     "map": 4
   },
@@ -408,7 +408,8 @@
         "working-notes-murrows-harvest-blessing",
         "working-notes-whisperwinds-relic-featherhook",
         "working-notes-what-is-the-most-important-thing-about-stoutwell",
-        "working-notes-brackwoods-whimsy-2"
+        "working-notes-brackwoods-whimsy-2",
+        "working-notes-bellweathers-boon"
       ]
     },
     {
@@ -10500,6 +10501,63 @@
         "ysolde-ambergate",
         "hesketh-reeve"
       ]
+    },
+    {
+      "id": "working-notes-bellweathers-boon",
+      "type": "note",
+      "name": "Bellweather’s Boon",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwb43rnu",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Orin Bellweather possesses a peculiar earthenware pot – seemingly ordinary at first glance – that subtly shifts the odds slightly in favor of finding lost items within a ten-foot radius.",
+        "who": "Orin himself, a young halfling peddler known for his uncanny knack with locating misplaced goods, inherited the pot from his grandfather, Silas Blackwood.",
+        "where": "Primarily used during his daily rounds through Stoutwell’s market square and along the Woodland Road.",
+        "how_it_works": "When held aloft and focused upon an area, the pot emits a faint shimmer (barely visible to most eyes), increasing the likelihood of finding dropped coins, forgotten tools, or even wandering livestock returning unexpectedly. However, it doesn't *make* things reappear—it simply nudges fate towards their retrieval. The effect requires a small expenditure of mana, roughly equivalent to lighting a single candle.  The potency drops significantly if he uses more than three charges in rapid succession.",
+        "limits": "The range is limited to ten feet, its effects are subtle, and the pot only works on objects already lost nearby rather than conjuring them out of thin air. It does not affect magical items or creatures. If something has been moved beyond the effective range, the effect ceases entirely. Furthermore, attempting to use the pot while actively engaged in combat drains its charge rapidly.",
+        "ties": "Silas Blackwood was rumored to have once worked as an artificer, experimenting with sympathetic magic – though this remains unconfirmed by Murrow. Orin believes the pot is related to one of Murrow’s abandoned projects involving resonant stones; the halfling feels a strange hum when holding it near certain locations that seem “thin” - places where rifts could open."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** Orin Bellweather possesses a peculiar earthenware pot – seemingly ordinary at first glance – that subtly shifts the odds slightly in favor of finding lost items within a ten-foot radius.\n- **Who:** Orin himself, a young halfling peddler known for his uncanny knack with locating misplaced goods, inherited the pot from his grandfather, Silas Blackwood.\n- **Where:** Primarily used during his daily rounds through Stoutwell’s market square and along the Woodland Road.\n- **How it works:** When held aloft and focused upon an area, the pot emits a faint shimmer (barely visible to most eyes), increasing the likelihood of finding dropped coins, forgotten tools, or even wandering livestock returning unexpectedly. However, it doesn't *make* things reappear—it simply nudges fate towards their retrieval. The effect requires a small expenditure of mana, roughly equivalent to lighting a single candle.  The potency drops significantly if he uses more than three charges in rapid succession.\n- **Limits:** The range is limited to ten feet, its effects are subtle, and the pot only works on objects already lost nearby rather than conjuring them out of thin air. It does not affect magical items or creatures. If something has been moved beyond the effective range, the effect ceases entirely. Furthermore, attempting to use the pot while actively engaged in combat drains its charge rapidly.\n- **Ties:** Silas Blackwood was rumored to have once worked as an artificer, experimenting with sympathetic magic – though this remains unconfirmed by Murrow. Orin believes the pot is related to one of Murrow’s abandoned projects involving resonant stones; the halfling feels a strange hum when holding it near certain locations that seem “thin” - places where rifts could open.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1988
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
+      ]
+    },
+    {
+      "id": "bellweathers-boon",
+      "type": "item",
+      "name": "Bellweather’s Boon",
+      "icon": "🏺",
+      "category": "Peddlers' wares",
+      "kind": "Relics",
+      "origin": "rest",
+      "status": "pitch",
+      "fields": {
+        "does": "Orin Bellweather possesses a peculiar earthenware pot – seemingly ordinary at first glance – that subtly shifts the odds slightly in favor of finding lost items within a ten-foot radius.",
+        "made_by": "Orin himself, a young halfling peddler known for his uncanny knack with locating misplaced goods, inherited the pot from his grandfather, Silas Blackwood.",
+        "where": "Primarily used during his daily rounds through Stoutwell’s market square and along the Woodland Road.",
+        "made": "When held aloft and focused upon an area, the pot emits a faint shimmer (barely visible to most eyes), increasing the likelihood of finding dropped coins, forgotten tools, or even wandering livestock returning unexpectedly. However, it doesn't *make* things reappear—it simply nudges fate towards their retrieval. The effect requires a small expenditure of mana, roughly equivalent to lighting a single candle.  The potency drops significantly if he uses more than three charges in rapid succession.",
+        "limits": "The range is limited to ten feet, its effects are subtle, and the pot only works on objects already lost nearby rather than conjuring them out of thin air. It does not affect magical items or creatures. If something has been moved beyond the effective range, the effect ceases entirely. Furthermore, attempting to use the pot while actively engaged in combat drains its charge rapidly.",
+        "ties": "Silas Blackwood was rumored to have once worked as an artificer, experimenting with sympathetic magic – though this remains unconfirmed by Murrow. Orin believes the pot is related to one of Murrow’s abandoned projects involving resonant stones; the halfling feels a strange hum when holding it near certain locations that seem “thin” - places where rifts could open."
+      },
+      "review_key": "rest:idea-mwb43rnu",
+      "filed": "2026-11-10",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** Orin Bellweather possesses a peculiar earthenware pot – seemingly ordinary at first glance – that subtly shifts the odds slightly in favor of finding lost items within a ten-foot radius.\n- **Who:** Orin himself, a young halfling peddler known for his uncanny knack with locating misplaced goods, inherited the pot from his grandfather, Silas Blackwood.\n- **Where:** Primarily used during his daily rounds through Stoutwell’s market square and along the Woodland Road.\n- **How it works:** When held aloft and focused upon an area, the pot emits a faint shimmer (barely visible to most eyes), increasing the likelihood of finding dropped coins, forgotten tools, or even wandering livestock returning unexpectedly. However, it doesn't *make* things reappear—it simply nudges fate towards their retrieval. The effect requires a small expenditure of mana, roughly equivalent to lighting a single candle.  The potency drops significantly if he uses more than three charges in rapid succession.\n- **Limits:** The range is limited to ten feet, its effects are subtle, and the pot only works on objects already lost nearby rather than conjuring them out of thin air. It does not affect magical items or creatures. If something has been moved beyond the effective range, the effect ceases entirely. Furthermore, attempting to use the pot while actively engaged in combat drains its charge rapidly.\n- **Ties:** Silas Blackwood was rumored to have once worked as an artificer, experimenting with sympathetic magic – though this remains unconfirmed by Murrow. Orin believes the pot is related to one of Murrow’s abandoned projects involving resonant stones; the halfling feels a strange hum when holding it near certain locations that seem “thin” - places where rifts could open.",
+      "notes": [
+        "working-notes-bellweathers-boon"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1988
+      }
     },
     {
       "id": "midkemia-the-campaign",

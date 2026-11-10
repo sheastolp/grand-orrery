@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T19:35:11.037Z",
+  "built": "2026-11-10T19:58:05.556Z",
   "branch": "review",
-  "commit": "948d05ddaaafa04f0c6334975051fc33bfda6623",
+  "commit": "8a33b4703814cb732a8334d301acea960b09b769",
   "counts": {
     "person": 89,
     "role": 11,
     "world": 3,
-    "item": 100,
+    "item": 101,
     "place": 15,
     "creature": 17,
     "lore": 37,
-    "note": 221,
+    "note": 222,
     "document": 10,
     "map": 4
   },
@@ -404,7 +404,8 @@
         "working-notes-murrows-harvest-blessing",
         "working-notes-whisperwinds-relic-featherhook",
         "working-notes-what-is-the-most-important-thing-about-stoutwell",
-        "working-notes-brackwoods-whimsy-2"
+        "working-notes-brackwoods-whimsy-2",
+        "working-notes-bellweathers-boon"
       ]
     },
     {
