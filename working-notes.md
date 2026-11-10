@@ -2005,3 +2005,16 @@ _Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers'
 _Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: a post, a habit, a piece of gear or a person._
 
 - The Guard maintains a nightly vigil along the western wall overlooking the Monster Wood, relying heavily on the unique abilities of their “Whisperwinds” – halfling scouts trained to listen for subtle signs of approaching danger through heightened hearing and attuned to the sounds of the wood.
+
+### Monstradius’ Peculiar Pipe (Pitch)
+
+<!-- review-key: rest:idea-mwb5nv6z -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's guild hall keeps, does or is known for._
+
+- **What it is:** Monstradius, the artificer who runs the shop “Monstradius,” keeps a peculiar pipe carved from blackened ashwood – harvested from trees growing only in the Ashen Reach – that he uses to collect stray mana. It isn't for smoking; he never uses tobacco or anything else. Instead, the pipe subtly draws ambient mana into itself, creating a faint hum detectable by skilled artificers like Murrow.
+- **Who:** Primarily used by Monstradius himself, though occasionally Hesketh Reeve will visit with complaints about aching joints and ask if Monstradius can ‘quiet the noise.’ The Elderhold suspects something and has set up discreet observation posts around the shop.
+- **Where:** Located within Monstradius' workshop, nestled amongst his arcane devices and experimental tools.  It sits on a small pedestal near a complex array of resonators, constantly emitting a barely perceptible vibration.
+- **How it works:** The ashwood acts as a surprisingly efficient conductor and collector of low-level mana, passively absorbing it over time. When filled with enough mana, the pipe emits a distinct, rhythmic thrum—a signal that Monstradius monitors closely. This collected mana isn't stored directly, but instead flows through the instrument to augment other creations or perform minor enchantments.
+- **Limits:** The pipe’s capacity is limited - roughly equivalent to one short healing spell cast at once. Overuse drains its effectiveness, requiring several days to recharge in a location saturated with natural magic (like the Ashen Reach). Exposure to particularly chaotic magic disrupts its function temporarily.
+- **Ties:** It was crafted using wood from the Ashen Reach – a region known for strange magical residue due to an ancient, partially contained rift—and mirrors Monstradius’ secretive pursuit of understanding unstable magic and how to harness energies beyond conventional means. He claims it helps him maintain focus while conducting dangerous experiments, and he has been seen carefully cleaning the intricate carvings when no one else is around.
