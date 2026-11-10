@@ -1997,3 +1997,14 @@ _Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster W
 _Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._
 
 - the legendary treasure!
+
+### a short name (Pitch)
+
+<!-- review-key: rest:idea-mwakz9zy -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._
+
+- the wellspring
+- One sunny morning, the whole village celebrates the Harvest Festival with games and treats.
+- Two farmers have a wonderful day tending to their crops, while children play with mud pies.
+- The village elder shares tales of old in the warm sunshine.
