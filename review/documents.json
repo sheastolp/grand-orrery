@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T13:17:13.348Z",
+  "built": "2026-11-10T13:17:47.554Z",
   "branch": "review",
-  "commit": "d63ee6adaf68777f6573a8aaf7035dee6df13474",
+  "commit": "82b13c1802e50f0dfbe2e137406480884cf8c40e",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 225,
+    "note": 224,
     "document": 10,
     "map": 4
   },

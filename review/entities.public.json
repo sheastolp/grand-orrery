@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T13:17:13.348Z",
+  "built": "2026-11-10T13:17:47.554Z",
   "branch": "review",
-  "commit": "d63ee6adaf68777f6573a8aaf7035dee6df13474",
+  "commit": "82b13c1802e50f0dfbe2e137406480884cf8c40e",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 225,
+    "note": 224,
     "document": 10,
     "map": 4
   },
@@ -275,7 +275,6 @@
         "working-notes-what-does-the-king-say",
         "working-notes-the-whispering-stone",
         "working-notes-what-does-it-mean",
-        "working-notes-a-little-bit-of-magic-a-lot-of-tradition",
         "working-notes-what-is-the-most-important-thing-about-stoutwell"
       ]
     },
@@ -398,7 +397,6 @@
         "working-notes-liora-finchling",
         "working-notes-murrows-harvest-blessing",
         "working-notes-whisperwinds-relic-featherhook",
-        "working-notes-a-little-bit-of-magic-a-lot-of-tradition",
         "working-notes-what-is-the-most-important-thing-about-stoutwell"
       ]
     },
@@ -10443,28 +10441,6 @@
       "world": "verrowen"
     },
     {
-      "id": "working-notes-a-little-bit-of-magic-a-lot-of-tradition",
-      "type": "note",
-      "name": "A little bit of magic, a lot of tradition!",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwan7o71",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stoutwell._\n\n- A little bit of magic, a lot of tradition!\n- THE IDEA:\n- It’s a cozy scene in Stoutwell – imagine a sun-drenched morning filled with cheerful chatter and friendly greetings. Perhaps the village hearth is crackling with warmth, and villagers are enjoying fresh bread and a good chat about everything happening in town. Or maybe it’s a quiet afternoon spent sipping tea at the Wellhouse tavern, where everyone is swapping tales of the day. It’s a perfect picture of everyday life in Stoutwell, brimming with charm and character!\n- TONE: Gentle, inviting, slightly whimsical, full of delightful descriptions - easy to read and enjoyable for readers of children’-s stories.\n- MAGIC: Simple and natural, relying on the beauty of the landscape and the kindness of the people. A sprinkle of enchantment makes all the difference!\n- ARTIFICERS: Easily identifiable and believable, showcasing some lovely folk heroes (like Doric and Murrow) and charming characters like the Hearthcircle members.",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1982
-      },
-      "world": "verrowen",
-      "mentions": [
-        "doric",
-        "murrow"
-      ]
-    },
-    {
       "id": "working-notes-what-is-the-most-important-thing-about-stoutwell",
       "type": "note",
       "name": "What is the most important thing about Stoutwell?",
@@ -10478,7 +10454,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- IDEA: Stoutwell’s entire identity rests on a charmingly simple fact – the heart of the village, nestled between two friendly hills, is undeniably the best place to visit! It’s celebrated for its cozy pubs, welcoming locals, and perfectly preserved cobblestone streets—streets that even the smallest mud splodge doesn't bother to erase. A perfect snapshot of classic medieval charm, truly worth celebrating every single day, isn’t it?\n- TONE: Warm, inviting, and slightly whimsical - like a good story whispered through the trees.\n- MAGIC: Purely practical and pleasant, utilizing naturally occurring elements and good cheer.\n- ROLES: 1. Hearthcircle (the village elders) to keep traditions alive, ensuring everyone feels welcome. 2. The Wellhouse elves to keep a steady supply of magic flowing in their small little world, keeping a secret or two. 3. Tobin Ashby (a blacksmith's apprentice) to make sure everything goes smoothly as well. 4. Doric (the Artificer) to easily fix anything with her tinkering skills. 5. Murrow (the Artisan) to ensure all goods are ready for shipment. 6. Hesketh Reeve (the Guard Captain) to be always vigilant and watchful.",
       "source": {
         "file": "working-notes.md",
-        "line": 1995
+        "line": 1982
       },
       "world": "verrowen",
       "mentions": [
