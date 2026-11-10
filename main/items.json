@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T15:24:18.996Z",
+  "built": "2026-11-10T15:42:12.232Z",
   "branch": "main",
-  "commit": "390770e0004573ac017fccbe00f5abdcd8beb9e3",
+  "commit": "9a360ced69a60479668a4fb831a231eeaa4caad7",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 101,
+    "item": 100,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 223,
+    "note": 217,
     "document": 10,
     "map": 4
   },
@@ -2162,7 +2162,7 @@
       "category": "Peddlers' wares",
       "kind": "Relics",
       "origin": "rest",
-      "status": "pitch",
+      "status": "decided",
       "fields": {
         "tone": "Whimsical and descriptive, leaning into magic and wonder."
       },
@@ -2175,26 +2175,6 @@
       "source": {
         "file": "working-notes.md",
         "line": 1881
-      }
-    },
-    {
-      "id": "a-short-name",
-      "type": "item",
-      "name": "a short name",
-      "icon": "🏺",
-      "category": "Peddlers' wares",
-      "kind": "Relics",
-      "origin": "rest",
-      "status": "pitch",
-      "review_key": "rest:idea-mwarnyhk",
-      "filed": "2026-11-10",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- the wellspring",
-      "notes": [
-        "working-notes-a-short-name-3"
-      ],
-      "source": {
-        "file": "working-notes.md",
-        "line": 1946
       }
     }
   ]
