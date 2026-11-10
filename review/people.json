@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T08:36:32.471Z",
+  "built": "2026-11-10T08:57:07.312Z",
   "branch": "review",
-  "commit": "527b90148ed979bcc26a556bab410e3e3accee8c",
+  "commit": "55f58c10d2d2028bbf524684c0d11663a73dc9c3",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 220,
+    "note": 221,
     "document": 10,
     "map": 4
   },
@@ -271,7 +271,8 @@
         "working-notes-a-whisper-of-magic",
         "working-notes-a-little-bit-more",
         "working-notes-what-is-it",
-        "working-notes-what-does-the-king-say"
+        "working-notes-what-does-the-king-say",
+        "working-notes-the-whispering-stone"
       ]
     },
     {
