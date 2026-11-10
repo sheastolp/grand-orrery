@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T19:04:49.669Z",
+  "built": "2026-11-10T19:11:17.536Z",
   "branch": "review",
-  "commit": "efe8f4c2a9400cfaf477f27065f51f170ce9bd62",
+  "commit": "ec112954880f597318b99e4aed1ea039f3e59fc4",
   "counts": {
     "person": 89,
     "role": 11,
     "world": 3,
     "item": 100,
     "place": 15,
-    "creature": 18,
+    "creature": 17,
     "lore": 37,
-    "note": 220,
+    "note": 219,
     "document": 10,
     "map": 4
   },
@@ -10447,66 +10447,6 @@
         "hesketh-reeve",
         "murrow"
       ]
-    },
-    {
-      "id": "working-notes-whisperwinds-vigil-3",
-      "type": "note",
-      "name": "Whisperwind’s Vigil",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwb24i3p",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "fields": {
-        "the_idea": "Within the depths of the Monster Wood, near the edge where the sickly grey soil begins, dwells a creature called a Rook – a spectral hound with eyes like polished obsidian that patrols the borders of the village, alerting the Guard to any disturbances or encroaching threats within the darkwood.",
-        "what_it_is": "A Rook is not truly alive, but rather a lingering echo of a powerful earth spirit corrupted by the Blight. It manifests as a large, shadowy canine form—roughly the size of a draft horse—with feathers instead of fur along its spine, perpetually wreathed in swirling mist. These mists aren't cold, but carry a faint scent of decaying leaves and damp stone.",
-        "who": "The Rooks are overseen by Whisperwind, an ancient, almost forgotten Guardian spirit bound to the area around Stoutwell. She appears sporadically at the edges of the patrol, guiding the Rook’s movements through subtle shifts in wind currents.",
-        "where": "They primarily patrol the western border of the Monster Wood, focusing on the immediate vicinity of the Brackwood Fringe - a particularly dense tangle of twisted trees and thorny undergrowth. Their range extends approximately half a mile from the village walls before fading into nothingness.",
-        "how_it_works": "Whisperwind doesn’t directly control the Rook; she influences it via minute changes in the air pressure, creating instinctive urges and heightened senses in the spectral hound. When danger approaches – a goblin raiding party, a rootwyrm emerging from the soil, even just unusually loud noises within the wood – the Rook will begin to circle, emitting a low growl that intensifies with the perceived threat. Its obsidian eyes glow faintly when focused on potential dangers. It does not actively attack, but alerts the Guard. If something is moving quickly or has unnatural strength, the Rook lets out a piercing howl—a warning signal only it can hear. Hesketh uses this as his “Watch” during the night rotation.",
-        "limits": "The Rook's influence wanes drastically after sunset, becoming almost entirely passive. During the day, it sleeps, drifting amongst the shadows. Also, the Blight itself"
-      },
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **The Idea:** Within the depths of the Monster Wood, near the edge where the sickly grey soil begins, dwells a creature called a Rook – a spectral hound with eyes like polished obsidian that patrols the borders of the village, alerting the Guard to any disturbances or encroaching threats within the darkwood.\n- **What it is:** A Rook is not truly alive, but rather a lingering echo of a powerful earth spirit corrupted by the Blight. It manifests as a large, shadowy canine form—roughly the size of a draft horse—with feathers instead of fur along its spine, perpetually wreathed in swirling mist. These mists aren't cold, but carry a faint scent of decaying leaves and damp stone.\n- **Who:** The Rooks are overseen by Whisperwind, an ancient, almost forgotten Guardian spirit bound to the area around Stoutwell. She appears sporadically at the edges of the patrol, guiding the Rook’s movements through subtle shifts in wind currents.\n- **Where:** They primarily patrol the western border of the Monster Wood, focusing on the immediate vicinity of the Brackwood Fringe - a particularly dense tangle of twisted trees and thorny undergrowth. Their range extends approximately half a mile from the village walls before fading into nothingness.\n- **How it works:**  Whisperwind doesn’t directly control the Rook; she influences it via minute changes in the air pressure, creating instinctive urges and heightened senses in the spectral hound. When danger approaches – a goblin raiding party, a rootwyrm emerging from the soil, even just unusually loud noises within the wood – the Rook will begin to circle, emitting a low growl that intensifies with the perceived threat. Its obsidian eyes glow faintly when focused on potential dangers. It does not actively attack, but alerts the Guard. If something is moving quickly or has unnatural strength, the Rook lets out a piercing howl—a warning signal only it can hear. Hesketh uses this as his “Watch” during the night rotation.\n- **Limits:** The Rook's influence wanes drastically after sunset, becoming almost entirely passive. During the day, it sleeps, drifting amongst the shadows. Also, the Blight itself",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1968
-      },
-      "world": "verrowen"
-    },
-    {
-      "id": "whisperwinds-vigil-3",
-      "type": "creature",
-      "name": "Whisperwind’s Vigil",
-      "origin": "rest",
-      "status": "pitch",
-      "world": "verrowen",
-      "review_key": "rest:idea-mwb24i3p",
-      "filed": "2026-11-10",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **The Idea:** Within the depths of the Monster Wood, near the edge where the sickly grey soil begins, dwells a creature called a Rook – a spectral hound with eyes like polished obsidian that patrols the borders of the village, alerting the Guard to any disturbances or encroaching threats within the darkwood.\n- **What it is:** A Rook is not truly alive, but rather a lingering echo of a powerful earth spirit corrupted by the Blight. It manifests as a large, shadowy canine form—roughly the size of a draft horse—with feathers instead of fur along its spine, perpetually wreathed in swirling mist. These mists aren't cold, but carry a faint scent of decaying leaves and damp stone.\n- **Who:** The Rooks are overseen by Whisperwind, an ancient, almost forgotten Guardian spirit bound to the area around Stoutwell. She appears sporadically at the edges of the patrol, guiding the Rook’s movements through subtle shifts in wind currents.\n- **Where:** They primarily patrol the western border of the Monster Wood, focusing on the immediate vicinity of the Brackwood Fringe - a particularly dense tangle of twisted trees and thorny undergrowth. Their range extends approximately half a mile from the village walls before fading into nothingness.\n- **How it works:**  Whisperwind doesn’t directly control the Rook; she influences it via minute changes in the air pressure, creating instinctive urges and heightened senses in the spectral hound. When danger approaches – a goblin raiding party, a rootwyrm emerging from the soil, even just unusually loud noises within the wood – the Rook will begin to circle, emitting a low growl that intensifies with the perceived threat. Its obsidian eyes glow faintly when focused on potential dangers. It does not actively attack, but alerts the Guard. If something is moving quickly or has unnatural strength, the Rook lets out a piercing howl—a warning signal only it can hear. Hesketh uses this as his “Watch” during the night rotation.\n- **Limits:** The Rook's influence wanes drastically after sunset, becoming almost entirely passive. During the day, it sleeps, drifting amongst the shadows. Also, the Blight itself",
-      "notes": [
-        "working-notes-whisperwinds-vigil-3"
-      ],
-      "source": {
-        "file": "working-notes.md",
-        "line": 1968
-      },
-      "icon": "🌿",
-      "fields": {
-        "does": "A Rook is not truly alive, but rather a lingering echo of a powerful earth spirit corrupted by the Blight. It manifests as a large, shadowy canine form—roughly the size of a draft horse—with feathers instead of fur along its spine, perpetually wreathed in swirling mist. These mists aren't cold, but carry a faint scent of decaying leaves and damp stone.",
-        "limits": "The Rook's influence wanes drastically after sunset, becoming almost entirely passive. During the day, it sleeps, drifting amongst the shadows. Also, the Blight itself",
-        "where": "They primarily patrol the western border of the Monster Wood, focusing on the immediate vicinity of the Brackwood Fringe - a particularly dense tangle of twisted trees and thorny undergrowth. Their range extends approximately half a mile from the village walls before fading into nothingness.",
-        "stats": "CR 5 · AC 16 · HP 95 · +7 to hit · 2d8+4"
-      },
-      "place": "place-the-monster-woods-western-edge",
-      "stats_made": true,
-      "stats": {
-        "cr": "5",
-        "ac": 16,
-        "hp": 95,
-        "to_hit": 7,
-        "damage": "2d8+4"
-      }
     },
     {
       "id": "midkemia-the-campaign",
