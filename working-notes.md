@@ -1865,3 +1865,11 @@ _Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: 
 - a weathered relic
 - a shining gem
 - a well-worn page
+
+### a short name (Pitch)
+
+<!-- review-key: rest:idea-mwa2eruc -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's guild hall keeps, does or is known for._
+
+- the hidden path
