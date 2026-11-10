@@ -1977,3 +1977,15 @@ _Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or r
 _Made up by the AI in auto mode, 2026-11-10 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
 
 - the beastly
+
+### What does it mean? (Pitch)
+
+<!-- review-key: rest:idea-mwaiqu5x -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- What does it truly mean to be a vibrant, blooming village nestled snug within the embrace of emerald green forests? To be known for stories whispered on warm evenings, where laughter dances like sunlight through leaves and cobblestone streets sparkle with centuries of history? It’s not just about stones and towers – it’s about the very essence of the Village, woven into threads of tradition, fueled by the warmth of hearth fires, and anchored firmly to the rhythm of daily life – a gentle flow of trade, and skilled hands shaping stone, wood, and cloth. Every villager holds an ingredient that makes their village whole—the best harvest, fresh water, sunshine and good cheer!
+- It'
+- The Village, named for its enduring spirit and simple pleasures - the cozy tavern overflowing with tales of old, or the well-worn benches under the shade of ancient oaks, inviting travelers to rest their weary feet. It's more than just buildings and borders, it's a tapestry woven from customs, celebrations, and mutual respect--a harmonious blend of sights, sounds, and scents, all contributing to a perpetually pleasant atmosphere.
+- And finally, how does it all come together? The Village thrives because of the steadfast heart of its people: the steady hand of Doric (her blacksmith), the sure-footed foot of Tobin (the Halfling), the wise eyes of Bram (the keeper of wisdom)
+- So let them welcome you in with warm smiles and a hearty greeting -- ready to share a story, a song, or perhaps a tasty loaf of bread! Let’ a moment of peace be given, as you have an opportunity to enjoy the Village's charm, one beautiful day at a time.
