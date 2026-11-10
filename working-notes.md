@@ -1914,3 +1914,14 @@ _Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's ca
 - a little secret
 - a well-kept secret
 - the Royal decree
+
+### a short name (Pitch)
+
+<!-- review-key: rest:idea-mwa6uzgo -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or the Kingdom's history._
+
+- The Royal Cipher
+- The Scholar’s Secret
+- The Village Blueprint
+- The Emerald Eye
