@@ -2010,3 +2010,11 @@ _Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stout
 - **How it works:** When Orin focuses on a specific shard of a shattered Whisperwind crystal, particularly one resonating with a faint blue glow, he experiences brief flashes of visual and auditory impressions—echoes from the past connected to the well's creation or its eventual silencing. These echoes aren't clear visions; they’re fractured images accompanied by whispers, often distorted and incomplete, requiring careful interpretation. The crystals themselves seem to absorb ambient mana, amplifying these resonant effects – the more mana present, the stronger the echoes become. Overuse weakens the crystal and causes disorientation.
 - **Limits:** The echoes are unstable and fleeting, dependent on the quality and quantity of available mana. Larger, older crystals yield clearer (though still fragmented) memories. Prolonged exposure leads to headaches and mental fatigue.  The shards themselves can only be “read” by someone with a naturally attuned sensitivity to mana - a trait that is rare among halflings, but heightened in those exposed to magic for extended periods (like Murrow).
 - **
+
+### Whisperwind’s Vigil (Pitch)
+
+<!-- review-key: rest:idea-mwb8u7wh -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- A solitary halfling guard uses unusual methods to detect threats within the Monster Wood, relying on more than just sight and sound.
