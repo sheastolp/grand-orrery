@@ -1809,7 +1809,7 @@ _Made up by the AI in auto mode, 2026-11-10 · about a small everyday magic item
 - Elara's Loom, an ancient loom strung with moonlight and dewdrop sparkles—perfect for crafting magical textiles.
 - The village
 
-### Blight Watch (Pitch)
+### Blight Watch (Your idea)
 
 <!-- review-key: rest:idea-mw9ynkoy -->
 <!-- added by the AI -->
