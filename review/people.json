@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T19:02:39.033Z",
+  "built": "2026-11-10T19:04:49.669Z",
   "branch": "review",
-  "commit": "570d0e8ebdc3a249a14f9c6d2151fed5da99464e",
+  "commit": "efe8f4c2a9400cfaf477f27065f51f170ce9bd62",
   "counts": {
     "person": 89,
     "role": 11,
@@ -10,7 +10,7 @@
     "item": 100,
     "place": 15,
     "creature": 18,
-    "lore": 34,
+    "lore": 37,
     "note": 220,
     "document": 10,
     "map": 4
@@ -205,6 +205,7 @@
       },
       "mentioned_in": [
         "lore-people",
+        "lore-people-4",
         "universe-tobin-ashby",
         "working-notes-the-character",
         "working-notes-trades-crafts",
@@ -243,6 +244,8 @@
         "lore-items-2",
         "lore-items-3",
         "lore-people-2",
+        "lore-items-4",
+        "lore-people-4",
         "universe-maps",
         "universe-layout",
         "universe-trades",
@@ -342,6 +345,8 @@
         "lore-items-3",
         "lore-magic-4",
         "lore-people-2",
+        "lore-items-4",
+        "lore-people-4",
         "universe-healers",
         "universe-water-and-the-dead-well",
         "universe-layout",
