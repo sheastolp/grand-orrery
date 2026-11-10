@@ -2,7 +2,7 @@
 
 A medieval fantasy universe by Sheamus. Most of it so far takes place on **Verrowen**, a world of weak, everyday magic, D&D-style monsters and a far-off corrupt Kingdom, centered on the walled village of **Stoutwell**.
 
-**The Orrery is the database everything runs off.** It's the universe for every Tavernworks project: all the bots (GuildScribe on Twitch and Discord, The Wandering Clerk, UndercoverBurn), the Tavernworks site and its Orrery Explorer, Wake in Verrowen, and the AI chats (the lore-keeper, the narrator and the bots' AI replies). Every one of them reads it from here, and changes only ever flow outward: change a name, a line, a creature, a document or a map here and they all follow on their own. Nothing in another project is changed first and copied back. See [Who reads from here](#who-reads-from-here).
+**The Orrery is the database everything runs off.** It's the universe for every Tavernworks project: all the bots (GuildScribe on Twitch and Discord, The Wandering Clerk, UndercoverBurn, the Town Crier), the Tavernworks site and its Orrery Explorer, Wake in Verrowen, and the AI chats (the lore-keeper, the narrator and the bots' AI replies). Every one of them reads it from here, and changes only ever flow outward: change a name, a line, a creature, a document or a map here and they all follow on their own. Nothing in another project is changed first and copied back. See [Who reads from here](#who-reads-from-here).
 
 Every change waits on the `review` branch first. On the [review page](https://tavernworks.dev/orrery/control/review/) the owner **approves** what's waiting, **views** it in the Review Clone, and **publishes** it to `main`. Auto mode (the laptop's AI) can write ideas and give its view on each one, but it never publishes.
 
@@ -47,6 +47,7 @@ Every character in the Tavernworks examples comes from this universe.
 | The peddlers (Tansy Ninefingers and the rest) | GuildScribe's market stall (`!stall`, `!haggle`, both lists) and Hunt & Hoard's stall, and The Wandering Clerk's merchants (the road peddlers). The names come from `roster.md`, and each peddler's line goes into their `!haggle` replies. |
 | The Wandering Clerk | The Wandering Clerk bot (GuildBreak: Hunt & Hoard). |
 | Burn | UndercoverBurn, the Twitch roast bot: its **Burn (Grand Orrery)** personality is built from his row in `roster.md`. |
+| The Town Crier | Town Crier, the Twitch ad-break bot: its personality is built from his row in `roster.md`. |
 | Everyone in `lore.md` | People the player can meet in [Wake in Verrowen](https://tavernworks.dev/verrowen/). GuildScribe's AI replies (the Scribe, the peddlers' `!haggle`, `!npc` characters) also read `lore.md` live. |
 
 When a character changes here, everything picks it up on its own (see below), the example chats on the Tavernworks home page, Sound Bytes and The Wandering Clerk included: they're cast from the Orrery's people, peddlers and wares each time they open.
@@ -63,6 +64,7 @@ Everything below reads [the database](#the-database) built from this repo's `mai
 | GuildScribe (Discord bot, `guildscribe-discord`) | The same as the Twitch bot: it runs the Twitch bot's game code, synced every 15 minutes | Same |
 | The Wandering Clerk (GuildScribe's Hunt & Hoard) | The same as GuildScribe: it's part of the Twitch bot. The separate Wandering Clerk bot reads its road peddlers from the database too | Same; the separate bot at the start of each run and every 30 minutes |
 | UndercoverBurn | The database: Burn's person record (name, race, role, line) | At start-up, then every 30 minutes |
+| Town Crier | The database: the Town Crier's person record (name, race, role, line) | At start-up, then every 30 minutes |
 | The Wake in Verrowen narrator's server (the laptop) | The database: the world's name, its places, its maps and lore.md's labels, for every prompt that writes or files lore (auto mode, Add to the Orrery, the catch-ups) | Every 10 minutes |
 | Tavernworks pages (home, Sound Bytes, The Wandering Clerk, the Codex, the review page) | The database: the example chats' people, peddler and ware, the Codex's lore notes, the review page's maps and document names | On open |
 

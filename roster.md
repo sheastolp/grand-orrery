@@ -29,6 +29,7 @@ All halflings. The five Elders vote; Osric speaks for them and doesn't.
 | **Murrow** | Unknown, M, 550+ | Artificer, owner of Monstradius | Hidden under a deep hood. Cold and businesslike, never mean. Channels other people's magic, never his own. | His real nature, his hidden NW home, his fear of the Kingdom, and an unrevealed soft spot. |
 | **The Wellhouse family** | Elves | Owners of the Wellhouse tavern | Wealthy, came centuries ago out of a soft spot for sharing. Ostracized. Keep to the tavern. | |
 | **Burn** | Human, M, about 45 | The Wellhouse's regular | Short, mustached, red cap. Drops one-line roasts from his bar stool, only when it's funny, about what people do and never who they are. The Wellhouses' one friend. Swears red-capped mushrooms make you grow. A little fire magic. | A runaway court jester from the capital, hiding from the noble his joke offended. |
+| **The Town Crier** | Halfling, M, 58 | Town crier | Booming, cheerful and impossible to ignore — remarkable in a halfling. Rings the bell at the market cross, calls every notice exactly as it's written, and makes a small ceremony of it. Fond of a tankard once the last call is done. | |
 
 ### The Kingdom
 
