@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T22:11:14.228Z",
+  "built": "2026-11-10T22:12:22.383Z",
   "branch": "review",
-  "commit": "36814865afc9ccb212fd714ca212238ed44720a1",
+  "commit": "019a50e71735b41a11d605d3c445fccf76aa082a",
   "counts": {
     "person": 89,
     "role": 11,
@@ -10,7 +10,7 @@
     "item": 101,
     "place": 15,
     "creature": 17,
-    "lore": 37,
+    "lore": 38,
     "note": 222,
     "document": 10,
     "map": 4
@@ -625,6 +625,22 @@
         "tobin-ashby",
         "doric",
         "murrow"
+      ]
+    },
+    {
+      "id": "lore-life-3",
+      "type": "lore",
+      "name": "LIFE",
+      "text": "Children are schooled together, then the Elders place them into groups (Village Workers, Herders, Farmers, Gatherers, the Guard, the Hearthcircle). People may switch jobs within reason. Heavy jobs like smithing lean male, but nothing is restricted by gender. Village Workers stay inside the walls: smiths, the tannery, woodworkers (weapon hilts, ornate structures). Herders mainly raise cattle; the Elders keep a couple of cows just to look at. Farmers work the croplands, which take up the most space. Gatherers also forage at the forest edge, and the human gatherers gather the stout ale's ingredients. The village is communal and peaceful, with little internal trouble. Homes burn firewood. Gatherers find dead trees with detection magic and drag them out with wind magic, under Guard escort. GuildScribe's guild hall keeps resonance stone devices to monitor fluctuations in mana signatures – primarily those originating from disturbances or monstrous activity within half a mile radius. These don’t actively detect monsters, registering unnatural shifts in energy correlating with their presence. Murrow and Burn maintain this system. The range is limited, reliant on ambient mana concentrations - the device struggles near saturated areas or shielded ones. It has no visual output, relying solely on tactile feedback and intuition. Prolonged operation drains Murrow’s personal mana reserves, making him colder and weaker.",
+      "order": 38,
+      "status": "decided",
+      "source": {
+        "file": "lore.md",
+        "line": 43
+      },
+      "mentions": [
+        "murrow",
+        "burn"
       ]
     }
   ]
