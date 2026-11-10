@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T15:37:48.760Z",
+  "built": "2026-11-10T15:38:16.039Z",
   "branch": "review",
-  "commit": "d8db79756094019a4f33b92894c188e218d843bd",
+  "commit": "16ff26dfd6a5e2749a06bf264a733d8259952eb9",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 219,
+    "note": 218,
     "document": 10,
     "map": 4
   },
@@ -10320,24 +10320,6 @@
         "hesketh-reeve",
         "murrow"
       ]
-    },
-    {
-      "id": "working-notes-a-short-name-2",
-      "type": "note",
-      "name": "a short name",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwauo1w1",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- the hidden well",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1938
-      },
-      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
