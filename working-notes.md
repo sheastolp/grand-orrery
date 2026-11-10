@@ -2031,3 +2031,16 @@ _Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's gui
 - the guardian’s gleam
 - the hall’s call
 - the lore’s glow
+
+### A little bit of magic, a lot of tradition! (Pitch)
+
+<!-- review-key: rest:idea-mwan7o71 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stoutwell._
+
+- A little bit of magic, a lot of tradition!
+- THE IDEA:
+- It’s a cozy scene in Stoutwell – imagine a sun-drenched morning filled with cheerful chatter and friendly greetings. Perhaps the village hearth is crackling with warmth, and villagers are enjoying fresh bread and a good chat about everything happening in town. Or maybe it’s a quiet afternoon spent sipping tea at the Wellhouse tavern, where everyone is swapping tales of the day. It’s a perfect picture of everyday life in Stoutwell, brimming with charm and character!
+- TONE: Gentle, inviting, slightly whimsical, full of delightful descriptions - easy to read and enjoyable for readers of children’-s stories.
+- MAGIC: Simple and natural, relying on the beauty of the landscape and the kindness of the people. A sprinkle of enchantment makes all the difference!
+- ARTIFICERS: Easily identifiable and believable, showcasing some lovely folk heroes (like Doric and Murrow) and charming characters like the Hearthcircle members.
