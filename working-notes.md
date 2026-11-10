@@ -1964,3 +1964,16 @@ _Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or r
 - TONE: Warm, inviting, and slightly whimsical - like a good story whispered through the trees.
 - MAGIC: Purely practical and pleasant, utilizing naturally occurring elements and good cheer.
 - ROLES: 1. Hearthcircle (the village elders) to keep traditions alive, ensuring everyone feels welcome. 2. The Wellhouse elves to keep a steady supply of magic flowing in their small little world, keeping a secret or two. 3. Tobin Ashby (a blacksmith's apprentice) to make sure everything goes smoothly as well. 4. Doric (the Artificer) to easily fix anything with her tinkering skills. 5. Murrow (the Artisan) to ensure all goods are ready for shipment. 6. Hesketh Reeve (the Guard Captain) to be always vigilant and watchful.
+
+### Whisperwind’s Vigil (Pitch)
+
+<!-- review-key: rest:idea-mwb24i3p -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- **The Idea:** Within the depths of the Monster Wood, near the edge where the sickly grey soil begins, dwells a creature called a Rook – a spectral hound with eyes like polished obsidian that patrols the borders of the village, alerting the Guard to any disturbances or encroaching threats within the darkwood.
+- **What it is:** A Rook is not truly alive, but rather a lingering echo of a powerful earth spirit corrupted by the Blight. It manifests as a large, shadowy canine form—roughly the size of a draft horse—with feathers instead of fur along its spine, perpetually wreathed in swirling mist. These mists aren't cold, but carry a faint scent of decaying leaves and damp stone.
+- **Who:** The Rooks are overseen by Whisperwind, an ancient, almost forgotten Guardian spirit bound to the area around Stoutwell. She appears sporadically at the edges of the patrol, guiding the Rook’s movements through subtle shifts in wind currents.
+- **Where:** They primarily patrol the western border of the Monster Wood, focusing on the immediate vicinity of the Brackwood Fringe - a particularly dense tangle of twisted trees and thorny undergrowth. Their range extends approximately half a mile from the village walls before fading into nothingness.
+- **How it works:**  Whisperwind doesn’t directly control the Rook; she influences it via minute changes in the air pressure, creating instinctive urges and heightened senses in the spectral hound. When danger approaches – a goblin raiding party, a rootwyrm emerging from the soil, even just unusually loud noises within the wood – the Rook will begin to circle, emitting a low growl that intensifies with the perceived threat. Its obsidian eyes glow faintly when focused on potential dangers. It does not actively attack, but alerts the Guard. If something is moving quickly or has unnatural strength, the Rook lets out a piercing howl—a warning signal only it can hear. Hesketh uses this as his “Watch” during the night rotation.
+- **Limits:** The Rook's influence wanes drastically after sunset, becoming almost entirely passive. During the day, it sleeps, drifting amongst the shadows. Also, the Blight itself
