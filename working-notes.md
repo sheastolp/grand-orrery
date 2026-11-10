@@ -1888,3 +1888,15 @@ _Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stout
 - the wellspring
 - the hearthstone
 - the forge
+
+### a short name (Pitch)
+
+<!-- review-key: rest:idea-mwact6we -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._
+
+- The Village
+- The Wellhouse
+- The Hearthcircle
+- The Guard
+- The Explorer
