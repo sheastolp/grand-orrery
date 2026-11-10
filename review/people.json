@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T16:29:50.307Z",
+  "built": "2026-11-10T16:56:14.624Z",
   "branch": "review",
-  "commit": "4a0b615839fb5b403129c1d0c5030f018f709ca9",
+  "commit": "6526e8437894de68798e3a842fcc0c8fd42d3bb7",
   "counts": {
-    "person": 88,
+    "person": 89,
     "role": 11,
     "world": 3,
     "item": 100,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 217,
+    "note": 218,
     "document": 10,
     "map": 4
   },
@@ -2116,6 +2116,34 @@
       ]
     },
     {
+      "id": "elara-swiftleaf",
+      "type": "person",
+      "name": "Elara Swiftleaf",
+      "origin": "lore-keeper",
+      "status": "pitch",
+      "world": "verrowen",
+      "review_key": "lore-keeper:c529990f-0205-49e0-9a69-a96843bc5b08",
+      "filed": "2026-11-10",
+      "body": "_From a lore-keeper chat, 2026-11-10 · Characters._\n\nOkay, here we go – let’’s dive into some revisions!\n\n**Character:**\n\n*   Name: Elara Swiftleaf\n*   Race: Half-Elf\n*   Sex: Female\n*   Age: 28\n*   Role: Village Protector & Lorekeeper - specializing in local history and tales.\n*   Lives in: The Greenwood (village center), nestled amongst the trees, easily accessible by cart track.\n*   Appearance: A lithe half-elf, with long, braided auburn hair often adorned with wildflowers. Green eyes bright and keen. Usually has dirt smudged on her cheeks from her work.\n*   Personality: Friendly, cheerful, knowledgeable, a bit mischievous—all good things! Always ready to lend a helping hand or share a smile. Kind and approachable.\n*   Magic: Primarily attuned to earth magic, particularly plant growth and healing through touch. Slight affinity for charm and making people happy. Could be a little 'green' of her eye if you ask right.\n“\n\nAnd here’s “Who They Are” – perfect! It flows well and gives a great picture of Elara.\n\n**“Who They Are”: Elara Swiftleaf, village protector and lore keeper.** Living the dream with the best of both worlds, surrounded by lush greenery and the gentle hum of adventure. She is the bedrock of the Greenwood’s wellbeing, ensuring everything runs smoothly for everyone living there. With a twinkle in her eye and an infectious laugh, she effortlessly embodies all that makes a true hearthkeeper.",
+      "notes": [
+        "working-notes-elara-swiftleaf"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1354
+      },
+      "kind": "chat-character",
+      "race": "Half-Elf",
+      "sex": "female",
+      "age": 28,
+      "role": "Village Protector & Lorekeeper - specializing in local history and tales.",
+      "where": "The Greenwood (village center), nestled amongst the trees, easily accessible by cart track.",
+      "magic": "Primarily attuned to earth magic, particularly plant growth and healing through touch. Slight affinity for charm and making people happy. Could be a little 'green' of her eye if you ask right.",
+      "personality": "Friendly, cheerful, knowledgeable, a bit mischievous—all good things! Always ready to lend a helping hand or share a smile. Kind and approachable.",
+      "appearance": "A lithe half-elf, with long, braided auburn hair often adorned with wildflowers. Green eyes bright and keen. Usually has dirt smudged on her cheeks from her work.",
+      "section": "Elsewhere in Verrowen"
+    },
+    {
       "id": "silas-blackwood",
       "type": "person",
       "name": "Silas Blackwood",
@@ -2138,7 +2166,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1358
+        "line": 1386
       }
     }
   ]
