@@ -1848,16 +1848,6 @@ _Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or t
 - ITEMS: A freshly polished silver coin, perhaps a sturdy horseshoe, a hand-woven scarf, or one of Doric's trusty tools – a sharpened arrow tip, gleaming bright.
 - DEFENSE AND LAW: Protection through tradition, guided by the Elders and the watchful Guard.
 
-### What makes Stoutwell special? (Pitch)
-
-<!-- review-key: rest:idea-mwa35q70 -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stoutwell._
-
-- WHAT: Stoutwell is more than just a village – nestled snugly between rolling hills and sparkling streams, it’s a place where time seems to slow down, exactly because of its charm! It's home to the most welcoming residents, all with warm smiles and tales ready for sharing. There’s the sturdy blacksmith, Doric, crafting beautiful tools that will last through any season, plus the jovial baker, Tobin Ashby, ensuring every loaf is perfectly fluffy. Then there’s Hesketh Reeve, ever watchful over the village, making sure everything runs smoothly – from collecting the harvest to keeping an eye on the water level. And rounding out the crew are the friendly halfling travelers, Melly and Barnaby, always eager to offer a smile (and maybe a freshly baked biscuit) to newcomers. The Village Roster showcases the diverse mix - old Mrs. Willowbrook, the keeper of secrets, often knitting socks while chatting with visitors. She welcomes them warmly, offering a cozy spot by the hearth. A skilled craftsman, Mr. Fitzwilliam, creates delightful trinkets using wood shavings. The best local brewer, Miss Elara, brews some wonderful ale with a secret ingredient. A charming storyteller, Silas Blackwood, tells stories of old, ensuring the whole village knows about Stoutwell' one treasures.
-- DEFENSE AND LAW: The Guard rotation ensures smooth sailing; the Guard Tithe checks and balances, with coins flowing freely thanks to the friendly Halflings in the Village Workers, and the steady work done by the hardworking, well-paid Woodworkers. For stability, they have robust policies—the well-kept ledgers and efficient practices guarantee things run like clockwork, overseen by the reliable and kind Hearthcircle members, especially the respected Wendeline. A few simple rules keep everyone happy: it’s all about good manners and fair exchange – everything is agreed upon.
-- LEADERSHIP: The Hearthcircle leaders are chosen for their wisdom and kindness, particularly the warm and welcoming Eldery, who ensure that everyone feels welcome, and the wise Bertram has a little more than two years on the job. He’s got a gentle touch when it comes to keeping
-
 ### Keepers of the Key (Your idea)
 
 <!-- review-key: rest:idea-mwa5e32p -->
