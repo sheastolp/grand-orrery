@@ -1882,20 +1882,6 @@ _Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: 
 
 - IDEA: The King’s decree! It speaks of the greatest treasure – the Sparkling Jewel of Verdant Valley - which must be delivered to the Royal Palace by the end of next week. Only those with impeccable manners and a steady supply of honey cakes will be deemed worthy of its reward. A royal inspection is planned for all. He needs someone to oversee the task and ensure it goes smoothly—a simple, diligent elf named Elara Swiftleaf from the Greenwood, or a loyal halfling named Doric. Her duties include overseeing the delivery of supplies, keeping an eye on the workers, ensuring everyone is happy, and verifying everything is accounted for. If she works well, then they' very likely need her! Moreover, there is always a little extra sparkle to make this event even more enticing in the eyes of a discerning royal patron, like Lord Beaumont himself, who believes that beauty makes for a good ruler (and a prosperous kingdom!). And finally, the royal herald, Bartholomew Brightside, says his own little praises for Elara’s swiftness, and promises a few bonuses to keep her happy. The King has plans for young and old. He wishes for her to ensure the treasures are secured for when he returns to town. The King has a small plan for the future of the village as well– he wants to boost their economy through investments such as more roads, more buildings and more merchants! It's about solidifying his power - one shimmering jewel at a time.
 
-### a short name (Pitch)
-
-<!-- review-key: rest:idea-mwafrapt -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's guild hall keeps, does or is known for._
-
-- the wellspring
-- the keeper
-- the hall's voice
-- the village’s story
-- the land's legacy
-- the keepers secret
-- the heart's anchor
-
 ### The Whispering Stone (Pitch)
 
 <!-- review-key: rest:idea-mwaghrtp -->
