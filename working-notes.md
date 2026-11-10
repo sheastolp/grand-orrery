@@ -1873,17 +1873,6 @@ _Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster W
 
 ### a short name (Pitch)
 
-<!-- review-key: rest:idea-mwa6uzgo -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or the Kingdom's history._
-
-- The Royal Cipher
-- The Scholar’s Secret
-- The Village Blueprint
-- The Emerald Eye
-
-### a short name (Pitch)
-
 <!-- review-key: rest:idea-mwa7lye3 -->
 <!-- added by the AI -->
 _Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._
