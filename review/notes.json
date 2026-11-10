@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T05:30:34.140Z",
+  "built": "2026-11-10T05:51:31.728Z",
   "branch": "review",
-  "commit": "d4833070da7163d75c786f9a1b1eff27fb32454a",
+  "commit": "c572f2dec72142f5fc6e1f54c1d365c17e893b47",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 214,
+    "note": 215,
     "document": 10,
     "map": 4
   },
@@ -4287,6 +4287,24 @@
       "source": {
         "file": "working-notes.md",
         "line": 1874
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-a-short-name-4",
+      "type": "note",
+      "name": "a short name",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwa9v1dg",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stoutwell._\n\n- the wellspring\n- the hearthstone\n- the forge",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1882
       },
       "world": "verrowen"
     },
