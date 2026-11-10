@@ -1863,16 +1863,6 @@ _Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster W
 
 ### a short name (Pitch)
 
-<!-- review-key: rest:idea-mwa9v1dg -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stoutwell._
-
-- the wellspring
-- the hearthstone
-- the forge
-
-### a short name (Pitch)
-
 <!-- review-key: rest:idea-mwact6we -->
 <!-- added by the AI -->
 _Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._
