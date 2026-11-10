@@ -1870,3 +1870,11 @@ _Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: 
 - the wellspring
 - the hearthfire
 - the hidden gem
+
+### a short name (Pitch)
+
+<!-- review-key: rest:idea-mwa942t5 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's guild hall keeps, does or is known for._
+
+- The Great Hall Keep
