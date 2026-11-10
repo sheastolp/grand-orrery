@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T22:12:22.383Z",
+  "built": "2026-11-10T22:34:40.424Z",
   "branch": "review",
-  "commit": "019a50e71735b41a11d605d3c445fccf76aa082a",
+  "commit": "a4dd2092fda841441ad73329a1078ceec01f5701",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 222,
+    "note": 223,
     "document": 10,
     "map": 4
   },
@@ -4470,6 +4470,24 @@
       "mentions": [
         "murrow"
       ]
+    },
+    {
+      "id": "working-notes-whispersongs-vigil",
+      "type": "note",
+      "name": "Whispersong’s Vigil",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwb9p4xs",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- The tiny fishing settlement at the foot of the mountains guards a passage that leads to an unknown place beyond, while also struggling with a dwindling catch.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2001
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
