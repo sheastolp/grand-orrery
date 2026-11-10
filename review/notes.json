@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T00:49:07.483Z",
+  "built": "2026-11-10T00:49:53.058Z",
   "branch": "review",
-  "commit": "92fb51675bd226a3331e01459b72dab8d38c612a",
+  "commit": "46fea0e042fc3143dba95bdeec1f678633eaa02f",
   "counts": {
     "person": 87,
     "role": 11,
@@ -4159,7 +4159,7 @@
       "type": "note",
       "name": "the Great Weaver’s Loom",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw9xwkcw",
