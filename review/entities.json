@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T09:39:09.743Z",
+  "built": "2026-11-10T10:00:09.366Z",
   "branch": "review",
-  "commit": "c4b6175b61a0ea5a36a7343d6696a960e15cce28",
+  "commit": "aec68bd8c37d3bc682b76704bbf86bfda1d5b37c",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 223,
+    "note": 224,
     "document": 10,
     "map": 4
   },
@@ -275,7 +275,8 @@
         "working-notes-a-little-bit-more",
         "working-notes-what-is-it",
         "working-notes-what-does-the-king-say",
-        "working-notes-the-whispering-stone"
+        "working-notes-the-whispering-stone",
+        "working-notes-what-does-it-mean"
       ]
     },
     {
@@ -10420,6 +10421,27 @@
         "file": "working-notes.md",
         "line": 1973
       }
+    },
+    {
+      "id": "working-notes-what-does-it-mean",
+      "type": "note",
+      "name": "What does it mean?",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwaiqu5x",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- What does it truly mean to be a vibrant, blooming village nestled snug within the embrace of emerald green forests? To be known for stories whispered on warm evenings, where laughter dances like sunlight through leaves and cobblestone streets sparkle with centuries of history? It’s not just about stones and towers – it’s about the very essence of the Village, woven into threads of tradition, fueled by the warmth of hearth fires, and anchored firmly to the rhythm of daily life – a gentle flow of trade, and skilled hands shaping stone, wood, and cloth. Every villager holds an ingredient that makes their village whole—the best harvest, fresh water, sunshine and good cheer!\n- It'\n- The Village, named for its enduring spirit and simple pleasures - the cozy tavern overflowing with tales of old, or the well-worn benches under the shade of ancient oaks, inviting travelers to rest their weary feet. It's more than just buildings and borders, it's a tapestry woven from customs, celebrations, and mutual respect--a harmonious blend of sights, sounds, and scents, all contributing to a perpetually pleasant atmosphere.\n- And finally, how does it all come together? The Village thrives because of the steadfast heart of its people: the steady hand of Doric (her blacksmith), the sure-footed foot of Tobin (the Halfling), the wise eyes of Bram (the keeper of wisdom)\n- So let them welcome you in with warm smiles and a hearty greeting -- ready to share a story, a song, or perhaps a tasty loaf of bread! Let’ a moment of peace be given, as you have an opportunity to enjoy the Village's charm, one beautiful day at a time.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1981
+      },
+      "world": "verrowen",
+      "mentions": [
+        "doric"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
