@@ -1375,7 +1375,7 @@ Open questions: Just a little thought ahead – how can we make every detail spa
 
 In the world, imagine: nestled amongst the rolling green hills of the Kingdom, nestled close to the forest road and overlooking the shimmering waters of the River Slagter, resides one of Verrowen's most beloved landmarks—the Grand Orrery, standing as a testament to centuries past and perfectly captured within it’s very framework of elements.”
 
-### Orin Bellweather (Pitch)
+### Orin Bellweather (Your idea)
 
 <!-- review-key: lore-keeper:1c413e45-c42e-47d4-b86a-38cd3492978a -->
 _From a lore-keeper chat, 2026-11-10 · Characters._
