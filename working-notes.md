@@ -2044,3 +2044,14 @@ _Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stout
 - TONE: Gentle, inviting, slightly whimsical, full of delightful descriptions - easy to read and enjoyable for readers of children’-s stories.
 - MAGIC: Simple and natural, relying on the beauty of the landscape and the kindness of the people. A sprinkle of enchantment makes all the difference!
 - ARTIFICERS: Easily identifiable and believable, showcasing some lovely folk heroes (like Doric and Murrow) and charming characters like the Hearthcircle members.
+
+### What is the most important thing about Stoutwell? (Pitch)
+
+<!-- review-key: rest:idea-mwanyis7 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._
+
+- IDEA: Stoutwell’s entire identity rests on a charmingly simple fact – the heart of the village, nestled between two friendly hills, is undeniably the best place to visit! It’s celebrated for its cozy pubs, welcoming locals, and perfectly preserved cobblestone streets—streets that even the smallest mud splodge doesn't bother to erase. A perfect snapshot of classic medieval charm, truly worth celebrating every single day, isn’t it?
+- TONE: Warm, inviting, and slightly whimsical - like a good story whispered through the trees.
+- MAGIC: Purely practical and pleasant, utilizing naturally occurring elements and good cheer.
+- ROLES: 1. Hearthcircle (the village elders) to keep traditions alive, ensuring everyone feels welcome. 2. The Wellhouse elves to keep a steady supply of magic flowing in their small little world, keeping a secret or two. 3. Tobin Ashby (a blacksmith's apprentice) to make sure everything goes smoothly as well. 4. Doric (the Artificer) to easily fix anything with her tinkering skills. 5. Murrow (the Artisan) to ensure all goods are ready for shipment. 6. Hesketh Reeve (the Guard Captain) to be always vigilant and watchful.
