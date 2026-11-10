@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T19:01:31.140Z",
+  "built": "2026-11-10T19:02:22.473Z",
   "branch": "review",
-  "commit": "866dd602c0e633d8810e25a7f5f1f72cd76f4eb7",
+  "commit": "8f59750e821db9e3af7e508355306d987120a280",
   "counts": {
     "person": 89,
     "role": 11,
@@ -8812,7 +8812,7 @@
       "type": "note",
       "name": "Orin Bellweather",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From the lore-keeper",
       "origin": "lore-keeper",
       "review_key": "lore-keeper:1c413e45-c42e-47d4-b86a-38cd3492978a",
@@ -8833,7 +8833,7 @@
       "type": "person",
       "name": "Orin Bellweather",
       "origin": "lore-keeper",
-      "status": "pitch",
+      "status": "decided",
       "world": "verrowen",
       "review_key": "lore-keeper:1c413e45-c42e-47d4-b86a-38cd3492978a",
       "filed": "2026-11-10",
