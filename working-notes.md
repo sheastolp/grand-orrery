@@ -1847,3 +1847,11 @@ _Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or t
 - ARTIFICERS: Well, practically *all* of them, really! The hearty Hearthcircle keeps things moving, while the cleverest artisans ensure a smooth workflow. And don' to forget, everyone relies on their own favorite spells - sometimes a simple charm or a blessing from the village healer.
 - ITEMS: A freshly polished silver coin, perhaps a sturdy horseshoe, a hand-woven scarf, or one of Doric's trusty tools – a sharpened arrow tip, gleaming bright.
 - DEFENSE AND LAW: Protection through tradition, guided by the Elders and the watchful Guard.
+
+### a short name (Pitch)
+
+<!-- review-key: rest:idea-mwa0wnxi -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._
+
+- a simple phrase
