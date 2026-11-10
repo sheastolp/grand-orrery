@@ -1948,3 +1948,16 @@ _Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's gui
 - the land's legacy
 - the keepers secret
 - the heart's anchor
+
+### The Whispering Stone (Pitch)
+
+<!-- review-key: rest:idea-mwaghrtp -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stoutwell._
+
+- TONE: Cozy, whimsical, with a hint of mystery – perfect for inviting visitors to the village!
+- WORDS: Short, sweet, and filled with friendly greetings.
+- WORLD: Stoutwell is a little slice of paradise nestled beside the shimmering waters of the Silver Creek, where cobblestone streets wind through charming houses adorned with ivy. It’s known as “The Village” by many, due to its cozy charm and welcoming residents. The village is dotted with quaint shops selling handmade crafts and fresh produce. Old Mrs. Gable tends her roses in front of her cottage - it's always lovely in Stoutwell.
+- ARTIFICERS: There's Hazel Willowbrook, the village herbalist, whose fingers are perpetually stained green from mixing potions. Silas Blackwood, the blacksmith, keeps his best forge flame bright. And Doric, the peddler, always ready with a smile and a trinket.
+- ITEMS: A beautifully polished pebble that whispers secrets to those who listen closely (perhaps an enchanted smooth!). And there' the well-kept logs of sturdy oak beams.
+- DEFENSES & LAW: Mostly good cheerfulness and friendliness. But if trouble arises, it can be easily solved with a hearty greeting or a well-placed blessing.
