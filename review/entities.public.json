@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T21:03:43.969Z",
+  "built": "2026-11-10T21:25:36.510Z",
   "branch": "review",
-  "commit": "292ad2410380e8671d7d27e4948cd18a55f5c91a",
+  "commit": "61ba51b71e3cb5a003acf93832d8873c082a04d8",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 37,
-    "note": 225,
+    "note": 226,
     "document": 10,
     "map": 4
   },
@@ -410,7 +410,8 @@
         "working-notes-brackwoods-whimsy-2",
         "working-notes-bellweathers-boon",
         "working-notes-monstradius-peculiar-pipe-2",
-        "working-notes-orins-echoes"
+        "working-notes-orins-echoes",
+        "working-notes-the-silent-offering-3"
       ]
     },
     {
@@ -10629,6 +10630,34 @@
       "mentions": [
         "doric",
         "hesketh-reeve",
+        "murrow"
+      ]
+    },
+    {
+      "id": "working-notes-the-silent-offering-3",
+      "type": "note",
+      "name": "The Silent Offering",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwb78bsa",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Every evening at sunset, every household in Stoutwell places a single, unlit candle upon their doorstep – a tradition known locally as “The Silent Offering.”",
+        "who": "It’s practiced by all residents of Stoutwell, regardless of race or profession, though the Elderhold particularly emphasizes its importance. Even Murrow participates, although he does so with an unnerving lack of emotion.",
+        "how_it_works": "The candles aren’t lit, nor do villagers speak aloud when placing them. Instead, they silently focus their intent—a wish for protection from the monsters of the Wood, a prayer for good fortune in trade, or simply remembrance of those lost to the blight—onto the flameless wax. This isn’t seen as directly affecting anything outside Stoutwell, but rather a formalized acknowledgement of the unseen forces at play in the universe. The practice stems from ancient tales of appeasing restless spirits tied to the land.",
+        "limits": "The offering only functions if performed with genuine sincerity. A cynical or resentful intention will weaken the effect. Furthermore, the “mana cost” associated with such focused thought is considerable - prolonged concentration can lead to dizziness and exhaustion, especially in weaker individuals like halflings or children.",
+        "ties": "The tradition dates back to the founding of Stoutwell, predating even the Wellhouse elves' arrival. Its roots are linked to whispers of a pact made between the first settlers and a protective spirit residing within the Monster Wood – a spirit said to be sensitive to acts of quiet reverence. Hesketh maintains that it keeps the Guard effective by reminding everyone what they protect."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **What it is:** Every evening at sunset, every household in Stoutwell places a single, unlit candle upon their doorstep – a tradition known locally as “The Silent Offering.”\n- **Who:** It’s practiced by all residents of Stoutwell, regardless of race or profession, though the Elderhold particularly emphasizes its importance. Even Murrow participates, although he does so with an unnerving lack of emotion.\n- **How it works:** The candles aren’t lit, nor do villagers speak aloud when placing them. Instead, they silently focus their intent—a wish for protection from the monsters of the Wood, a prayer for good fortune in trade, or simply remembrance of those lost to the blight—onto the flameless wax. This isn’t seen as directly affecting anything outside Stoutwell, but rather a formalized acknowledgement of the unseen forces at play in the universe. The practice stems from ancient tales of appeasing restless spirits tied to the land.\n- **Limits:** The offering only functions if performed with genuine sincerity. A cynical or resentful intention will weaken the effect. Furthermore, the “mana cost” associated with such focused thought is considerable - prolonged concentration can lead to dizziness and exhaustion, especially in weaker individuals like halflings or children.\n- **Ties:** The tradition dates back to the founding of Stoutwell, predating even the Wellhouse elves' arrival. Its roots are linked to whispers of a pact made between the first settlers and a protective spirit residing within the Monster Wood – a spirit said to be sensitive to acts of quiet reverence. Hesketh maintains that it keeps the Guard effective by reminding everyone what they protect.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2035
+      },
+      "world": "verrowen",
+      "mentions": [
         "murrow"
       ]
     },
