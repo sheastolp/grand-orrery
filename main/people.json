@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T13:42:44.316Z",
+  "built": "2026-11-10T15:24:18.996Z",
   "branch": "main",
-  "commit": "34353d1c32829be1b314e20ba173232fdbf64ac0",
+  "commit": "390770e0004573ac017fccbe00f5abdcd8beb9e3",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 100,
+    "item": 101,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 217,
+    "note": 223,
     "document": 10,
     "map": 4
   },
@@ -2121,7 +2121,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1341
+        "line": 1358
       }
     }
   ]

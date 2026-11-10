@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T13:42:44.316Z",
+  "built": "2026-11-10T15:24:18.996Z",
   "branch": "main",
-  "commit": "34353d1c32829be1b314e20ba173232fdbf64ac0",
+  "commit": "390770e0004573ac017fccbe00f5abdcd8beb9e3",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 100,
+    "item": 101,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 217,
+    "note": 223,
     "document": 10,
     "map": 4
   },
@@ -1983,7 +1983,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1537
+        "line": 1554
       }
     },
     {
@@ -2010,7 +2010,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1571
+        "line": 1588
       }
     },
     {
@@ -2038,7 +2038,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1595
+        "line": 1612
       }
     },
     {
@@ -2062,7 +2062,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1643
+        "line": 1660
       }
     },
     {
@@ -2082,7 +2082,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1675
+        "line": 1692
       }
     },
     {
@@ -2108,7 +2108,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1741
+        "line": 1758
       }
     },
     {
@@ -2131,7 +2131,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1765
+        "line": 1782
       }
     },
     {
@@ -2151,7 +2151,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1799
+        "line": 1816
       }
     },
     {
@@ -2174,7 +2174,27 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1864
+        "line": 1881
+      }
+    },
+    {
+      "id": "a-short-name",
+      "type": "item",
+      "name": "a short name",
+      "icon": "🏺",
+      "category": "Peddlers' wares",
+      "kind": "Relics",
+      "origin": "rest",
+      "status": "pitch",
+      "review_key": "rest:idea-mwarnyhk",
+      "filed": "2026-11-10",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- the wellspring",
+      "notes": [
+        "working-notes-a-short-name-3"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 1946
       }
     }
   ]
