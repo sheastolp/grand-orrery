@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T15:39:56.838Z",
+  "built": "2026-11-10T15:40:17.649Z",
   "branch": "review",
-  "commit": "8cae0940d8b8ad05a8afa43123fd094472ba6616",
+  "commit": "3104894c0ab87bb50302d39f750fd735ca5c6bd8",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 218,
+    "note": 217,
     "document": 10,
     "map": 4
   },
@@ -4312,27 +4312,6 @@
       ]
     },
     {
-      "id": "working-notes-what-does-it-mean",
-      "type": "note",
-      "name": "What does it mean?",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwaiqu5x",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- What does it truly mean to be a vibrant, blooming village nestled snug within the embrace of emerald green forests? To be known for stories whispered on warm evenings, where laughter dances like sunlight through leaves and cobblestone streets sparkle with centuries of history? It’s not just about stones and towers – it’s about the very essence of the Village, woven into threads of tradition, fueled by the warmth of hearth fires, and anchored firmly to the rhythm of daily life – a gentle flow of trade, and skilled hands shaping stone, wood, and cloth. Every villager holds an ingredient that makes their village whole—the best harvest, fresh water, sunshine and good cheer!\n- It'\n- The Village, named for its enduring spirit and simple pleasures - the cozy tavern overflowing with tales of old, or the well-worn benches under the shade of ancient oaks, inviting travelers to rest their weary feet. It's more than just buildings and borders, it's a tapestry woven from customs, celebrations, and mutual respect--a harmonious blend of sights, sounds, and scents, all contributing to a perpetually pleasant atmosphere.\n- And finally, how does it all come together? The Village thrives because of the steadfast heart of its people: the steady hand of Doric (her blacksmith), the sure-footed foot of Tobin (the Halfling), the wise eyes of Bram (the keeper of wisdom)\n- So let them welcome you in with warm smiles and a hearty greeting -- ready to share a story, a song, or perhaps a tasty loaf of bread! Let’ a moment of peace be given, as you have an opportunity to enjoy the Village's charm, one beautiful day at a time.",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1902
-      },
-      "world": "verrowen",
-      "mentions": [
-        "doric"
-      ]
-    },
-    {
       "id": "working-notes-what-does-the-king-say-2",
       "type": "note",
       "name": "What does the King say?",
@@ -4346,7 +4325,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- IDEA: The King is about to make a monumental decision regarding the stability of his kingdom, relying heavily on two key figures – the steadfast King Alaric, known for his unwavering faith in tradition, and his shrewd advisor, Lady Beatrice. However, beneath their polished smiles lies a subtle secret, with a prophecy whispered by an oracle - predicting a shift in power that could secure the kingdom’s future. The King is preparing to bestow a gift upon his loyal subject, and it all depends on confirming that he's worthy of new blessings. He plans to declare a special decree, bolstered by royal decrees written in elegant script. The proclamation calls out the wisdom of the wise and proclaims how important the King is to the whole land; every good citizen needs to confirm.\n- TONE: Formal, descriptive, slightly stately, full of warm praise for the King. It hints at upcoming festivities.\n- MAGIC: Elemental (Earth), Strength enhancement, Detection. Royal spells include healing charms, enchantment buffs, and a gentle touch of divination. A little bit of water magic flows through everything, ensuring prosperity and happiness.\n- ARTIFICERS: A princess! Princess Elara is practically born into the best possible condition, gifted with perfect eyesight, impeccable manners, and a delightful disposition. Her royal advisors are a team of brilliant, well-honed, yet undeniably charming knights and ladies-in-waiting whose primary tasks revolve around ensuring her flawless enjoyment. And then there’ a few truly excellent merchants, too – particularly good at crafting convincing tales.\n- ITEMS: A shimmering emerald amulet, a freshly-baked loaf of bread, a pair of silver slippers, a scroll sealed with royal wax, a bright ribbon, and a very handsome knight who has no objections to his lovely lady. Perhaps a few shiny trinkets to make him smile...\n- DEFENSES AND LAW: Defense rests on unwavering faith, solid alliances, and the might of the Kingdom's finest troops—a legion of loyal knights, a strong-hearted archers, the most reliable soldiers, and the most skilled mages in all of Verrowen. Laws are simple, fair, and rooted in tradition. The King’s laws must be followed",
       "source": {
         "file": "working-notes.md",
-        "line": 1914
+        "line": 1902
       },
       "world": "verrowen"
     },
@@ -4364,7 +4343,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- IDEA: Stoutwell’s entire identity rests on a charmingly simple fact – the heart of the village, nestled between two friendly hills, is undeniably the best place to visit! It’s celebrated for its cozy pubs, welcoming locals, and perfectly preserved cobblestone streets—streets that even the smallest mud splodge doesn't bother to erase. A perfect snapshot of classic medieval charm, truly worth celebrating every single day, isn’t it?\n- TONE: Warm, inviting, and slightly whimsical - like a good story whispered through the trees.\n- MAGIC: Purely practical and pleasant, utilizing naturally occurring elements and good cheer.\n- ROLES: 1. Hearthcircle (the village elders) to keep traditions alive, ensuring everyone feels welcome. 2. The Wellhouse elves to keep a steady supply of magic flowing in their small little world, keeping a secret or two. 3. Tobin Ashby (a blacksmith's apprentice) to make sure everything goes smoothly as well. 4. Doric (the Artificer) to easily fix anything with her tinkering skills. 5. Murrow (the Artisan) to ensure all goods are ready for shipment. 6. Hesketh Reeve (the Guard Captain) to be always vigilant and watchful.",
       "source": {
         "file": "working-notes.md",
-        "line": 1927
+        "line": 1915
       },
       "world": "verrowen",
       "mentions": [
