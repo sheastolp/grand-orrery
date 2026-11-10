@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T13:46:31.049Z",
+  "built": "2026-11-10T13:48:48.991Z",
   "branch": "review",
-  "commit": "34353d1c32829be1b314e20ba173232fdbf64ac0",
+  "commit": "c7c723939fb35d8bc063a2cb57aaec73fd327f16",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 217,
+    "note": 218,
     "document": 10,
     "map": 4
   },
@@ -10302,6 +10302,24 @@
         "hesketh-reeve",
         "murrow"
       ]
+    },
+    {
+      "id": "working-notes-a-short-name-2",
+      "type": "note",
+      "name": "a short name",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwaqwxc9",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or the Kingdom's history._\n\n- Burrow’s Secrets",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1921
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
