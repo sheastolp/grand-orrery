@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T23:55:42.262Z",
+  "built": "2026-11-10T00:02:22.416Z",
   "branch": "review",
-  "commit": "c54edf028ebc098818dbb89a85957ad9d0bb99b6",
+  "commit": "30776e72c79e233ef81178d0e89469af1ffde52e",
   "counts": {
     "person": 87,
     "role": 11,
@@ -4120,7 +4120,7 @@
       "type": "note",
       "name": "A little bit about the land",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mw9x5iqv",
