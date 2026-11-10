@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T00:02:52.426Z",
+  "built": "2026-11-10T00:52:02.863Z",
   "branch": "main",
-  "commit": "30776e72c79e233ef81178d0e89469af1ffde52e",
+  "commit": "85ca8750aabc3a31c37b8cd7c92b49ce44484e79",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 98,
+    "item": 99,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 206,
+    "note": 209,
     "document": 10,
     "map": 4
   },
@@ -77,7 +77,8 @@
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-silas-blackwood",
         "working-notes-village-roster-2",
-        "working-notes-the-silent-offering"
+        "working-notes-the-silent-offering",
+        "working-notes-blight-watch"
       ]
     },
     {
@@ -301,7 +302,8 @@
         "working-notes-murrows-secret",
         "working-notes-rooks-watch",
         "working-notes-monstradius-peculiar-pipe",
-        "working-notes-a-whisper-of-magic"
+        "working-notes-a-whisper-of-magic",
+        "working-notes-blight-watch"
       ]
     },
     {
@@ -873,7 +875,8 @@
       "mentioned_in": [
         "lore-beyond",
         "universe-the-road-peddlers",
-        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk"
+        "working-notes-the-scribe-the-peddlers-and-the-wandering-clerk",
+        "working-notes-the-fishing-village-its-name-undecided-who-lives-the"
       ]
     },
     {
@@ -2110,7 +2113,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1310
+        "line": 1341
       }
     }
   ]
