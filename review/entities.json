@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T22:34:40.424Z",
+  "built": "2026-11-10T22:56:55.628Z",
   "branch": "review",
-  "commit": "a4dd2092fda841441ad73329a1078ceec01f5701",
+  "commit": "ab368d5875412ee85e43a4961c2cde14ee5adab3",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 223,
+    "note": 224,
     "document": 10,
     "map": 4
   },
@@ -410,7 +410,8 @@
         "working-notes-whisperwinds-relic-featherhook",
         "working-notes-what-is-the-most-important-thing-about-stoutwell",
         "working-notes-brackwoods-whimsy-2",
-        "working-notes-bellweathers-boon"
+        "working-notes-bellweathers-boon",
+        "working-notes-brackwoods-whimsy-3"
       ]
     },
     {
@@ -10594,6 +10595,35 @@
         "line": 2001
       },
       "world": "verrowen"
+    },
+    {
+      "id": "working-notes-brackwoods-whimsy-3",
+      "type": "note",
+      "name": "Brackwood’s Whimsy",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbahuoa",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Murrow discovered a hidden cache of intricately carved wooden toys within an abandoned Brackwood Fringe cabin – each toy seemingly imbued with a minor, playful enchantment related to its function.",
+        "who": "This involves Rook, a young Guard recruit obsessed with collecting unusual objects, and Silas Blackwood, a reclusive woodcarver known for his unsettlingly lifelike creations.",
+        "where": "The discovery takes place within a crumbling cabin bordering the Brackwood Fringe, closest to Stoutwell’s slums.",
+        "how_it_works": "Touching a toy triggers a brief, localized effect - a spinning top might create a miniature whirlwind, a wooden soldier could briefly mimic movement, and a tiny rocking horse emits a faint, comforting warmth. These effects drain a small amount of mana from whoever interacts with the toy (a novice user will quickly exhaust their reserves).  The magic is tied to the inherent joy and imagination embedded in the carvings by Blackwood.",
+        "limits": "The enchantments are weak and fleeting, lasting only a few seconds at most. Overuse drains the user’s mana rapidly, leading to dizziness and fatigue.  Only someone attuned to natural magic can reliably trigger the items; even then, success isn't guaranteed.",
+        "ties": "This connects to Silus Blackwood, who was once hired by Murrow but disappeared after the artificer discovered he used “pure joy” as a catalyst for his carvings – something Murrow recognized as dangerously close to unstable resonance stone manipulation. Rook, desperate to prove himself, becomes obsessed with uncovering Blackwood’s whereabouts, believing the toys hold clues to a larger magical secret."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What it is:** Murrow discovered a hidden cache of intricately carved wooden toys within an abandoned Brackwood Fringe cabin – each toy seemingly imbued with a minor, playful enchantment related to its function.\n- **Who:** This involves Rook, a young Guard recruit obsessed with collecting unusual objects, and Silas Blackwood, a reclusive woodcarver known for his unsettlingly lifelike creations.\n- **Where:** The discovery takes place within a crumbling cabin bordering the Brackwood Fringe, closest to Stoutwell’s slums.\n- **How it works:** Touching a toy triggers a brief, localized effect - a spinning top might create a miniature whirlwind, a wooden soldier could briefly mimic movement, and a tiny rocking horse emits a faint, comforting warmth. These effects drain a small amount of mana from whoever interacts with the toy (a novice user will quickly exhaust their reserves).  The magic is tied to the inherent joy and imagination embedded in the carvings by Blackwood.\n- **Limits:** The enchantments are weak and fleeting, lasting only a few seconds at most. Overuse drains the user’s mana rapidly, leading to dizziness and fatigue.  Only someone attuned to natural magic can reliably trigger the items; even then, success isn't guaranteed.\n- **Ties:** This connects to Silus Blackwood, who was once hired by Murrow but disappeared after the artificer discovered he used “pure joy” as a catalyst for his carvings – something Murrow recognized as dangerously close to unstable resonance stone manipulation. Rook, desperate to prove himself, becomes obsessed with uncovering Blackwood’s whereabouts, believing the toys hold clues to a larger magical secret.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2009
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
