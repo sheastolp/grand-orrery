@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-09T22:45:11.482Z",
+  "built": "2026-11-10T00:02:52.426Z",
   "branch": "main",
-  "commit": "c3908cb27c6a25a332ab49d6fac1684af9a95164",
+  "commit": "30776e72c79e233ef81178d0e89469af1ffde52e",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 204,
+    "note": 206,
     "document": 10,
     "map": 4
   },
@@ -9989,6 +9989,42 @@
         "file": "working-notes.md",
         "line": 1734
       }
+    },
+    {
+      "id": "working-notes-a-short-name",
+      "type": "note",
+      "name": "a short name",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw9vniqq",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- the wellspring",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1747
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-a-little-bit-about-the-land",
+      "type": "note",
+      "name": "A little bit about the land",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw9x5iqv",
+      "filed": "2026-11-09",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- WORLD: Verrowen’s world is a beautiful tapestry woven with sunshine, rolling hills, and shimmering rivers. Ancient trees stand proudly alongside lively streams, all nestled within a cozy village called Eldoria. Lush green fields sparkle under a constant azure sky, perfect for planting plump crops and welcoming happy villagers. The best houses of Eldoria are built of stone or timber, adorned by flowers and vines. Elves still call it home, and their laughter flows like water through the streets. The villages residents spend their time with great joy. It all seems very straightforward!\n- TONE: Warm, inviting, and slightly whimsical. Gentle, friendly voice. Suggesting easygoing days. Perfect for describing the life in a quaint village.\n- MAGIC: Magic flows freely and naturally here, thanks to gentle spirits and friendly smiles. Most folk just use common sense, and sometimes a little well-placed charm. Small spells of enchantment go with any request. Simple blessings keep everything smooth.\n- ARTIFICERS: There are few true specialists needed – mostly simple folk! There' of the village hearthkeepers - ensuring the wood is warm and the fire is bright. If you need some help moving a boulder? There is no problem. For a good boost to your harvest? Easy peasy. Or maybe just a nice greeting from one of them.\n- ITEMS: A fresh loaf of bread, sparkling dew drops collected from leaves, a smile as sweet as honey, and an eye for beauty that shines brighter than sunshine. Sometimes a freshly-picked berry, perfect for a snack.\n- DEFENSES & LAW: Fortified by sturdy walls and watchful guards – especially one or two friendly halflings always ready to lend a hand. Good cheer keeps everyone happy and harmonious. Laws are simple enough to remember: fair trade for fair goods, honest service for a good day’s work, and everyone gets their share of the bounty.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1755
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
