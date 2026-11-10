@@ -1882,19 +1882,6 @@ _Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: 
 
 - IDEA: The King’s decree! It speaks of the greatest treasure – the Sparkling Jewel of Verdant Valley - which must be delivered to the Royal Palace by the end of next week. Only those with impeccable manners and a steady supply of honey cakes will be deemed worthy of its reward. A royal inspection is planned for all. He needs someone to oversee the task and ensure it goes smoothly—a simple, diligent elf named Elara Swiftleaf from the Greenwood, or a loyal halfling named Doric. Her duties include overseeing the delivery of supplies, keeping an eye on the workers, ensuring everyone is happy, and verifying everything is accounted for. If she works well, then they' very likely need her! Moreover, there is always a little extra sparkle to make this event even more enticing in the eyes of a discerning royal patron, like Lord Beaumont himself, who believes that beauty makes for a good ruler (and a prosperous kingdom!). And finally, the royal herald, Bartholomew Brightside, says his own little praises for Elara’s swiftness, and promises a few bonuses to keep her happy. The King has plans for young and old. He wishes for her to ensure the treasures are secured for when he returns to town. The King has a small plan for the future of the village as well– he wants to boost their economy through investments such as more roads, more buildings and more merchants! It's about solidifying his power - one shimmering jewel at a time.
 
-### The Whispering Stone (Pitch)
-
-<!-- review-key: rest:idea-mwaghrtp -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stoutwell._
-
-- TONE: Cozy, whimsical, with a hint of mystery – perfect for inviting visitors to the village!
-- WORDS: Short, sweet, and filled with friendly greetings.
-- WORLD: Stoutwell is a little slice of paradise nestled beside the shimmering waters of the Silver Creek, where cobblestone streets wind through charming houses adorned with ivy. It’s known as “The Village” by many, due to its cozy charm and welcoming residents. The village is dotted with quaint shops selling handmade crafts and fresh produce. Old Mrs. Gable tends her roses in front of her cottage - it's always lovely in Stoutwell.
-- ARTIFICERS: There's Hazel Willowbrook, the village herbalist, whose fingers are perpetually stained green from mixing potions. Silas Blackwood, the blacksmith, keeps his best forge flame bright. And Doric, the peddler, always ready with a smile and a trinket.
-- ITEMS: A beautifully polished pebble that whispers secrets to those who listen closely (perhaps an enchanted smooth!). And there' the well-kept logs of sturdy oak beams.
-- DEFENSES & LAW: Mostly good cheerfulness and friendliness. But if trouble arises, it can be easily solved with a hearty greeting or a well-placed blessing.
-
 ### What does it mean? (Pitch)
 
 <!-- review-key: rest:idea-mwaiqu5x -->
