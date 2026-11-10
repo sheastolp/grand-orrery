@@ -1992,7 +1992,7 @@ _Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stout
 - MAGIC: Simple and natural, relying on the beauty of the landscape and the kindness of the people. A sprinkle of enchantment makes all the difference!
 - ARTIFICERS: Easily identifiable and believable, showcasing some lovely folk heroes (like Doric and Murrow) and charming characters like the Hearthcircle members.
 
-### What is the most important thing about Stoutwell? (Pitch)
+### What is the most important thing about Stoutwell? (Your idea)
 
 <!-- review-key: rest:idea-mwanyis7 -->
 <!-- added by the AI -->
