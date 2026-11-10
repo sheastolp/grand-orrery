@@ -1937,14 +1937,6 @@ _Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or r
 
 ### a short name (Pitch)
 
-<!-- review-key: rest:idea-mwat5z4c -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's guild hall keeps, does or is known for._
-
-- The Hidden Gem
-
-### a short name (Pitch)
-
 <!-- review-key: rest:idea-mwauo1w1 -->
 <!-- added by the AI -->
 _Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._
