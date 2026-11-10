@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T08:15:53.922Z",
+  "built": "2026-11-10T08:36:32.471Z",
   "branch": "review",
-  "commit": "0baf6e0f41c766505a7f5da4497b14af25fa27dd",
+  "commit": "527b90148ed979bcc26a556bab410e3e3accee8c",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 219,
+    "note": 220,
     "document": 10,
     "map": 4
   },
@@ -4382,6 +4382,24 @@
       "mentions": [
         "doric"
       ]
+    },
+    {
+      "id": "working-notes-a-short-name-6",
+      "type": "note",
+      "name": "a short name",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwafrapt",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- the wellspring\n- the keeper\n- the hall's voice\n- the village’s story\n- the land's legacy\n- the keepers secret\n- the heart's anchor",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1938
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
