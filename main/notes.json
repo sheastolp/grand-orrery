@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T19:11:48.394Z",
+  "built": "2026-11-10T22:11:53.632Z",
   "branch": "main",
-  "commit": "ec112954880f597318b99e4aed1ea039f3e59fc4",
+  "commit": "36814865afc9ccb212fd714ca212238ed44720a1",
   "counts": {
     "person": 89,
     "role": 11,
     "world": 3,
-    "item": 100,
+    "item": 101,
     "place": 15,
     "creature": 17,
     "lore": 37,
-    "note": 219,
+    "note": 222,
     "document": 10,
     "map": 4
   },
@@ -4389,6 +4389,85 @@
         "tobin-ashby",
         "doric",
         "hesketh-reeve",
+        "murrow"
+      ]
+    },
+    {
+      "id": "working-notes-brackwoods-whimsy-2",
+      "type": "note",
+      "name": "Brackwood’s Whimsy",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwb2i5tg",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- Murrow’s shop Monstradius contains a Pot of Greed, enchanted to make customers feel overwhelmingly generous – though only for items under ten silver pieces, which seems to drive people mad with generosity when trying to sell something expensive.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1968
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
+      ]
+    },
+    {
+      "id": "working-notes-the-silent-offering-2",
+      "type": "note",
+      "name": "The Silent Offering",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwb3abap",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Fifty years ago, the Wellhouse elves discovered that offering specific herbs to the silent well during the darkest night of the year—specifically Nightshade, Rue, and Belladonna—could temporarily soothe the restless spirits residing within, preventing the local Rootwraiths from attacking the village.",
+        "who": "Elara Willowbrook, the youngest of the Wellhouse family, initiated this tradition after witnessing her grandmother, Ysolde Ambergate, successfully calm a particularly aggressive Rootwraith with a carefully constructed offering. Hesketh Reeve (the Guard Captain) initially dismissed it as superstitious nonsense, but recognized the practical benefit – fewer attacks meant fewer injured villagers and less need for his guard to intervene.",
+        "where": "The Silent Well sits at the center of Stoutwell’s Gathering Hall, covered by an intricately carved stone basin that filters rainwater into its depths. It is also located in the only place where magic truly seems to work - there are no other magical effects visible near the Well.",
+        "how_it_works": "The three herbs possess potent properties – Nightshade induces temporary paralysis, Rue disrupts spectral forms, and Belladonna dulls emotions, effectively calming hostile intentions.  Elara must recite a short prayer passed down through generations alongside the offering; she's learned that simply throwing them in isn't enough – they have to be presented *with* intent. This requires precise timing: the ritual has to occur during the darkest night and must be performed between midnight and 1 AM. If done correctly, the spirits briefly recognize a gesture of peace within the offerings and cease their aggression; if not, they become enraged and attack. After the completion of the Offering, any lingering magic fades quickly after one hour. A single successful Offering lasts until the next full moon.",
+        "limits": "The effect is entirely dependent on Elara’s ability to focus her intention while reciting the prayer, draining mana from her own body. Prolonged use or failure leads to debilitating weakness and disorientation. The rootwraiths don't disappear, just calm temporarily. Also, attempting to force an offer with less than the required ingredients will result in chaotic surges of energy which can cause unpredictable damage"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What it is:** Fifty years ago, the Wellhouse elves discovered that offering specific herbs to the silent well during the darkest night of the year—specifically Nightshade, Rue, and Belladonna—could temporarily soothe the restless spirits residing within, preventing the local Rootwraiths from attacking the village.\n- **Who:** Elara Willowbrook, the youngest of the Wellhouse family, initiated this tradition after witnessing her grandmother, Ysolde Ambergate, successfully calm a particularly aggressive Rootwraith with a carefully constructed offering. Hesketh Reeve (the Guard Captain) initially dismissed it as superstitious nonsense, but recognized the practical benefit – fewer attacks meant fewer injured villagers and less need for his guard to intervene.\n- **Where:** The Silent Well sits at the center of Stoutwell’s Gathering Hall, covered by an intricately carved stone basin that filters rainwater into its depths. It is also located in the only place where magic truly seems to work - there are no other magical effects visible near the Well.\n- **How it works:**  The three herbs possess potent properties – Nightshade induces temporary paralysis, Rue disrupts spectral forms, and Belladonna dulls emotions, effectively calming hostile intentions.  Elara must recite a short prayer passed down through generations alongside the offering; she's learned that simply throwing them in isn't enough – they have to be presented *with* intent. This requires precise timing: the ritual has to occur during the darkest night and must be performed between midnight and 1 AM. If done correctly, the spirits briefly recognize a gesture of peace within the offerings and cease their aggression; if not, they become enraged and attack. After the completion of the Offering, any lingering magic fades quickly after one hour. A single successful Offering lasts until the next full moon.\n- **Limits:** The effect is entirely dependent on Elara’s ability to focus her intention while reciting the prayer, draining mana from her own body. Prolonged use or failure leads to debilitating weakness and disorientation. The rootwraiths don't disappear, just calm temporarily. Also, attempting to force an offer with less than the required ingredients will result in chaotic surges of energy which can cause unpredictable damage",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1976
+      },
+      "world": "verrowen",
+      "mentions": [
+        "ysolde-ambergate",
+        "hesketh-reeve"
+      ]
+    },
+    {
+      "id": "working-notes-bellweathers-boon",
+      "type": "note",
+      "name": "Bellweather’s Boon",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwb43rnu",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Orin Bellweather possesses a peculiar earthenware pot – seemingly ordinary at first glance – that subtly shifts the odds slightly in favor of finding lost items within a ten-foot radius.",
+        "who": "Orin himself, a young halfling peddler known for his uncanny knack with locating misplaced goods, inherited the pot from his grandfather, Silas Blackwood.",
+        "where": "Primarily used during his daily rounds through Stoutwell’s market square and along the Woodland Road.",
+        "how_it_works": "When held aloft and focused upon an area, the pot emits a faint shimmer (barely visible to most eyes), increasing the likelihood of finding dropped coins, forgotten tools, or even wandering livestock returning unexpectedly. However, it doesn't *make* things reappear—it simply nudges fate towards their retrieval. The effect requires a small expenditure of mana, roughly equivalent to lighting a single candle.  The potency drops significantly if he uses more than three charges in rapid succession.",
+        "limits": "The range is limited to ten feet, its effects are subtle, and the pot only works on objects already lost nearby rather than conjuring them out of thin air. It does not affect magical items or creatures. If something has been moved beyond the effective range, the effect ceases entirely. Furthermore, attempting to use the pot while actively engaged in combat drains its charge rapidly.",
+        "ties": "Silas Blackwood was rumored to have once worked as an artificer, experimenting with sympathetic magic – though this remains unconfirmed by Murrow. Orin believes the pot is related to one of Murrow’s abandoned projects involving resonant stones; the halfling feels a strange hum when holding it near certain locations that seem “thin” - places where rifts could open."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** Orin Bellweather possesses a peculiar earthenware pot – seemingly ordinary at first glance – that subtly shifts the odds slightly in favor of finding lost items within a ten-foot radius.\n- **Who:** Orin himself, a young halfling peddler known for his uncanny knack with locating misplaced goods, inherited the pot from his grandfather, Silas Blackwood.\n- **Where:** Primarily used during his daily rounds through Stoutwell’s market square and along the Woodland Road.\n- **How it works:** When held aloft and focused upon an area, the pot emits a faint shimmer (barely visible to most eyes), increasing the likelihood of finding dropped coins, forgotten tools, or even wandering livestock returning unexpectedly. However, it doesn't *make* things reappear—it simply nudges fate towards their retrieval. The effect requires a small expenditure of mana, roughly equivalent to lighting a single candle.  The potency drops significantly if he uses more than three charges in rapid succession.\n- **Limits:** The range is limited to ten feet, its effects are subtle, and the pot only works on objects already lost nearby rather than conjuring them out of thin air. It does not affect magical items or creatures. If something has been moved beyond the effective range, the effect ceases entirely. Furthermore, attempting to use the pot while actively engaged in combat drains its charge rapidly.\n- **Ties:** Silas Blackwood was rumored to have once worked as an artificer, experimenting with sympathetic magic – though this remains unconfirmed by Murrow. Orin believes the pot is related to one of Murrow’s abandoned projects involving resonant stones; the halfling feels a strange hum when holding it near certain locations that seem “thin” - places where rifts could open.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1988
+      },
+      "world": "verrowen",
+      "mentions": [
         "murrow"
       ]
     },
