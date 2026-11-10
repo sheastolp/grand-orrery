@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T15:37:06.999Z",
+  "built": "2026-11-10T15:37:23.142Z",
   "branch": "review",
-  "commit": "2eb66aadca1eb2de5f975dc7e0cab9e2d3add232",
+  "commit": "f2179629be7524cbd2cf9233bda86bb2c6805b2d",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 101,
+    "item": 100,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 223,
+    "note": 222,
     "document": 10,
     "map": 4
   },
@@ -10329,56 +10329,18 @@
       "status": "pitch",
       "section": "From rest mode",
       "origin": "rest",
-      "review_key": "rest:idea-mwarnyhk",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- the wellspring",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1938
-      },
-      "world": "verrowen"
-    },
-    {
-      "id": "a-short-name",
-      "type": "item",
-      "name": "a short name",
-      "icon": "🏺",
-      "category": "Peddlers' wares",
-      "kind": "Relics",
-      "origin": "rest",
-      "status": "pitch",
-      "review_key": "rest:idea-mwarnyhk",
-      "filed": "2026-11-10",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- the wellspring",
-      "notes": [
-        "working-notes-a-short-name-2"
-      ],
-      "source": {
-        "file": "working-notes.md",
-        "line": 1938
-      }
-    },
-    {
-      "id": "working-notes-a-short-name-3",
-      "type": "note",
-      "name": "a short name",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
       "review_key": "rest:idea-mwasezo6",
       "filed": "2026-11-10",
       "filed_from": "Made up by the AI in auto mode",
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- the keeper\n- the vanguard\n- the watchful",
       "source": {
         "file": "working-notes.md",
-        "line": 1946
+        "line": 1938
       },
       "world": "verrowen"
     },
     {
-      "id": "working-notes-a-short-name-4",
+      "id": "working-notes-a-short-name-3",
       "type": "note",
       "name": "a short name",
       "doc": "working-notes",
@@ -10391,7 +10353,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- The Hidden Gem",
       "source": {
         "file": "working-notes.md",
-        "line": 1956
+        "line": 1948
       },
       "world": "verrowen"
     },
@@ -10409,12 +10371,12 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stoutwell._\n\n- the wellspring of the village",
       "source": {
         "file": "working-notes.md",
-        "line": 1964
+        "line": 1956
       },
       "world": "verrowen"
     },
     {
-      "id": "working-notes-a-short-name-5",
+      "id": "working-notes-a-short-name-4",
       "type": "note",
       "name": "a short name",
       "doc": "working-notes",
@@ -10427,7 +10389,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- the hidden well",
       "source": {
         "file": "working-notes.md",
-        "line": 1972
+        "line": 1964
       },
       "world": "verrowen"
     },
