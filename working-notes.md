@@ -1874,7 +1874,7 @@ _Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers'
 - And here's one short line sentence to fit perfectly: "Let the forest whisper tales of adventure."
 - Finally, a snippet of the story: “Long ago, when Verrowen first painted the kingdom in sunshine, the Forest Watchers tended to it well. They kept watch for the most enchanting creatures, ensuring everything was in harmony. Now, with two Keepers – Eldrin and Willow – and their trusty instruments, they ensure the forest remains bright!”
 
-### What does the King say? (Pitch)
+### What does the King say? (Your idea)
 
 <!-- review-key: rest:idea-mwaf0rws -->
 <!-- added by the AI -->
