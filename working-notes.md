@@ -1764,3 +1764,16 @@ _Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or r
 - ARTIFICERS: There are few true specialists needed – mostly simple folk! There' of the village hearthkeepers - ensuring the wood is warm and the fire is bright. If you need some help moving a boulder? There is no problem. For a good boost to your harvest? Easy peasy. Or maybe just a nice greeting from one of them.
 - ITEMS: A fresh loaf of bread, sparkling dew drops collected from leaves, a smile as sweet as honey, and an eye for beauty that shines brighter than sunshine. Sometimes a freshly-picked berry, perfect for a snack.
 - DEFENSES & LAW: Fortified by sturdy walls and watchful guards – especially one or two friendly halflings always ready to lend a hand. Good cheer keeps everyone happy and harmonious. Laws are simple enough to remember: fair trade for fair goods, honest service for a good day’s work, and everyone gets their share of the bounty.
+
+### the Great Weaver’s Loom (Pitch)
+
+<!-- review-key: rest:idea-mw9xwkcw -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
+
+- “Thread of Delight” – a tiny pouch of shimmering silk spun from sunlight; guaranteed to brighten any spirit!
+- “Rainbow Stitch” - when applied, makes any fabric burst with color!
+- "The Quill of Clarity," a quill penned in ink that always writes clear, precise spells.
+- Verrowen’ - The most pristine, vibrant tapestries of light.
+- Elara's Loom, an ancient loom strung with moonlight and dewdrop sparkles—perfect for crafting magical textiles.
+- The village
