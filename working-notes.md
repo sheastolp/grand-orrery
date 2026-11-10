@@ -1925,3 +1925,11 @@ _Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or t
 - The Scholar’s Secret
 - The Village Blueprint
 - The Emerald Eye
+
+### a short name (Pitch)
+
+<!-- review-key: rest:idea-mwa7lye3 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._
+
+- a little green
