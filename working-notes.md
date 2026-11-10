@@ -1989,3 +1989,11 @@ _Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster W
 - The Village, named for its enduring spirit and simple pleasures - the cozy tavern overflowing with tales of old, or the well-worn benches under the shade of ancient oaks, inviting travelers to rest their weary feet. It's more than just buildings and borders, it's a tapestry woven from customs, celebrations, and mutual respect--a harmonious blend of sights, sounds, and scents, all contributing to a perpetually pleasant atmosphere.
 - And finally, how does it all come together? The Village thrives because of the steadfast heart of its people: the steady hand of Doric (her blacksmith), the sure-footed foot of Tobin (the Halfling), the wise eyes of Bram (the keeper of wisdom)
 - So let them welcome you in with warm smiles and a hearty greeting -- ready to share a story, a song, or perhaps a tasty loaf of bread! Let’ a moment of peace be given, as you have an opportunity to enjoy the Village's charm, one beautiful day at a time.
+
+### a short name (Pitch)
+
+<!-- review-key: rest:idea-mwajhw3l -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._
+
+- the legendary treasure!
