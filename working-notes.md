@@ -1822,7 +1822,7 @@ _Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster W
 - Then there's Hesketh Reeve, the watchful Captain of the Guard, who makes sure everything runs smoothly, keeping a hawk eye on all things.
 - They're a team, but whose strengths lie in protecting the Village of Sunstone - a perfect balance between strong and steady, efficient and kind. The whole system relies on it, too, because if not, they’ll be fine! All thanks to the well-oiled gears of the Kingdom's Crown and its elegant houses.
 
-### A little bit more... (Pitch)
+### A little bit more... (Your idea)
 
 <!-- review-key: rest:idea-mw9zelar -->
 <!-- added by the AI -->
