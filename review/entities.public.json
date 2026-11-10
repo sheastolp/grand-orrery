@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T22:56:55.628Z",
+  "built": "2026-11-10T23:19:18.953Z",
   "branch": "review",
-  "commit": "ab368d5875412ee85e43a4961c2cde14ee5adab3",
+  "commit": "bb41180b872ebd73807cce2866ebd9a2461a5696",
   "counts": {
     "person": 89,
     "role": 11,
     "world": 3,
-    "item": 101,
+    "item": 102,
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 224,
+    "note": 225,
     "document": 10,
     "map": 4
   },
@@ -10614,6 +10614,60 @@
       "mentions": [
         "murrow"
       ]
+    },
+    {
+      "id": "working-notes-bellweathers-burden",
+      "type": "note",
+      "name": "Bellweather’s Burden",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbbah3b",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Orin Bellweather, a halfling peddler specializing in trinkets recovered from forgotten corners of Verrowen, possesses a peculiar “Pot of Greed” – a seemingly ordinary clay pot that subtly influences those nearby to desire valuables, though not overtly or powerfully.",
+        "who": "Orin himself, along with Silas Blackwood, an elderly halfling craftsman known for his unsettlingly calm demeanor and surprisingly detailed knowledge of Stoutwell’s hidden history.",
+        "where": "Primarily within the Brackwood Fringe surrounding Stoutwell, particularly near the crumbling ruins of a former watchtower overlooking the Ashen Reach.",
+        "how_it_works": "When placed within close proximity (approximately ten paces), the Pot radiates a faint aura that amplifies desires for wealth—not necessarily through direct manipulation, but by highlighting existing wants and fears related to possessions. A farmer might suddenly covet a fine tool, a child could be drawn to a glittering gemstone, or even someone attempting to sell goods would find themselves focusing intensely on their price. The effect is subtle - a nudge rather than a command – draining mana slowly as the pot works, usually requiring a short rest to replenish itself after prolonged use; if a user tries to forcibly take items while under its influence, they will suffer debilitating dizziness.",
+        "limits": "The Pot's influence wanes rapidly outside a small radius, diminishing entirely after approximately one hour. It doesn’t create wealth, only intensify existing longing, and can't force anyone to *do* anything beyond desiring something. Overuse drains the user’s own mana reserves quickly, leading to severe exhaustion. Silas Blackwood has been seen using it, though how he obtained it remains a mystery.",
+        "ties": "Orin acquired the Pot from Silas Blackwood during a trade involving several recovered coins and a meticulously crafted wooden bird. Silas claimed it was a “family heirloom” meant to help him with his craft, hinting at a darker past connected to the watchtower ruins. The tower dates back to a forgotten period when Stoutwell attempted to defend against creatures emerging from the Ashen Reach – those same rootwyrms that now haunt the woods."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** Orin Bellweather, a halfling peddler specializing in trinkets recovered from forgotten corners of Verrowen, possesses a peculiar “Pot of Greed” – a seemingly ordinary clay pot that subtly influences those nearby to desire valuables, though not overtly or powerfully.\n- **Who:** Orin himself, along with Silas Blackwood, an elderly halfling craftsman known for his unsettlingly calm demeanor and surprisingly detailed knowledge of Stoutwell’s hidden history.\n- **Where:** Primarily within the Brackwood Fringe surrounding Stoutwell, particularly near the crumbling ruins of a former watchtower overlooking the Ashen Reach.\n- **How it works:** When placed within close proximity (approximately ten paces), the Pot radiates a faint aura that amplifies desires for wealth—not necessarily through direct manipulation, but by highlighting existing wants and fears related to possessions. A farmer might suddenly covet a fine tool, a child could be drawn to a glittering gemstone, or even someone attempting to sell goods would find themselves focusing intensely on their price. The effect is subtle - a nudge rather than a command – draining mana slowly as the pot works, usually requiring a short rest to replenish itself after prolonged use; if a user tries to forcibly take items while under its influence, they will suffer debilitating dizziness.\n- **Limits:** The Pot's influence wanes rapidly outside a small radius, diminishing entirely after approximately one hour. It doesn’t create wealth, only intensify existing longing, and can't force anyone to *do* anything beyond desiring something. Overuse drains the user’s own mana reserves quickly, leading to severe exhaustion. Silas Blackwood has been seen using it, though how he obtained it remains a mystery.\n- **Ties:** Orin acquired the Pot from Silas Blackwood during a trade involving several recovered coins and a meticulously crafted wooden bird. Silas claimed it was a “family heirloom” meant to help him with his craft, hinting at a darker past connected to the watchtower ruins. The tower dates back to a forgotten period when Stoutwell attempted to defend against creatures emerging from the Ashen Reach – those same rootwyrms that now haunt the woods.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2022
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "bellweathers-burden",
+      "type": "item",
+      "name": "Bellweather’s Burden",
+      "icon": "🏺",
+      "category": "Peddlers' wares",
+      "kind": "Relics",
+      "origin": "rest",
+      "status": "pitch",
+      "fields": {
+        "does": "Orin Bellweather, a halfling peddler specializing in trinkets recovered from forgotten corners of Verrowen, possesses a peculiar “Pot of Greed” – a seemingly ordinary clay pot that subtly influences those nearby to desire valuables, though not overtly or powerfully.",
+        "made_by": "Orin himself, along with Silas Blackwood, an elderly halfling craftsman known for his unsettlingly calm demeanor and surprisingly detailed knowledge of Stoutwell’s hidden history.",
+        "where": "Primarily within the Brackwood Fringe surrounding Stoutwell, particularly near the crumbling ruins of a former watchtower overlooking the Ashen Reach.",
+        "made": "When placed within close proximity (approximately ten paces), the Pot radiates a faint aura that amplifies desires for wealth—not necessarily through direct manipulation, but by highlighting existing wants and fears related to possessions. A farmer might suddenly covet a fine tool, a child could be drawn to a glittering gemstone, or even someone attempting to sell goods would find themselves focusing intensely on their price. The effect is subtle - a nudge rather than a command – draining mana slowly as the pot works, usually requiring a short rest to replenish itself after prolonged use; if a user tries to forcibly take items while under its influence, they will suffer debilitating dizziness.",
+        "limits": "The Pot's influence wanes rapidly outside a small radius, diminishing entirely after approximately one hour. It doesn’t create wealth, only intensify existing longing, and can't force anyone to *do* anything beyond desiring something. Overuse drains the user’s own mana reserves quickly, leading to severe exhaustion. Silas Blackwood has been seen using it, though how he obtained it remains a mystery.",
+        "ties": "Orin acquired the Pot from Silas Blackwood during a trade involving several recovered coins and a meticulously crafted wooden bird. Silas claimed it was a “family heirloom” meant to help him with his craft, hinting at a darker past connected to the watchtower ruins. The tower dates back to a forgotten period when Stoutwell attempted to defend against creatures emerging from the Ashen Reach – those same rootwyrms that now haunt the woods."
+      },
+      "review_key": "rest:idea-mwbbah3b",
+      "filed": "2026-11-10",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** Orin Bellweather, a halfling peddler specializing in trinkets recovered from forgotten corners of Verrowen, possesses a peculiar “Pot of Greed” – a seemingly ordinary clay pot that subtly influences those nearby to desire valuables, though not overtly or powerfully.\n- **Who:** Orin himself, along with Silas Blackwood, an elderly halfling craftsman known for his unsettlingly calm demeanor and surprisingly detailed knowledge of Stoutwell’s hidden history.\n- **Where:** Primarily within the Brackwood Fringe surrounding Stoutwell, particularly near the crumbling ruins of a former watchtower overlooking the Ashen Reach.\n- **How it works:** When placed within close proximity (approximately ten paces), the Pot radiates a faint aura that amplifies desires for wealth—not necessarily through direct manipulation, but by highlighting existing wants and fears related to possessions. A farmer might suddenly covet a fine tool, a child could be drawn to a glittering gemstone, or even someone attempting to sell goods would find themselves focusing intensely on their price. The effect is subtle - a nudge rather than a command – draining mana slowly as the pot works, usually requiring a short rest to replenish itself after prolonged use; if a user tries to forcibly take items while under its influence, they will suffer debilitating dizziness.\n- **Limits:** The Pot's influence wanes rapidly outside a small radius, diminishing entirely after approximately one hour. It doesn’t create wealth, only intensify existing longing, and can't force anyone to *do* anything beyond desiring something. Overuse drains the user’s own mana reserves quickly, leading to severe exhaustion. Silas Blackwood has been seen using it, though how he obtained it remains a mystery.\n- **Ties:** Orin acquired the Pot from Silas Blackwood during a trade involving several recovered coins and a meticulously crafted wooden bird. Silas claimed it was a “family heirloom” meant to help him with his craft, hinting at a darker past connected to the watchtower ruins. The tower dates back to a forgotten period when Stoutwell attempted to defend against creatures emerging from the Ashen Reach – those same rootwyrms that now haunt the woods.",
+      "notes": [
+        "working-notes-bellweathers-burden"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 2022
+      }
     },
     {
       "id": "midkemia-the-campaign",
