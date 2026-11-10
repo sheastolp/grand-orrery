@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T05:03:11.047Z",
+  "built": "2026-11-10T05:09:28.870Z",
   "branch": "review",
-  "commit": "875820c5e9a941bf4b878c2ccd6c06ec7256d685",
+  "commit": "ed19b1ac5c30944034ecde959aefc34da051ee64",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 212,
+    "note": 213,
     "document": 10,
     "map": 4
   },
@@ -10169,6 +10169,24 @@
       "source": {
         "file": "working-notes.md",
         "line": 1851
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-a-short-name-2",
+      "type": "note",
+      "name": "a short name",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwa8d1kg",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- the wellspring\n- the hearthfire\n- the hidden gem",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1864
       },
       "world": "verrowen"
     },
