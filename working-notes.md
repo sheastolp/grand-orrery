@@ -1973,7 +1973,7 @@ _Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's ca
 
 - Murrow’s shop Monstradius contains a Pot of Greed, enchanted to make customers feel overwhelmingly generous – though only for items under ten silver pieces, which seems to drive people mad with generosity when trying to sell something expensive.
 
-### The Silent Offering (Pitch)
+### The Silent Offering (Your idea)
 
 <!-- review-key: rest:idea-mwb3abap -->
 <!-- added by the AI -->
