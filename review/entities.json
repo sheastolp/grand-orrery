@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T22:10:37.273Z",
+  "built": "2026-11-10T22:11:14.228Z",
   "branch": "review",
-  "commit": "abd3f8e8e351de37df00f06521a181f25f54375b",
+  "commit": "36814865afc9ccb212fd714ca212238ed44720a1",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 37,
-    "note": 224,
+    "note": 222,
     "document": 10,
     "map": 4
   },
@@ -280,8 +280,7 @@
         "working-notes-a-little-bit-more",
         "working-notes-what-is-it",
         "working-notes-what-does-the-king-say",
-        "working-notes-what-is-the-most-important-thing-about-stoutwell",
-        "working-notes-orins-echoes"
+        "working-notes-what-is-the-most-important-thing-about-stoutwell"
       ]
     },
     {
@@ -318,8 +317,7 @@
         "working-notes-a-whisper-of-magic",
         "working-notes-blight-watch",
         "working-notes-what-is-the-most-important-thing-about-stoutwell",
-        "working-notes-the-silent-offering-2",
-        "working-notes-orins-echoes"
+        "working-notes-the-silent-offering-2"
       ]
     },
     {
@@ -411,8 +409,7 @@
         "working-notes-whisperwinds-relic-featherhook",
         "working-notes-what-is-the-most-important-thing-about-stoutwell",
         "working-notes-brackwoods-whimsy-2",
-        "working-notes-bellweathers-boon",
-        "working-notes-orins-echoes"
+        "working-notes-bellweathers-boon"
       ]
     },
     {
@@ -10561,54 +10558,6 @@
         "file": "working-notes.md",
         "line": 1988
       }
-    },
-    {
-      "id": "working-notes-orins-echoes",
-      "type": "note",
-      "name": "Orin’s Echoes",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwb6g7o3",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "fields": {
-        "what_it_is": "Orin Bellweather, a young halfling tinker with an unusual fascination for Whisperwind crystals, discovers a hidden connection to the Silent Well through a fractured crystal that resonates with echoes of memories – potentially revealing secrets about Stoutwell’s founding and the disappearance of the well’s water.",
-        "who": "Orin (age 17, male halfling) - A quiet, observant tinkerer known for his skill repairing broken tools and creating odd contraptions using salvaged parts. He feels out of place amongst the practical halflings and harbors a secret longing to understand the world beyond Stoutwell. His ties include Hesketh Reeve (a distant relative through marriage), Elara Willowbrook (the eldest of the elves in the tavern, whom he occasionally brings trinkets to trade with), and Murrow (who recognizes his nascent talent for sensing mana flows).",
-        "where": "Primarily within the crumbling remains of the old Silent Well chamber beneath the Gathering Hall—now mostly used as storage by the Elderhold. The relevant fragments of Whisperwind crystal are found scattered throughout the Brackwood Fringe during occasional foraging trips led by Doric.",
-        "how_it_works": "When Orin focuses on a specific shard of a shattered Whisperwind crystal, particularly one resonating with a faint blue glow, he experiences brief flashes of visual and auditory impressions—echoes from the past connected to the well's creation or its eventual silencing. These echoes aren't clear visions; they’re fractured images accompanied by whispers, often distorted and incomplete, requiring careful interpretation. The crystals themselves seem to absorb ambient mana, amplifying these resonant effects – the more mana present, the stronger the echoes become. Overuse weakens the crystal and causes disorientation.",
-        "limits": "The echoes are unstable and fleeting, dependent on the quality and quantity of available mana. Larger, older crystals yield clearer (though still fragmented) memories. Prolonged exposure leads to headaches and mental fatigue.  The shards themselves can only be “read” by someone with a naturally attuned sensitivity to mana - a trait that is rare among halflings, but heightened in those exposed to magic for extended periods (like Murrow)."
-      },
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stoutwell._\n\n- **What it is:** Orin Bellweather, a young halfling tinker with an unusual fascination for Whisperwind crystals, discovers a hidden connection to the Silent Well through a fractured crystal that resonates with echoes of memories – potentially revealing secrets about Stoutwell’s founding and the disappearance of the well’s water.\n- **Who:** Orin (age 17, male halfling) - A quiet, observant tinkerer known for his skill repairing broken tools and creating odd contraptions using salvaged parts. He feels out of place amongst the practical halflings and harbors a secret longing to understand the world beyond Stoutwell. His ties include Hesketh Reeve (a distant relative through marriage), Elara Willowbrook (the eldest of the elves in the tavern, whom he occasionally brings trinkets to trade with), and Murrow (who recognizes his nascent talent for sensing mana flows).\n- **Where:** Primarily within the crumbling remains of the old Silent Well chamber beneath the Gathering Hall—now mostly used as storage by the Elderhold. The relevant fragments of Whisperwind crystal are found scattered throughout the Brackwood Fringe during occasional foraging trips led by Doric.\n- **How it works:** When Orin focuses on a specific shard of a shattered Whisperwind crystal, particularly one resonating with a faint blue glow, he experiences brief flashes of visual and auditory impressions—echoes from the past connected to the well's creation or its eventual silencing. These echoes aren't clear visions; they’re fractured images accompanied by whispers, often distorted and incomplete, requiring careful interpretation. The crystals themselves seem to absorb ambient mana, amplifying these resonant effects – the more mana present, the stronger the echoes become. Overuse weakens the crystal and causes disorientation.\n- **Limits:** The echoes are unstable and fleeting, dependent on the quality and quantity of available mana. Larger, older crystals yield clearer (though still fragmented) memories. Prolonged exposure leads to headaches and mental fatigue.  The shards themselves can only be “read” by someone with a naturally attuned sensitivity to mana - a trait that is rare among halflings, but heightened in those exposed to magic for extended periods (like Murrow).\n- **",
-      "source": {
-        "file": "working-notes.md",
-        "line": 2001
-      },
-      "world": "verrowen",
-      "mentions": [
-        "doric",
-        "hesketh-reeve",
-        "murrow"
-      ]
-    },
-    {
-      "id": "working-notes-whisperwinds-vigil-3",
-      "type": "note",
-      "name": "Whisperwind’s Vigil",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwb8u7wh",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- A solitary halfling guard uses unusual methods to detect threats within the Monster Wood, relying on more than just sight and sound.",
-      "source": {
-        "file": "working-notes.md",
-        "line": 2014
-      },
-      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
