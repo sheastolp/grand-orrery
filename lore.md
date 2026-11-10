@@ -1,6 +1,6 @@
 # Verrowen lore
 
-This file is the single source of truth the narrator reads. Edit it as the universe grows. <!-- caught up to review@ed19b1ac5c30944034ecde959aefc34da051ee64 -->
+This file is the single source of truth the narrator reads. Edit it as the universe grows. <!-- caught up to review@70e1d15d14cc7c7f8938cc2cd76f2cff4bbbed61 -->
 
 UNIVERSE: The Grand Orrery. It's the artificers' name for the universe, picturing its worlds as moving parts in one great mechanism. Only high-ranking and learned people know the name. Worlds connect through rifts: random tears that open and close, pulling in people, monsters or whole buildings, which is why the same monsters appear on different worlds. Some artificers can open a rift on purpose, using a doorway as the boundaries for the magic.
 WORLD: Verrowen. This is a scholarly name found in books. Villages own few books, and only kingdoms have libraries, so common folk just say "the world."
