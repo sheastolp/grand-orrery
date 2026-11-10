@@ -1951,3 +1951,11 @@ _Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: 
 _Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's guild hall keeps, does or is known for._
 
 - The Hidden Gem
+
+### little words (Pitch)
+
+<!-- review-key: rest:idea-mwatwzft -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stoutwell._
+
+- the wellspring of the village
