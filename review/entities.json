@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T12:05:13.653Z",
+  "built": "2026-11-10T12:26:04.554Z",
   "branch": "review",
-  "commit": "534093c4816fe0e9868c5a9a24f4802eb023c176",
+  "commit": "25fff85461480c142548af122c422a9c22a87c9a",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 229,
+    "note": 230,
     "document": 10,
     "map": 4
   },
@@ -217,7 +217,8 @@
         "working-notes-reinforced-gatehouse-beams",
         "working-notes-resonance-stone-device",
         "working-notes-village-roster-2",
-        "working-notes-whisperwinds-toast-2"
+        "working-notes-whisperwinds-toast-2",
+        "working-notes-what-is-the-most-important-thing-about-stoutwell"
       ]
     },
     {
@@ -277,7 +278,8 @@
         "working-notes-what-does-the-king-say",
         "working-notes-the-whispering-stone",
         "working-notes-what-does-it-mean",
-        "working-notes-a-little-bit-of-magic-a-lot-of-tradition"
+        "working-notes-a-little-bit-of-magic-a-lot-of-tradition",
+        "working-notes-what-is-the-most-important-thing-about-stoutwell"
       ]
     },
     {
@@ -312,7 +314,8 @@
         "working-notes-rooks-watch",
         "working-notes-monstradius-peculiar-pipe",
         "working-notes-a-whisper-of-magic",
-        "working-notes-blight-watch"
+        "working-notes-blight-watch",
+        "working-notes-what-is-the-most-important-thing-about-stoutwell"
       ]
     },
     {
@@ -399,7 +402,8 @@
         "working-notes-liora-finchling",
         "working-notes-murrows-harvest-blessing",
         "working-notes-whisperwinds-relic-featherhook",
-        "working-notes-a-little-bit-of-magic-a-lot-of-tradition"
+        "working-notes-a-little-bit-of-magic-a-lot-of-tradition",
+        "working-notes-what-is-the-most-important-thing-about-stoutwell"
       ]
     },
     {
@@ -10556,6 +10560,30 @@
       "world": "verrowen",
       "mentions": [
         "doric",
+        "murrow"
+      ]
+    },
+    {
+      "id": "working-notes-what-is-the-most-important-thing-about-stoutwell",
+      "type": "note",
+      "name": "What is the most important thing about Stoutwell?",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwanyis7",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- IDEA: Stoutwell’s entire identity rests on a charmingly simple fact – the heart of the village, nestled between two friendly hills, is undeniably the best place to visit! It’s celebrated for its cozy pubs, welcoming locals, and perfectly preserved cobblestone streets—streets that even the smallest mud splodge doesn't bother to erase. A perfect snapshot of classic medieval charm, truly worth celebrating every single day, isn’t it?\n- TONE: Warm, inviting, and slightly whimsical - like a good story whispered through the trees.\n- MAGIC: Purely practical and pleasant, utilizing naturally occurring elements and good cheer.\n- ROLES: 1. Hearthcircle (the village elders) to keep traditions alive, ensuring everyone feels welcome. 2. The Wellhouse elves to keep a steady supply of magic flowing in their small little world, keeping a secret or two. 3. Tobin Ashby (a blacksmith's apprentice) to make sure everything goes smoothly as well. 4. Doric (the Artificer) to easily fix anything with her tinkering skills. 5. Murrow (the Artisan) to ensure all goods are ready for shipment. 6. Hesketh Reeve (the Guard Captain) to be always vigilant and watchful.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2048
+      },
+      "world": "verrowen",
+      "mentions": [
+        "tobin-ashby",
+        "doric",
+        "hesketh-reeve",
         "murrow"
       ]
     },
