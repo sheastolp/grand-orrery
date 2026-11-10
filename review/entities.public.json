@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T02:22:50.154Z",
+  "built": "2026-11-10T02:43:49.199Z",
   "branch": "review",
-  "commit": "86bef3e0ea8829ad3f288dd72c8b9463f7a3c7ea",
+  "commit": "d6e38124ece8b99559069af4cc493dd78886827a",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 214,
+    "note": 215,
     "document": 10,
     "map": 4
   },
@@ -214,7 +214,8 @@
         "working-notes-reinforced-gatehouse-beams",
         "working-notes-resonance-stone-device",
         "working-notes-village-roster-2",
-        "working-notes-whisperwinds-toast-2"
+        "working-notes-whisperwinds-toast-2",
+        "working-notes-what-makes-stoutwell-special"
       ]
     },
     {
@@ -270,7 +271,8 @@
         "working-notes-whisperwinds-relic-featherhook",
         "working-notes-a-whisper-of-magic",
         "working-notes-a-little-bit-more",
-        "working-notes-what-is-it"
+        "working-notes-what-is-it",
+        "working-notes-what-makes-stoutwell-special"
       ]
     },
     {
@@ -305,7 +307,8 @@
         "working-notes-rooks-watch",
         "working-notes-monstradius-peculiar-pipe",
         "working-notes-a-whisper-of-magic",
-        "working-notes-blight-watch"
+        "working-notes-blight-watch",
+        "working-notes-what-makes-stoutwell-special"
       ]
     },
     {
@@ -10218,6 +10221,29 @@
         "line": 1869
       },
       "world": "verrowen"
+    },
+    {
+      "id": "working-notes-what-makes-stoutwell-special",
+      "type": "note",
+      "name": "What makes Stoutwell special?",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwa35q70",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stoutwell._\n\n- WHAT: Stoutwell is more than just a village – nestled snugly between rolling hills and sparkling streams, it’s a place where time seems to slow down, exactly because of its charm! It's home to the most welcoming residents, all with warm smiles and tales ready for sharing. There’s the sturdy blacksmith, Doric, crafting beautiful tools that will last through any season, plus the jovial baker, Tobin Ashby, ensuring every loaf is perfectly fluffy. Then there’s Hesketh Reeve, ever watchful over the village, making sure everything runs smoothly – from collecting the harvest to keeping an eye on the water level. And rounding out the crew are the friendly halfling travelers, Melly and Barnaby, always eager to offer a smile (and maybe a freshly baked biscuit) to newcomers. The Village Roster showcases the diverse mix - old Mrs. Willowbrook, the keeper of secrets, often knitting socks while chatting with visitors. She welcomes them warmly, offering a cozy spot by the hearth. A skilled craftsman, Mr. Fitzwilliam, creates delightful trinkets using wood shavings. The best local brewer, Miss Elara, brews some wonderful ale with a secret ingredient. A charming storyteller, Silas Blackwood, tells stories of old, ensuring the whole village knows about Stoutwell' one treasures.\n- DEFENSE AND LAW: The Guard rotation ensures smooth sailing; the Guard Tithe checks and balances, with coins flowing freely thanks to the friendly Halflings in the Village Workers, and the steady work done by the hardworking, well-paid Woodworkers. For stability, they have robust policies—the well-kept ledgers and efficient practices guarantee things run like clockwork, overseen by the reliable and kind Hearthcircle members, especially the respected Wendeline. A few simple rules keep everyone happy: it’s all about good manners and fair exchange – everything is agreed upon.\n- LEADERSHIP: The Hearthcircle leaders are chosen for their wisdom and kindness, particularly the warm and welcoming Eldery, who ensure that everyone feels welcome, and the wise Bertram has a little more than two years on the job. He’s got a gentle touch when it comes to keeping",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1877
+      },
+      "world": "verrowen",
+      "mentions": [
+        "tobin-ashby",
+        "doric",
+        "hesketh-reeve"
+      ]
     },
     {
       "id": "midkemia-the-campaign",

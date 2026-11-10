@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T02:22:50.154Z",
+  "built": "2026-11-10T02:43:49.199Z",
   "branch": "review",
-  "commit": "86bef3e0ea8829ad3f288dd72c8b9463f7a3c7ea",
+  "commit": "d6e38124ece8b99559069af4cc493dd78886827a",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 214,
+    "note": 215,
     "document": 10,
     "map": 4
   },
@@ -214,7 +214,8 @@
         "working-notes-reinforced-gatehouse-beams",
         "working-notes-resonance-stone-device",
         "working-notes-village-roster-2",
-        "working-notes-whisperwinds-toast-2"
+        "working-notes-whisperwinds-toast-2",
+        "working-notes-what-makes-stoutwell-special"
       ]
     },
     {
@@ -270,7 +271,8 @@
         "working-notes-whisperwinds-relic-featherhook",
         "working-notes-a-whisper-of-magic",
         "working-notes-a-little-bit-more",
-        "working-notes-what-is-it"
+        "working-notes-what-is-it",
+        "working-notes-what-makes-stoutwell-special"
       ]
     },
     {
@@ -305,7 +307,8 @@
         "working-notes-rooks-watch",
         "working-notes-monstradius-peculiar-pipe",
         "working-notes-a-whisper-of-magic",
-        "working-notes-blight-watch"
+        "working-notes-blight-watch",
+        "working-notes-what-makes-stoutwell-special"
       ]
     },
     {
