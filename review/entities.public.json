@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T05:51:31.728Z",
+  "built": "2026-11-10T07:14:02.401Z",
   "branch": "review",
-  "commit": "c572f2dec72142f5fc6e1f54c1d365c17e893b47",
+  "commit": "6503f07f500baf425990edd3897ebc614e64ad1d",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 215,
+    "note": 216,
     "document": 10,
     "map": 4
   },
@@ -10214,6 +10214,24 @@
       "source": {
         "file": "working-notes.md",
         "line": 1882
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-a-short-name-5",
+      "type": "note",
+      "name": "a short name",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwact6we",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- The Village\n- The Wellhouse\n- The Hearthcircle\n- The Guard\n- The Explorer",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1892
       },
       "world": "verrowen"
     },
