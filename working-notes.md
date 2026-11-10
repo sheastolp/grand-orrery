@@ -1917,14 +1917,6 @@ _Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster W
 
 ### a short name (Pitch)
 
-<!-- review-key: rest:idea-mwajhw3l -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._
-
-- the legendary treasure!
-
-### a short name (Pitch)
-
 <!-- review-key: rest:idea-mwakz9zy -->
 <!-- added by the AI -->
 _Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._
