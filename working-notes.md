@@ -1972,3 +1972,15 @@ _Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or r
 _Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._
 
 - Murrow’s shop Monstradius contains a Pot of Greed, enchanted to make customers feel overwhelmingly generous – though only for items under ten silver pieces, which seems to drive people mad with generosity when trying to sell something expensive.
+
+### The Silent Offering (Pitch)
+
+<!-- review-key: rest:idea-mwb3abap -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or the Kingdom's history._
+
+- **What it is:** Fifty years ago, the Wellhouse elves discovered that offering specific herbs to the silent well during the darkest night of the year—specifically Nightshade, Rue, and Belladonna—could temporarily soothe the restless spirits residing within, preventing the local Rootwraiths from attacking the village.
+- **Who:** Elara Willowbrook, the youngest of the Wellhouse family, initiated this tradition after witnessing her grandmother, Ysolde Ambergate, successfully calm a particularly aggressive Rootwraith with a carefully constructed offering. Hesketh Reeve (the Guard Captain) initially dismissed it as superstitious nonsense, but recognized the practical benefit – fewer attacks meant fewer injured villagers and less need for his guard to intervene.
+- **Where:** The Silent Well sits at the center of Stoutwell’s Gathering Hall, covered by an intricately carved stone basin that filters rainwater into its depths. It is also located in the only place where magic truly seems to work - there are no other magical effects visible near the Well.
+- **How it works:**  The three herbs possess potent properties – Nightshade induces temporary paralysis, Rue disrupts spectral forms, and Belladonna dulls emotions, effectively calming hostile intentions.  Elara must recite a short prayer passed down through generations alongside the offering; she's learned that simply throwing them in isn't enough – they have to be presented *with* intent. This requires precise timing: the ritual has to occur during the darkest night and must be performed between midnight and 1 AM. If done correctly, the spirits briefly recognize a gesture of peace within the offerings and cease their aggression; if not, they become enraged and attack. After the completion of the Offering, any lingering magic fades quickly after one hour. A single successful Offering lasts until the next full moon.
+- **Limits:** The effect is entirely dependent on Elara’s ability to focus her intention while reciting the prayer, draining mana from her own body. Prolonged use or failure leads to debilitating weakness and disorientation. The rootwraiths don't disappear, just calm temporarily. Also, attempting to force an offer with less than the required ingredients will result in chaotic surges of energy which can cause unpredictable damage
