@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T22:09:52.068Z",
+  "built": "2026-11-10T22:10:37.273Z",
   "branch": "review",
-  "commit": "acc3b424f99b28518926a9ee5740a40ea6d1c131",
+  "commit": "abd3f8e8e351de37df00f06521a181f25f54375b",
   "counts": {
     "person": 89,
     "role": 11,
     "world": 3,
-    "item": 102,
+    "item": 101,
     "place": 15,
     "creature": 17,
     "lore": 37,
-    "note": 225,
+    "note": 224,
     "document": 10,
     "map": 4
   },
@@ -408,9 +408,7 @@
         "working-notes-what-is-the-most-important-thing-about-stoutwell",
         "working-notes-brackwoods-whimsy-2",
         "working-notes-bellweathers-boon",
-        "working-notes-orins-echoes",
-        "working-notes-the-silent-offering-3",
-        "working-notes-whisperwinds-whistle-2"
+        "working-notes-orins-echoes"
       ]
     },
     {
