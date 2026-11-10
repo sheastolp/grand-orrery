@@ -1796,7 +1796,7 @@ _Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or r
 - ITEMS: A fresh loaf of bread, sparkling dew drops collected from leaves, a smile as sweet as honey, and an eye for beauty that shines brighter than sunshine. Sometimes a freshly-picked berry, perfect for a snack.
 - DEFENSES & LAW: Fortified by sturdy walls and watchful guards – especially one or two friendly halflings always ready to lend a hand. Good cheer keeps everyone happy and harmonious. Laws are simple enough to remember: fair trade for fair goods, honest service for a good day’s work, and everyone gets their share of the bounty.
 
-### the Great Weaver’s Loom (Pitch)
+### the Great Weaver’s Loom (Your idea)
 
 <!-- review-key: rest:idea-mw9xwkcw -->
 <!-- added by the AI -->
