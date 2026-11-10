@@ -1911,7 +1911,7 @@ _Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster W
 - And finally, how does it all come together? The Village thrives because of the steadfast heart of its people: the steady hand of Doric (her blacksmith), the sure-footed foot of Tobin (the Halfling), the wise eyes of Bram (the keeper of wisdom)
 - So let them welcome you in with warm smiles and a hearty greeting -- ready to share a story, a song, or perhaps a tasty loaf of bread! Let’ a moment of peace be given, as you have an opportunity to enjoy the Village's charm, one beautiful day at a time.
 
-### What does the King say? (Pitch)
+### What does the King say? (Your idea)
 
 <!-- review-key: rest:idea-mwalqdpp -->
 <!-- added by the AI -->
