@@ -1375,6 +1375,24 @@ Open questions: Just a little thought ahead – how can we make every detail spa
 
 In the world, imagine: nestled amongst the rolling green hills of the Kingdom, nestled close to the forest road and overlooking the shimmering waters of the River Slagter, resides one of Verrowen's most beloved landmarks—the Grand Orrery, standing as a testament to centuries past and perfectly captured within it’s very framework of elements.”
 
+### Orin Bellweather (Pitch)
+
+<!-- review-key: lore-keeper:1c413e45-c42e-47d4-b86a-38cd3492978a -->
+_From a lore-keeper chat, 2026-11-10 · Characters._
+
+**Name:** Orin Bellweather
+**Race:** Human
+**Sex:** Male
+**Age:** Approximately 67 years (appears younger due to consistent routine & minimal magic exposure)
+**Role:** Town Crier – Stoutwell (Guild Contractor)
+**Lives in:** GuildScribe Hall, Capital City – Primary office within the main hall.
+**Appearance:** Lean build, approximately six feet tall, dressed in a meticulously maintained crimson tunic embroidered with silver heraldic motifs - depicting a stylized bell intertwined with wheat stalks. He wears polished leather boots and carries a large, intricately carved wooden staff topped with a resonant bronze bell. His grey hair is neatly combed back, revealing a weathered face marked by good humour and countless announcements.
+**Personality:** Cheerful, punctual, theatrical, and dependable. Orin treats every announcement as important, even when the news is only that an ad break has been delayed. He speaks like a professional herald but has picked up the relaxed humor of tavern life. He is never cruel or intrusive, prefers clear facts to speculation, and dislikes being ignored. Orin is patient with newcomers, mildly dramatic when a schedule changes, and secretly proud that he can keep an entire room of adventurers informed without interrupting the story. (suggested)
+**Magic:** Limited elemental influence – primarily focused on amplifying his voice for greater projection and subtly adjusting ambient sounds within the hall to ensure optimal clarity. It's largely ceremonial rather than practical.
+**Connections:** Serves under Master Silas Thorne (GuildScribe). Maintains informal contact with merchants throughout Stoutwell & surrounding settlements. Operates alongside Thomas Penwright (Stoutwell Town Crier), sharing information regarding local events and potential disruptions. (suggested)
+**Secret:** Possesses a minor talent for manipulating echoes – capable of creating brief sonic illusions to add emphasis or create diversions during particularly urgent broadcasts. This ability stems from a childhood spent exploring abandoned catacombs beneath the GuildScribe Hall. 
+**Story Hooks:** Knowledgeable about the Kingdom’s political landscape and historical events; potentially holds key information relating to the founding of Stoutwell or forgotten royal decrees. His frequent travels could lead him into conflict with criminal organizations seeking to exploit his position. Has been observed discreetly communicating with Murrow, possibly investigating unusual magical activity in Stoutwell.
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
