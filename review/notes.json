@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T15:38:16.039Z",
+  "built": "2026-11-10T15:39:56.838Z",
   "branch": "review",
-  "commit": "16ff26dfd6a5e2749a06bf264a733d8259952eb9",
+  "commit": "8cae0940d8b8ad05a8afa43123fd094472ba6616",
   "counts": {
     "person": 87,
     "role": 11,
@@ -4337,7 +4337,7 @@
       "type": "note",
       "name": "What does the King say?",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwalqdpp",
