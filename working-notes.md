@@ -1943,14 +1943,6 @@ _Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's gui
 
 - The Hidden Gem
 
-### little words (Pitch)
-
-<!-- review-key: rest:idea-mwatwzft -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stoutwell._
-
-- the wellspring of the village
-
 ### a short name (Pitch)
 
 <!-- review-key: rest:idea-mwauo1w1 -->
