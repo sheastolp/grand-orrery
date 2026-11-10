@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T19:13:18.635Z",
+  "built": "2026-11-10T19:23:53.732Z",
   "branch": "review",
-  "commit": "6722fcb6dd9aadc839efd93356e33f3b59ce834c",
+  "commit": "e5c8991244fe12e1d73080a695fba891462fdf2b",
   "counts": {
     "person": 89,
     "role": 11,
@@ -10454,7 +10454,7 @@
       "type": "note",
       "name": "Brackwood’s Whimsy",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwb2i5tg",
