@@ -1873,16 +1873,6 @@ _Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster W
 
 ### a short name (Pitch)
 
-<!-- review-key: rest:idea-mwa64fba -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._
-
-- a little secret
-- a well-kept secret
-- the Royal decree
-
-### a short name (Pitch)
-
 <!-- review-key: rest:idea-mwa6uzgo -->
 <!-- added by the AI -->
 _Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or the Kingdom's history._
