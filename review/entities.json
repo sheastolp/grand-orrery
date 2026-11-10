@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T08:57:07.312Z",
+  "built": "2026-11-10T09:18:15.561Z",
   "branch": "review",
-  "commit": "55f58c10d2d2028bbf524684c0d11663a73dc9c3",
+  "commit": "cceba674155bb1306daee8671ecbb94a92c329f7",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 221,
+    "note": 222,
     "document": 10,
     "map": 4
   },
@@ -10364,6 +10364,24 @@
       "mentions": [
         "doric"
       ]
+    },
+    {
+      "id": "working-notes-short-name",
+      "type": "note",
+      "name": "short name",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwah8r87",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- the Village",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1965
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
