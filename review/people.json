@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T21:25:36.510Z",
+  "built": "2026-11-10T21:47:44.438Z",
   "branch": "review",
-  "commit": "61ba51b71e3cb5a003acf93832d8873c082a04d8",
+  "commit": "bfe6b7f3a1cf972d6291d75a5a65efbbf269e3a9",
   "counts": {
     "person": 89,
     "role": 11,
     "world": 3,
-    "item": 101,
+    "item": 102,
     "place": 15,
     "creature": 17,
     "lore": 37,
-    "note": 226,
+    "note": 227,
     "document": 10,
     "map": 4
   },
@@ -411,7 +411,8 @@
         "working-notes-bellweathers-boon",
         "working-notes-monstradius-peculiar-pipe-2",
         "working-notes-orins-echoes",
-        "working-notes-the-silent-offering-3"
+        "working-notes-the-silent-offering-3",
+        "working-notes-whisperwinds-whistle-2"
       ]
     },
     {

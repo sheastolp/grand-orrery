@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T21:25:36.510Z",
+  "built": "2026-11-10T21:47:44.438Z",
   "branch": "review",
-  "commit": "61ba51b71e3cb5a003acf93832d8873c082a04d8",
+  "commit": "bfe6b7f3a1cf972d6291d75a5a65efbbf269e3a9",
   "counts": {
     "person": 89,
     "role": 11,
     "world": 3,
-    "item": 101,
+    "item": 102,
     "place": 15,
     "creature": 17,
     "lore": 37,
-    "note": 226,
+    "note": 227,
     "document": 10,
     "map": 4
   },
@@ -411,7 +411,8 @@
         "working-notes-bellweathers-boon",
         "working-notes-monstradius-peculiar-pipe-2",
         "working-notes-orins-echoes",
-        "working-notes-the-silent-offering-3"
+        "working-notes-the-silent-offering-3",
+        "working-notes-whisperwinds-whistle-2"
       ]
     },
     {
@@ -10660,6 +10661,63 @@
       "mentions": [
         "murrow"
       ]
+    },
+    {
+      "id": "working-notes-whisperwinds-whistle-2",
+      "type": "note",
+      "name": "Whisperwind’s Whistle",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwb80txt",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "A small, intricately carved wooden whistle shaped like a stylized wind sprite – roughly six inches long with delicate wings etched into its surface. It appears to constantly emit a faint, almost imperceptible whistling sound even when not blown.",
+        "who": "Crafted by Silas Blackwood, an elderly halfling known for his quiet skill in woodworking and uncanny connection to the winds. He lives alone at the edge of Brackwood Fringe, specializing in crafting items attuned to air currents.",
+        "where": "Found only in Silas’s workshop near Brackwood Fringe, a remote area bordering the Monster Wood where the winds howl strongest.",
+        "how_it_works": "When held aloft and blown gently (no more than three short puffs), the whistle doesn’t produce a loud sound. Instead, it creates a localized ‘stillness’ within a ten-foot radius—effectively silencing any sounds or disrupting minor magical effects that rely on airflow. This isn't powerful magic; it can suppress a single gust of wind, dampen a whispered spell, or momentarily disrupt a floating object, but against stronger forces, it has no effect. The constant, subtle whistle is said to be the trapped essence of wind spirits he releases during creation.",
+        "limits": "The whistle requires a steady hand and focused breath to operate effectively. Prolonged use drains the user’s mana quickly - approximately one small mana charge per puff. If blown too forcefully or used continuously for longer than fifteen seconds, the whistle will sputter and temporarily cease functioning until recharged with another short blow. Furthermore, its effectiveness diminishes rapidly in areas already saturated with strong elemental energy – like near a fire sprite or the heart of the Blight. It also seems to dislike being around weregilds, producing an unpleasant screech if brought too close to their presence, implying some sort of warding properties.",
+        "ties": "Silas Blackwood learned his craft from Murrow decades ago, initially tasked by the artificer to study the movement of air currents as part of his research into the Rift Compass. He developed this particular device to help him focus and observe those currents without interference, and later sold a few to discerning guards who needed silence during reconnaissance"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** A small, intricately carved wooden whistle shaped like a stylized wind sprite – roughly six inches long with delicate wings etched into its surface. It appears to constantly emit a faint, almost imperceptible whistling sound even when not blown.\n- **Who:** Crafted by Silas Blackwood, an elderly halfling known for his quiet skill in woodworking and uncanny connection to the winds. He lives alone at the edge of Brackwood Fringe, specializing in crafting items attuned to air currents.\n- **Where:** Found only in Silas’s workshop near Brackwood Fringe, a remote area bordering the Monster Wood where the winds howl strongest.\n- **How it works:** When held aloft and blown gently (no more than three short puffs), the whistle doesn’t produce a loud sound. Instead, it creates a localized ‘stillness’ within a ten-foot radius—effectively silencing any sounds or disrupting minor magical effects that rely on airflow. This isn't powerful magic; it can suppress a single gust of wind, dampen a whispered spell, or momentarily disrupt a floating object, but against stronger forces, it has no effect. The constant, subtle whistle is said to be the trapped essence of wind spirits he releases during creation.\n- **Limits:**  The whistle requires a steady hand and focused breath to operate effectively. Prolonged use drains the user’s mana quickly - approximately one small mana charge per puff. If blown too forcefully or used continuously for longer than fifteen seconds, the whistle will sputter and temporarily cease functioning until recharged with another short blow. Furthermore, its effectiveness diminishes rapidly in areas already saturated with strong elemental energy – like near a fire sprite or the heart of the Blight. It also seems to dislike being around weregilds, producing an unpleasant screech if brought too close to their presence, implying some sort of warding properties.\n- **Ties:** Silas Blackwood learned his craft from Murrow decades ago, initially tasked by the artificer to study the movement of air currents as part of his research into the Rift Compass. He developed this particular device to help him focus and observe those currents without interference, and later sold a few to discerning guards who needed silence during reconnaissance",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2047
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
+      ]
+    },
+    {
+      "id": "whisperwinds-whistle-2",
+      "type": "item",
+      "name": "Whisperwind’s Whistle",
+      "icon": "💡",
+      "category": "Sent in from the chat",
+      "kind": "From auto mode",
+      "origin": "rest",
+      "status": "pitch",
+      "fields": {
+        "does": "A small, intricately carved wooden whistle shaped like a stylized wind sprite – roughly six inches long with delicate wings etched into its surface. It appears to constantly emit a faint, almost imperceptible whistling sound even when not blown.",
+        "made_by": "Crafted by Silas Blackwood, an elderly halfling known for his quiet skill in woodworking and uncanny connection to the winds. He lives alone at the edge of Brackwood Fringe, specializing in crafting items attuned to air currents.",
+        "where": "Found only in Silas’s workshop near Brackwood Fringe, a remote area bordering the Monster Wood where the winds howl strongest.",
+        "made": "When held aloft and blown gently (no more than three short puffs), the whistle doesn’t produce a loud sound. Instead, it creates a localized ‘stillness’ within a ten-foot radius—effectively silencing any sounds or disrupting minor magical effects that rely on airflow. This isn't powerful magic; it can suppress a single gust of wind, dampen a whispered spell, or momentarily disrupt a floating object, but against stronger forces, it has no effect. The constant, subtle whistle is said to be the trapped essence of wind spirits he releases during creation.",
+        "limits": "The whistle requires a steady hand and focused breath to operate effectively. Prolonged use drains the user’s mana quickly - approximately one small mana charge per puff. If blown too forcefully or used continuously for longer than fifteen seconds, the whistle will sputter and temporarily cease functioning until recharged with another short blow. Furthermore, its effectiveness diminishes rapidly in areas already saturated with strong elemental energy – like near a fire sprite or the heart of the Blight. It also seems to dislike being around weregilds, producing an unpleasant screech if brought too close to their presence, implying some sort of warding properties.",
+        "ties": "Silas Blackwood learned his craft from Murrow decades ago, initially tasked by the artificer to study the movement of air currents as part of his research into the Rift Compass. He developed this particular device to help him focus and observe those currents without interference, and later sold a few to discerning guards who needed silence during reconnaissance"
+      },
+      "review_key": "rest:idea-mwb80txt",
+      "filed": "2026-11-10",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** A small, intricately carved wooden whistle shaped like a stylized wind sprite – roughly six inches long with delicate wings etched into its surface. It appears to constantly emit a faint, almost imperceptible whistling sound even when not blown.\n- **Who:** Crafted by Silas Blackwood, an elderly halfling known for his quiet skill in woodworking and uncanny connection to the winds. He lives alone at the edge of Brackwood Fringe, specializing in crafting items attuned to air currents.\n- **Where:** Found only in Silas’s workshop near Brackwood Fringe, a remote area bordering the Monster Wood where the winds howl strongest.\n- **How it works:** When held aloft and blown gently (no more than three short puffs), the whistle doesn’t produce a loud sound. Instead, it creates a localized ‘stillness’ within a ten-foot radius—effectively silencing any sounds or disrupting minor magical effects that rely on airflow. This isn't powerful magic; it can suppress a single gust of wind, dampen a whispered spell, or momentarily disrupt a floating object, but against stronger forces, it has no effect. The constant, subtle whistle is said to be the trapped essence of wind spirits he releases during creation.\n- **Limits:**  The whistle requires a steady hand and focused breath to operate effectively. Prolonged use drains the user’s mana quickly - approximately one small mana charge per puff. If blown too forcefully or used continuously for longer than fifteen seconds, the whistle will sputter and temporarily cease functioning until recharged with another short blow. Furthermore, its effectiveness diminishes rapidly in areas already saturated with strong elemental energy – like near a fire sprite or the heart of the Blight. It also seems to dislike being around weregilds, producing an unpleasant screech if brought too close to their presence, implying some sort of warding properties.\n- **Ties:** Silas Blackwood learned his craft from Murrow decades ago, initially tasked by the artificer to study the movement of air currents as part of his research into the Rift Compass. He developed this particular device to help him focus and observe those currents without interference, and later sold a few to discerning guards who needed silence during reconnaissance",
+      "notes": [
+        "working-notes-whisperwinds-whistle-2"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 2047
+      }
     },
     {
       "id": "midkemia-the-campaign",
