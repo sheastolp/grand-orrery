@@ -1878,7 +1878,7 @@ _Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster W
 - LIFE: Villagers have lots of fun jobs - tending crops, crafting beautiful wares, or entertaining guests with stories and songs. They celebrate festivals with feasting, merry greetings and good cheer. There are lots of opportunities to make friends (or acquire a favor) within the village. Good manners are key to happiness. Everything is calm, peaceful, and full of happy laughter. The best part? Every single day brings fresh adventures, cozy evenings, and plenty of sunshine.
 - DEFENSE AND LAW: Simple and straightforward – mostly friendly greetings and smiles! Protecting the kingdom’ the villagers' best knights, guardians, and loyal guards who uphold the law. Lots of checks and balances, as well.
 
-### An Enchanting Tale (Pitch)
+### An Enchanting Tale (Your idea)
 
 <!-- review-key: rest:idea-mwaeac35 -->
 <!-- added by the AI -->
