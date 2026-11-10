@@ -1850,14 +1850,6 @@ _Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or t
 
 ### a short name (Pitch)
 
-<!-- review-key: rest:idea-mwa0wnxi -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._
-
-- a simple phrase
-
-### a short name (Pitch)
-
 <!-- review-key: rest:idea-mwa1nn1g -->
 <!-- added by the AI -->
 _Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: a post, a habit, a piece of gear or a person._
