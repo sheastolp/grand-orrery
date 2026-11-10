@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T22:08:43.644Z",
+  "built": "2026-11-10T22:09:52.068Z",
   "branch": "review",
-  "commit": "18927ccbb3add58a5f0dff225669b546b00c8549",
+  "commit": "acc3b424f99b28518926a9ee5740a40ea6d1c131",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 37,
-    "note": 227,
+    "note": 225,
     "document": 10,
     "map": 4
   },
@@ -2191,7 +2191,7 @@
       "category": "Peddlers' wares",
       "kind": "Relics",
       "origin": "rest",
-      "status": "pitch",
+      "status": "decided",
       "fields": {
         "does": "Orin Bellweather possesses a peculiar earthenware pot – seemingly ordinary at first glance – that subtly shifts the odds slightly in favor of finding lost items within a ten-foot radius.",
         "made_by": "Orin himself, a young halfling peddler known for his uncanny knack with locating misplaced goods, inherited the pot from his grandfather, Silas Blackwood.",
@@ -2236,7 +2236,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2047
+        "line": 2026
       }
     }
   ]

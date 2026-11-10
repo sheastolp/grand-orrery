@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T22:08:43.644Z",
+  "built": "2026-11-10T22:09:52.068Z",
   "branch": "review",
-  "commit": "18927ccbb3add58a5f0dff225669b546b00c8549",
+  "commit": "acc3b424f99b28518926a9ee5740a40ea6d1c131",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 37,
-    "note": 227,
+    "note": 225,
     "document": 10,
     "map": 4
   },
@@ -4447,7 +4447,7 @@
       "type": "note",
       "name": "Bellweather’s Boon",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwb43rnu",
@@ -4472,54 +4472,6 @@
       ]
     },
     {
-      "id": "working-notes-whisperwinds-vigil-3",
-      "type": "note",
-      "name": "Whisperwind’s Vigil",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwb4vnxi",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- The Guard maintains a nightly vigil along the western wall overlooking the Monster Wood, relying heavily on the unique abilities of their “Whisperwinds” – halfling scouts trained to listen for subtle signs of approaching danger through heightened hearing and attuned to the sounds of the wood.",
-      "source": {
-        "file": "working-notes.md",
-        "line": 2001
-      },
-      "world": "verrowen"
-    },
-    {
-      "id": "working-notes-monstradius-peculiar-pipe-2",
-      "type": "note",
-      "name": "Monstradius’ Peculiar Pipe",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwb5nv6z",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "fields": {
-        "what_it_is": "Monstradius, the artificer who runs the shop “Monstradius,” keeps a peculiar pipe carved from blackened ashwood – harvested from trees growing only in the Ashen Reach – that he uses to collect stray mana. It isn't for smoking; he never uses tobacco or anything else. Instead, the pipe subtly draws ambient mana into itself, creating a faint hum detectable by skilled artificers like Murrow.",
-        "who": "Primarily used by Monstradius himself, though occasionally Hesketh Reeve will visit with complaints about aching joints and ask if Monstradius can ‘quiet the noise.’ The Elderhold suspects something and has set up discreet observation posts around the shop.",
-        "where": "Located within Monstradius' workshop, nestled amongst his arcane devices and experimental tools.  It sits on a small pedestal near a complex array of resonators, constantly emitting a barely perceptible vibration.",
-        "how_it_works": "The ashwood acts as a surprisingly efficient conductor and collector of low-level mana, passively absorbing it over time. When filled with enough mana, the pipe emits a distinct, rhythmic thrum—a signal that Monstradius monitors closely. This collected mana isn't stored directly, but instead flows through the instrument to augment other creations or perform minor enchantments.",
-        "limits": "The pipe’s capacity is limited - roughly equivalent to one short healing spell cast at once. Overuse drains its effectiveness, requiring several days to recharge in a location saturated with natural magic (like the Ashen Reach). Exposure to particularly chaotic magic disrupts its function temporarily.",
-        "ties": "It was crafted using wood from the Ashen Reach – a region known for strange magical residue due to an ancient, partially contained rift—and mirrors Monstradius’ secretive pursuit of understanding unstable magic and how to harness energies beyond conventional means. He claims it helps him maintain focus while conducting dangerous experiments, and he has been seen carefully cleaning the intricate carvings when no one else is around."
-      },
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- **What it is:** Monstradius, the artificer who runs the shop “Monstradius,” keeps a peculiar pipe carved from blackened ashwood – harvested from trees growing only in the Ashen Reach – that he uses to collect stray mana. It isn't for smoking; he never uses tobacco or anything else. Instead, the pipe subtly draws ambient mana into itself, creating a faint hum detectable by skilled artificers like Murrow.\n- **Who:** Primarily used by Monstradius himself, though occasionally Hesketh Reeve will visit with complaints about aching joints and ask if Monstradius can ‘quiet the noise.’ The Elderhold suspects something and has set up discreet observation posts around the shop.\n- **Where:** Located within Monstradius' workshop, nestled amongst his arcane devices and experimental tools.  It sits on a small pedestal near a complex array of resonators, constantly emitting a barely perceptible vibration.\n- **How it works:** The ashwood acts as a surprisingly efficient conductor and collector of low-level mana, passively absorbing it over time. When filled with enough mana, the pipe emits a distinct, rhythmic thrum—a signal that Monstradius monitors closely. This collected mana isn't stored directly, but instead flows through the instrument to augment other creations or perform minor enchantments.\n- **Limits:** The pipe’s capacity is limited - roughly equivalent to one short healing spell cast at once. Overuse drains its effectiveness, requiring several days to recharge in a location saturated with natural magic (like the Ashen Reach). Exposure to particularly chaotic magic disrupts its function temporarily.\n- **Ties:** It was crafted using wood from the Ashen Reach – a region known for strange magical residue due to an ancient, partially contained rift—and mirrors Monstradius’ secretive pursuit of understanding unstable magic and how to harness energies beyond conventional means. He claims it helps him maintain focus while conducting dangerous experiments, and he has been seen carefully cleaning the intricate carvings when no one else is around.",
-      "source": {
-        "file": "working-notes.md",
-        "line": 2009
-      },
-      "world": "verrowen",
-      "mentions": [
-        "hesketh-reeve",
-        "murrow"
-      ]
-    },
-    {
       "id": "working-notes-orins-echoes",
       "type": "note",
       "name": "Orin’s Echoes",
@@ -4540,7 +4492,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stoutwell._\n\n- **What it is:** Orin Bellweather, a young halfling tinker with an unusual fascination for Whisperwind crystals, discovers a hidden connection to the Silent Well through a fractured crystal that resonates with echoes of memories – potentially revealing secrets about Stoutwell’s founding and the disappearance of the well’s water.\n- **Who:** Orin (age 17, male halfling) - A quiet, observant tinkerer known for his skill repairing broken tools and creating odd contraptions using salvaged parts. He feels out of place amongst the practical halflings and harbors a secret longing to understand the world beyond Stoutwell. His ties include Hesketh Reeve (a distant relative through marriage), Elara Willowbrook (the eldest of the elves in the tavern, whom he occasionally brings trinkets to trade with), and Murrow (who recognizes his nascent talent for sensing mana flows).\n- **Where:** Primarily within the crumbling remains of the old Silent Well chamber beneath the Gathering Hall—now mostly used as storage by the Elderhold. The relevant fragments of Whisperwind crystal are found scattered throughout the Brackwood Fringe during occasional foraging trips led by Doric.\n- **How it works:** When Orin focuses on a specific shard of a shattered Whisperwind crystal, particularly one resonating with a faint blue glow, he experiences brief flashes of visual and auditory impressions—echoes from the past connected to the well's creation or its eventual silencing. These echoes aren't clear visions; they’re fractured images accompanied by whispers, often distorted and incomplete, requiring careful interpretation. The crystals themselves seem to absorb ambient mana, amplifying these resonant effects – the more mana present, the stronger the echoes become. Overuse weakens the crystal and causes disorientation.\n- **Limits:** The echoes are unstable and fleeting, dependent on the quality and quantity of available mana. Larger, older crystals yield clearer (though still fragmented) memories. Prolonged exposure leads to headaches and mental fatigue.  The shards themselves can only be “read” by someone with a naturally attuned sensitivity to mana - a trait that is rare among halflings, but heightened in those exposed to magic for extended periods (like Murrow).\n- **",
       "source": {
         "file": "working-notes.md",
-        "line": 2022
+        "line": 2001
       },
       "world": "verrowen",
       "mentions": [
@@ -4570,7 +4522,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **What it is:** Every evening at sunset, every household in Stoutwell places a single, unlit candle upon their doorstep – a tradition known locally as “The Silent Offering.”\n- **Who:** It’s practiced by all residents of Stoutwell, regardless of race or profession, though the Elderhold particularly emphasizes its importance. Even Murrow participates, although he does so with an unnerving lack of emotion.\n- **How it works:** The candles aren’t lit, nor do villagers speak aloud when placing them. Instead, they silently focus their intent—a wish for protection from the monsters of the Wood, a prayer for good fortune in trade, or simply remembrance of those lost to the blight—onto the flameless wax. This isn’t seen as directly affecting anything outside Stoutwell, but rather a formalized acknowledgement of the unseen forces at play in the universe. The practice stems from ancient tales of appeasing restless spirits tied to the land.\n- **Limits:** The offering only functions if performed with genuine sincerity. A cynical or resentful intention will weaken the effect. Furthermore, the “mana cost” associated with such focused thought is considerable - prolonged concentration can lead to dizziness and exhaustion, especially in weaker individuals like halflings or children.\n- **Ties:** The tradition dates back to the founding of Stoutwell, predating even the Wellhouse elves' arrival. Its roots are linked to whispers of a pact made between the first settlers and a protective spirit residing within the Monster Wood – a spirit said to be sensitive to acts of quiet reverence. Hesketh maintains that it keeps the Guard effective by reminding everyone what they protect.",
       "source": {
         "file": "working-notes.md",
-        "line": 2035
+        "line": 2014
       },
       "world": "verrowen",
       "mentions": [
@@ -4599,7 +4551,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** A small, intricately carved wooden whistle shaped like a stylized wind sprite – roughly six inches long with delicate wings etched into its surface. It appears to constantly emit a faint, almost imperceptible whistling sound even when not blown.\n- **Who:** Crafted by Silas Blackwood, an elderly halfling known for his quiet skill in woodworking and uncanny connection to the winds. He lives alone at the edge of Brackwood Fringe, specializing in crafting items attuned to air currents.\n- **Where:** Found only in Silas’s workshop near Brackwood Fringe, a remote area bordering the Monster Wood where the winds howl strongest.\n- **How it works:** When held aloft and blown gently (no more than three short puffs), the whistle doesn’t produce a loud sound. Instead, it creates a localized ‘stillness’ within a ten-foot radius—effectively silencing any sounds or disrupting minor magical effects that rely on airflow. This isn't powerful magic; it can suppress a single gust of wind, dampen a whispered spell, or momentarily disrupt a floating object, but against stronger forces, it has no effect. The constant, subtle whistle is said to be the trapped essence of wind spirits he releases during creation.\n- **Limits:**  The whistle requires a steady hand and focused breath to operate effectively. Prolonged use drains the user’s mana quickly - approximately one small mana charge per puff. If blown too forcefully or used continuously for longer than fifteen seconds, the whistle will sputter and temporarily cease functioning until recharged with another short blow. Furthermore, its effectiveness diminishes rapidly in areas already saturated with strong elemental energy – like near a fire sprite or the heart of the Blight. It also seems to dislike being around weregilds, producing an unpleasant screech if brought too close to their presence, implying some sort of warding properties.\n- **Ties:** Silas Blackwood learned his craft from Murrow decades ago, initially tasked by the artificer to study the movement of air currents as part of his research into the Rift Compass. He developed this particular device to help him focus and observe those currents without interference, and later sold a few to discerning guards who needed silence during reconnaissance",
       "source": {
         "file": "working-notes.md",
-        "line": 2047
+        "line": 2026
       },
       "world": "verrowen",
       "mentions": [
