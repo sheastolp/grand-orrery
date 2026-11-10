@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T21:47:44.438Z",
+  "built": "2026-11-10T22:08:43.644Z",
   "branch": "review",
-  "commit": "bfe6b7f3a1cf972d6291d75a5a65efbbf269e3a9",
+  "commit": "18927ccbb3add58a5f0dff225669b546b00c8549",
   "counts": {
     "person": 89,
     "role": 11,
@@ -10475,7 +10475,7 @@
       "type": "note",
       "name": "The Silent Offering",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwb3abap",
