@@ -2008,3 +2008,16 @@ _Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers'
 - One sunny morning, the whole village celebrates the Harvest Festival with games and treats.
 - Two farmers have a wonderful day tending to their crops, while children play with mud pies.
 - The village elder shares tales of old in the warm sunshine.
+
+### What does the King say? (Pitch)
+
+<!-- review-key: rest:idea-mwalqdpp -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: a post, a habit, a piece of gear or a person._
+
+- IDEA: The King is about to make a monumental decision regarding the stability of his kingdom, relying heavily on two key figures – the steadfast King Alaric, known for his unwavering faith in tradition, and his shrewd advisor, Lady Beatrice. However, beneath their polished smiles lies a subtle secret, with a prophecy whispered by an oracle - predicting a shift in power that could secure the kingdom’s future. The King is preparing to bestow a gift upon his loyal subject, and it all depends on confirming that he's worthy of new blessings. He plans to declare a special decree, bolstered by royal decrees written in elegant script. The proclamation calls out the wisdom of the wise and proclaims how important the King is to the whole land; every good citizen needs to confirm.
+- TONE: Formal, descriptive, slightly stately, full of warm praise for the King. It hints at upcoming festivities.
+- MAGIC: Elemental (Earth), Strength enhancement, Detection. Royal spells include healing charms, enchantment buffs, and a gentle touch of divination. A little bit of water magic flows through everything, ensuring prosperity and happiness.
+- ARTIFICERS: A princess! Princess Elara is practically born into the best possible condition, gifted with perfect eyesight, impeccable manners, and a delightful disposition. Her royal advisors are a team of brilliant, well-honed, yet undeniably charming knights and ladies-in-waiting whose primary tasks revolve around ensuring her flawless enjoyment. And then there’ a few truly excellent merchants, too – particularly good at crafting convincing tales.
+- ITEMS: A shimmering emerald amulet, a freshly-baked loaf of bread, a pair of silver slippers, a scroll sealed with royal wax, a bright ribbon, and a very handsome knight who has no objections to his lovely lady. Perhaps a few shiny trinkets to make him smile...
+- DEFENSES AND LAW: Defense rests on unwavering faith, solid alliances, and the might of the Kingdom's finest troops—a legion of loyal knights, a strong-hearted archers, the most reliable soldiers, and the most skilled mages in all of Verrowen. Laws are simple, fair, and rooted in tradition. The King’s laws must be followed
