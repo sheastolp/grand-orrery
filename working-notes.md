@@ -2005,3 +2005,16 @@ _Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers'
 _Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._
 
 - The tiny fishing settlement at the foot of the mountains guards a passage that leads to an unknown place beyond, while also struggling with a dwindling catch.
+
+### Brackwood’s Whimsy (Pitch)
+
+<!-- review-key: rest:idea-mwbahuoa -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or the Kingdom's history._
+
+- **What it is:** Murrow discovered a hidden cache of intricately carved wooden toys within an abandoned Brackwood Fringe cabin – each toy seemingly imbued with a minor, playful enchantment related to its function.
+- **Who:** This involves Rook, a young Guard recruit obsessed with collecting unusual objects, and Silas Blackwood, a reclusive woodcarver known for his unsettlingly lifelike creations.
+- **Where:** The discovery takes place within a crumbling cabin bordering the Brackwood Fringe, closest to Stoutwell’s slums.
+- **How it works:** Touching a toy triggers a brief, localized effect - a spinning top might create a miniature whirlwind, a wooden soldier could briefly mimic movement, and a tiny rocking horse emits a faint, comforting warmth. These effects drain a small amount of mana from whoever interacts with the toy (a novice user will quickly exhaust their reserves).  The magic is tied to the inherent joy and imagination embedded in the carvings by Blackwood.
+- **Limits:** The enchantments are weak and fleeting, lasting only a few seconds at most. Overuse drains the user’s mana rapidly, leading to dizziness and fatigue.  Only someone attuned to natural magic can reliably trigger the items; even then, success isn't guaranteed.
+- **Ties:** This connects to Silus Blackwood, who was once hired by Murrow but disappeared after the artificer discovered he used “pure joy” as a catalyst for his carvings – something Murrow recognized as dangerously close to unstable resonance stone manipulation. Rook, desperate to prove himself, becomes obsessed with uncovering Blackwood’s whereabouts, believing the toys hold clues to a larger magical secret.
