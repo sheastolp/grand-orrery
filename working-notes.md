@@ -2031,3 +2031,15 @@ _Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stout
 - **How it works:** When Orin focuses on a specific shard of a shattered Whisperwind crystal, particularly one resonating with a faint blue glow, he experiences brief flashes of visual and auditory impressions—echoes from the past connected to the well's creation or its eventual silencing. These echoes aren't clear visions; they’re fractured images accompanied by whispers, often distorted and incomplete, requiring careful interpretation. The crystals themselves seem to absorb ambient mana, amplifying these resonant effects – the more mana present, the stronger the echoes become. Overuse weakens the crystal and causes disorientation.
 - **Limits:** The echoes are unstable and fleeting, dependent on the quality and quantity of available mana. Larger, older crystals yield clearer (though still fragmented) memories. Prolonged exposure leads to headaches and mental fatigue.  The shards themselves can only be “read” by someone with a naturally attuned sensitivity to mana - a trait that is rare among halflings, but heightened in those exposed to magic for extended periods (like Murrow).
 - **
+
+### The Silent Offering (Pitch)
+
+<!-- review-key: rest:idea-mwb78bsa -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._
+
+- **What it is:** Every evening at sunset, every household in Stoutwell places a single, unlit candle upon their doorstep – a tradition known locally as “The Silent Offering.”
+- **Who:** It’s practiced by all residents of Stoutwell, regardless of race or profession, though the Elderhold particularly emphasizes its importance. Even Murrow participates, although he does so with an unnerving lack of emotion.
+- **How it works:** The candles aren’t lit, nor do villagers speak aloud when placing them. Instead, they silently focus their intent—a wish for protection from the monsters of the Wood, a prayer for good fortune in trade, or simply remembrance of those lost to the blight—onto the flameless wax. This isn’t seen as directly affecting anything outside Stoutwell, but rather a formalized acknowledgement of the unseen forces at play in the universe. The practice stems from ancient tales of appeasing restless spirits tied to the land.
+- **Limits:** The offering only functions if performed with genuine sincerity. A cynical or resentful intention will weaken the effect. Furthermore, the “mana cost” associated with such focused thought is considerable - prolonged concentration can lead to dizziness and exhaustion, especially in weaker individuals like halflings or children.
+- **Ties:** The tradition dates back to the founding of Stoutwell, predating even the Wellhouse elves' arrival. Its roots are linked to whispers of a pact made between the first settlers and a protective spirit residing within the Monster Wood – a spirit said to be sensitive to acts of quiet reverence. Hesketh maintains that it keeps the Guard effective by reminding everyone what they protect.
