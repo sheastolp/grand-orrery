@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T05:01:51.797Z",
+  "built": "2026-11-10T05:02:54.842Z",
   "branch": "review",
-  "commit": "79a806211106a00e953c5569dbbdcb730ad81bea",
+  "commit": "9bbfcbc06c93e595ce32dd62cbe950671c19cf5e",
   "counts": {
     "person": 87,
     "role": 11,
@@ -4264,7 +4264,7 @@
       "type": "note",
       "name": "Keepers of the Key",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwa5e32p",
