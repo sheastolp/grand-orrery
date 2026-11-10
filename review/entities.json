@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T10:21:14.271Z",
+  "built": "2026-11-10T11:02:43.488Z",
   "branch": "review",
-  "commit": "e4fee92b144e9abf43745b3a571fd789c4688368",
+  "commit": "f85f1cb9f8015bca17b1c26774d812060541e6c9",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 101,
+    "item": 102,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 225,
+    "note": 226,
     "document": 10,
     "map": 4
   },
@@ -10460,6 +10460,44 @@
         "line": 1993
       },
       "world": "verrowen"
+    },
+    {
+      "id": "working-notes-a-short-name-9",
+      "type": "note",
+      "name": "a short name",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwakz9zy",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- the wellspring\n- One sunny morning, the whole village celebrates the Harvest Festival with games and treats.\n- Two farmers have a wonderful day tending to their crops, while children play with mud pies.\n- The village elder shares tales of old in the warm sunshine.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2001
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "a-short-name-2",
+      "type": "item",
+      "name": "a short name",
+      "icon": "🏺",
+      "category": "Peddlers' wares",
+      "kind": "Relics",
+      "origin": "rest",
+      "status": "pitch",
+      "review_key": "rest:idea-mwakz9zy",
+      "filed": "2026-11-10",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- the wellspring\n- One sunny morning, the whole village celebrates the Harvest Festival with games and treats.\n- Two farmers have a wonderful day tending to their crops, while children play with mud pies.\n- The village elder shares tales of old in the warm sunshine.",
+      "notes": [
+        "working-notes-a-short-name-9"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 2001
+      }
     },
     {
       "id": "midkemia-the-campaign",
