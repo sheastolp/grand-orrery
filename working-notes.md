@@ -1964,3 +1964,11 @@ _Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or r
 - TONE: Warm, inviting, and slightly whimsical - like a good story whispered through the trees.
 - MAGIC: Purely practical and pleasant, utilizing naturally occurring elements and good cheer.
 - ROLES: 1. Hearthcircle (the village elders) to keep traditions alive, ensuring everyone feels welcome. 2. The Wellhouse elves to keep a steady supply of magic flowing in their small little world, keeping a secret or two. 3. Tobin Ashby (a blacksmith's apprentice) to make sure everything goes smoothly as well. 4. Doric (the Artificer) to easily fix anything with her tinkering skills. 5. Murrow (the Artisan) to ensure all goods are ready for shipment. 6. Hesketh Reeve (the Guard Captain) to be always vigilant and watchful.
+
+### Brackwood’s Whimsy (Pitch)
+
+<!-- review-key: rest:idea-mwb2i5tg -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._
+
+- Murrow’s shop Monstradius contains a Pot of Greed, enchanted to make customers feel overwhelmingly generous – though only for items under ten silver pieces, which seems to drive people mad with generosity when trying to sell something expensive.
