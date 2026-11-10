@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T18:20:07.989Z",
+  "built": "2026-11-10T19:01:31.140Z",
   "branch": "review",
-  "commit": "ba8457af276c5fb5b8d0050fd591c14e856204a7",
+  "commit": "866dd602c0e633d8810e25a7f5f1f72cd76f4eb7",
   "counts": {
-    "person": 88,
+    "person": 89,
     "role": 11,
     "world": 3,
     "item": 100,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 218,
+    "note": 219,
     "document": 10,
     "map": 4
   },
@@ -3221,6 +3221,27 @@
       "world": "verrowen"
     },
     {
+      "id": "working-notes-orin-bellweather",
+      "type": "note",
+      "name": "Orin Bellweather",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From the lore-keeper",
+      "origin": "lore-keeper",
+      "review_key": "lore-keeper:1c413e45-c42e-47d4-b86a-38cd3492978a",
+      "filed": "2026-11-10",
+      "filed_from": "From a lore-keeper chat",
+      "body": "_From a lore-keeper chat, 2026-11-10 · Characters._\n\n**Name:** Orin Bellweather\n**Race:** Human\n**Sex:** Male\n**Age:** Approximately 67 years (appears younger due to consistent routine & minimal magic exposure)\n**Role:** Town Crier – Stoutwell (Guild Contractor)\n**Lives in:** GuildScribe Hall, Capital City – Primary office within the main hall.\n**Appearance:** Lean build, approximately six feet tall, dressed in a meticulously maintained crimson tunic embroidered with silver heraldic motifs - depicting a stylized bell intertwined with wheat stalks. He wears polished leather boots and carries a large, intricately carved wooden staff topped with a resonant bronze bell. His grey hair is neatly combed back, revealing a weathered face marked by good humour and countless announcements.\n**Personality:** Cheerful, punctual, theatrical, and dependable. Orin treats every announcement as important, even when the news is only that an ad break has been delayed. He speaks like a professional herald but has picked up the relaxed humor of tavern life. He is never cruel or intrusive, prefers clear facts to speculation, and dislikes being ignored. Orin is patient with newcomers, mildly dramatic when a schedule changes, and secretly proud that he can keep an entire room of adventurers informed without interrupting the story. (suggested)\n**Magic:** Limited elemental influence – primarily focused on amplifying his voice for greater projection and subtly adjusting ambient sounds within the hall to ensure optimal clarity. It's largely ceremonial rather than practical.\n**Connections:** Serves under Master Silas Thorne (GuildScribe). Maintains informal contact with merchants throughout Stoutwell & surrounding settlements. Operates alongside Thomas Penwright (Stoutwell Town Crier), sharing information regarding local events and potential disruptions. (suggested)\n**Secret:** Possesses a minor talent for manipulating echoes – capable of creating brief sonic illusions to add emphasis or create diversions during particularly urgent broadcasts. This ability stems from a childhood spent exploring abandoned catacombs beneath the GuildScribe Hall. \n**Story Hooks:** Knowledgeable about the Kingdom’s political landscape and historical events; potentially holds key information relating to the founding of Stoutwell or forgotten royal decrees. His frequent travels could lead him into conflict with criminal organizations seeking to exploit his position. Has been observed discreetly communicating with Murrow, possibly investigating unusual magical activity in Stoutwell.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1378
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
+      ]
+    },
+    {
       "id": "working-notes-silas-blackwood",
       "type": "note",
       "name": "Silas Blackwood",
@@ -3234,7 +3255,7 @@
       "body": "_From a Wake in Verrowen story, 2026-11-08 · Story._\n\n**Character Profile:**\n\nName: Silas Blackwood (not found out yet)\nSex: Male\nRace: Human\nAge: Approximately 38 years old\nAppearance: Tall and leanly built, with dark hair streaked with grey at the temples and piercing grey eyes that hold a deep sadness. He bears several scars - most notably a jagged wound across his left shoulder and a faint burn mark on his right hand – and wears worn leather clothing suited for travel and survival. \nMagic: Detection – a weak but responsive ability allowing him to sense residual magic and identify magical objects; he’s capable of limited shielding against mental intrusion.\nPersonality: Stoic, reserved, haunted by a profound sense of loss and burdened by fragmented memories. Prone to moments of intense focus and bursts of decisive action when under pressure. Deeply wary of others, but fiercely protective of those who earn his trust—a quality slowly emerging amidst his guarded exterior. \n\nSkills: Combat (proficient with knives), Tracking, Survival, Limited Magical Detection.\nBackground so far: Silas awoke with amnesia in a burned cottage high on the hillside outside Stoutwell, discovering a strange connection to an ancient silver locket and encountering unsettling remnants of forgotten magic. His initial disorientation is being replaced by a growing awareness of danger and a desperate need to uncover his past.\nKey items: Silver Locket (containing portraits of a young boy and a weeping woman); Goblin Knife; Hearthstone.\nWho they met: Murrow (artificer), Hesketh Reeve (Guard Captain), Wendeline Brackenford (Elder).\nPlaces they've been: Ruined Cottage near Stoutwell.\nAllies and enemies: None yet - potential allies are emerging through his encounters.\nDebts and promises: Unknown – he hasn’t made any commitments beyond surviving.\nWounds and scars: Shoulder wound from an arrow, burn mark on right hand.\nOpen mysteries: The origin and purpose of the silver locket, the fragmented memories haunting him, the nature of the energy emanating from the hearthstone, the fate of the child depicted within the portrait.\n\nThe story so far: Silas Blackwood stumbled into a nightmare woven with snow, blood, and echoes of forgotten pain. He awoke disoriented, wounded, and stripped of all memory, only to discover a chilling connection to a vanished girl and a dangerous artifact—the silver locket. Driven by instinct and fueled by burgeoning magical abilities, he battled goblins guarding a ruined cottage, unearthed cryptic clues in a hidden journal, and confronted a torrent of unsettling visions triggered by the locket’s presence. As he attempted to understand these events, the faint hum resonating from the hearthstone grew stronger, hinting at a deeper mystery linked to Murrow, the artificer, and the shifting realities of the Grand Orrery. His journey has just begun, a descent into a world of ancient secrets and perilous possibilities. \n\nSilas is now a haunted man grappling with lost memories and nascent magic, driven to unravel the truth behind his amnesia and confront whatever forces seek to control him.",
       "source": {
         "file": "working-notes.md",
-        "line": 1382
+        "line": 1400
       },
       "world": "verrowen",
       "mentions": [
@@ -3269,7 +3290,7 @@
       "body": "_Made up by the AI in rest mode, 2026-11-07 · about a piece of Stoutwell's or the Kingdom's history. Rewritten to fit the canon: the original put Burn and the Wellhouses with the Herders, Tobin with the Gatherers, Osric outside the Hearthcircle, and the Guard's members as visitors from outside the village._\n\n- **Label:** Stoutwell's named villagers, and where each one fits.\n- **The Elderhold (all halflings, the top of the Hearthcircle):** Osric (the Leader, who doesn't vote), Wendeline Brackenford, Fenwick Larkspur, Bertram Quillby, Ysolde Ambergate and Clementine Rook.\n- **Village Workers:** Doric, the master smith, and Tobin Ashby, his apprentice, at the smithy in the SE slums.\n- **The Guard:** Hesketh Reeve, its Captain, over the full-time Guard of villagers picked for strength, with every villager taking a turn on the rotation.\n- **Outside the groups:** Murrow, the artificer of Monstradius. The Wellhouse family, Stoutwell's only elves, who own the tavern and do nothing for the village beyond it. Burn, the Wellhouse's regular, an outsider who came down the Woodland Road about fifteen years ago.\n- **Who:** About 220 people, roughly 72% human and 28% halfling, plus the Wellhouse elves.\n- **Where:** Within the walls. The fishing settlement on the lake is not part of the village, and none of GuildScribe’s people live in Stoutwell.\n- **How it works:** Stoutwell is off the Kingdom's rolls, so the nearest thing to a written roster is Bertram's ledgers and tithe counts, which is one more reason a guild ledger in the village would matter.\n- **Still to name:** The tanner, the woodworkers, farmers and herders, the millers and notable members of the Guard.",
       "source": {
         "file": "working-notes.md",
-        "line": 1415
+        "line": 1433
       },
       "world": "verrowen",
       "mentions": [
@@ -3311,7 +3332,7 @@
       "body": "_Made up by the AI in rest mode, 2026-11-07 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **Label:** A creature adapted to the damp, echoing depths of the Monster Wood, it communicates through subtle shifts in air pressure and uses this ability for both hunting and defense.\n- **What it is:** A \"Silken Stalker,\" a small, serpentine predator about the size of a large dog – roughly three feet long - covered in moss-like fur that blends perfectly with the Monster Wood’s undergrowth. It possesses delicate, membranous wings allowing short bursts of gliding flight.\n- **Who:** Native to the deepest sections of the Monster Wood, primarily dwelling amongst ancient, decaying trees near areas saturated with moisture and shadow. They are solitary creatures, rarely interacting with each other or venturing far from their chosen territories.\n- **Where:** Specifically found within pockets of the Monster Wood characterized by unusually high humidity—particularly around fallen logs, stagnant pools, and deep ravines where the sunlight struggles to penetrate. Their dens are typically constructed within hollowed-out tree roots or beneath dense tangles of vines.\n- **How it Works:** The Silken Stalker doesn't rely on sight or sound; instead, it detects its prey (small animals, birds, even unwary travelers) using specialized organs located along its flanks that sense minute changes in air pressure caused by movement. These ‘pressure whispers’ allow it to pinpoint targets with incredible accuracy, effectively creating a 3D “map” of its surroundings.  It can also use this ability defensively, releasing a concentrated burst of compressed air as a disorienting shockwave.\n- **Limits:** Its sensitivity is heavily affected by strong winds or turbulent airflow – making open spaces perilous. Magical interference, especially spells that create sonic vibrations, severely disrupts its sensory system, causing intense pain and disorientation. Prolonged exposure to fire causes its fur to burn rapidly, stripping away its camouflage and leaving it vulnerable. It cannot reliably track magic users - they simply appear as static noise.\n- **Ties:** Murrow has been observing the Silken Stalkers during his research",
       "source": {
         "file": "working-notes.md",
-        "line": 1430
+        "line": 1448
       },
       "world": "verrowen",
       "mentions": [
@@ -3332,7 +3353,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-07 · about a piece of Stoutwell's or the Kingdom's history._\n\n- For centuries, the villagers of Stoutwell have known the well dried up due to the blight, but only recently did Murrow’s irrigation bring water back – now, a single, unsettling detail about that event has surfaced through Doric’s smithing tales.",
       "source": {
         "file": "working-notes.md",
-        "line": 1443
+        "line": 1461
       },
       "world": "verrowen",
       "mentions": [
@@ -3355,7 +3376,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-07 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- Every fourth day, after the evening meal and before tending the walls, Hesketh Reeve gathers all members of the Guard for “The Stitching,” which involved meticulously inspecting each shield—patching cracks with hardened river clay, reinforcing weak points with strips of leather salvaged from damaged armor, and sharpening the edges with Doric’s finest steel. Ties: Connects directly to Hesketh Reeve and Doric, highlighting their working relationship and emphasizing the practical, almost obsessive nature of defensive preparedness within Stoutwell.",
       "source": {
         "file": "working-notes.md",
-        "line": 1451
+        "line": 1469
       },
       "world": "verrowen",
       "mentions": [
@@ -3377,7 +3398,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-07 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- A lone halfling woman uses detection magic to detect danger within the Monster Wood, acting as a living early warning system for Stoutwell, despite being ostracized by the village.",
       "source": {
         "file": "working-notes.md",
-        "line": 1459
+        "line": 1477
       },
       "world": "verrowen"
     },
@@ -3395,7 +3416,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-07 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- Every month, after their shift ends and before retiring for the night, each member of the Guard must spend precisely five minutes meticulously polishing their shield with river clay – a ritual overseen by Captain Hesketh himself. It’s believed this process strengthens not just the metal, but also the bond between the soldier and his protection, warding against ill fortune and ensuring vigilance during the next patrol. This habit stems from an obscure Elderhold tradition dating back to the village's founding, when a particularly brutal goblin raid was repelled thanks to a newly polished shield reflecting moonlight directly into the attackers’ eyes. The practice now serves as both a practical maintenance task and a visible demonstration of discipline and loyalty within the Guard ranks, subtly reinforcing its authority.",
       "source": {
         "file": "working-notes.md",
-        "line": 1467
+        "line": 1485
       },
       "world": "verrowen"
     },
@@ -3420,7 +3441,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-07 · about a person who lives in Stoutwell._\n\n- **What it is:** A new villager – an extremely old artificer named Murrow – arrives in Stoutwell with a strange device called the Seeker’s Lodestone, seeking knowledge about the source of the village’s dried well and potentially uncovering a hidden connection between Stoutwell and the dangers beyond the Monster Wood.\n- **Who:** Murrow, an artificer over five hundred years old, is a secretive and guarded individual. He bears little resemblance to the stereotypical artificer from the lore books—he wears a dark hood to obscure his face, speaks rarely, and seems intensely focused on locating something specific within Stoutwell. Doric, the master blacksmith, is wary of him due to his unsettling calm demeanor and expertise with materials that seem impossibly ancient. Hesketh Reeve sees him as a potential threat, given his apparent knowledge of arcane matters and reluctance to share information.\n- **Where:** Murrow establishes a small workshop - Monstradius - near Murrow’s shop in the NW housing district, utilizing salvaged parts and ash wood (sourced from the Ashen Reach). He spends most of his time meticulously studying the Silent Well, examining its crumbling stone walls and attempting to use the Seeker's Lodestone to detect residual mana signatures. The lodestone itself appears to resonate faintly when brought near areas affected by the Blight or unusually strong elemental currents.\n- **How it works:** The Seeker's Lodestone functions through detecting faint traces of lingering magical energy – specifically, it responds strongest to events tied to significant shifts in the world’s structure like those caused by rifts. It doesn’t actively *find* things; rather, it guides Murrow towards locations where such energies are concentrated. Using it requires careful concentration and a steady hand, draining the user’s mana rapidly—a single prolonged scan could leave someone weak and dizzy.  Murrow seems to be using Doric's iron featherhooks to help channel this process, creating specific patterns on the stone that amplify the lodestone’s detection abilities, but he refuses to explain how.\n- **Limits:** The Seeker’s Lodestone is highly sensitive and easily disrupted by other sources",
       "source": {
         "file": "working-notes.md",
-        "line": 1475
+        "line": 1493
       },
       "world": "verrowen",
       "mentions": [
@@ -3452,7 +3473,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-07 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **What it is:** A daily ritual performed by the Wellhouse elves where they leave a single, perfectly formed river stone upon the dried well, accompanied by a whispered request for continued prosperity – a silent offering meant to appease whatever spirit might dwell within the now-empty water source.\n- **Who:** Primarily practiced by the four Wellhouse elves - Wendeline Brackenford, Fenwick Larkspur, Bertram Quillby, Ysolde Ambergate – though all villagers quietly observe with respect. Burn, the Wellhouse’s regular, sometimes joins them, usually after a particularly potent ale.\n- **Where:** Directly on the dry basin of the old Stoutwell well, located in the center of the village square, always near the Gathering Hall. It stands adjacent to the crumbling walls that once held back the water, a stark reminder of its loss.\n- **How it works:** Each elf carefully selects a smooth, grey river stone from the nearby riverbank – stones are collected over several days. They then meticulously clean the well basin before placing the stone gently atop it, followed by a short, almost inaudible prayer or blessing (the exact wording varies between generations). The act takes approximately five minutes, during which time they remain motionless, facing the setting sun.\n- **Limits:** The effectiveness of this “offering” is entirely based on belief and tradition; there's no demonstrable magical effect. However, the ritual serves as a focal point for community goodwill and represents a tangible connection to the past and their ancestors.  The offering only has power if the person offering it *believes* it will work. If someone doubts it, nothing happens.\n- **Ties:** This custom directly links to the founding story of Stoutwell - the legend says the well dried up because the villagers forgot to offer respect to the spirit of the water. The elves’ arrival centuries ago was seen as a sign that their dedication would restore prosperity. Burn’s frequent presence at the well further solidifies the custom within the village’s culture.",
       "source": {
         "file": "working-notes.md",
-        "line": 1487
+        "line": 1505
       },
       "world": "verrowen",
       "mentions": [
@@ -3477,7 +3498,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- The village guard utilizes a wind-sensitive bell system that warns them of approaching danger within the Monster Wood, relying heavily on a single, dedicated watcher.",
       "source": {
         "file": "working-notes.md",
-        "line": 1500
+        "line": 1518
       },
       "world": "verrowen"
     },
@@ -3495,7 +3516,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- The Guard maintains a nightly watch over Whisperwind, using a series of strategically placed Wardbells that detect movement within a fifty-foot radius – however, only the trained ears of Hesketh Reeve can reliably interpret their frantic ringing, distinguishing between a startled rabbit and a potential threat.",
       "source": {
         "file": "working-notes.md",
-        "line": 1508
+        "line": 1526
       },
       "world": "verrowen",
       "mentions": [
@@ -3525,7 +3546,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **What it is:** A stone owl statue with subtly shifting eyes that trigger a brief detection spell when something significant leaves the Monster Wood - only effective for “big” events like creatures or people, not smaller things like animals or lost items.\n- **Who:** Constructed by Murrow using ash wood from the Ashen Reach, imbued with his own limited detection magic. It’s currently maintained by Whisperwind, a halfling Watcher tasked with its upkeep.\n- **Where:** Situated atop the highest point on the western wall of Stoutwell, overlooking the entrance to the Monster Wood – specifically positioned to catch any sign of movement through the trees. The owl faces west.\n- **How it works:** When a creature or person of considerable size (defined as roughly ten feet tall or larger) passes within a fifty-foot radius of the statue, the owl’s eyes briefly glow with pale blue light, triggering a short-range detection spell focused solely on the immediate area. This reveals the presence of magical signatures, but provides no details about what caused them—only a sense of \"something else\" is detected.  The effect lasts for one round and requires a successful Detection check (difficulty set by Murrow). Whisperwind refreshes the enchantment every few weeks with her own minor detection spells; this uses mana, so she must carefully monitor her reserves.\n- **Limits:** The statue's range is limited; it won't trigger if something simply walks past quickly. Its sensitivity is also low, meaning it can be easily overwhelmed by ambient magic in the woods. Critically, it *cannot* detect small creatures like goblins, rodents, or even large birds - only substantial things. It’s reliant on Whisperwind's continued maintenance, and the enchantment fades if not refreshed regularly. The statue itself does not speak or offer guidance beyond its triggered detection; its value lies purely in warning of potential threats.\n- **Ties:** This mechanism directly connects to Murrow's secretive research into locating other artificers and his concern about the Kingdom’s expansion – he fears that increased activity within the Monster Wood will draw unwanted attention from those who seek to exploit its resources. Hesketh Ree",
       "source": {
         "file": "working-notes.md",
-        "line": 1516
+        "line": 1534
       },
       "world": "verrowen",
       "mentions": [
@@ -3546,7 +3567,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- The Guard rotates through nightly shifts patrolling Whisperwind’s Watch, where a specific ritual performed under the light of the moon helps ward against creatures drawn by the village’s magical energy - specifically, the rooks that haunt Brackwood Fringe.",
       "source": {
         "file": "working-notes.md",
-        "line": 1529
+        "line": 1547
       },
       "world": "verrowen"
     },
@@ -3571,7 +3592,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **What it is:** A spectral hound, native only to the immediate area around the Monster Wood and especially active near Rook’s Watch, that acts as a living early warning system for intruders or significant magical disturbances within a roughly half-mile radius. It doesn't attack, instead emitting mournful howls when something triggers its heightened state – often before any physical threat materializes.\n- **Who:** Primarily controlled by Whisperwind, the village’s appointed “Watcher” - essentially a conduit and amplifier for the Hound’s abilities, though not its creator. The Hound itself seems ancient and unbound by normal rules of life and death.\n- **Where:** Specifically located along the western edge of Stoutwell where the Monster Wood begins, particularly concentrated around Rook’s Watch, a small elevated platform built atop a naturally occurring rock formation overlooking the woods. Its range extends approximately ½ mile outwards from Rook’s Watch. The wood grows dense enough here that most inhabitants don’t venture this far without Guard escort.\n- **How it works:** The Hound appears to be drawn to strong magical signatures—even faint ones—and areas with unusual energy fluctuations. When triggered, it emits three distinct types of howling: a low rumble signifying general unease; a high-pitched whine indicating immediate danger; and a sustained, sorrowful wail if the disturbance is unnatural (like magic gone wrong). Whisperwind can subtly adjust the Hound’s sensitivity, but only through focused meditation and quiet intention.  It requires constant attention, as extended periods of silence or distraction weaken its connection. A significant drain on mana is required for Whisperwind to sustain the contact – roughly equivalent to one hour of focused spellcasting.\n- **Limits:** The Hound's effectiveness is directly tied to Whisperwind’s ability to maintain focus. Loud noises, distractions, or emotional distress severely disrupt the link. It cannot “see” in the conventional sense, relying solely on sensory input filtered by its spectral awareness. Additionally, the Hound *cannot* predict the outcome of events – merely alert to their presence. Finally, prolonged exposure to the hound causes a dulling effect - those who stand near it for too long find themselves unusually sluggish and unable",
       "source": {
         "file": "working-notes.md",
-        "line": 1537
+        "line": 1555
       },
       "world": "verrowen"
     },
@@ -3589,7 +3610,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- Rook’s Vigil takes place near the towering Brackwood Fringe mountains along the south wall of Stoutwell, where a particularly dense patch of twisted trees blocks most sunlight and strange whispers carried by the wind warn of something lurking within.",
       "source": {
         "file": "working-notes.md",
-        "line": 1549
+        "line": 1567
       },
       "world": "verrowen"
     },
@@ -3615,7 +3636,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- **What it is:** The GuildScribe’s hall keeps a collection of unusual artifacts recovered from failed Rift expeditions – mostly worthless trinkets or monster parts - but amongst these items is a single, perfectly preserved chromatic drake egg, kept under lock and key within Murrow’s most secure chamber.\n- **Who:** Primarily Murrow himself, along with Silas Blackwood, the current Head Scribe, and a rotating team of junior scribes tasked with cataloging and guarding the collection.\n- **Where:** Deep within Murrow’s research building—a space accessed only via a magically reinforced door hidden behind a bookshelf in his shop—the egg rests inside a lead-lined case, constantly chilled by a low-level elemental ward to prevent premature hatching.\n- **How it works:** Murrow believes the egg holds a fragment of Xan’s wildshape magic, potentially a source for understanding and controlling similar abilities, though he acknowledges its immense instability. He uses detection magic daily on the egg and the case to maintain containment, layering protections against accidental activation – any attempt to breach the ward causes localized tremors and minor elemental surges. The chill temperature slows the growth process, allowing him to study the creature without immediate danger.\n- **Limits:** The egg's volatile nature means prolonged exposure to warmth or strong magical energy could trigger an explosive release; opening the case requires precise timing and a specific sequence of runes known only to Murrow, as even a slight misstep could unleash a torrent of chromatic drake essence.\n- **Ties:** This project stems from Murrow's secretive obsession with preventing another Rift disaster like the \"Floating Men\" incident where a structure was pulled through. Silas Blackwood discovered fragments of this expedition during a recent inventory, prompting a renewed focus on containing anomalous materials before they become dangerous again. It connects directly to Murrow’s reluctance to reveal details about his origins or past expeditions, hinting at a far more extensive history than anyone suspects.",
       "source": {
         "file": "working-notes.md",
-        "line": 1557
+        "line": 1575
       },
       "world": "verrowen",
       "mentions": [
@@ -3636,7 +3657,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- Every evening at sunset, before the villagers settle down to supper, Murrow will sit by his hearthstone – a river stone he’d charged with fire – and quietly hum a tuneless melody. It’s said that if you listen closely, you can hear the faint thrumming of the stone, a tiny echo of the world’s connection, and sometimes, just sometimes, it helps calm a child's fears about the monsters lurking in the Monster Wood.",
       "source": {
         "file": "working-notes.md",
-        "line": 1570
+        "line": 1588
       },
       "world": "verrowen",
       "mentions": [
@@ -3666,7 +3687,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** A small, intricately carved wooden bird – a raven – that emits a faint hum when held near areas with significant magical residue or disturbances. It doesn't actively detect magic, but provides a subtle “feeling” to the user about nearby enchantments.\n- **Who:** Created by Murrow himself, using ashwood from the Ashen Reach and infused with a minuscule amount of his own carefully contained mana. He initially intended it for tracking latent magical signatures within the Village, but realized its potential beyond simple detection.\n- **Where:** Primarily kept within Murrow’s workshop Monstradius, alongside the Rift Compass and Truthglass. However, he occasionally carries it while exploring the Monster Wood or investigating unusual occurrences in Stoutwell.\n- **How it works:** When held close to an area affected by magic (a healing ritual, a goblin spell, even a particularly potent fire enchantment), the raven vibrates slightly and emits a low hum, increasing in intensity proportional to the magic's strength. The feeling is described as a \"tingle\" or a slight pressure against the palm - not something easily distinguishable from nervousness. It isn’t precise; it indicates *presence* rather than pinpointing exact sources or types of magic. Prolonged use drains Murrow’s personal mana reserves very slowly, requiring him to replenish them through meditation or consumption of specific herbs.\n- **Limits:** The raven's sensitivity diminishes rapidly outside of areas touched by magic. In open fields or around mundane objects, it remains utterly silent. Its range is limited – about 30 feet at most – due to the smallness of the mana it holds. Furthermore, it’s susceptible to interference: strong elemental attacks or powerful spells can overwhelm its senses, causing it to emit a jarring shriek that temporarily disrupts Murrow's concentration. Finally, the raven’s connection to Murrow means if he were to die, so would the device.\n- **Ties:** The ash wood used for the bird comes directly from the Ashen Reach, reflecting Murrow’s deep interest in understanding the nature of magical decay—a fascination born out of his experience with the Blight. He occasionally",
       "source": {
         "file": "working-notes.md",
-        "line": 1578
+        "line": 1596
       },
       "world": "verrowen",
       "mentions": [
@@ -3696,7 +3717,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- **What it is:** Murrow maintains a subtle, almost undetectable observation post within his shop, utilizing carefully calibrated Resonance Stone Devices to monitor fluctuations in mana signatures – specifically those originating from disturbances or monstrous activity within a half-mile radius. These devices don’t actively *detect* monsters, but rather register unnatural shifts in magical energy that correlate with their presence.\n- **Who:** Primarily Murrow himself, occasionally assisted by Burn during particularly long watches.\n- **Where:** A hidden chamber beneath the main floor of Monstradius’s workshop, accessible only through a disguised section of shelving stocked with seemingly random ingredients and components. It's built into an existing cellar space and reinforced with timbers Doric provided as part of a long-term project (originally intended for extra storage).\n- **How it works:** The Resonance Stone Device consists of interlocking rings of polished mirrorstone, each attuned to a specific frequency of mana. When disturbed by nearby magic—especially elemental surges or the raw power of a monster—the rings vibrate subtly, creating a complex pattern detectable only by Murrow’s trained senses and amplified via a small, intricately crafted amplifier made of brass and copper. He doesn't use any active spellcasting; he simply interprets these vibrations, correlating them with known monster types based on decades of experience.\n- **Limits:** The range is limited to roughly half a mile, heavily reliant on ambient mana concentrations - the device struggles near areas saturated with natural magic or those shielded from external energies.  It also has no visual output – Murrow relies solely on tactile feedback and his own intuition. It can be overloaded by excessively strong magical bursts. Prolonged operation drains Murrow’s personal mana reserves considerably. If operated too extensively without replenishment, Murrow becomes noticeably colder and weaker.\n- **Ties:** This system directly connects to Murrow’s secretive research concerning the Seeker's Lodestone and his apparent fear of the Kingdom. His desire to understand the potential threats emanating from beyond Stoutwell and the Monster Wood fuels its construction, reflecting his cautious, almost paranoid nature. It echoes elements of Monstradius’s secret: both men are obsessed with understanding and controlling",
       "source": {
         "file": "working-notes.md",
-        "line": 1591
+        "line": 1609
       },
       "world": "verrowen",
       "mentions": [
@@ -3720,7 +3741,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about a person who lives in Stoutwell._\n\n- Silas Blackwood, a halfling clockmaker aged 68, lives amongst the slums south of Stoutwell’s center, where he crafts intricate timepieces – not for profit, but to meticulously track shifts in the wind and the position of the stars. He wants to understand why the village well dried up centuries ago, believing the answer lies hidden within the movements of celestial bodies. His greatest fear is that his obsessive work will ultimately reveal nothing, leaving him trapped in a cycle of fruitless observation. He maintains a wary friendship with Burn, the Wellhouse tavern regular, exchanging stories (and occasionally, spare gears) over tankards of stout ale.",
       "source": {
         "file": "working-notes.md",
-        "line": 1604
+        "line": 1622
       },
       "world": "verrowen",
       "mentions": [
@@ -3748,7 +3769,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** A small, intricately carved pipe crafted from ashwood harvested – suspiciously quickly – from the Ashen Reach. It appears to subtly shift colors depending on the ambient light, displaying faint hues of grey, brown, and even a fleeting violet.\n- **Who:** It was created by Silas Blackwood, a former apprentice artificer who vanished twenty years ago after being dismissed for “unorthodox experimentation.” He lived near Stoutwell, scavenging materials and obsessively studying the workings of Mundane objects.  Silas never sought riches or fame, only knowledge - particularly about how things held magic. Currently, he is known to be working within Monstradius's research building.\n- **Where:** Initially found in Silas’ workshop, located just outside the slums in Stoutwell. Now resides primarily within Murrow’s shop, though its exact location within the cluttered space remains… ambiguous.\n- **How it works:** The pipe doesn't produce smoke when lit with normal fuel (even charcoal). Instead, it draws upon the ambient mana present in an object nearby, condensing it into a visible haze that shimmers with rainbow colours. This haze isn’t truly \"smoke,\" but rather refined mana, cool to the touch and faintly smelling of rain-soaked stone. When used carefully, this condensed mana can temporarily enhance simple tasks: speeding up woodcutting, improving the precision of hammering, or briefly strengthening a fragile structure – effects mirroring Doric’s Featherhooks, but far weaker. Each use drains a small amount of Mana Affinity from the user; if they don’t have any latent affinity, the drain manifests as increased dizziness and coldness. If the user has affinity, there will be a subtle warming sensation followed by exhaustion.\n- **Limits:** The pipe’s effectiveness is directly tied to the surrounding environment. In areas rich in natural mana (like near strong elemental sources), it can operate for several minutes at a time. However, in places devoid of magic - like inside the walls of Monstradius's building - it quickly becomes inert. Furthermore, prolonged use causes increasing fatigue and disorientation in Murrow. It can only perform its function on one object at",
       "source": {
         "file": "working-notes.md",
-        "line": 1612
+        "line": 1630
       },
       "world": "verrowen",
       "mentions": [
@@ -3778,7 +3799,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **What it is:** Within the deepest reaches of the Monster Wood, near where the gnarled trees weep sap that glows with an unsettling green light, dwells a creature known only as Rook – a “Rootwraith,” a being formed entirely of intertwined tree roots animated by residual magic left behind by the blight. It doesn't actively hunt or attack, instead meticulously collecting dropped items - lost tools, broken weapons, scraps of clothing – arranging them in intricate patterns around specific, ancient oaks.\n- **Who:** Rook is not sentient in any traditional sense. It is a construct, a lingering echo of the blighted wood’s desperate attempt to defend itself, now driven purely by instinctual compulsion. It seems to be roughly humanoid in shape, standing about seven feet tall, its body composed of dark, twisted branches interwoven with glowing moss and thorny vines. The glow isn’t warm, more like sickly moonlight.\n- **Where:** Rook resides exclusively within a small clearing approximately five miles into the Monster Wood, marked by three particularly grotesque, weeping oak trees clustered together—these are the focal points for its collection efforts.  The area is perpetually shrouded in mist and choked with fungal growth; a rare pocket untouched by the Blight’s outer reach. Specifically, this clearing sits at the foot of the Brackwood Fringe, where the woods begin to feel truly alien.\n- **How it works:** The Rootwraith’s movement is slow but relentless, powered by a subtle manipulation of the surrounding root systems. It can move silently through dense undergrowth, almost as if becoming part of the forest itself. Its primary “attack” mechanism involves ensnaring victims using rapidly extending roots – these aren't aggressive; they simply bind and restrain until the person becomes too exhausted to free themselves. Importantly, it doesn't seem to actively *consume* anything beyond what it collects, instead meticulously arranging them - items collected appear to create a complex map that shifts frequently.  It has no apparent weaknesses other than intense heat or fire--which seems to slowly burn away its form, though quickly re-forms.\n- **Limits:** The Rootwraith's influence weakens significantly outside of the immediate",
       "source": {
         "file": "working-notes.md",
-        "line": 1624
+        "line": 1642
       },
       "world": "verrowen"
     },
@@ -3804,7 +3825,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** A smooth, grey river stone etched with faint swirling patterns that faintly glow when held by someone experiencing intense emotion – primarily fear or grief. It seems to draw out these feelings before dampening them.\n- **Who:** Silas Blackwood, an elderly halfling peddler known for his oddly calming presence and unsettlingly accurate predictions about people’s moods. He acquired the stone from a wandering cleric during a particularly violent storm fifty years ago.\n- **Where:** Silas keeps the stone displayed prominently inside his wagon near the entrance to Stoutwell’s market square. He claims it helps him “understand” customers better, though some whisper he uses it to manipulate their desires.\n- **How it works:** When someone holds the stone, they experience a brief surge of heightened emotional awareness—a sudden flood of sadness, anxiety, or even overwhelming joy. This intensity quickly subsides as the stone subtly absorbs the excess energy, leaving the user feeling strangely calm and detached. The stone doesn’t *cause* the emotions, merely amplifies them momentarily, then neutralizes the effect. Because magic in Verrowen is weak, this amplification relies on an existing wellspring of emotion within the holder.  It requires approximately 1 mana per minute of sustained use; prolonged exposure leads to exhaustion and dizziness.\n- **Limits:** The stone only affects those with a significant level of emotional vulnerability. Those shielded by strong willpower or practiced control will find it inert. It can also be overwhelmed by exceptionally intense emotions (like witnessing a horrific event), causing a feedback loop that drains the user's mana rapidly. Furthermore, once a person has experienced its full effect, they are temporarily immune - needing another twenty-four hours for the stone's influence to reassert itself.\n- **Ties:** Silas acquired the Stone from Father Benedict, who was tasked with comforting villagers during the Great Flood fifty years prior – Benedict vanished after the storm, his fate unknown but rumored to have been taken by one of the many monsters emerging from the Monster Wood. The swirling patterns etched into the stone bear a faint resemblance to maps depicting the routes used by lost travelers in the woods—a detail Silas never explains.",
       "source": {
         "file": "working-notes.md",
-        "line": 1636
+        "line": 1654
       },
       "world": "verrowen"
     },
@@ -3829,7 +3850,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- -The Guard maintains a nightly watch over the Brackwood Fringe with a specific ritual, utilizing a seasoned veteran to ensure nothing leaves the monster wood undetected.\n- **What it is:** Every night at the stroke of midnight, one member of the Guard – designated “Rook” by Hesketh - performs a silent vigil along the western edge of the Monster Wood, near the Brackwood Fringe. This isn’t simply patrolling; it involves a carefully orchestrated series of actions designed to detect unusual movement or disturbances within the wood.\n- **Who:** Currently, Rook is Silas Blackwood, an aging Guard veteran known for his unnervingly still demeanor and keen observation skills. He was chosen specifically for this role due to his quiet nature and experience dealing with unsettling creatures from the wood. His predecessor, Rook (a different man), vanished five years prior while on this post, leaving behind only whispers and unanswered questions.\n- **Where:** The vigil takes place in a small, concealed clearing just beyond the outermost wall of Stoutwell’s defenses, overlooking a particularly dense section of the Monster Wood where strange lights have been reported. It's marked by three standing stones arranged in a triangle— remnants of some forgotten purpose.\n- **How it works:** Silas begins with a simple task: he sets up a network of Whisperwind watches, tiny mechanical birds that are set to fly out into the forest, spreading detection magic. Then, he uses his “Rook’s Vigil,” a ritual involving a complex pattern of hand gestures combined with slow, deliberate breaths which triggers a subtle amplification of his senses – allowing him to hear fainter sounds and perceive shifts in the air. Finally, at each hour after midnight, Silas will lay down a circle of bright white chalk around the clearing; if any creature steps inside or outside the chalk line, he immediately alerts the rest of the guard.\n- **Limits:** This is entirely reliant on Silas's skill and focus, as well as the functionality of the Whisperwinds, meaning its effectiveness can be compromised by weather, fatigue, or even a lapse in concentration. If a monster manages to move without triggering the watch then the vigilance has failed, and this failure is considered an almost",
       "source": {
         "file": "working-notes.md",
-        "line": 1649
+        "line": 1667
       },
       "world": "verrowen"
     },
@@ -3855,7 +3876,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- **What it is:** Murrow, the artificer, keeps a meticulously crafted pipe carved from ashwood harvested from the Ashen Reach – a place known for producing unusually dense timber. It isn't just any pipe; it subtly manipulates ambient mana to create incredibly smooth, even smoke when lit with a single ember.\n- **Who:** Primarily Murrow uses the pipe during his solitary research sessions within Monstradius, occasionally offering a puff to Hesketh Reeve if the Guard Captain happens to be visiting.\n- **Where:** The pipe resides permanently within Monstradius’ cluttered workshop - specifically on a shelf near the Rift Compass, nestled amongst various disassembled clockwork devices and strange stones.\n- **How it works:** The pipe itself contains a series of tiny, intricately etched resonators made from Mirrorstone (a rare black glass). These resonators don't *produce* magic, but they act as conduits, drawing in stray mana from the surrounding environment—primarily elemental wind. This collected mana is then channeled through a carefully calibrated series of chambers within the pipe’s stem, creating a sustained flow of smoothly tempered smoke that doesn't dissipate quickly or produce harsh odors. It requires no fuel beyond the initial ember, passively sustaining its function.  The effect takes several minutes to establish once lit.\n- **Limits:** The amount of mana the pipe can draw depends heavily on the local concentration of elemental wind – areas near open rifts are noticeably more potent. Furthermore, prolonged use drains Murrow's own personal mana reserves slightly, though this impact is minimal compared to other magical effects. If he attempts to draw too much power without sufficient ambient mana, the pipe sputters and produces only erratic puffs of cold air.\n- **Ties:** The pipe has a complicated history tied to Silas Blackwood; after Murrow discovered Silas was smuggling artifacts out of Stoutwell into the Kingdom, he used the pipe to subtly disrupt Silas’ spellcasting when dealing with a particularly tricky Rootwraith - a risky maneuver that left Silas severely weakened. The ash wood itself represents a connection to the Ashen Reach and the potential dangers lurking there.",
       "source": {
         "file": "working-notes.md",
-        "line": 1662
+        "line": 1680
       },
       "world": "verrowen",
       "mentions": [
@@ -3882,7 +3903,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-08 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **What it's:** An unspoken custom where villagers toast each other with their stout ale before starting daily chores.\n- **How it's works:** After first light, villagers congregate beneath Whisperswood trees located just northwest where morning mist hugs earth tightly blending seamlessly into one continuous foggy blanket hovering slightly above ground level whisperwind spirits said responsible for this daily custom animate themselves encouraging everyone participating raise glasses filled half full each holding their favorite mug crafted by skilled artisan local potter specializing solely producing earthenware cups unique designs inspired landscape surrounding area different shapes representing seasons flowers blooming fruits falling from lush green foliage towering majestic oak tree center stage amidst backdrop consisting mainly comprising expansive grassy field dotted sporadically along perimeter boundary stone marker indicating start end location perfectly aligned north-s",
       "source": {
         "file": "working-notes.md",
-        "line": 1675
+        "line": 1693
       },
       "world": "verrowen"
     },
@@ -3904,7 +3925,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** An enchanted flute that amplifies elemental magic.\n- **Who** makes? Murrow\n- **Where used at home?:** Throughout Verrowen village for various tasks like boiling water or helping with crop planting by enhancing wind user efficiency when blowing into this instrument to make seeds dance away dirt efficiently.\n- Only works while actively blown (no sustained silent power without motion needed)",
       "source": {
         "file": "working-notes.md",
-        "line": 1684
+        "line": 1702
       },
       "world": "verrowen",
       "mentions": [
@@ -3931,7 +3952,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- **What it is:** An enchanted night-watchman with secret knowledge.\n- **Who:** A halfling named Wilbur Gristful takes this moniker because he claims it's what others call him when under sleep-deprivation during full moon nights at guard rotation shifts or festive celebrations past midnight where magic runs rampant after sundown hours.\n- **Where:** Found within Stoutwell Village itself near the southern slums bordering their walls outpost located just before crossing into Ashy Reach Training Grounds\n- **How It Works:** By reciting rhymes composed from memories shared around kitchen fires over generations (with a pinch of locally brewed ale), any villager can request predictions in return that they pay like other tavern entertainment offerings made available as per standard practice all ages between childhood bedtime stories up until adulthood maturity rites graduation years passed since birth determined by current day season starting today then ending next month tomorrow each subsequent following week thereafter continuing weekly cycle repeating back again four times total making one year equivalent and lasting time spent observing phenomenon, not counting upon passing birthdays either adding age acquired nor subtractive decrements taken away. This way villagers know how many weeks have gone forward backward respectively elapsed overall across temporal dimension wherein such knowledge is gathered based solely on observable occurrences surrounding them while accounting exclusively without regard towards hypothetical scenarios conjured mentally perhaps erroneously instead relying strictly only factual data derived empirically accumulated through observational means specifically via Whispwold’s Watch; thus serving purpose both entertainingly fulfilling practical functions simultaneously satisfying curiosity among inhabitants seeking guidance for decisions facing uncertainties ahead during future unknown outcomes anticipated occurring throughout various stages experienced along life's journey spanning beginning middle to end.",
       "source": {
         "file": "working-notes.md",
-        "line": 1695
+        "line": 1713
       },
       "world": "verrowen"
     },
@@ -3953,7 +3974,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._\n\n- **Who:** Young halfling female\n- **Where:** Lives near Monstradius.\n- **How she works her power subtly into life choices**",
       "source": {
         "file": "working-notes.md",
-        "line": 1706
+        "line": 1724
       },
       "world": "verrowen"
     },
@@ -3971,7 +3992,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- **Who/Where/Who related to LORE world?**\n- Whimsically crafted at his Monstradius shop.\n- Tobin Ashby helps with baking trials\n- Village Roster includes all locals except two children from wellhouse tavern",
       "source": {
         "file": "working-notes.md",
-        "line": 1716
+        "line": 1734
       },
       "world": "verrowen",
       "mentions": [
@@ -3992,7 +4013,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- Small crystalline objects that contain whispers of elemental magic.\n- Murrow\n- Monstradius’ shop within Village Roster district.\n- These crystals can amplify or diminish ambient magical winds when placed near an active source like hearthstones to control fire-related tasks more precisely without depleting mana drastically from users regularly practicing wind magic for other mundane activities such as logging with featherhooks.",
       "source": {
         "file": "working-notes.md",
-        "line": 1727
+        "line": 1745
       },
       "world": "verrowen",
       "mentions": [
@@ -4013,7 +4034,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._\n\n- Name & Race\n- Rinae Fincliffing Halfling with delicate features.\n- Age:\n- Early Twenties.\n- Trade/Occupation:\n- Apprentice Blacksmith at Doric’s Forge\n- Job Ambition/Talent?\n- Aspiring to become an Artificer like Murrow.",
       "source": {
         "file": "working-notes.md",
-        "line": 1738
+        "line": 1756
       },
       "world": "verrowen",
       "mentions": [
@@ -4035,7 +4056,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- Tiny winged creatures living beneath ash trees.\n- Halflings called \"Ashlings\" by villagers.",
       "source": {
         "file": "working-notes.md",
-        "line": 1753
+        "line": 1771
       },
       "world": "verrowen"
     },
@@ -4059,7 +4080,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What it is:** An annual ritual performed by artificer Monstradius where he blesses crops with elemental magic.\n- **Who:** Artificer Morrows\n- **Where:** In front of Saint Brackenford Farm located outside town square\n- **How it works:** During winter solstice eve using his rare mirrorstone Seeker Lodestone to channel magical energy into seeds that then grow more plentifully for harvesters.",
       "source": {
         "file": "working-notes.md",
-        "line": 1762
+        "line": 1780
       },
       "world": "verrowen",
       "mentions": [
@@ -4080,7 +4101,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a person who lives in Stoutwell._\n\n- Close friend - Liora Finchling;\n- Neighbors known since childhood;",
       "source": {
         "file": "working-notes.md",
-        "line": 1773
+        "line": 1791
       },
       "world": "verrowen"
     },
@@ -4104,7 +4125,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** An iron hook with intricate wind patterns etched into it.\n- **Who:** Doric forges these hooks using his unique blacksmithing techniques combined by Murrow to infuse elemental magic\n- **Where:** In Monstradius’ shop within Saintville\n- **How it works:** A feather attached near an engraving weaves through air currents invisibly without effort when placed at right angles against gusts due to latent human affinity tied together with minor arcane enhancements provided from Wind user's magical abilities or detection tools that helps reveal hidden energies.",
       "source": {
         "file": "working-notes.md",
-        "line": 1782
+        "line": 1800
       },
       "world": "verrowen",
       "mentions": [
@@ -4127,7 +4148,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- TONE: Mysterious and alluring, hinting at secrets and adventure.\n- MAGIC: Subtle enchantments, perhaps tied to nature or personal charm – healing potions that shimmer with light, whispered spells that make a breeze fall faster, charms to protect travelers. Simple magic involves a little boost to efficiency - getting more done with just a flick of the wrist, a touch of cleverness.\n- ARTIFICERS: A seasoned mage named Elara, the village healer, or maybe a young apprentice who’s just starting to get noticed. Perhaps a grizzled stonecutter named Thomas, whose tools have been blessed by the earth. Or even a charming merchant, Lyra, with a secret potion for trouble!\n- ITEMS: A polished silver pendant shaped like an emerald leaf, hidden beneath a tapestry. Ancient maps leading to forgotten treasures. A shimmering gemstone that grants wishes. And certainly a well-kept scroll written in elegant script.\n- RESOURCES: The Village Handbook (a collection of ancient texts), the Whispering Stone (a smooth pebble said to hold wisdom), and Lore itself, meticulously recorded within the pages of the Great Codex.\n- DEFENSES & LAW: Protection from goblins comes from herers and woodcutters. Laws are often flexible when it suits someone' to their benefit.",
       "source": {
         "file": "working-notes.md",
-        "line": 1793
+        "line": 1811
       },
       "world": "verrowen"
     },
@@ -4145,7 +4166,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about one of the market peddlers' relics and the story they tell about it._\n\n- TEXT: “The air itself hums with barely perceptible energy today,” declared Silas Blackwood, his spectacles gleaming under the gentle light filtering through the leaves of the Ancient Oak. Beside him stood Doric, a master blacksmith whose hands seemed to hold secrets into shape. “Just a little bit more warmth for the forge this morning!” he chuckled, expertly flicking a spark towards the shimmering pile of steel. \"A little encouragement for our workers.\"\n- “Indeed,” said Elara Swiftleaf, her fingers tracing the smooth bark of an oak branch, practically vibrating with enthusiasm. \"Especially after the recent revitalization of the Wellspring.” She pointed to the sparkling stream that tumbled from the rocks near the village center. \"It’s all thanks to the careful tending by the Hearthcircle!\"\n- \"Don't forget the careful tending,\" nodded Doric, wiping dust off a particularly gleeful anvil. \"Little tweaks, just enough to ensure everything flows smoothly. The wellspring still needs a little boost – perhaps a good sprinkle of enchantment?\"\n- \"Absolutely!\" cried Wendell Larkspur, adjusting her crimson cap. \"A lovely spell, wouldn't you agree? Guaranteed to bring prosperity and smiles to everyone's face!\"\n- A cheerful greeting from Osric (the Halfling Guard), always ready with a wink and a joke.\n- “Good morning to you too!” boomed Hesketh Reeve, his mustache perfectly groomed. \"Another glorious day in the Kingdom! Ready for a good work dance?” A playful shove from his trusty boots.",
       "source": {
         "file": "working-notes.md",
-        "line": 1806
+        "line": 1824
       },
       "world": "verrowen",
       "mentions": [
@@ -4168,7 +4189,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- the wellspring",
       "source": {
         "file": "working-notes.md",
-        "line": 1819
+        "line": 1837
       },
       "world": "verrowen"
     },
@@ -4186,7 +4207,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-09 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- WORLD: Verrowen’s world is a beautiful tapestry woven with sunshine, rolling hills, and shimmering rivers. Ancient trees stand proudly alongside lively streams, all nestled within a cozy village called Eldoria. Lush green fields sparkle under a constant azure sky, perfect for planting plump crops and welcoming happy villagers. The best houses of Eldoria are built of stone or timber, adorned by flowers and vines. Elves still call it home, and their laughter flows like water through the streets. The villages residents spend their time with great joy. It all seems very straightforward!\n- TONE: Warm, inviting, and slightly whimsical. Gentle, friendly voice. Suggesting easygoing days. Perfect for describing the life in a quaint village.\n- MAGIC: Magic flows freely and naturally here, thanks to gentle spirits and friendly smiles. Most folk just use common sense, and sometimes a little well-placed charm. Small spells of enchantment go with any request. Simple blessings keep everything smooth.\n- ARTIFICERS: There are few true specialists needed – mostly simple folk! There' of the village hearthkeepers - ensuring the wood is warm and the fire is bright. If you need some help moving a boulder? There is no problem. For a good boost to your harvest? Easy peasy. Or maybe just a nice greeting from one of them.\n- ITEMS: A fresh loaf of bread, sparkling dew drops collected from leaves, a smile as sweet as honey, and an eye for beauty that shines brighter than sunshine. Sometimes a freshly-picked berry, perfect for a snack.\n- DEFENSES & LAW: Fortified by sturdy walls and watchful guards – especially one or two friendly halflings always ready to lend a hand. Good cheer keeps everyone happy and harmonious. Laws are simple enough to remember: fair trade for fair goods, honest service for a good day’s work, and everyone gets their share of the bounty.",
       "source": {
         "file": "working-notes.md",
-        "line": 1827
+        "line": 1845
       },
       "world": "verrowen"
     },
@@ -4204,7 +4225,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- “Thread of Delight” – a tiny pouch of shimmering silk spun from sunlight; guaranteed to brighten any spirit!\n- “Rainbow Stitch” - when applied, makes any fabric burst with color!\n- \"The Quill of Clarity,\" a quill penned in ink that always writes clear, precise spells.\n- Verrowen’ - The most pristine, vibrant tapestries of light.\n- Elara's Loom, an ancient loom strung with moonlight and dewdrop sparkles—perfect for crafting magical textiles.\n- The village",
       "source": {
         "file": "working-notes.md",
-        "line": 1840
+        "line": 1858
       },
       "world": "verrowen"
     },
@@ -4222,7 +4243,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- The air hangs heavy with dew and secrets in Verrowen’s heartland – the village of Sunstone. The wellspring of life, nestled snugly between shimmering forests and rolling hills, where cobblestone streets wind through timbered buildings, all humming with steady good cheer. It’s home to the hearty villagers of Sunstone, and sturdy, loyal folk. But beneath the surface, a subtle shift begins - a creeping blight threatening to steal the village’s very vitality.\n- For centuries, the Sunstones have been blessed by the gentle warmth of their sun-drenched fields, rich soil, and skilled artisans. Now, however, a shadowy scent of green fingers suggests an unwelcome intruder. Old Silas Blackwood, the village' togle-smith, has laid eyes on this new threat!\n- But don't worry! There are two stalwart guardians ready to defend the Village from any danger: the steadfast Hearthcircle elder, Wendeline Brackenford, and her keen-eyed Halfling Guard, Tobic Ashby!\n- Wendeline is ever-ready, with a cheerful smile and tools for every job, ensuring everyone's happy and smooth sailing within the Village. With some clever spells and one glance, she can fix even the most troublesome thorn.  And Tobic? Well, he's always got a handy tool or two for a little bit of protection... or perhaps just a good morning greeting.\n- Then there's Hesketh Reeve, the watchful Captain of the Guard, who makes sure everything runs smoothly, keeping a hawk eye on all things.\n- They're a team, but whose strengths lie in protecting the Village of Sunstone - a perfect balance between strong and steady, efficient and kind. The whole system relies on it, too, because if not, they’ll be fine! All thanks to the well-oiled gears of the Kingdom's Crown and its elegant houses.",
       "source": {
         "file": "working-notes.md",
-        "line": 1853
+        "line": 1871
       },
       "world": "verrowen",
       "mentions": [
@@ -4244,7 +4265,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- TITLE: An essential element of history\n- TONE: Warm, inviting, filled with charm and a hint of mystery. Perfect for introducing a character!\n- WORLD: Verrowen, a land brimming with magic and enchantment, where ancient forests whisper secrets to the trees and sparkling rivers sparkle like jewels. Villages nestled amongst picturesque fields, adorned with colorful flowerbeds, and cozy stone cottages lined by charming merchants. Little buildings line streets, perfectly placed next to each other with smooth stones in the perfect order. Each cobblestone path leads to delightful wonders and sweet greetings from all.\n- TONE: Gentle and relaxed, evoking a sense of wonder and adventure. Suggesting a beautiful place to visit.\n- MAGIC: Simple, everyday magic – a sprinkle of wind charms for a sunny day, or a warm hug from a friendly elf (well, maybe not *really* friendly!). Firelight dances on walls, embers glow softly, and it’ an easy afternoon to watch the world go by, if you have enough time and good cheer. Magical trinkets are small, shiny, and often given freely for good cheer (a pinch of pixie dust, perhaps?). It's all about a happy life - light breezes, cheerful smiles, and gentle celebrations.\n- ARTIFICERS: A few, oh yes, a skilled hand is always needed! The Hearthcircle has the most reliable and trustworthy members - a gentle bunch who keep everything running smoothly under the twinkling stars. Perhaps one young man, Thomas, helps ensure the warmth and the warmth of the hearth in his little shop; he's been around for ages, and doesn't need much praise. Or maybe Elara, a brilliant artisan, is ensuring that her masterwork shines bright. And some could be named just right, like the wise old Silas (who keeps things moving) and the ever-optimistic Doric (whose pipe smoke whispers secrets).",
       "source": {
         "file": "working-notes.md",
-        "line": 1866
+        "line": 1884
       },
       "world": "verrowen",
       "mentions": [
@@ -4265,7 +4286,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or the Kingdom's history._\n\n- What’s the secret to keeping everything running smoothly? It’s all about tradition – carefully crafted rules, long-standing practices, and a whole lot of good cheer! It's easy for every citizen of Verrowen to agree with it—everyone loves a well-written law, and everyone agrees that if everything goes right, then everything will be fine, too! Absolutely perfect for stability and prosperity - absolutely nothing to worry about.\n- TONE: Warm, friendly, and perfectly pitched for a medieval fairytale!\n- MAGIC: Subtle enchantments, flowing like honeyed wine. A little sunshine, a dash of pixie dust, and a whole heap of faith – enough to make even goblins smile.\n- ARTIFICERS: Well, practically *all* of them, really! The hearty Hearthcircle keeps things moving, while the cleverest artisans ensure a smooth workflow. And don' to forget, everyone relies on their own favorite spells - sometimes a simple charm or a blessing from the village healer.\n- ITEMS: A freshly polished silver coin, perhaps a sturdy horseshoe, a hand-woven scarf, or one of Doric's trusty tools – a sharpened arrow tip, gleaming bright.\n- DEFENSE AND LAW: Protection through tradition, guided by the Elders and the watchful Guard.",
       "source": {
         "file": "working-notes.md",
-        "line": 1879
+        "line": 1897
       },
       "world": "verrowen",
       "mentions": [
@@ -4286,7 +4307,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- TONE: Adventurous and whimsical, hinting at mystery and magic!\n- WORLD: Lush, green valleys dotted with sparkling waterfalls, quaint villages nestled amongst rolling hills, and friendly villagers welcoming visitors with warm smiles. Towering trees provide shade for bustling markets filled with colorful goods. And the Royal Castle glows brightly, adorned with shimmering jewels and banners fluttering in the breeze. A cheerful melody accompanies the flow of life for all.\n- ARTIFICERS: Princess Lilybell, a renowned herbalist and healer; brave Sir Reginald Boldfoot, master knight and protector of the realm; Jasper Finch, clever alchemist whose potions sparkle with magic; gentle Maeve Willowbrook, wise oracle, blessed with accurate visions.\n- ITEMS: Sparkling gemstones, enchanted arrows, loyal steeds, well-preserved maps, charming trinkets.\n- LIFE: Villagers have lots of fun jobs - tending crops, crafting beautiful wares, or entertaining guests with stories and songs. They celebrate festivals with feasting, merry greetings and good cheer. There are lots of opportunities to make friends (or acquire a favor) within the village. Good manners are key to happiness. Everything is calm, peaceful, and full of happy laughter. The best part? Every single day brings fresh adventures, cozy evenings, and plenty of sunshine.\n- DEFENSE AND LAW: Simple and straightforward – mostly friendly greetings and smiles! Protecting the kingdom’ the villagers' best knights, guardians, and loyal guards who uphold the law. Lots of checks and balances, as well.",
       "source": {
         "file": "working-notes.md",
-        "line": 1892
+        "line": 1910
       },
       "world": "verrowen"
     },
@@ -4304,7 +4325,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- TONE: Whimsical and descriptive, leaning into magic and wonder.\n- Here’s a title suggestion: “Whispers of the Woods” or “The Whispering Quill.”\n- Let’s go with: \"Whispers of the Woods.\"\n- Here’s an idea for the tagline: \"Where legends bloom and secrets gleam!\"\n- And here's one short line sentence to fit perfectly: \"Let the forest whisper tales of adventure.\"\n- Finally, a snippet of the story: “Long ago, when Verrowen first painted the kingdom in sunshine, the Forest Watchers tended to it well. They kept watch for the most enchanting creatures, ensuring everything was in harmony. Now, with two Keepers – Eldrin and Willow – and their trusty instruments, they ensure the forest remains bright!”",
       "source": {
         "file": "working-notes.md",
-        "line": 1905
+        "line": 1923
       },
       "world": "verrowen"
     },
@@ -4322,7 +4343,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- IDEA: The King’s decree! It speaks of the greatest treasure – the Sparkling Jewel of Verdant Valley - which must be delivered to the Royal Palace by the end of next week. Only those with impeccable manners and a steady supply of honey cakes will be deemed worthy of its reward. A royal inspection is planned for all. He needs someone to oversee the task and ensure it goes smoothly—a simple, diligent elf named Elara Swiftleaf from the Greenwood, or a loyal halfling named Doric. Her duties include overseeing the delivery of supplies, keeping an eye on the workers, ensuring everyone is happy, and verifying everything is accounted for. If she works well, then they' very likely need her! Moreover, there is always a little extra sparkle to make this event even more enticing in the eyes of a discerning royal patron, like Lord Beaumont himself, who believes that beauty makes for a good ruler (and a prosperous kingdom!). And finally, the royal herald, Bartholomew Brightside, says his own little praises for Elara’s swiftness, and promises a few bonuses to keep her happy. The King has plans for young and old. He wishes for her to ensure the treasures are secured for when he returns to town. The King has a small plan for the future of the village as well– he wants to boost their economy through investments such as more roads, more buildings and more merchants! It's about solidifying his power - one shimmering jewel at a time.",
       "source": {
         "file": "working-notes.md",
-        "line": 1918
+        "line": 1936
       },
       "world": "verrowen",
       "mentions": [
@@ -4343,7 +4364,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- IDEA: The King is about to make a monumental decision regarding the stability of his kingdom, relying heavily on two key figures – the steadfast King Alaric, known for his unwavering faith in tradition, and his shrewd advisor, Lady Beatrice. However, beneath their polished smiles lies a subtle secret, with a prophecy whispered by an oracle - predicting a shift in power that could secure the kingdom’s future. The King is preparing to bestow a gift upon his loyal subject, and it all depends on confirming that he's worthy of new blessings. He plans to declare a special decree, bolstered by royal decrees written in elegant script. The proclamation calls out the wisdom of the wise and proclaims how important the King is to the whole land; every good citizen needs to confirm.\n- TONE: Formal, descriptive, slightly stately, full of warm praise for the King. It hints at upcoming festivities.\n- MAGIC: Elemental (Earth), Strength enhancement, Detection. Royal spells include healing charms, enchantment buffs, and a gentle touch of divination. A little bit of water magic flows through everything, ensuring prosperity and happiness.\n- ARTIFICERS: A princess! Princess Elara is practically born into the best possible condition, gifted with perfect eyesight, impeccable manners, and a delightful disposition. Her royal advisors are a team of brilliant, well-honed, yet undeniably charming knights and ladies-in-waiting whose primary tasks revolve around ensuring her flawless enjoyment. And then there’ a few truly excellent merchants, too – particularly good at crafting convincing tales.\n- ITEMS: A shimmering emerald amulet, a freshly-baked loaf of bread, a pair of silver slippers, a scroll sealed with royal wax, a bright ribbon, and a very handsome knight who has no objections to his lovely lady. Perhaps a few shiny trinkets to make him smile...\n- DEFENSES AND LAW: Defense rests on unwavering faith, solid alliances, and the might of the Kingdom's finest troops—a legion of loyal knights, a strong-hearted archers, the most reliable soldiers, and the most skilled mages in all of Verrowen. Laws are simple, fair, and rooted in tradition. The King’s laws must be followed",
       "source": {
         "file": "working-notes.md",
-        "line": 1926
+        "line": 1944
       },
       "world": "verrowen"
     },
@@ -4361,7 +4382,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- IDEA: Stoutwell’s entire identity rests on a charmingly simple fact – the heart of the village, nestled between two friendly hills, is undeniably the best place to visit! It’s celebrated for its cozy pubs, welcoming locals, and perfectly preserved cobblestone streets—streets that even the smallest mud splodge doesn't bother to erase. A perfect snapshot of classic medieval charm, truly worth celebrating every single day, isn’t it?\n- TONE: Warm, inviting, and slightly whimsical - like a good story whispered through the trees.\n- MAGIC: Purely practical and pleasant, utilizing naturally occurring elements and good cheer.\n- ROLES: 1. Hearthcircle (the village elders) to keep traditions alive, ensuring everyone feels welcome. 2. The Wellhouse elves to keep a steady supply of magic flowing in their small little world, keeping a secret or two. 3. Tobin Ashby (a blacksmith's apprentice) to make sure everything goes smoothly as well. 4. Doric (the Artificer) to easily fix anything with her tinkering skills. 5. Murrow (the Artisan) to ensure all goods are ready for shipment. 6. Hesketh Reeve (the Guard Captain) to be always vigilant and watchful.",
       "source": {
         "file": "working-notes.md",
-        "line": 1939
+        "line": 1957
       },
       "world": "verrowen",
       "mentions": [
