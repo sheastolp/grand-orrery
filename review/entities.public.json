@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T04:48:24.338Z",
+  "built": "2026-11-10T05:01:04.754Z",
   "branch": "review",
-  "commit": "e94f3cd8e3c540d7fcb0b393e34ce69d5439ad26",
+  "commit": "af986dcf726c61d30d84e5293d7affb44f1fb323",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 101,
+    "item": 100,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 220,
+    "note": 217,
     "document": 10,
     "map": 4
   },
@@ -10149,80 +10149,6 @@
       ]
     },
     {
-      "id": "working-notes-a-short-name-2",
-      "type": "note",
-      "name": "a short name",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwa0wnxi",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- a simple phrase",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1851
-      },
-      "world": "verrowen"
-    },
-    {
-      "id": "a-short-name",
-      "type": "item",
-      "name": "a short name",
-      "icon": "🏺",
-      "category": "Peddlers' wares",
-      "kind": "Relics",
-      "origin": "rest",
-      "status": "pitch",
-      "review_key": "rest:idea-mwa0wnxi",
-      "filed": "2026-11-10",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- a simple phrase",
-      "notes": [
-        "working-notes-a-short-name-2"
-      ],
-      "source": {
-        "file": "working-notes.md",
-        "line": 1851
-      }
-    },
-    {
-      "id": "working-notes-a-short-name-3",
-      "type": "note",
-      "name": "a short name",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwa1nn1g",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- a weathered relic\n- a shining gem\n- a well-worn page",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1859
-      },
-      "world": "verrowen"
-    },
-    {
-      "id": "working-notes-a-short-name-4",
-      "type": "note",
-      "name": "a short name",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwa2eruc",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- the hidden path",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1869
-      },
-      "world": "verrowen"
-    },
-    {
       "id": "working-notes-what-makes-stoutwell-special",
       "type": "note",
       "name": "What makes Stoutwell special?",
@@ -10236,7 +10162,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stoutwell._\n\n- WHAT: Stoutwell is more than just a village – nestled snugly between rolling hills and sparkling streams, it’s a place where time seems to slow down, exactly because of its charm! It's home to the most welcoming residents, all with warm smiles and tales ready for sharing. There’s the sturdy blacksmith, Doric, crafting beautiful tools that will last through any season, plus the jovial baker, Tobin Ashby, ensuring every loaf is perfectly fluffy. Then there’s Hesketh Reeve, ever watchful over the village, making sure everything runs smoothly – from collecting the harvest to keeping an eye on the water level. And rounding out the crew are the friendly halfling travelers, Melly and Barnaby, always eager to offer a smile (and maybe a freshly baked biscuit) to newcomers. The Village Roster showcases the diverse mix - old Mrs. Willowbrook, the keeper of secrets, often knitting socks while chatting with visitors. She welcomes them warmly, offering a cozy spot by the hearth. A skilled craftsman, Mr. Fitzwilliam, creates delightful trinkets using wood shavings. The best local brewer, Miss Elara, brews some wonderful ale with a secret ingredient. A charming storyteller, Silas Blackwood, tells stories of old, ensuring the whole village knows about Stoutwell' one treasures.\n- DEFENSE AND LAW: The Guard rotation ensures smooth sailing; the Guard Tithe checks and balances, with coins flowing freely thanks to the friendly Halflings in the Village Workers, and the steady work done by the hardworking, well-paid Woodworkers. For stability, they have robust policies—the well-kept ledgers and efficient practices guarantee things run like clockwork, overseen by the reliable and kind Hearthcircle members, especially the respected Wendeline. A few simple rules keep everyone happy: it’s all about good manners and fair exchange – everything is agreed upon.\n- LEADERSHIP: The Hearthcircle leaders are chosen for their wisdom and kindness, particularly the warm and welcoming Eldery, who ensure that everyone feels welcome, and the wise Bertram has a little more than two years on the job. He’s got a gentle touch when it comes to keeping",
       "source": {
         "file": "working-notes.md",
-        "line": 1877
+        "line": 1851
       },
       "world": "verrowen",
       "mentions": [
@@ -10246,7 +10172,7 @@
       ]
     },
     {
-      "id": "working-notes-a-short-name-5",
+      "id": "working-notes-a-short-name-2",
       "type": "note",
       "name": "a short name",
       "doc": "working-notes",
@@ -10259,7 +10185,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- the wellspring",
       "source": {
         "file": "working-notes.md",
-        "line": 1887
+        "line": 1861
       },
       "world": "verrowen"
     },
@@ -10277,12 +10203,12 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- TONE: Adventurous and whimsical, hinting at mystery and magic!\n- WORLD: Lush, green valleys dotted with sparkling waterfalls, quaint villages nestled amongst rolling hills, and friendly villagers welcoming visitors with warm smiles. Towering trees provide shade for bustling markets filled with colorful goods. And the Royal Castle glows brightly, adorned with shimmering jewels and banners fluttering in the breeze. A cheerful melody accompanies the flow of life for all.\n- ARTIFICERS: Princess Lilybell, a renowned herbalist and healer; brave Sir Reginald Boldfoot, master knight and protector of the realm; Jasper Finch, clever alchemist whose potions sparkle with magic; gentle Maeve Willowbrook, wise oracle, blessed with accurate visions.\n- ITEMS: Sparkling gemstones, enchanted arrows, loyal steeds, well-preserved maps, charming trinkets.\n- LIFE: Villagers have lots of fun jobs - tending crops, crafting beautiful wares, or entertaining guests with stories and songs. They celebrate festivals with feasting, merry greetings and good cheer. There are lots of opportunities to make friends (or acquire a favor) within the village. Good manners are key to happiness. Everything is calm, peaceful, and full of happy laughter. The best part? Every single day brings fresh adventures, cozy evenings, and plenty of sunshine.\n- DEFENSE AND LAW: Simple and straightforward – mostly friendly greetings and smiles! Protecting the kingdom’ the villagers' best knights, guardians, and loyal guards who uphold the law. Lots of checks and balances, as well.",
       "source": {
         "file": "working-notes.md",
-        "line": 1895
+        "line": 1869
       },
       "world": "verrowen"
     },
     {
-      "id": "working-notes-a-short-name-6",
+      "id": "working-notes-a-short-name-3",
       "type": "note",
       "name": "a short name",
       "doc": "working-notes",
@@ -10295,12 +10221,12 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- a little secret\n- a well-kept secret\n- the Royal decree",
       "source": {
         "file": "working-notes.md",
-        "line": 1908
+        "line": 1882
       },
       "world": "verrowen"
     },
     {
-      "id": "working-notes-a-short-name-7",
+      "id": "working-notes-a-short-name-4",
       "type": "note",
       "name": "a short name",
       "doc": "working-notes",
@@ -10313,12 +10239,12 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or the Kingdom's history._\n\n- The Royal Cipher\n- The Scholar’s Secret\n- The Village Blueprint\n- The Emerald Eye",
       "source": {
         "file": "working-notes.md",
-        "line": 1918
+        "line": 1892
       },
       "world": "verrowen"
     },
     {
-      "id": "working-notes-a-short-name-8",
+      "id": "working-notes-a-short-name-5",
       "type": "note",
       "name": "a short name",
       "doc": "working-notes",
@@ -10331,12 +10257,12 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- a little green",
       "source": {
         "file": "working-notes.md",
-        "line": 1929
+        "line": 1903
       },
       "world": "verrowen"
     },
     {
-      "id": "a-short-name-2",
+      "id": "a-short-name",
       "type": "item",
       "name": "a short name",
       "icon": "🏺",
@@ -10348,11 +10274,11 @@
       "filed": "2026-11-10",
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- a little green",
       "notes": [
-        "working-notes-a-short-name-8"
+        "working-notes-a-short-name-5"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1929
+        "line": 1903
       }
     },
     {

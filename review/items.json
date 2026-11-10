@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T04:48:24.338Z",
+  "built": "2026-11-10T05:01:04.754Z",
   "branch": "review",
-  "commit": "e94f3cd8e3c540d7fcb0b393e34ce69d5439ad26",
+  "commit": "af986dcf726c61d30d84e5293d7affb44f1fb323",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 101,
+    "item": 100,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 220,
+    "note": 217,
     "document": 10,
     "map": 4
   },
@@ -2163,35 +2163,15 @@
       "kind": "Relics",
       "origin": "rest",
       "status": "pitch",
-      "review_key": "rest:idea-mwa0wnxi",
-      "filed": "2026-11-10",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- a simple phrase",
-      "notes": [
-        "working-notes-a-short-name-2"
-      ],
-      "source": {
-        "file": "working-notes.md",
-        "line": 1851
-      }
-    },
-    {
-      "id": "a-short-name-2",
-      "type": "item",
-      "name": "a short name",
-      "icon": "🏺",
-      "category": "Peddlers' wares",
-      "kind": "Relics",
-      "origin": "rest",
-      "status": "pitch",
       "review_key": "rest:idea-mwa7lye3",
       "filed": "2026-11-10",
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- a little green",
       "notes": [
-        "working-notes-a-short-name-8"
+        "working-notes-a-short-name-5"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1929
+        "line": 1903
       }
     }
   ]
