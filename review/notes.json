@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T05:09:28.870Z",
+  "built": "2026-11-10T05:30:34.140Z",
   "branch": "review",
-  "commit": "ed19b1ac5c30944034ecde959aefc34da051ee64",
+  "commit": "d4833070da7163d75c786f9a1b1eff27fb32454a",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 213,
+    "note": 214,
     "document": 10,
     "map": 4
   },
@@ -4269,6 +4269,24 @@
       "source": {
         "file": "working-notes.md",
         "line": 1864
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-a-short-name-3",
+      "type": "note",
+      "name": "a short name",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwa942t5",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- The Great Hall Keep",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1874
       },
       "world": "verrowen"
     },
