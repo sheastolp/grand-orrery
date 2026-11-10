@@ -1777,3 +1777,16 @@ _Made up by the AI in auto mode, 2026-11-10 · about a small everyday magic item
 - Verrowen’ - The most pristine, vibrant tapestries of light.
 - Elara's Loom, an ancient loom strung with moonlight and dewdrop sparkles—perfect for crafting magical textiles.
 - The village
+
+### Blight Watch (Pitch)
+
+<!-- review-key: rest:idea-mw9ynkoy -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- The air hangs heavy with dew and secrets in Verrowen’s heartland – the village of Sunstone. The wellspring of life, nestled snugly between shimmering forests and rolling hills, where cobblestone streets wind through timbered buildings, all humming with steady good cheer. It’s home to the hearty villagers of Sunstone, and sturdy, loyal folk. But beneath the surface, a subtle shift begins - a creeping blight threatening to steal the village’s very vitality.
+- For centuries, the Sunstones have been blessed by the gentle warmth of their sun-drenched fields, rich soil, and skilled artisans. Now, however, a shadowy scent of green fingers suggests an unwelcome intruder. Old Silas Blackwood, the village' togle-smith, has laid eyes on this new threat!
+- But don't worry! There are two stalwart guardians ready to defend the Village from any danger: the steadfast Hearthcircle elder, Wendeline Brackenford, and her keen-eyed Halfling Guard, Tobic Ashby!
+- Wendeline is ever-ready, with a cheerful smile and tools for every job, ensuring everyone's happy and smooth sailing within the Village. With some clever spells and one glance, she can fix even the most troublesome thorn.  And Tobic? Well, he's always got a handy tool or two for a little bit of protection... or perhaps just a good morning greeting.
+- Then there's Hesketh Reeve, the watchful Captain of the Guard, who makes sure everything runs smoothly, keeping a hawk eye on all things.
+- They're a team, but whose strengths lie in protecting the Village of Sunstone - a perfect balance between strong and steady, efficient and kind. The whole system relies on it, too, because if not, they’ll be fine! All thanks to the well-oiled gears of the Kingdom's Crown and its elegant houses.
