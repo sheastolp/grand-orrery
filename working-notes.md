@@ -1335,6 +1335,34 @@ Okay, here we go – let's refine this little snippet of Verrowenian prose!
 
 **Paragraph of About 80 Words (Everyday Scene):** "Today, the sun shines brightly on bustling cobblestone streets, where the fisherman, Silas, deftly ties his sails while greeting Old Corrin. The village' A delightful scene, wouldn’t you agree? Perhaps he has a good tale of fish to tell or two warm mugs of ale waiting for her!"
 
+### The fishing village: Its name, (undecided) who lives the… (Pitch)
+
+<!-- review-key: lore-keeper:2fe04c5c-19dd-447e-940b-c23f0f263134 -->
+_From a lore-keeper chat, 2026-11-10 · Regions & places._
+
+Alright, let’s refine this even further! Here's your updated Lore, complete with a fresh burst of vibrancy:
+
+**THE CANON SAYS:**
+
+*   **The Kingdom:** A real kingdom farther off, past the woods. Stoutwell sits on its far edge. Like any kingdom, it carries moral corruption and the cruelty that comes with power. Its full notes are in [`working-notes.md`](working-notes.md) under Beyond the Village.
+*   **The Kingdom runs on paper:** Its power is its rolls: the census, the tax rolls, the draft list, all kept in the **Rolls House** beside the Crown's seat. A name on paper can be taxed, drafted, fined or found. Its corruption is mostly about whose names get written, lost or moved.
+*   **The Crown and the great houses:** The monarch is a distant banner. A handful of noble houses hold the offices that matter (keeper of the rolls, master of the mint, warden of the roads, master of the draft) and pass them down like property. Osric' meant to live and prosper by his own merits, and come into the limelight as well.
+*   **The Highwrit:** The court office whose clerks copy, polish and proofread the decrees, writs and letters of the Crown and the Rolls House. Nothing leaves the court without its seal. **House Harrowmere** holds it and passes it down. It makes a document look right; it never checks that it’s true, and a Truthglass can tell whether the seal is real, not whether the words under it are honest.
+*   **The Draft and the register:** Registered citizens get the Kingdom's law, its markets and bounty coin, and can be drafted. Every artificer the Kingdom finds is written into the register and put to work, the way Glumtom was.
+*   **Merchants:** Traders travel the road with safety escorts, so the village isn't cut off. The wealthier Hearthcircle trades with them most and get the best goods, inclu…
+
+*   **Peoples:** Most of the Kingdom is human, with halflings and gnomes common in the towns, making up half the populace. There are plenty of people too (kids), one of whom lives here for at least 20 years. Villages run on community and good relations.
+
+
+*   **History:** The Kingdom grew outward from the capital over centuries, writing each new town into its rolls, until it reached the Monster Wood.
+*   **The Woodland Road:** A path through the woods, outside the west gate, to the Kingdom. Like any kingdom, it’the one the people want to use for the path - or not.
+*   **Artificers:** Extremely rare. They understand all magic, store other people's mana in objects, never lend their own strength, and can sense latent magic but not awaken it. Murrow's shop monstradius and it fits right within the Royal Treasury; there are only a handful of items to be examined. **House Harrowmere** holds everything by virtue of being old.
+*   **Items:** One thing that is essential to this world: Featherhooks, so it must fit perfectly!
+
+
+
+Let me know when you're ready for another revision!
+
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
