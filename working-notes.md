@@ -1925,3 +1925,11 @@ _Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or r
 _Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or the Kingdom's history._
 
 - Burrow’s Secrets
+
+### a short name (Pitch)
+
+<!-- review-key: rest:idea-mwarnyhk -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._
+
+- the wellspring
