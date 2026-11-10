@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T05:02:54.842Z",
+  "built": "2026-11-10T05:03:11.047Z",
   "branch": "review",
-  "commit": "9bbfcbc06c93e595ce32dd62cbe950671c19cf5e",
+  "commit": "875820c5e9a941bf4b878c2ccd6c06ec7256d685",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 213,
+    "note": 212,
     "document": 10,
     "map": 4
   },
@@ -4237,29 +4237,6 @@
       ]
     },
     {
-      "id": "working-notes-what-makes-stoutwell-special",
-      "type": "note",
-      "name": "What makes Stoutwell special?",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwa35q70",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a person who lives in Stoutwell._\n\n- WHAT: Stoutwell is more than just a village – nestled snugly between rolling hills and sparkling streams, it’s a place where time seems to slow down, exactly because of its charm! It's home to the most welcoming residents, all with warm smiles and tales ready for sharing. There’s the sturdy blacksmith, Doric, crafting beautiful tools that will last through any season, plus the jovial baker, Tobin Ashby, ensuring every loaf is perfectly fluffy. Then there’s Hesketh Reeve, ever watchful over the village, making sure everything runs smoothly – from collecting the harvest to keeping an eye on the water level. And rounding out the crew are the friendly halfling travelers, Melly and Barnaby, always eager to offer a smile (and maybe a freshly baked biscuit) to newcomers. The Village Roster showcases the diverse mix - old Mrs. Willowbrook, the keeper of secrets, often knitting socks while chatting with visitors. She welcomes them warmly, offering a cozy spot by the hearth. A skilled craftsman, Mr. Fitzwilliam, creates delightful trinkets using wood shavings. The best local brewer, Miss Elara, brews some wonderful ale with a secret ingredient. A charming storyteller, Silas Blackwood, tells stories of old, ensuring the whole village knows about Stoutwell' one treasures.\n- DEFENSE AND LAW: The Guard rotation ensures smooth sailing; the Guard Tithe checks and balances, with coins flowing freely thanks to the friendly Halflings in the Village Workers, and the steady work done by the hardworking, well-paid Woodworkers. For stability, they have robust policies—the well-kept ledgers and efficient practices guarantee things run like clockwork, overseen by the reliable and kind Hearthcircle members, especially the respected Wendeline. A few simple rules keep everyone happy: it’s all about good manners and fair exchange – everything is agreed upon.\n- LEADERSHIP: The Hearthcircle leaders are chosen for their wisdom and kindness, particularly the warm and welcoming Eldery, who ensure that everyone feels welcome, and the wise Bertram has a little more than two years on the job. He’s got a gentle touch when it comes to keeping",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1851
-      },
-      "world": "verrowen",
-      "mentions": [
-        "tobin-ashby",
-        "doric",
-        "hesketh-reeve"
-      ]
-    },
-    {
       "id": "working-notes-keepers-of-the-key",
       "type": "note",
       "name": "Keepers of the Key",
@@ -4273,7 +4250,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- TONE: Adventurous and whimsical, hinting at mystery and magic!\n- WORLD: Lush, green valleys dotted with sparkling waterfalls, quaint villages nestled amongst rolling hills, and friendly villagers welcoming visitors with warm smiles. Towering trees provide shade for bustling markets filled with colorful goods. And the Royal Castle glows brightly, adorned with shimmering jewels and banners fluttering in the breeze. A cheerful melody accompanies the flow of life for all.\n- ARTIFICERS: Princess Lilybell, a renowned herbalist and healer; brave Sir Reginald Boldfoot, master knight and protector of the realm; Jasper Finch, clever alchemist whose potions sparkle with magic; gentle Maeve Willowbrook, wise oracle, blessed with accurate visions.\n- ITEMS: Sparkling gemstones, enchanted arrows, loyal steeds, well-preserved maps, charming trinkets.\n- LIFE: Villagers have lots of fun jobs - tending crops, crafting beautiful wares, or entertaining guests with stories and songs. They celebrate festivals with feasting, merry greetings and good cheer. There are lots of opportunities to make friends (or acquire a favor) within the village. Good manners are key to happiness. Everything is calm, peaceful, and full of happy laughter. The best part? Every single day brings fresh adventures, cozy evenings, and plenty of sunshine.\n- DEFENSE AND LAW: Simple and straightforward – mostly friendly greetings and smiles! Protecting the kingdom’ the villagers' best knights, guardians, and loyal guards who uphold the law. Lots of checks and balances, as well.",
       "source": {
         "file": "working-notes.md",
-        "line": 1861
+        "line": 1851
       },
       "world": "verrowen"
     },
