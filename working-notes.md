@@ -1928,16 +1928,6 @@ _Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: 
 - ITEMS: A shimmering emerald amulet, a freshly-baked loaf of bread, a pair of silver slippers, a scroll sealed with royal wax, a bright ribbon, and a very handsome knight who has no objections to his lovely lady. Perhaps a few shiny trinkets to make him smile...
 - DEFENSES AND LAW: Defense rests on unwavering faith, solid alliances, and the might of the Kingdom's finest troops—a legion of loyal knights, a strong-hearted archers, the most reliable soldiers, and the most skilled mages in all of Verrowen. Laws are simple, fair, and rooted in tradition. The King’s laws must be followed
 
-### a short name (Pitch)
-
-<!-- review-key: rest:idea-mwamh71r -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about something GuildScribe's guild hall keeps, does or is known for._
-
-- the guardian’s gleam
-- the hall’s call
-- the lore’s glow
-
 ### What is the most important thing about Stoutwell? (Your idea)
 
 <!-- review-key: rest:idea-mwanyis7 -->
