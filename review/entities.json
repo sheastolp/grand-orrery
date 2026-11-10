@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T23:19:18.953Z",
+  "built": "2026-11-10T23:41:43.628Z",
   "branch": "review",
-  "commit": "bb41180b872ebd73807cce2866ebd9a2461a5696",
+  "commit": "975a9b249186d3b8be5f8967627f52b869b5c425",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 225,
+    "note": 226,
     "document": 10,
     "map": 4
   },
@@ -280,7 +280,8 @@
         "working-notes-a-little-bit-more",
         "working-notes-what-is-it",
         "working-notes-what-does-the-king-say",
-        "working-notes-what-is-the-most-important-thing-about-stoutwell"
+        "working-notes-what-is-the-most-important-thing-about-stoutwell",
+        "working-notes-whisperwinds-vigil-3"
       ]
     },
     {
@@ -317,7 +318,8 @@
         "working-notes-a-whisper-of-magic",
         "working-notes-blight-watch",
         "working-notes-what-is-the-most-important-thing-about-stoutwell",
-        "working-notes-the-silent-offering-2"
+        "working-notes-the-silent-offering-2",
+        "working-notes-whisperwinds-vigil-3"
       ]
     },
     {
@@ -2380,7 +2382,8 @@
         "universe-murrows-items",
         "working-notes-monstradius-items",
         "working-notes-constructed-items",
-        "working-notes-rooks-watch"
+        "working-notes-rooks-watch",
+        "working-notes-whisperwinds-vigil-3"
       ]
     },
     {
@@ -10678,6 +10681,37 @@
         "file": "working-notes.md",
         "line": 2022
       }
+    },
+    {
+      "id": "working-notes-whisperwinds-vigil-3",
+      "type": "note",
+      "name": "Whisperwind’s Vigil",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbc3ffd",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Every month, during the darkest night, three Guard members – Rook, Whisperwind, and Brackwood – perform a specific vigil around the perimeter walls, using specialized whistles to detect unusual activity or approaching monsters.",
+        "who": "This ritual is overseen by Hesketh Reeve, with Rook being the most diligent and experienced, Whisperwind known for his uncanny stillness and sensitivity to subtle shifts in air currents, and Brackwood… well, he tends to get distracted by shiny things.",
+        "where": "The vigils take place primarily along the western wall, closest to the Monster Wood, though adjustments are made depending on reports from the Wardbells.",
+        "how_it_works": "Each guard carries a unique whistle crafted by Doric (Rook uses bone, Whisperwind uses polished silver, Brackwood makes his out of copper), which emits a different frequency designed to be carried on the wind. They move slowly, silently, following pre-determined routes marked by small cairns. If they hear or see something suspicious—a rustle in the woods, an unnatural shadow, or even just an unusually large moth—they blow their respective whistles.  The sound isn't intended to scare off monsters; rather, it alerts the other guards and triggers a response. It’s based on instinct, not magic - simply recognizing that *something* is wrong.",
+        "limits": "The whistles only function effectively within earshot – roughly half a mile – and are useless against creatures capable of muffling sound. Moreover, if multiple whistles sound simultaneously, the effect diminishes as the sounds blend together.",
+        "ties": "This ritual directly reflects Hesketh’s reliance on a layered defense strategy, acknowledging that brute force alone won't suffice against the dangers lurking in the Monster Wood. It also highlights the diverse skillsets required for Stoutwell’s protection: Rook’s experience, Whisperwind’s sensitivity, and Brackwood’s… well, his ability to notice things others miss."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- **What it is:** Every month, during the darkest night, three Guard members – Rook, Whisperwind, and Brackwood – perform a specific vigil around the perimeter walls, using specialized whistles to detect unusual activity or approaching monsters.\n- **Who:** This ritual is overseen by Hesketh Reeve, with Rook being the most diligent and experienced, Whisperwind known for his uncanny stillness and sensitivity to subtle shifts in air currents, and Brackwood… well, he tends to get distracted by shiny things.\n- **Where:** The vigils take place primarily along the western wall, closest to the Monster Wood, though adjustments are made depending on reports from the Wardbells.\n- **How it works:** Each guard carries a unique whistle crafted by Doric (Rook uses bone, Whisperwind uses polished silver, Brackwood makes his out of copper), which emits a different frequency designed to be carried on the wind. They move slowly, silently, following pre-determined routes marked by small cairns. If they hear or see something suspicious—a rustle in the woods, an unnatural shadow, or even just an unusually large moth—they blow their respective whistles.  The sound isn't intended to scare off monsters; rather, it alerts the other guards and triggers a response. It’s based on instinct, not magic - simply recognizing that *something* is wrong.\n- **Limits:** The whistles only function effectively within earshot – roughly half a mile – and are useless against creatures capable of muffling sound. Moreover, if multiple whistles sound simultaneously, the effect diminishes as the sounds blend together.\n- **Ties:** This ritual directly reflects Hesketh’s reliance on a layered defense strategy, acknowledging that brute force alone won't suffice against the dangers lurking in the Monster Wood. It also highlights the diverse skillsets required for Stoutwell’s protection: Rook’s experience, Whisperwind’s sensitivity, and Brackwood’s… well, his ability to notice things others miss.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2035
+      },
+      "world": "verrowen",
+      "mentions": [
+        "doric",
+        "hesketh-reeve",
+        "wardbell"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
