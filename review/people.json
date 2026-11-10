@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T00:51:23.660Z",
+  "built": "2026-11-10T00:58:44.002Z",
   "branch": "review",
-  "commit": "85ca8750aabc3a31c37b8cd7c92b49ce44484e79",
+  "commit": "354234d0639b8ae5a10cfa2559486d3c13e9e3fb",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 209,
+    "note": 210,
     "document": 10,
     "map": 4
   },
@@ -268,7 +268,8 @@
         "working-notes-murrows-peculiar-pipe",
         "working-notes-liora-finchling",
         "working-notes-whisperwinds-relic-featherhook",
-        "working-notes-a-whisper-of-magic"
+        "working-notes-a-whisper-of-magic",
+        "working-notes-a-little-bit-more"
       ]
     },
     {

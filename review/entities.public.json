@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T00:51:23.660Z",
+  "built": "2026-11-10T00:58:44.002Z",
   "branch": "review",
-  "commit": "85ca8750aabc3a31c37b8cd7c92b49ce44484e79",
+  "commit": "354234d0639b8ae5a10cfa2559486d3c13e9e3fb",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 209,
+    "note": 210,
     "document": 10,
     "map": 4
   },
@@ -268,7 +268,8 @@
         "working-notes-murrows-peculiar-pipe",
         "working-notes-liora-finchling",
         "working-notes-whisperwinds-relic-featherhook",
-        "working-notes-a-whisper-of-magic"
+        "working-notes-a-whisper-of-magic",
+        "working-notes-a-little-bit-more"
       ]
     },
     {
@@ -10099,6 +10100,27 @@
       "mentions": [
         "wendeline-brackenford",
         "hesketh-reeve"
+      ]
+    },
+    {
+      "id": "working-notes-a-little-bit-more",
+      "type": "note",
+      "name": "A little bit more...",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mw9zelar",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- TITLE: An essential element of history\n- TONE: Warm, inviting, filled with charm and a hint of mystery. Perfect for introducing a character!\n- WORLD: Verrowen, a land brimming with magic and enchantment, where ancient forests whisper secrets to the trees and sparkling rivers sparkle like jewels. Villages nestled amongst picturesque fields, adorned with colorful flowerbeds, and cozy stone cottages lined by charming merchants. Little buildings line streets, perfectly placed next to each other with smooth stones in the perfect order. Each cobblestone path leads to delightful wonders and sweet greetings from all.\n- TONE: Gentle and relaxed, evoking a sense of wonder and adventure. Suggesting a beautiful place to visit.\n- MAGIC: Simple, everyday magic – a sprinkle of wind charms for a sunny day, or a warm hug from a friendly elf (well, maybe not *really* friendly!). Firelight dances on walls, embers glow softly, and it’ an easy afternoon to watch the world go by, if you have enough time and good cheer. Magical trinkets are small, shiny, and often given freely for good cheer (a pinch of pixie dust, perhaps?). It's all about a happy life - light breezes, cheerful smiles, and gentle celebrations.\n- ARTIFICERS: A few, oh yes, a skilled hand is always needed! The Hearthcircle has the most reliable and trustworthy members - a gentle bunch who keep everything running smoothly under the twinkling stars. Perhaps one young man, Thomas, helps ensure the warmth and the warmth of the hearth in his little shop; he's been around for ages, and doesn't need much praise. Or maybe Elara, a brilliant artisan, is ensuring that her masterwork shines bright. And some could be named just right, like the wise old Silas (who keeps things moving) and the ever-optimistic Doric (whose pipe smoke whispers secrets).",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1825
+      },
+      "world": "verrowen",
+      "mentions": [
+        "doric"
       ]
     },
     {
