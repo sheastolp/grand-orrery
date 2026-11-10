@@ -1334,7 +1334,7 @@ Okay, here we go – let's refine this little snippet of Verrowenian prose!
 
 **Paragraph of About 80 Words (Everyday Scene):** "Today, the sun shines brightly on bustling cobblestone streets, where the fisherman, Silas, deftly ties his sails while greeting Old Corrin. The village' A delightful scene, wouldn’t you agree? Perhaps he has a good tale of fish to tell or two warm mugs of ale waiting for her!"
 
-### Character profile - **Name:** Orin Bellweather - **Ge… (Pitch)
+### Character profile - **Name:** Orin Bellweather - **Ge… (Your idea)
 
 <!-- review-key: lore-keeper:86c189c5-ec1f-406c-af5d-045b9dbb46c3 -->
 _From a lore-keeper chat, 2026-11-10 · Characters._
