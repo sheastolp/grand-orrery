@@ -1997,3 +1997,11 @@ _Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers'
 - **How it works:** When held aloft and focused upon an area, the pot emits a faint shimmer (barely visible to most eyes), increasing the likelihood of finding dropped coins, forgotten tools, or even wandering livestock returning unexpectedly. However, it doesn't *make* things reappear—it simply nudges fate towards their retrieval. The effect requires a small expenditure of mana, roughly equivalent to lighting a single candle.  The potency drops significantly if he uses more than three charges in rapid succession.
 - **Limits:** The range is limited to ten feet, its effects are subtle, and the pot only works on objects already lost nearby rather than conjuring them out of thin air. It does not affect magical items or creatures. If something has been moved beyond the effective range, the effect ceases entirely. Furthermore, attempting to use the pot while actively engaged in combat drains its charge rapidly.
 - **Ties:** Silas Blackwood was rumored to have once worked as an artificer, experimenting with sympathetic magic – though this remains unconfirmed by Murrow. Orin believes the pot is related to one of Murrow’s abandoned projects involving resonant stones; the halfling feels a strange hum when holding it near certain locations that seem “thin” - places where rifts could open.
+
+### Whispersong’s Vigil (Pitch)
+
+<!-- review-key: rest:idea-mwb9p4xs -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._
+
+- The tiny fishing settlement at the foot of the mountains guards a passage that leads to an unknown place beyond, while also struggling with a dwindling catch.
