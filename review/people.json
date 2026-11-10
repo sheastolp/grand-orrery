@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T11:44:38.287Z",
+  "built": "2026-11-10T12:05:13.653Z",
   "branch": "review",
-  "commit": "79ca269d612860227e9cf8b7dbcf3a1ba09212ee",
+  "commit": "534093c4816fe0e9868c5a9a24f4802eb023c176",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 228,
+    "note": 229,
     "document": 10,
     "map": 4
   },
@@ -273,7 +273,8 @@
         "working-notes-what-is-it",
         "working-notes-what-does-the-king-say",
         "working-notes-the-whispering-stone",
-        "working-notes-what-does-it-mean"
+        "working-notes-what-does-it-mean",
+        "working-notes-a-little-bit-of-magic-a-lot-of-tradition"
       ]
     },
     {
@@ -393,7 +394,8 @@
         "working-notes-whispersong-crystals",
         "working-notes-liora-finchling",
         "working-notes-murrows-harvest-blessing",
-        "working-notes-whisperwinds-relic-featherhook"
+        "working-notes-whisperwinds-relic-featherhook",
+        "working-notes-a-little-bit-of-magic-a-lot-of-tradition"
       ]
     },
     {
