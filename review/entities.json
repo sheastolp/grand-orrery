@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T05:01:04.754Z",
+  "built": "2026-11-10T05:01:18.510Z",
   "branch": "review",
-  "commit": "af986dcf726c61d30d84e5293d7affb44f1fb323",
+  "commit": "62e521234e08548a5388cb4dc7d888f0ec5950e3",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 217,
+    "note": 216,
     "document": 10,
     "map": 4
   },
@@ -10181,24 +10181,6 @@
       ]
     },
     {
-      "id": "working-notes-a-short-name-2",
-      "type": "note",
-      "name": "a short name",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwa3wprh",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- the wellspring",
-      "source": {
-        "file": "working-notes.md",
-        "line": 1861
-      },
-      "world": "verrowen"
-    },
-    {
       "id": "working-notes-keepers-of-the-key",
       "type": "note",
       "name": "Keepers of the Key",
@@ -10212,12 +10194,12 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- TONE: Adventurous and whimsical, hinting at mystery and magic!\n- WORLD: Lush, green valleys dotted with sparkling waterfalls, quaint villages nestled amongst rolling hills, and friendly villagers welcoming visitors with warm smiles. Towering trees provide shade for bustling markets filled with colorful goods. And the Royal Castle glows brightly, adorned with shimmering jewels and banners fluttering in the breeze. A cheerful melody accompanies the flow of life for all.\n- ARTIFICERS: Princess Lilybell, a renowned herbalist and healer; brave Sir Reginald Boldfoot, master knight and protector of the realm; Jasper Finch, clever alchemist whose potions sparkle with magic; gentle Maeve Willowbrook, wise oracle, blessed with accurate visions.\n- ITEMS: Sparkling gemstones, enchanted arrows, loyal steeds, well-preserved maps, charming trinkets.\n- LIFE: Villagers have lots of fun jobs - tending crops, crafting beautiful wares, or entertaining guests with stories and songs. They celebrate festivals with feasting, merry greetings and good cheer. There are lots of opportunities to make friends (or acquire a favor) within the village. Good manners are key to happiness. Everything is calm, peaceful, and full of happy laughter. The best part? Every single day brings fresh adventures, cozy evenings, and plenty of sunshine.\n- DEFENSE AND LAW: Simple and straightforward – mostly friendly greetings and smiles! Protecting the kingdom’ the villagers' best knights, guardians, and loyal guards who uphold the law. Lots of checks and balances, as well.",
       "source": {
         "file": "working-notes.md",
-        "line": 1869
+        "line": 1861
       },
       "world": "verrowen"
     },
     {
-      "id": "working-notes-a-short-name-3",
+      "id": "working-notes-a-short-name-2",
       "type": "note",
       "name": "a short name",
       "doc": "working-notes",
@@ -10230,12 +10212,12 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- a little secret\n- a well-kept secret\n- the Royal decree",
       "source": {
         "file": "working-notes.md",
-        "line": 1882
+        "line": 1874
       },
       "world": "verrowen"
     },
     {
-      "id": "working-notes-a-short-name-4",
+      "id": "working-notes-a-short-name-3",
       "type": "note",
       "name": "a short name",
       "doc": "working-notes",
@@ -10248,12 +10230,12 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or the Kingdom's history._\n\n- The Royal Cipher\n- The Scholar’s Secret\n- The Village Blueprint\n- The Emerald Eye",
       "source": {
         "file": "working-notes.md",
-        "line": 1892
+        "line": 1884
       },
       "world": "verrowen"
     },
     {
-      "id": "working-notes-a-short-name-5",
+      "id": "working-notes-a-short-name-4",
       "type": "note",
       "name": "a short name",
       "doc": "working-notes",
@@ -10266,7 +10248,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- a little green",
       "source": {
         "file": "working-notes.md",
-        "line": 1903
+        "line": 1895
       },
       "world": "verrowen"
     },
@@ -10283,11 +10265,11 @@
       "filed": "2026-11-10",
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- a little green",
       "notes": [
-        "working-notes-a-short-name-5"
+        "working-notes-a-short-name-4"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1903
+        "line": 1895
       }
     },
     {

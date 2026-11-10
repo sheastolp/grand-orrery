@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T05:01:04.754Z",
+  "built": "2026-11-10T05:01:18.510Z",
   "branch": "review",
-  "commit": "af986dcf726c61d30d84e5293d7affb44f1fb323",
+  "commit": "62e521234e08548a5388cb4dc7d888f0ec5950e3",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 217,
+    "note": 216,
     "document": 10,
     "map": 4
   },
@@ -2167,11 +2167,11 @@
       "filed": "2026-11-10",
       "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- a little green",
       "notes": [
-        "working-notes-a-short-name-5"
+        "working-notes-a-short-name-4"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1903
+        "line": 1895
       }
     }
   ]
