@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T15:40:17.649Z",
+  "built": "2026-11-10T15:41:46.747Z",
   "branch": "review",
-  "commit": "3104894c0ab87bb50302d39f750fd735ca5c6bd8",
+  "commit": "9a360ced69a60479668a4fb831a231eeaa4caad7",
   "counts": {
     "person": 87,
     "role": 11,
@@ -10191,7 +10191,7 @@
       "type": "note",
       "name": "An Enchanting Tale",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwaeac35",
@@ -10212,7 +10212,7 @@
       "category": "Peddlers' wares",
       "kind": "Relics",
       "origin": "rest",
-      "status": "pitch",
+      "status": "decided",
       "fields": {
         "tone": "Whimsical and descriptive, leaning into magic and wonder."
       },
