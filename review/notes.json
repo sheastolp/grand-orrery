@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T04:27:26.833Z",
+  "built": "2026-11-10T04:48:24.338Z",
   "branch": "review",
-  "commit": "9927e546e86e73508aabb36012d732d18e3874cd",
+  "commit": "e94f3cd8e3c540d7fcb0b393e34ce69d5439ad26",
   "counts": {
     "person": 87,
     "role": 11,
     "world": 3,
-    "item": 100,
+    "item": 101,
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 219,
+    "note": 220,
     "document": 10,
     "map": 4
   },
@@ -4382,6 +4382,24 @@
       "source": {
         "file": "working-notes.md",
         "line": 1918
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-a-short-name-8",
+      "type": "note",
+      "name": "a short name",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwa7lye3",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- a little green",
+      "source": {
+        "file": "working-notes.md",
+        "line": 1929
       },
       "world": "verrowen"
     },
