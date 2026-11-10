@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T00:48:29.787Z",
+  "built": "2026-11-10T00:49:07.483Z",
   "branch": "review",
-  "commit": "b9d2c81c07dbf0fa6d8a90205f35afac1d9dcedf",
+  "commit": "92fb51675bd226a3331e01459b72dab8d38c612a",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 210,
+    "note": 209,
     "document": 10,
     "map": 4
   },
@@ -191,8 +191,7 @@
       ],
       "mentioned_in": [
         "universe-beyond-the-village",
-        "working-notes-the-woodland-road",
-        "working-notes-the-fishing-village-its-name-undecided-who-lives-the-2"
+        "working-notes-the-woodland-road"
       ]
     },
     {

@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T00:48:29.787Z",
+  "built": "2026-11-10T00:49:07.483Z",
   "branch": "review",
-  "commit": "b9d2c81c07dbf0fa6d8a90205f35afac1d9dcedf",
+  "commit": "92fb51675bd226a3331e01459b72dab8d38c612a",
   "counts": {
     "person": 87,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 34,
-    "note": 210,
+    "note": 209,
     "document": 10,
     "map": 4
   },
@@ -49,7 +49,6 @@
         "working-notes-the-elders-of-the-elderhold",
         "working-notes-marda-the-reformed-cutpurse",
         "working-notes-gilded-spine-of-the-silent-archivist",
-        "working-notes-the-fishing-village-its-name-undecided-who-lives-the-2",
         "working-notes-village-roster-2",
         "working-notes-a-whisper-of-magic"
       ]
@@ -373,7 +372,6 @@
         "working-notes-mana-affinity-items",
         "working-notes-mana-affinity-items-stabilized-tools",
         "working-notes-resonance-stone-device",
-        "working-notes-the-fishing-village-its-name-undecided-who-lives-the-2",
         "working-notes-silas-blackwood",
         "working-notes-village-roster-2",
         "working-notes-whisperwind",
@@ -479,8 +477,7 @@
         "working-notes-the-seekers-lodestone",
         "working-notes-marda-the-reformed-cutpurse",
         "working-notes-give-xabs-character-a-joke-pot-of-greed-make-it-functi",
-        "working-notes-resonance-stone-device",
-        "working-notes-the-fishing-village-its-name-undecided-who-lives-the-2"
+        "working-notes-resonance-stone-device"
       ]
     },
     {
@@ -2116,7 +2113,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1370
+        "line": 1341
       }
     }
   ]
