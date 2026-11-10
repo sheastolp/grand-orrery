@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T15:23:34.421Z",
+  "built": "2026-11-10T15:23:51.513Z",
   "branch": "review",
-  "commit": "ca3ceb6b53d0a97c6de2cabf19de3935acf7b2d7",
+  "commit": "390770e0004573ac017fccbe00f5abdcd8beb9e3",
   "counts": {
     "person": 87,
     "role": 11,
@@ -3189,7 +3189,7 @@
       "type": "note",
       "name": "Character profile - **Name:** Orin Bellweather - **Ge…",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From the lore-keeper",
       "origin": "lore-keeper",
       "review_key": "lore-keeper:86c189c5-ec1f-406c-af5d-045b9dbb46c3",
