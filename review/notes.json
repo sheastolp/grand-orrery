@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-11T12:04:15.821Z",
+  "built": "2026-11-11T12:29:31.187Z",
   "branch": "review",
-  "commit": "48d129e8e9cff972348376ef8ec3aa5a06174244",
+  "commit": "438dde99b559eb47e600f143bd62cbb29452212b",
   "counts": {
     "person": 94,
     "role": 11,
     "world": 3,
-    "item": 108,
+    "item": 109,
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 246,
+    "note": 247,
     "document": 10,
     "map": 4
   },
@@ -4984,6 +4984,29 @@
         "line": 2278
       },
       "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwind-featherhook",
+      "type": "note",
+      "name": "Whisperwind Featherhook",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwc3ip83",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- An iron hook with intricate wind patterns etched into each feather.\n- Doric Blackwood Master Smithing.\n- In Whispersmith’s shop Monstradius located at NW district near Murrow home.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2286
+      },
+      "world": "verrowen",
+      "mentions": [
+        "doric",
+        "murrow",
+        "featherhook"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
