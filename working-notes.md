@@ -2340,3 +2340,14 @@ _Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: 
 - **What it is:** An almost imperceptible hum emitted by Hearthstones during use that predicts upcoming weather patterns.
 - **Who:** Orin Bellweather
 - **Where:** Verrowen Village
+
+### Lyra Briarwood (Pitch)
+
+<!-- review-key: rest:idea-mwc9stwh -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._
+
+- **Name:** Elysa Bramble
+- **Race & Age:** Half-Elf Halfling hybrid aged 22 years.
+- **Trade:** Craftswoman specializing in making enchanted wooden toys that aid children’s elemental magic learning
+- **Want/Desire to succeed at her trade? To create an interactive toy set teaching young villagers about rift connecting worlds through magical playtime adventures using simple elements like wind or fire spells without draining too much mana from users repeatedly.
