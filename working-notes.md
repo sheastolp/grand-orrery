@@ -1399,7 +1399,7 @@ Pitches filed by Claude, the cloud AI, from the owner's main chat. Nothing here 
 
 ### Willa Stonebridge (Your idea)
 
-<!-- review-key: Claude:21b51fed-c213-4e1b-adb1-fb092ebe539d -->
+<!-- review-key: claude:21b51fed-c213-4e1b-adb1-fb092ebe539d -->
 _From a Claude session, 2026-11-10 · Characters._
 
 **Name:** Willa Stonebridge
@@ -1417,7 +1417,7 @@ _From a Claude session, 2026-11-10 · Characters._
 
 ### Standfast (Your idea)
 
-<!-- review-key: Claude:5f49e428-4189-4a7e-9953-8c2db7ee0b55 -->
+<!-- review-key: claude:5f49e428-4189-4a7e-9953-8c2db7ee0b55 -->
 _From a Claude session, 2026-11-10 · Items & inventions._
 
 - **Kind:** Weapon (enchanted shield)
@@ -1430,7 +1430,7 @@ _From a Claude session, 2026-11-10 · Items & inventions._
 
 ### Corin Hale (Your idea)
 
-<!-- review-key: Claude:34582b52-d6f4-4683-a0bc-8e616e8e6d33 -->
+<!-- review-key: claude:34582b52-d6f4-4683-a0bc-8e616e8e6d33 -->
 _From a Claude session, 2026-11-10 · Characters._
 
 **Name:** Corin Hale
@@ -1448,7 +1448,7 @@ _From a Claude session, 2026-11-10 · Characters._
 
 ### Lamplight (Your idea)
 
-<!-- review-key: Claude:17a1963f-d8e6-444c-a5b4-845931dbf97d -->
+<!-- review-key: claude:17a1963f-d8e6-444c-a5b4-845931dbf97d -->
 _From a Claude session, 2026-11-10 · Items & inventions._
 
 - **Kind:** Weapon (enchanted short sword)
@@ -1461,7 +1461,7 @@ _From a Claude session, 2026-11-10 · Items & inventions._
 
 ### Sella Vane (Your idea)
 
-<!-- review-key: Claude:318b9b54-3e4d-44ee-a1ee-60a5c53d1377 -->
+<!-- review-key: claude:318b9b54-3e4d-44ee-a1ee-60a5c53d1377 -->
 _From a Claude session, 2026-11-10 · Characters._
 
 **Name:** Sella Vane
@@ -1479,7 +1479,7 @@ _From a Claude session, 2026-11-10 · Characters._
 
 ### Comeback (Your idea)
 
-<!-- review-key: Claude:6c42eb40-2c62-4c32-9c75-2950b8ab2183 -->
+<!-- review-key: claude:6c42eb40-2c62-4c32-9c75-2950b8ab2183 -->
 _From a Claude session, 2026-11-10 · Items & inventions._
 
 - **Kind:** Weapon (enchanted throwing axe)
@@ -1492,7 +1492,7 @@ _From a Claude session, 2026-11-10 · Items & inventions._
 
 ### Vesper Harrowmere (Your idea)
 
-<!-- review-key: Claude:92e84085-990f-4431-86f4-ad8003804fa3 -->
+<!-- review-key: claude:92e84085-990f-4431-86f4-ad8003804fa3 -->
 _From a Claude session, 2026-11-10 · Characters._
 
 **Name:** Vesper Harrowmere
@@ -1510,7 +1510,7 @@ _From a Claude session, 2026-11-10 · Characters._
 
 ### Quill (Your idea)
 
-<!-- review-key: Claude:3f9d354d-5ca5-4649-8974-41cece500c1b -->
+<!-- review-key: claude:3f9d354d-5ca5-4649-8974-41cece500c1b -->
 _From a Claude session, 2026-11-10 · Items & inventions._
 
 - **Kind:** Weapon (enchanted rapier)
@@ -1523,7 +1523,7 @@ _From a Claude session, 2026-11-10 · Items & inventions._
 
 ### Pell Ashdown (Your idea)
 
-<!-- review-key: Claude:d9dff53e-c7e2-4931-825c-7e626d2a61bc -->
+<!-- review-key: claude:d9dff53e-c7e2-4931-825c-7e626d2a61bc -->
 _From a Claude session, 2026-11-10 · Characters._
 
 **Name:** Pell Ashdown
@@ -1541,7 +1541,7 @@ _From a Claude session, 2026-11-10 · Characters._
 
 ### Rootbane (Your idea)
 
-<!-- review-key: Claude:44ad2116-d6bd-414f-a3ab-2a0515738021 -->
+<!-- review-key: claude:44ad2116-d6bd-414f-a3ab-2a0515738021 -->
 _From a Claude session, 2026-11-10 · Items & inventions._
 
 - **Kind:** Weapon (enchanted felling axe)
