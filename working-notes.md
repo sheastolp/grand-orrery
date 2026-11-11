@@ -1455,7 +1455,7 @@ _From a lore-keeper chat, 2026-11-10 · Items & inventions._
 - **Limits:** The glow is small and honest — it lights a page, not a battlefield, and it tells anything watching from the dark exactly where the sergeant stands. The enchantment fades like any other; on the night it runs out mid-watch, Lamplight is just a well-kept sword.
 - **Ties:** It carries a registered Kingdom artificer's mark on the ricasso, worn nearly smooth with age — the opposite of Monstradius work, and a quiet reminder that the Guard's gear wasn't always village-made.
 
-### Sella Vane (Pitch)
+### Sella Vane (Your idea)
 
 <!-- review-key: lore-keeper:318b9b54-3e4d-44ee-a1ee-60a5c53d1377 -->
 _From a lore-keeper chat, 2026-11-10 · Characters._
