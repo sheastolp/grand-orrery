@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T02:05:23.427Z",
+  "built": "2026-11-11T02:05:44.348Z",
   "branch": "review",
-  "commit": "4cd83dac94462c93cc949825378d1bf68e6c60d4",
+  "commit": "3951e22d90de71ecff993f460449d81e58a16331",
   "counts": {
     "person": 94,
     "role": 11,
@@ -3419,7 +3419,7 @@
       "type": "note",
       "name": "Quill",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From the lore-keeper",
       "origin": "lore-keeper",
       "review_key": "lore-keeper:3f9d354d-5ca5-4649-8974-41cece500c1b",
@@ -3467,7 +3467,7 @@
       "type": "note",
       "name": "Rootbane",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From the lore-keeper",
       "origin": "lore-keeper",
       "review_key": "lore-keeper:44ad2116-d6bd-414f-a3ab-2a0515738021",
