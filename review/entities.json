@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T02:06:04.632Z",
+  "built": "2026-11-11T02:24:22.209Z",
   "branch": "review",
-  "commit": "bde48e901c15dfa4cbf6e1dad1bafd665c89e0ed",
+  "commit": "eb5b37b1abd6846a3a1d096820a093c8a7621136",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 229,
+    "note": 230,
     "document": 10,
     "map": 4
   },
@@ -11024,6 +11024,31 @@
         "hesketh-reeve",
         "murrow"
       ]
+    },
+    {
+      "id": "working-notes-elara-willowbrook-an-ashen-secret",
+      "type": "note",
+      "name": "Elara Willowbrook: An Ashen Secret",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbhwiox",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Discovering that Whisperswind Village lies atop an abandoned passage to Verrowen.",
+        "who": "Villagers led by Willa Stonebridge uncover Elders Brackwood’s secret after stumbling upon mysterious ash tree markings.",
+        "where": "Atop mountains near Whisperwinds’ Watch post facing into forbidden mountain pass through Echo Ridge.",
+        "how_it_works": "A unique fire rune pattern found only amongst these trees guides villagers underground from their village unnoticed for centuries under Wellhouse elves guidance until now revealed unintentionally during normal activities causing minor magic depletion without knowledge due to strong elemental affinity shielding locals unknowingly passed down generations as \"Ashens.\"",
+        "limits": "Only visible in rare moments when sunlight hits perfectly angled against denser than usual ashes marking unseen path forward up north connecting with ancient artifacts suggesting once a thriving civilization lost beneath mist-shrouded hills long before humans arrived creating endless mysteries around Stoutwell unknown even at its founding time itself possibly linked still further hidden truths about origin world's fate buried within Grand Orrery universe weaving all worlds together mysteriously hinting of more secrets waiting discovery."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What it is:** Discovering that Whisperswind Village lies atop an abandoned passage to Verrowen.\n- **Who:** Villagers led by Willa Stonebridge uncover Elders Brackwood’s secret after stumbling upon mysterious ash tree markings.\n- **Where:** Atop mountains near Whisperwinds’ Watch post facing into forbidden mountain pass through Echo Ridge.\n- **How it works:** A unique fire rune pattern found only amongst these trees guides villagers underground from their village unnoticed for centuries under Wellhouse elves guidance until now revealed unintentionally during normal activities causing minor magic depletion without knowledge due to strong elemental affinity shielding locals unknowingly passed down generations as \"Ashens.\"\n- **Limits:** Only visible in rare moments when sunlight hits perfectly angled against denser than usual ashes marking unseen path forward up north connecting with ancient artifacts suggesting once a thriving civilization lost beneath mist-shrouded hills long before humans arrived creating endless mysteries around Stoutwell unknown even at its founding time itself possibly linked still further hidden truths about origin world's fate buried within Grand Orrery universe weaving all worlds together mysteriously hinting of more secrets waiting discovery.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2122
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
