@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T13:19:13.146Z",
+  "built": "2026-11-11T13:44:41.750Z",
   "branch": "review",
-  "commit": "4c80adbfa73b25f29b7e3fffb7d7c971966d1486",
+  "commit": "55cb96de3ef8c0dcab3be5c3c2810f5a970b0eff",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 248,
+    "note": 249,
     "document": 10,
     "map": 4
   },
@@ -11521,6 +11521,29 @@
       "mentions": [
         "murrow"
       ]
+    },
+    {
+      "id": "working-notes-whisperwinds-secret-ashen-heart",
+      "type": "note",
+      "name": "Whisperwind’s Secret Ashen Heart",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwc67h2n",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An enchanted grove where fallen gold-tinted ashes reveal magical properties.",
+        "who": "Villagers from nearby areas like Whisperside discover it through lore passed down generations.",
+        "where": "Hidden area within Stoutwell village borders not far off towards the edge touched upon lightly between fields & forests known for hushed tales about mysterious happenings observed under moonlight"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What It Is:** An enchanted grove where fallen gold-tinted ashes reveal magical properties.\n- **Who:** Villagers from nearby areas like Whisperside discover it through lore passed down generations.\n- **Where:** Hidden area within Stoutwell village borders not far off towards the edge touched upon lightly between fields & forests known for hushed tales about mysterious happenings observed under moonlight\n- Golden-barked ashen leaves fall while locals gather around gathering hearthstones glowing faintly in dark silence\n- How Magic Works:\n- Fire element tied closely (ash falling brings warmth igniting sparks)\n- The tree essence imbued subtly powers life-restoration energies able also rejuvenate any wound carrying curse or sickness",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2307
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
