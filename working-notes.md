@@ -1393,10 +1393,14 @@ _From a lore-keeper chat, 2026-11-10 · Characters._
 **Secret:** Possesses a minor talent for manipulating echoes – capable of creating brief sonic illusions to add emphasis or create diversions during particularly urgent broadcasts. This ability stems from a childhood spent exploring abandoned catacombs beneath the GuildScribe Hall. 
 **Story Hooks:** Knowledgeable about the Kingdom’s political landscape and historical events; potentially holds key information relating to the founding of Stoutwell or forgotten royal decrees. His frequent travels could lead him into conflict with criminal organizations seeking to exploit his position. Has been observed discreetly communicating with Murrow, possibly investigating unusual magical activity in Stoutwell.
 
+## From Claude
+
+Pitches filed by Claude, the cloud AI, from the owner's main chat. Nothing here is decided until it's marked **Your idea**.
+
 ### Willa Stonebridge (Your idea)
 
-<!-- review-key: lore-keeper:21b51fed-c213-4e1b-adb1-fb092ebe539d -->
-_From a lore-keeper chat, 2026-11-10 · Characters._
+<!-- review-key: Claude:21b51fed-c213-4e1b-adb1-fb092ebe539d -->
+_From a Claude session, 2026-11-10 · Characters._
 
 **Name:** Willa Stonebridge
 **Race:** Halfling
@@ -1413,8 +1417,8 @@ _From a lore-keeper chat, 2026-11-10 · Characters._
 
 ### Standfast (Your idea)
 
-<!-- review-key: lore-keeper:5f49e428-4189-4a7e-9953-8c2db7ee0b55 -->
-_From a lore-keeper chat, 2026-11-10 · Items & inventions._
+<!-- review-key: Claude:5f49e428-4189-4a7e-9953-8c2db7ee0b55 -->
+_From a Claude session, 2026-11-10 · Items & inventions._
 
 - **Kind:** Weapon (enchanted shield)
 - **What it is:** An enchanted Guard shield — one of the big shields Stoutwell's halfling shield-bearers fight from behind, almost fully hidden. Doric forged it; its boss is set with a charged stone.
@@ -1426,8 +1430,8 @@ _From a lore-keeper chat, 2026-11-10 · Items & inventions._
 
 ### Corin Hale (Your idea)
 
-<!-- review-key: lore-keeper:34582b52-d6f4-4683-a0bc-8e616e8e6d33 -->
-_From a lore-keeper chat, 2026-11-10 · Characters._
+<!-- review-key: Claude:34582b52-d6f4-4683-a0bc-8e616e8e6d33 -->
+_From a Claude session, 2026-11-10 · Characters._
 
 **Name:** Corin Hale
 **Race:** Human
@@ -1444,8 +1448,8 @@ _From a lore-keeper chat, 2026-11-10 · Characters._
 
 ### Lamplight (Your idea)
 
-<!-- review-key: lore-keeper:17a1963f-d8e6-444c-a5b4-845931dbf97d -->
-_From a lore-keeper chat, 2026-11-10 · Items & inventions._
+<!-- review-key: Claude:17a1963f-d8e6-444c-a5b4-845931dbf97d -->
+_From a Claude session, 2026-11-10 · Items & inventions._
 
 - **Kind:** Weapon (enchanted short sword)
 - **What it is:** An enchanted short sword — a sergeant's sidearm rather than a hero's blade. Its hilt is ash wood from the Ashen Reach, the wood Stoutwell's woodworkers prize for weapon hilts.
@@ -1457,8 +1461,8 @@ _From a lore-keeper chat, 2026-11-10 · Items & inventions._
 
 ### Sella Vane (Your idea)
 
-<!-- review-key: lore-keeper:318b9b54-3e4d-44ee-a1ee-60a5c53d1377 -->
-_From a lore-keeper chat, 2026-11-10 · Characters._
+<!-- review-key: Claude:318b9b54-3e4d-44ee-a1ee-60a5c53d1377 -->
+_From a Claude session, 2026-11-10 · Characters._
 
 **Name:** Sella Vane
 **Race:** Human
@@ -1475,8 +1479,8 @@ _From a lore-keeper chat, 2026-11-10 · Characters._
 
 ### Comeback (Your idea)
 
-<!-- review-key: lore-keeper:6c42eb40-2c62-4c32-9c75-2950b8ab2183 -->
-_From a lore-keeper chat, 2026-11-10 · Items & inventions._
+<!-- review-key: Claude:6c42eb40-2c62-4c32-9c75-2950b8ab2183 -->
+_From a Claude session, 2026-11-10 · Items & inventions._
 
 - **Kind:** Weapon (enchanted throwing axe)
 - **What it is:** An enchanted throwing axe, balanced for the hand and the air alike.
@@ -1488,8 +1492,8 @@ _From a lore-keeper chat, 2026-11-10 · Items & inventions._
 
 ### Vesper Harrowmere (Your idea)
 
-<!-- review-key: lore-keeper:92e84085-990f-4431-86f4-ad8003804fa3 -->
-_From a lore-keeper chat, 2026-11-10 · Characters._
+<!-- review-key: Claude:92e84085-990f-4431-86f4-ad8003804fa3 -->
+_From a Claude session, 2026-11-10 · Characters._
 
 **Name:** Vesper Harrowmere
 **Race:** Elf
@@ -1506,8 +1510,8 @@ _From a lore-keeper chat, 2026-11-10 · Characters._
 
 ### Quill (Your idea)
 
-<!-- review-key: lore-keeper:3f9d354d-5ca5-4649-8974-41cece500c1b -->
-_From a lore-keeper chat, 2026-11-10 · Items & inventions._
+<!-- review-key: Claude:3f9d354d-5ca5-4649-8974-41cece500c1b -->
+_From a Claude session, 2026-11-10 · Items & inventions._
 
 - **Kind:** Weapon (enchanted rapier)
 - **What it is:** An enchanted rapier, House Harrowmere's dueling blade — thin, bright, and balanced like a pen.
@@ -1519,8 +1523,8 @@ _From a lore-keeper chat, 2026-11-10 · Items & inventions._
 
 ### Pell Ashdown (Your idea)
 
-<!-- review-key: lore-keeper:d9dff53e-c7e2-4931-825c-7e626d2a61bc -->
-_From a lore-keeper chat, 2026-11-10 · Characters._
+<!-- review-key: Claude:d9dff53e-c7e2-4931-825c-7e626d2a61bc -->
+_From a Claude session, 2026-11-10 · Characters._
 
 **Name:** Pell Ashdown
 **Race:** Halfling
@@ -1537,8 +1541,8 @@ _From a lore-keeper chat, 2026-11-10 · Characters._
 
 ### Rootbane (Your idea)
 
-<!-- review-key: lore-keeper:44ad2116-d6bd-414f-a3ab-2a0515738021 -->
-_From a lore-keeper chat, 2026-11-10 · Items & inventions._
+<!-- review-key: Claude:44ad2116-d6bd-414f-a3ab-2a0515738021 -->
+_From a Claude session, 2026-11-10 · Items & inventions._
 
 - **Kind:** Weapon (enchanted felling axe)
 - **What it is:** An enchanted felling axe — a working tool that has had to be a weapon often enough to earn a name.
