@@ -2243,3 +2243,16 @@ _Made up by the AI in auto mode, 2026-11-11 · about a creature of the Monster W
 
 - **What it Is:** An ethereal creature that inhabits fallen trees within Whistling Willow.
 - Creatures called "Whisperwinds" appear when strong winds blow through dead Ashen Reach ashwood during twilight hours.
+
+### Whisperwind’s Elven Tavern (Pitch)
+
+<!-- review-key: rest:idea-mwbx7x7l -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-11 · about a place in the Kingdom's capital or on the Kingdom's roads._
+
+- **What it is:** An enchanting tavern at night where elves gather to drink stout ale.
+- **Who:** Willa Stonebridge lives there with her elvish family known for their hospitality.
+- **Where:** It's located near Whisperside Hill just beyond Morrow House district inside Murrow's shop Monstradius building north-east corner facing Monster Wood wall gate
+- **How It Works:** Enchanted by Doric long ago during his forging work creating feather hooks that glows warm light attracting halflings home from afar every full moon while brewing strong magic potions making villagers feel cozy drinking stronger than any wine ever brewed enhancing magical abilities temporarily improving perception hearing strength allowing elf guests converse fluently even though they speak in native tongue (Elves only)
+- **Limits:* Tending firewood on a cold winter day takes longer due its warmth diminishing effects* A single bottle costs an hour or two depending upon size as opposed 1/2 glass water cooled overnight becomes refreshing beverage *One visitor per group can share between them each serving itself after consuming half volume capacity maximum limit otherwise overindulgence results exhaustion lasting until dawn regardless age gender*
+- **Ties*: Artificer, Halfling Race; The Wellhouse Family*
