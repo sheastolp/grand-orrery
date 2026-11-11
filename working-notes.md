@@ -2134,3 +2134,12 @@ _Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or t
 - **Where:** Atop mountains near Whisperwinds’ Watch post facing into forbidden mountain pass through Echo Ridge.
 - **How it works:** A unique fire rune pattern found only amongst these trees guides villagers underground from their village unnoticed for centuries under Wellhouse elves guidance until now revealed unintentionally during normal activities causing minor magic depletion without knowledge due to strong elemental affinity shielding locals unknowingly passed down generations as "Ashens."
 - **Limits:** Only visible in rare moments when sunlight hits perfectly angled against denser than usual ashes marking unseen path forward up north connecting with ancient artifacts suggesting once a thriving civilization lost beneath mist-shrouded hills long before humans arrived creating endless mysteries around Stoutwell unknown even at its founding time itself possibly linked still further hidden truths about origin world's fate buried within Grand Orrery universe weaving all worlds together mysteriously hinting of more secrets waiting discovery.
+
+### Whisperwind’s Watch - Halfling Guard Post (Pitch)
+
+<!-- review-key: rest:idea-mwbjos1h -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: a post, a habit, a piece of gear or a person._
+
+- Wendeline Brackenford’s eldest status relates directly here allowing her ability pass wisdom gained ages past still alive today.
+- Fenwick Larkspur's bluntness would ensure clarity behind each choice during these nights passed speaking softly beside elder thus helping remind everyone why they chose to join protecting families living happily yet close enough knowing both seen and unseen threats ever exist within world.
