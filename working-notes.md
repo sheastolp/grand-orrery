@@ -2317,3 +2317,16 @@ _Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or t
 - How Magic Works:
 - Fire element tied closely (ash falling brings warmth igniting sparks)
 - The tree essence imbued subtly powers life-restoration energies able also rejuvenate any wound carrying curse or sickness
+
+### Vesper Harrowmere’s Enchanted Quill (Pitch)
+
+<!-- review-key: rest:idea-mwc74dr3 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers' relics and the story they tell about it._
+
+- A Short Name: Elara Willowbrook also known as Whisperwind
+- Orin Bellweather - Claude
+- Willa Stonebridge – Standfast
+- Corin Hale- Sunbeam
+- Lamplight-Silas Blackwood-Family name Unknown.
+- Vesper harrowmere-Ashen Reach-Venturer
