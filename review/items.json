@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T01:12:01.974Z",
+  "built": "2026-11-11T01:19:20.490Z",
   "branch": "review",
-  "commit": "19193d32403b3f3d0f7698526c9129876904665c",
+  "commit": "60f195e3cf52fe0185fda144e628f4044e2d078f",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 230,
+    "note": 229,
     "document": 10,
     "map": 4
   },
@@ -2238,7 +2238,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2022
+        "line": 2009
       }
     },
     {
@@ -2258,7 +2258,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2087
+        "line": 2074
       }
     }
   ]
