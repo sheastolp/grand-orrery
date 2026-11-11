@@ -2265,16 +2265,6 @@ _Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or t
 
 - The newly invented product directly ties back into already established lore surrounding Verrowen (the world) and its inhabitants possessing latent magical abilities further evidenced here again reinforcing notion widespread conceptions held about said land despite general assumption pertaining latter part suggesting perhaps not everyone believed potential inherent among themselves residing there.
 
-### Whisperwind Whistle (Pitch)
-
-<!-- review-key: rest:idea-mwbzxsy2 -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: a post, a habit, a piece of gear or a person._
-
-- As communication tool between different posts
-- To synchronize activities like herding cattle by blowing specific tunes for directions (left/right/stop)
-- Used during rituals as accompaniment with reed flutes played alongside
-
 ### "The Wellhouse Secret" (Pitch)
 
 <!-- review-key: rest:idea-mwc2m9g7 -->
