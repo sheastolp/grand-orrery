@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-11T05:45:51.491Z",
+  "built": "2026-11-11T06:36:08.836Z",
   "branch": "review",
-  "commit": "dbf9022fd3cf6777ec4a1d618d50ac7605cb4ae0",
+  "commit": "6b06b3084eb2bc060ff974490dd46dd9cfd93511",
   "counts": {
     "person": 94,
     "role": 11,
     "world": 3,
-    "item": 106,
+    "item": 107,
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 236,
+    "note": 237,
     "document": 10,
     "map": 4
   },
@@ -11196,6 +11196,44 @@
         "line": 2183
       },
       "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwinds-secret",
+      "type": "note",
+      "name": "Whisperwind’s Secret",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbqwdby",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers' relics and the story they tell about it._\n\n- An enchanted relic said to calm even fierce storms.\n- Orin Bellweather\n- Vesper Harrowmere\n- Orin Bellweather discovers the Whisperwind's power to calm storms during harsh weather threatening crops and uses it wisely.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2192
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "whisperwinds-secret",
+      "type": "item",
+      "name": "Whisperwind’s Secret",
+      "icon": "🏺",
+      "category": "Peddlers' wares",
+      "kind": "Relics",
+      "origin": "rest",
+      "status": "pitch",
+      "review_key": "rest:idea-mwbqwdby",
+      "filed": "2026-11-11",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers' relics and the story they tell about it._\n\n- An enchanted relic said to calm even fierce storms.\n- Orin Bellweather\n- Vesper Harrowmere\n- Orin Bellweather discovers the Whisperwind's power to calm storms during harsh weather threatening crops and uses it wisely.",
+      "notes": [
+        "working-notes-whisperwinds-secret"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 2192
+      }
     },
     {
       "id": "midkemia-the-campaign",
