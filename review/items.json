@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T17:03:42.825Z",
+  "built": "2026-11-11T17:04:06.209Z",
   "branch": "review",
-  "commit": "48f0ff515a07642e79d2e6a7c6ac7f5b23c6754c",
+  "commit": "5cda6578cdda55b55dd667ba56bc4e6504d1dd1b",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 247,
+    "note": 246,
     "document": 10,
     "map": 4
   },
@@ -2363,7 +2363,7 @@
       "category": "Peddlers' wares",
       "kind": "Relics",
       "origin": "rest",
-      "status": "pitch",
+      "status": "decided",
       "review_key": "rest:idea-mwbqwdby",
       "filed": "2026-11-11",
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers' relics and the story they tell about it._\n\n- An enchanted relic said to calm even fierce storms.\n- Orin Bellweather\n- Vesper Harrowmere\n- Orin Bellweather discovers the Whisperwind's power to calm storms during harsh weather threatening crops and uses it wisely.",
@@ -2392,7 +2392,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2251
+        "line": 2243
       }
     },
     {
@@ -2415,7 +2415,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2275
+        "line": 2267
       }
     }
   ]
