@@ -1998,7 +1998,7 @@ _Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers'
 - **Limits:** The range is limited to ten feet, its effects are subtle, and the pot only works on objects already lost nearby rather than conjuring them out of thin air. It does not affect magical items or creatures. If something has been moved beyond the effective range, the effect ceases entirely. Furthermore, attempting to use the pot while actively engaged in combat drains its charge rapidly.
 - **Ties:** Silas Blackwood was rumored to have once worked as an artificer, experimenting with sympathetic magic – though this remains unconfirmed by Murrow. Orin believes the pot is related to one of Murrow’s abandoned projects involving resonant stones; the halfling feels a strange hum when holding it near certain locations that seem “thin” - places where rifts could open.
 
-### Whispersong’s Vigil (Pitch)
+### Whispersong’s Vigil (Your idea)
 
 <!-- review-key: rest:idea-mwb9p4xs -->
 <!-- added by the AI -->
