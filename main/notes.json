@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-11T02:50:04.840Z",
+  "built": "2026-11-11T17:08:23.503Z",
   "branch": "main",
-  "commit": "94faa02885ce2a49bd9729738af14d0e89828227",
+  "commit": "56d23fc01d09c38f048f15510e7d544e58c5671e",
   "counts": {
     "person": 94,
     "role": 11,
     "world": 3,
-    "item": 105,
+    "item": 109,
     "place": 15,
-    "creature": 17,
+    "creature": 18,
     "lore": 38,
-    "note": 230,
+    "note": 245,
     "document": 10,
     "map": 4
   },
@@ -4666,6 +4666,327 @@
       "source": {
         "file": "working-notes.md",
         "line": 2126
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwinds-watch-halfling-guard-post",
+      "type": "note",
+      "name": "Whisperwind’s Watch - Halfling Guard Post",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbjos1h",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- Wendeline Brackenford’s eldest status relates directly here allowing her ability pass wisdom gained ages past still alive today.\n- Fenwick Larkspur's bluntness would ensure clarity behind each choice during these nights passed speaking softly beside elder thus helping remind everyone why they chose to join protecting families living happily yet close enough knowing both seen and unseen threats ever exist within world.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2138
+      },
+      "world": "verrowen",
+      "mentions": [
+        "wendeline-brackenford",
+        "fenwick-larkspur"
+      ]
+    },
+    {
+      "id": "working-notes-elara-willowbrooks-echo",
+      "type": "note",
+      "name": "Elara Willowbrook’s Echo",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbklak5",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_its": "An enchanted journal that records every sound ever heard within Whisperwind.",
+        "who": "Whimsical halfling scribe named Elden Featherhook.",
+        "where": "Monstradius’ shop at NE corner district after hours under flickering torchlight,"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- **What it's:** An enchanted journal that records every sound ever heard within Whisperwind.\n- **Who:** Whimsical halfling scribe named Elden Featherhook.\n- **Where:** Monstradius’ shop at NE corner district after hours under flickering torchlight,",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2147
+      },
+      "world": "verrowen",
+      "mentions": [
+        "featherhook"
+      ]
+    },
+    {
+      "id": "working-notes-orin-bellweather-a-halfling-blacksmith-apprentice-with-latent-fire-magic",
+      "type": "note",
+      "name": "Orin Bellweather - A halfling blacksmith apprentice with latent fire magic",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwblhuot",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._\n\n- Latent Fire Magic helps him power through long shifts\n- Dreamed about an Elven Elderwood Forest where elves gifted flowers that glow like embers during twilight hours\n- Parents tie into Murrow when young mother visits craftwork market carrying potions brewed by her daughter (a minor potion brewer apprenticed under Eldra wellhouse)",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2157
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
+      ]
+    },
+    {
+      "id": "working-notes-whisperwind-lantern",
+      "type": "note",
+      "name": "Whisperwind Lantern",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbnaing",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- Small round hand-held lamp powered by enchanted wax.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2167
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-elara-wispweaver",
+      "type": "note",
+      "name": "Elara Wispweaver",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbo730e",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- *Works:* At twilight hours following a brief lull in magical energy expenditure post-morning light exposure aiding communication directly linking human voices seamlessly connecting them straight past thinness barriers dividing worlds upon singing specific notes creating harmony even more potent than pure mana flow itself invoking latent energies stirring ancient roots below ground surface.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2175
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwinds-secret",
+      "type": "note",
+      "name": "Whisperwind’s Secret",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbqwdby",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers' relics and the story they tell about it._\n\n- An enchanted relic said to calm even fierce storms.\n- Orin Bellweather\n- Vesper Harrowmere\n- Orin Bellweather discovers the Whisperwind's power to calm storms during harsh weather threatening crops and uses it wisely.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2183
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-elara-willowbrook-2",
+      "type": "note",
+      "name": "Elara Willowbrook",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbtm055",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._\n\n- **Race: Half-Elf**\n- **Age: 9 years**\n- **Race: Half-Elf**",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2194
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwind-wraith",
+      "type": "note",
+      "name": "Whisperwind Wraith",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbwb789",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An ethereal creature that inhabits fallen trees within Whistling Willow."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **What it Is:** An ethereal creature that inhabits fallen trees within Whistling Willow.\n- Creatures called \"Whisperwinds\" appear when strong winds blow through dead Ashen Reach ashwood during twilight hours.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2204
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwinds-elven-tavern",
+      "type": "note",
+      "name": "Whisperwind’s Elven Tavern",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbx7x7l",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An enchanting tavern at night where elves gather to drink stout ale.",
+        "who": "Willa Stonebridge lives there with her elvish family known for their hospitality.",
+        "where": "It's located near Whisperside Hill just beyond Morrow House district inside Murrow's shop Monstradius building north-east corner facing Monster Wood wall gate",
+        "how_it_works": "Enchanted by Doric long ago during his forging work creating feather hooks that glows warm light attracting halflings home from afar every full moon while brewing strong magic potions making villagers feel cozy drinking stronger than any wine ever brewed enhancing magical abilities temporarily improving perception hearing strength allowing elf guests converse fluently even though they speak in native tongue (Elves only)"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- **What it is:** An enchanting tavern at night where elves gather to drink stout ale.\n- **Who:** Willa Stonebridge lives there with her elvish family known for their hospitality.\n- **Where:** It's located near Whisperside Hill just beyond Morrow House district inside Murrow's shop Monstradius building north-east corner facing Monster Wood wall gate\n- **How It Works:** Enchanted by Doric long ago during his forging work creating feather hooks that glows warm light attracting halflings home from afar every full moon while brewing strong magic potions making villagers feel cozy drinking stronger than any wine ever brewed enhancing magical abilities temporarily improving perception hearing strength allowing elf guests converse fluently even though they speak in native tongue (Elves only)\n- **Limits:* Tending firewood on a cold winter day takes longer due its warmth diminishing effects* A single bottle costs an hour or two depending upon size as opposed 1/2 glass water cooled overnight becomes refreshing beverage *One visitor per group can share between them each serving itself after consuming half volume capacity maximum limit otherwise overindulgence results exhaustion lasting until dawn regardless age gender*\n- **Ties*: Artificer, Halfling Race; The Wellhouse Family*",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2213
+      },
+      "world": "verrowen",
+      "mentions": [
+        "doric",
+        "murrow"
+      ]
+    },
+    {
+      "id": "working-notes-orin-bellweathers-discovery",
+      "type": "note",
+      "name": "Orin Bellweather’s Discovery",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwby4o4b",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or the Kingdom's history._\n\n- The newly invented product directly ties back into already established lore surrounding Verrowen (the world) and its inhabitants possessing latent magical abilities further evidenced here again reinforcing notion widespread conceptions held about said land despite general assumption pertaining latter part suggesting perhaps not everyone believed potential inherent among themselves residing there.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2226
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwind-featherhook",
+      "type": "note",
+      "name": "Whisperwind Featherhook",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwc3ip83",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- An iron hook with intricate wind patterns etched into each feather.\n- Doric Blackwood Master Smithing.\n- In Whispersmith’s shop Monstradius located at NW district near Murrow home.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2234
+      },
+      "world": "verrowen",
+      "mentions": [
+        "doric",
+        "murrow",
+        "featherhook"
+      ]
+    },
+    {
+      "id": "working-notes-whisperwinds-secret-ashen-heart",
+      "type": "note",
+      "name": "Whisperwind’s Secret Ashen Heart",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwc67h2n",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An enchanted grove where fallen gold-tinted ashes reveal magical properties.",
+        "who": "Villagers from nearby areas like Whisperside discover it through lore passed down generations.",
+        "where": "Hidden area within Stoutwell village borders not far off towards the edge touched upon lightly between fields & forests known for hushed tales about mysterious happenings observed under moonlight"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What It Is:** An enchanted grove where fallen gold-tinted ashes reveal magical properties.\n- **Who:** Villagers from nearby areas like Whisperside discover it through lore passed down generations.\n- **Where:** Hidden area within Stoutwell village borders not far off towards the edge touched upon lightly between fields & forests known for hushed tales about mysterious happenings observed under moonlight\n- Golden-barked ashen leaves fall while locals gather around gathering hearthstones glowing faintly in dark silence\n- How Magic Works:\n- Fire element tied closely (ash falling brings warmth igniting sparks)\n- The tree essence imbued subtly powers life-restoration energies able also rejuvenate any wound carrying curse or sickness",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2244
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-vesper-harrowmeres-enchanted-quill",
+      "type": "note",
+      "name": "Vesper Harrowmere’s Enchanted Quill",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwc74dr3",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers' relics and the story they tell about it._\n\n- A Short Name: Elara Willowbrook also known as Whisperwind\n- Orin Bellweather - Claude\n- Willa Stonebridge – Standfast\n- Corin Hale- Sunbeam\n- Lamplight-Silas Blackwood-Family name Unknown.\n- Vesper harrowmere-Ashen Reach-Venturer",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2258
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwinds-hum",
+      "type": "note",
+      "name": "Whisperwind’s Hum",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwc80p1i",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An almost imperceptible hum emitted by Hearthstones during use that predicts upcoming weather patterns.",
+        "who": "Orin Bellweather",
+        "where": "Verrowen Village"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- **What it is:** An almost imperceptible hum emitted by Hearthstones during use that predicts upcoming weather patterns.\n- **Who:** Orin Bellweather\n- **Where:** Verrowen Village",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2271
+      },
+      "world": "verrowen",
+      "mentions": [
+        "hearthstone"
+      ]
+    },
+    {
+      "id": "working-notes-lyra-briarwood",
+      "type": "note",
+      "name": "Lyra Briarwood",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwc9stwh",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "name": "Elysa Bramble",
+        "race_age": "Half-Elf Halfling hybrid aged 22 years.",
+        "trade": "Craftswoman specializing in making enchanted wooden toys that aid children’s elemental magic learning"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._\n\n- **Name:** Elysa Bramble\n- **Race & Age:** Half-Elf Halfling hybrid aged 22 years.\n- **Trade:** Craftswoman specializing in making enchanted wooden toys that aid children’s elemental magic learning\n- **Want/Desire to succeed at her trade? To create an interactive toy set teaching young villagers about rift connecting worlds through magical playtime adventures using simple elements like wind or fire spells without draining too much mana from users repeatedly.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2281
       },
       "world": "verrowen"
     },

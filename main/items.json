@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-11T02:50:04.840Z",
+  "built": "2026-11-11T17:08:23.503Z",
   "branch": "main",
-  "commit": "94faa02885ce2a49bd9729738af14d0e89828227",
+  "commit": "56d23fc01d09c38f048f15510e7d544e58c5671e",
   "counts": {
     "person": 94,
     "role": 11,
     "world": 3,
-    "item": 105,
+    "item": 109,
     "place": 15,
-    "creature": 17,
+    "creature": 18,
     "lore": 38,
-    "note": 230,
+    "note": 245,
     "document": 10,
     "map": 4
   },
@@ -49,7 +49,8 @@
         "working-notes-monstradius-items",
         "working-notes-constructed-items",
         "working-notes-silas-blackwood",
-        "working-notes-the-hearthstones-hum"
+        "working-notes-the-hearthstones-hum",
+        "working-notes-whisperwinds-hum"
       ]
     },
     {
@@ -90,7 +91,9 @@
         "working-notes-brackwood-fringe",
         "working-notes-mana-affinity-items-stabilized-tools",
         "working-notes-murrows-peculiar-pipe",
-        "working-notes-whisperwinds-relic-featherhook"
+        "working-notes-whisperwinds-relic-featherhook",
+        "working-notes-elara-willowbrooks-echo",
+        "working-notes-whisperwind-featherhook"
       ]
     },
     {
@@ -2330,6 +2333,89 @@
       "source": {
         "file": "working-notes.md",
         "line": 2081
+      }
+    },
+    {
+      "id": "whisperwind-lantern",
+      "type": "item",
+      "name": "Whisperwind Lantern",
+      "icon": "💡",
+      "category": "Sent in from the chat",
+      "kind": "From auto mode",
+      "origin": "rest",
+      "status": "decided",
+      "review_key": "rest:idea-mwbnaing",
+      "filed": "2026-11-11",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- Small round hand-held lamp powered by enchanted wax.",
+      "notes": [
+        "working-notes-whisperwind-lantern"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 2167
+      }
+    },
+    {
+      "id": "whisperwinds-secret",
+      "type": "item",
+      "name": "Whisperwind’s Secret",
+      "icon": "🏺",
+      "category": "Peddlers' wares",
+      "kind": "Relics",
+      "origin": "rest",
+      "status": "decided",
+      "review_key": "rest:idea-mwbqwdby",
+      "filed": "2026-11-11",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers' relics and the story they tell about it._\n\n- An enchanted relic said to calm even fierce storms.\n- Orin Bellweather\n- Vesper Harrowmere\n- Orin Bellweather discovers the Whisperwind's power to calm storms during harsh weather threatening crops and uses it wisely.",
+      "notes": [
+        "working-notes-whisperwinds-secret"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 2183
+      }
+    },
+    {
+      "id": "whisperwind-featherhook",
+      "type": "item",
+      "name": "Whisperwind Featherhook",
+      "icon": "💡",
+      "category": "Sent in from the chat",
+      "kind": "From auto mode",
+      "origin": "rest",
+      "status": "decided",
+      "review_key": "rest:idea-mwc3ip83",
+      "filed": "2026-11-11",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- An iron hook with intricate wind patterns etched into each feather.\n- Doric Blackwood Master Smithing.\n- In Whispersmith’s shop Monstradius located at NW district near Murrow home.",
+      "notes": [
+        "working-notes-whisperwind-featherhook"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 2234
+      }
+    },
+    {
+      "id": "vesper-harrowmeres-enchanted-quill",
+      "type": "item",
+      "name": "Vesper Harrowmere’s Enchanted Quill",
+      "icon": "🏺",
+      "category": "Peddlers' wares",
+      "kind": "Relics",
+      "origin": "rest",
+      "status": "decided",
+      "fields": {
+        "a_short_name": "Elara Willowbrook also known as Whisperwind"
+      },
+      "review_key": "rest:idea-mwc74dr3",
+      "filed": "2026-11-11",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers' relics and the story they tell about it._\n\n- A Short Name: Elara Willowbrook also known as Whisperwind\n- Orin Bellweather - Claude\n- Willa Stonebridge – Standfast\n- Corin Hale- Sunbeam\n- Lamplight-Silas Blackwood-Family name Unknown.\n- Vesper harrowmere-Ashen Reach-Venturer",
+      "notes": [
+        "working-notes-vesper-harrowmeres-enchanted-quill"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 2258
       }
     }
   ]
