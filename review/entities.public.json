@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T05:20:32.305Z",
+  "built": "2026-11-11T05:45:51.491Z",
   "branch": "review",
-  "commit": "474f029e89c6e03cbbdffbe33eef2c7fd7d8e1ec",
+  "commit": "dbf9022fd3cf6777ec4a1d618d50ac7605cb4ae0",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 235,
+    "note": 236,
     "document": 10,
     "map": 4
   },
@@ -11161,6 +11161,24 @@
       "source": {
         "file": "working-notes.md",
         "line": 2175
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwinds-secret-watchtowers",
+      "type": "note",
+      "name": "Whisperwind’s Secret Watchtowers",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbp3pq7",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- What it's about:\n- A brief explanation given about how common people usually dismiss the mysterious sounds produced occasionally during twilight hours unaware revealing perhaps not knowing exactly what happens inside each house but rather attributing it merely due to lack of understanding ultimately leaving unanswered questions lingering curiosity unsated satisfaction only briefly satisfied fleeting glimpses tantalizing potential revealed slowly over time deepening intrigue further entangling individuals closer within vast universe interconnecting world beyond mere perception limited awareness expanding horizons reaching depths unseen unimagined captivating imaginations fostering sense wonderment imagination delight anticipation etcetera...",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2183
       },
       "world": "verrowen"
     },
