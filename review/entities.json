@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T17:04:06.209Z",
+  "built": "2026-11-11T17:05:31.481Z",
   "branch": "review",
-  "commit": "5cda6578cdda55b55dd667ba56bc4e6504d1dd1b",
+  "commit": "fc37070628f1f734db99504195298a37fdd8e575",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 246,
+    "note": 245,
     "document": 10,
     "map": 4
   },
@@ -11186,24 +11186,6 @@
       "world": "verrowen"
     },
     {
-      "id": "working-notes-whisperwinds-secret-watchtowers",
-      "type": "note",
-      "name": "Whisperwind’s Secret Watchtowers",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwbp3pq7",
-      "filed": "2026-11-11",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- What it's about:\n- A brief explanation given about how common people usually dismiss the mysterious sounds produced occasionally during twilight hours unaware revealing perhaps not knowing exactly what happens inside each house but rather attributing it merely due to lack of understanding ultimately leaving unanswered questions lingering curiosity unsated satisfaction only briefly satisfied fleeting glimpses tantalizing potential revealed slowly over time deepening intrigue further entangling individuals closer within vast universe interconnecting world beyond mere perception limited awareness expanding horizons reaching depths unseen unimagined captivating imaginations fostering sense wonderment imagination delight anticipation etcetera...",
-      "source": {
-        "file": "working-notes.md",
-        "line": 2183
-      },
-      "world": "verrowen"
-    },
-    {
       "id": "working-notes-whisperwinds-secret",
       "type": "note",
       "name": "Whisperwind’s Secret",
@@ -11217,7 +11199,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers' relics and the story they tell about it._\n\n- An enchanted relic said to calm even fierce storms.\n- Orin Bellweather\n- Vesper Harrowmere\n- Orin Bellweather discovers the Whisperwind's power to calm storms during harsh weather threatening crops and uses it wisely.",
       "source": {
         "file": "working-notes.md",
-        "line": 2192
+        "line": 2183
       },
       "world": "verrowen"
     },
@@ -11238,7 +11220,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2192
+        "line": 2183
       }
     },
     {
@@ -11255,7 +11237,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._\n\n- **Race: Half-Elf**\n- **Age: 9 years**\n- **Race: Half-Elf**",
       "source": {
         "file": "working-notes.md",
-        "line": 2203
+        "line": 2194
       },
       "world": "verrowen"
     },
@@ -11276,7 +11258,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **What it Is:** An ethereal creature that inhabits fallen trees within Whistling Willow.\n- Creatures called \"Whisperwinds\" appear when strong winds blow through dead Ashen Reach ashwood during twilight hours.",
       "source": {
         "file": "working-notes.md",
-        "line": 2213
+        "line": 2204
       },
       "world": "verrowen"
     },
@@ -11295,7 +11277,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2213
+        "line": 2204
       },
       "icon": "👻",
       "fields": {
@@ -11332,7 +11314,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- **What it is:** An enchanting tavern at night where elves gather to drink stout ale.\n- **Who:** Willa Stonebridge lives there with her elvish family known for their hospitality.\n- **Where:** It's located near Whisperside Hill just beyond Morrow House district inside Murrow's shop Monstradius building north-east corner facing Monster Wood wall gate\n- **How It Works:** Enchanted by Doric long ago during his forging work creating feather hooks that glows warm light attracting halflings home from afar every full moon while brewing strong magic potions making villagers feel cozy drinking stronger than any wine ever brewed enhancing magical abilities temporarily improving perception hearing strength allowing elf guests converse fluently even though they speak in native tongue (Elves only)\n- **Limits:* Tending firewood on a cold winter day takes longer due its warmth diminishing effects* A single bottle costs an hour or two depending upon size as opposed 1/2 glass water cooled overnight becomes refreshing beverage *One visitor per group can share between them each serving itself after consuming half volume capacity maximum limit otherwise overindulgence results exhaustion lasting until dawn regardless age gender*\n- **Ties*: Artificer, Halfling Race; The Wellhouse Family*",
       "source": {
         "file": "working-notes.md",
-        "line": 2222
+        "line": 2213
       },
       "world": "verrowen",
       "mentions": [
@@ -11354,7 +11336,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or the Kingdom's history._\n\n- The newly invented product directly ties back into already established lore surrounding Verrowen (the world) and its inhabitants possessing latent magical abilities further evidenced here again reinforcing notion widespread conceptions held about said land despite general assumption pertaining latter part suggesting perhaps not everyone believed potential inherent among themselves residing there.",
       "source": {
         "file": "working-notes.md",
-        "line": 2235
+        "line": 2226
       },
       "world": "verrowen"
     },
@@ -11372,7 +11354,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- An iron hook with intricate wind patterns etched into each feather.\n- Doric Blackwood Master Smithing.\n- In Whispersmith’s shop Monstradius located at NW district near Murrow home.",
       "source": {
         "file": "working-notes.md",
-        "line": 2243
+        "line": 2234
       },
       "world": "verrowen",
       "mentions": [
@@ -11398,7 +11380,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2243
+        "line": 2234
       }
     },
     {
@@ -11420,7 +11402,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What It Is:** An enchanted grove where fallen gold-tinted ashes reveal magical properties.\n- **Who:** Villagers from nearby areas like Whisperside discover it through lore passed down generations.\n- **Where:** Hidden area within Stoutwell village borders not far off towards the edge touched upon lightly between fields & forests known for hushed tales about mysterious happenings observed under moonlight\n- Golden-barked ashen leaves fall while locals gather around gathering hearthstones glowing faintly in dark silence\n- How Magic Works:\n- Fire element tied closely (ash falling brings warmth igniting sparks)\n- The tree essence imbued subtly powers life-restoration energies able also rejuvenate any wound carrying curse or sickness",
       "source": {
         "file": "working-notes.md",
-        "line": 2253
+        "line": 2244
       },
       "world": "verrowen"
     },
@@ -11438,7 +11420,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers' relics and the story they tell about it._\n\n- A Short Name: Elara Willowbrook also known as Whisperwind\n- Orin Bellweather - Claude\n- Willa Stonebridge – Standfast\n- Corin Hale- Sunbeam\n- Lamplight-Silas Blackwood-Family name Unknown.\n- Vesper harrowmere-Ashen Reach-Venturer",
       "source": {
         "file": "working-notes.md",
-        "line": 2267
+        "line": 2258
       },
       "world": "verrowen"
     },
@@ -11462,7 +11444,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2267
+        "line": 2258
       }
     },
     {
@@ -11484,7 +11466,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- **What it is:** An almost imperceptible hum emitted by Hearthstones during use that predicts upcoming weather patterns.\n- **Who:** Orin Bellweather\n- **Where:** Verrowen Village",
       "source": {
         "file": "working-notes.md",
-        "line": 2280
+        "line": 2271
       },
       "world": "verrowen",
       "mentions": [
@@ -11510,7 +11492,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._\n\n- **Name:** Elysa Bramble\n- **Race & Age:** Half-Elf Halfling hybrid aged 22 years.\n- **Trade:** Craftswoman specializing in making enchanted wooden toys that aid children’s elemental magic learning\n- **Want/Desire to succeed at her trade? To create an interactive toy set teaching young villagers about rift connecting worlds through magical playtime adventures using simple elements like wind or fire spells without draining too much mana from users repeatedly.",
       "source": {
         "file": "working-notes.md",
-        "line": 2290
+        "line": 2281
       },
       "world": "verrowen"
     },
