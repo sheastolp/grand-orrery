@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T16:59:32.444Z",
+  "built": "2026-11-11T17:00:14.588Z",
   "branch": "review",
-  "commit": "ae5a4dcfb97c27fb57227022070d5757d363c7ea",
+  "commit": "d6bc750cdc8276957975a41fd9f5c8b044b43cde",
   "counts": {
     "person": 94,
     "role": 11,
@@ -5044,7 +5044,7 @@
       "type": "note",
       "name": "Vesper Harrowmere’s Enchanted Quill",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwc74dr3",
