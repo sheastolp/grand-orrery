@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T17:07:55.112Z",
+  "built": "2026-11-11T17:09:18.502Z",
   "branch": "review",
-  "commit": "56d23fc01d09c38f048f15510e7d544e58c5671e",
+  "commit": "f4fbc87d8a3ddd3b73f84f3974f46d73a6c759e3",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 245,
+    "note": 246,
     "document": 10,
     "map": 4
   },
@@ -4989,6 +4989,27 @@
         "line": 2281
       },
       "world": "verrowen"
+    },
+    {
+      "id": "working-notes-ashen-ember",
+      "type": "note",
+      "name": "Ashen Ember",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwcdi8x7",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a person, custom or piece of history in one named place: GuildScribe's arena._\n\n- A mysterious ember that burns eternally without ever needing to burn anything around itself.\n- In **Guildscripte Arena**, an unassuming blacksmith apprentice named Liora Finchling stumbles upon this unique gem while foraging at night near his village home with two glowing embers he found by chance - unlike any others he's seen before – always kept alive despite how damp or cold things get overnight even when there's not much firewood left over from autumn festivities.\n- This new-found ash-ember ignites rumors about it's magical origins tying it perhaps down through history involving Highwrit House royalty once seeking eternal flame during their experiments turning out instead endless ashes as well which eventually settled into becoming town folklore inspiring tales passed across generations including whispered stories connecting these everlasting flames supposedly held dear within secret pockets beneath Grand Orrery ruins believed lost centuries ago now tied forever entwined in Stoutwell’s very soul a never-ending cycle feeding its hearthstone mystery adding another layer rich detail painting Verrowen's vast tapestry more vivid bringing warmth closer still to those young hearts eager eyes wide open to discovery dreaming of what magic might next unfold.\n- *Ashening*: A rare phenomenon where small pieces turn permanently warm but unaffected after sunset, often attributed mystical origin connected lore suggesting links between perpetual Ashing and deep woods’ creatures especially one called Rootbane said capable creating such heat without consuming surrounding matter itself linked historically possibly hinted ties existing somewhere amongst the dense forested lands lying west touching both mortal realms & beyond hidden treasures awaiting unearthing secrets woven throughout ages past continuing ever captivating fresh wonder upon each generation keenly observing world around eagerly waiting for revelation promising infinite opportunities arising amidst enchanting mysteries crafting dreams filled vibrant potential revealing grandeur untold among ancient whispers shared excitement anticipation filling air with promise beckoning new era dawn breaking forth illuminating horizon unveiling boundless possibilities inviting explorers embarking journeys forging paths embracing unknown guiding light leading way forward through veils weaving destiny fabricating mythos evolving lives transforming experiences as timeless ember igniting passion spirit curiosity driving souls onwards across landscapes shaping futures sculpting stories told once grand odysseys unfolding before astonished onlookers bearing witness history revealed anew inspiring awe admiration respect fascination echo resonances reverberate leaving indelible",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2292
+      },
+      "world": "verrowen",
+      "mentions": [
+        "place-guildscribes-arena"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
