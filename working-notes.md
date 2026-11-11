@@ -2226,15 +2226,6 @@ _Made up by the AI in auto mode, 2026-11-11 · about a custom, saying, food or r
 
 - Every evening at dinner time, villagers make silent toasts with their hands over empty mugs.
 
-### Whisperwind Loom (Pitch)
-
-<!-- review-key: rest:idea-mwbve8n3 -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
-
-- **Where found out that costs 5 silver coins with enough timber or crafted cloth**
-- **How works & Limits: **
-
 ### Whisperwind Wraith (Your idea)
 
 <!-- review-key: rest:idea-mwbwb789 -->
