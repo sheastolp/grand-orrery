@@ -2172,7 +2172,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item
 
 - Small round hand-held lamp powered by enchanted wax.
 
-### Elara Wispweaver (Pitch)
+### Elara Wispweaver (Your idea)
 
 <!-- review-key: rest:idea-mwbo730e -->
 <!-- added by the AI -->
