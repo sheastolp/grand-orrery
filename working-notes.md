@@ -2135,7 +2135,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or t
 - **How it works:** A unique fire rune pattern found only amongst these trees guides villagers underground from their village unnoticed for centuries under Wellhouse elves guidance until now revealed unintentionally during normal activities causing minor magic depletion without knowledge due to strong elemental affinity shielding locals unknowingly passed down generations as "Ashens."
 - **Limits:** Only visible in rare moments when sunlight hits perfectly angled against denser than usual ashes marking unseen path forward up north connecting with ancient artifacts suggesting once a thriving civilization lost beneath mist-shrouded hills long before humans arrived creating endless mysteries around Stoutwell unknown even at its founding time itself possibly linked still further hidden truths about origin world's fate buried within Grand Orrery universe weaving all worlds together mysteriously hinting of more secrets waiting discovery.
 
-### Whisperwind’s Watch - Halfling Guard Post (Pitch)
+### Whisperwind’s Watch - Halfling Guard Post (Your idea)
 
 <!-- review-key: rest:idea-mwbjos1h -->
 <!-- added by the AI -->
