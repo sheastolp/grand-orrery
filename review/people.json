@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T02:05:44.348Z",
+  "built": "2026-11-11T02:06:04.632Z",
   "branch": "review",
-  "commit": "3951e22d90de71ecff993f460449d81e58a16331",
+  "commit": "bde48e901c15dfa4cbf6e1dad1bafd665c89e0ed",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 230,
+    "note": 229,
     "document": 10,
     "map": 4
   },
@@ -414,8 +414,7 @@
         "working-notes-liora-finchling",
         "working-notes-murrows-harvest-blessing",
         "working-notes-whisperwinds-relic-featherhook",
-        "working-notes-what-is-the-most-important-thing-about-stoutwell",
-        "working-notes-brackwoods-whimsy-2"
+        "working-notes-what-is-the-most-important-thing-about-stoutwell"
       ]
     },
     {
