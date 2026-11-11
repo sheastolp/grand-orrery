@@ -33,6 +33,10 @@
 //                   (prefer cache: the Orrery should be the only copy)
 //   repo            "sheastolp/grand-orrery"
 //   githubToken     optional, for a higher GitHub API limit
+//   baseUrl         optional: a laptop host that serves the database itself
+//                   (the Tavernworks gate's /db/<branch>/entities… files).
+//                   Reads try the host first and fall back to GitHub when
+//                   it can't be reached, so nothing that works today breaks.
 //   fetch           a fetch to use instead of the global one
 
 /**
@@ -57,6 +61,7 @@
  * @property {{ entities: OrreryEntity[] } | null} [fallback]
  * @property {{ load(): any, save(data: any): any } | null} [cache]
  * @property {string | null} [githubToken]
+ * @property {string | null} [baseUrl]
  * @property {(url: string, init?: RequestInit) => Promise<Response>} [fetch]
  */
 
@@ -69,7 +74,10 @@ const DEFAULTS = {
   fallback: null,
   cache: null,
   githubToken: null,
+  baseUrl: null,
 };
+
+const HOST_UNCHANGED = Symbol("orrery-unchanged");
 
 const norm = (s) => String(s ?? "").normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/\*+/g, "").trim();
 
@@ -81,6 +89,7 @@ export class Orrery {
     this._data = null;
     this._byId = new Map();
     this._etag = null;
+    this._hostEtag = null;
     this._sha = null;
     this._listeners = new Set();
     this._timer = null;
@@ -166,33 +175,64 @@ export class Orrery {
 
   /** Checks for a new build now. Never throws; true if something new was read.
    * @returns {Promise<boolean>} */
+  /** Reads the database file from the laptop host (options.baseUrl).
+   * Returns the parsed database, HOST_UNCHANGED when the host's copy is
+   * the one already held, or throws when the host can't serve it. */
+  async _readHost(file) {
+    const url = `${String(this.options.baseUrl).replace(/\/$/, "")}/db/${file}`;
+    const headers = {};
+    if (this._hostEtag) headers["if-none-match"] = this._hostEtag;
+    const r = await this._fetch(url, { headers });
+    if (r.status === 304 && this._data && !this._data.__fallback) return HOST_UNCHANGED;
+    if (!r.ok) throw new Error(`reading ${file} from the laptop host answered ${r.status}`);
+    this._hostEtag = r.headers.get("etag") || null;
+    const data = await r.json();
+    if (!Array.isArray(data?.entities)) throw new Error(`${file} has no entities`);
+    return data;
+  }
+
+  /** Reads the database file from GitHub, as before baseUrl existed. */
+  async _readGithub(file) {
+    const { repo } = this.options;
+    // Ask GitHub which commit the data branch is on, and read that exact
+    // commit: the raw server's branch copy can lag a few minutes behind.
+    // A 304 doesn't count against the API limit.
+    let ref = "data";
+    try {
+      const headers = { accept: "application/vnd.github.sha" };
+      if (this._etag) headers["if-none-match"] = this._etag;
+      if (this.options.githubToken) headers.authorization = "Bearer " + this.options.githubToken;
+      const r = await this._fetch(`https://api.github.com/repos/${repo}/commits/data`, { headers });
+      if (r.status === 304 && this._data && !this._data.__fallback) return HOST_UNCHANGED;
+      if (r.ok) {
+        this._etag = r.headers.get("etag");
+        const sha = (await r.text()).trim();
+        if (sha === this._sha && this._data && !this._data.__fallback) return HOST_UNCHANGED;
+        if (/^[0-9a-f]{40}$/.test(sha)) ref = sha;
+      }
+    } catch { /* the API is optional: fall back to the branch */ }
+
+    const r = await this._fetch(`https://raw.githubusercontent.com/${repo}/${ref}/${file}`);
+    if (!r.ok) throw new Error(`reading ${file} answered ${r.status}`);
+    const data = await r.json();
+    if (!Array.isArray(data?.entities)) throw new Error(`${file} has no entities`);
+    if (ref !== "data") this._sha = ref;
+    return data;
+  }
+
   async refresh() {
     try {
-      const { repo, branch, secrets } = this.options;
+      const { branch, secrets } = this.options;
       const file = `${branch}/${secrets ? "entities.json" : "entities.public.json"}`;
-      // Ask GitHub which commit the data branch is on, and read that exact
-      // commit: the raw server's branch copy can lag a few minutes behind.
-      // A 304 doesn't count against the API limit.
-      let ref = "data";
-      try {
-        const headers = { accept: "application/vnd.github.sha" };
-        if (this._etag) headers["if-none-match"] = this._etag;
-        if (this.options.githubToken) headers.authorization = "Bearer " + this.options.githubToken;
-        const r = await this._fetch(`https://api.github.com/repos/${repo}/commits/data`, { headers });
-        if (r.status === 304 && this._data && !this._data.__fallback) { this.lastRead = new Date(); return false; }
-        if (r.ok) {
-          this._etag = r.headers.get("etag");
-          const sha = (await r.text()).trim();
-          if (sha === this._sha && this._data && !this._data.__fallback) { this.lastRead = new Date(); return false; }
-          if (/^[0-9a-f]{40}$/.test(sha)) ref = sha;
-        }
-      } catch { /* the API is optional: fall back to the branch */ }
-
-      const r = await this._fetch(`https://raw.githubusercontent.com/${repo}/${ref}/${file}`);
-      if (!r.ok) throw new Error(`reading ${file} answered ${r.status}`);
-      const data = await r.json();
-      if (!Array.isArray(data?.entities)) throw new Error(`${file} has no entities`);
-      if (ref !== "data") this._sha = ref;
+      // The laptop host first when one is set: it serves the database
+      // itself, so GitHub's limits stop mattering. If the host can't
+      // serve it, GitHub answers exactly as it did before.
+      let data = null;
+      if (this.options.baseUrl) {
+        try { data = await this._readHost(file); } catch { data = null; }
+      }
+      if (!data) data = await this._readGithub(file);
+      if (data === HOST_UNCHANGED) { this.lastRead = new Date(); return false; }
       this.lastRead = new Date();
       this.lastError = null;
       const changed = !this._data || this._data.__fallback || this._data.__cached || this._data.commit !== data.commit || this._data.built !== data.built;
