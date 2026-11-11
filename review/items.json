@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-11T16:59:00.638Z",
+  "built": "2026-11-11T16:59:32.444Z",
   "branch": "review",
-  "commit": "286d56e9e269f335ad6436883b2b9359beda9127",
+  "commit": "ae5a4dcfb97c27fb57227022070d5757d363c7ea",
   "counts": {
     "person": 94,
     "role": 11,
     "world": 3,
-    "item": 111,
+    "item": 110,
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 252,
+    "note": 251,
     "document": 10,
     "map": 4
   },
@@ -2436,30 +2436,6 @@
       "source": {
         "file": "working-notes.md",
         "line": 2311
-      }
-    },
-    {
-      "id": "whisperwind-whistle",
-      "type": "item",
-      "name": "Whisperwind Whistle",
-      "icon": "💡",
-      "category": "Sent in from the chat",
-      "kind": "From auto mode",
-      "origin": "rest",
-      "status": "pitch",
-      "fields": {
-        "does": "An intricately carved wooden flute that plays calming melodies when held close to one's ear.",
-        "who_makes_it": "Orin Bellweather crafts this item using enchanted ashwood found along Verrowen’s Ashen Reach alongside traditional woodworking techniques passed down through generations by halflings like himself or female Village Workers with latent wind magic skills from his shop Monstradius."
-      },
-      "review_key": "rest:idea-mwcbltfh",
-      "filed": "2026-11-11",
-      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** An intricately carved wooden flute that plays calming melodies when held close to one's ear.\n- **Who makes it:** Orin Bellweather crafts this item using enchanted ashwood found along Verrowen’s Ashen Reach alongside traditional woodworking techniques passed down through generations by halflings like himself or female Village Workers with latent wind magic skills from his shop Monstradius.\n- **Where it's used daily life & trades craft contextually within LORE universe**\n- Orin uses special whittling methods combined with spells imbued into each note played which can summon soothing breezes perfect for easing tensions after long days at work (e.g., weeding crops). Artificer-invented flutes also double as musical instruments during festivals in Stoutwell village events making these useful items both everyday tools aiding labor tasks such as cutting logs swiftly due its gust-like winds while being entertaining toys helping bond villagers together over joyous times shared via music playing across gatherings promoting stronger community ties essential aspects enhancing family connections among children whilst providing entertainment amidst busy schedules involving schooling where younglings learn about elemental affinity's unique harmonics resonating throughout nature.\n- **How It Works - A brief explanation on how the mechanism functions technically logically connecting seamlessly smoothly well explained clearly simply understandable scientifically soundly plausible even if seemingly magical phenomena occurring subtly naturally often overlooked but always observable accurately consistently repeatably reliable effectiveness easily verifiable intuitively satisfying broadly applicable\n- The Whisperwind Whistle operates based upon a combination of resonance stone mechanics embedded deeply integrating finely tuned acoustical properties manipulating air molecules creating vibrations akin to harmonic wave patterns that ultimately result amplified frequency output specific melodies produced when inserted properly held between lips generates desired auditory experience triggered specifically by certain notes corresponding targeted frequencies elicited producing intended effects.",
-      "notes": [
-        "working-notes-whisperwind-whistle"
-      ],
-      "source": {
-        "file": "working-notes.md",
-        "line": 2345
       }
     }
   ]
