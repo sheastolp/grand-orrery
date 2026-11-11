@@ -1411,7 +1411,7 @@ _From a lore-keeper chat, 2026-11-10 · Characters._
 **Secret:** Standfast is unmarked Monstradius work. Murrow set its stone years ago, before she understood what an unmarked enchantment could make people ask, and she has never told the Elderhold who did it.
 **Story Hooks:** The shield Guard is small and overworked, and Willa is its oldest full-timer: if she falls, no one is ready to hold the middle of the line. And if the Kingdom ever asks questions about unmarked Guard gear, her, Murrow and the Elderhold are in a bind at once.
 
-### Standfast (Pitch)
+### Standfast (Your idea)
 
 <!-- review-key: lore-keeper:5f49e428-4189-4a7e-9953-8c2db7ee0b55 -->
 _From a lore-keeper chat, 2026-11-10 · Items & inventions._
