@@ -2265,14 +2265,6 @@ _Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or t
 
 - The newly invented product directly ties back into already established lore surrounding Verrowen (the world) and its inhabitants possessing latent magical abilities further evidenced here again reinforcing notion widespread conceptions held about said land despite general assumption pertaining latter part suggesting perhaps not everyone believed potential inherent among themselves residing there.
 
-### "The Wellhouse Secret" (Pitch)
-
-<!-- review-key: rest:idea-mwc2m9g7 -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-11 · about a custom, saying, food or rule of daily life in Stoutwell._
-
-- **Who/Where/HOW It Works/Who Tied to People or Places/Limits/Ties/New Canon**
-
 ### Whisperwind Featherhook (Your idea)
 
 <!-- review-key: rest:idea-mwc3ip83 -->
