@@ -9,8 +9,11 @@
 //   <out>/entities.json       every entity, secrets included
 //   <out>/entities.public.json  the same with every secret taken out: what
 //                             bots and AI prompts should read
-//   <out>/<type>.json         one file per type (people.json, roles.json …),
-//                             public, for apps that only need one kind
+//
+// Both are written compact (no pretty-printing): every reader parses them
+// as JSON, and the compact form is a third smaller to store, send and
+// parse. (Per-type files were dropped in 2026-11: nothing read them —
+// every app takes what it needs from entities.)
 //
 // Usage:
 //   node tools/build.mjs                build into dist/
@@ -198,7 +201,6 @@ const ORIGINS = [
   [/^from the codex$/i, "codex"],
   [/^from wake in verrowen$/i, "verrowen"],
   [/^from the lore-keeper$/i, "lore-keeper"],
-  [/^from claude$/i, "claude"],
   [/^from rest mode$/i, "rest"],
 ];
 
@@ -350,7 +352,7 @@ function chatItem(s, note, file) {
   const e = {
     id: slug(name), type: "item", name, icon: relic ? "🏺" : "💡",
     category: relic ? "Peddlers' wares" : "Sent in from the chat",
-    kind: relic ? "Relics" : { "lore-keeper": "From the lore-keeper", claude: "From Cl" + "aude", codex: "From the Codex", rest: "From auto mode" }[s.origin] || "Sent in",
+    kind: relic ? "Relics" : { "lore-keeper": "From the lore-keeper", codex: "From the Codex", rest: "From auto mode" }[s.origin] || "Sent in",
     origin: s.origin, status: s.status || "pitch",
   };
   if (prof.kind) e.fields = { kind: prof.kind, ...fields }; else if (Object.keys(fields).length) e.fields = fields;
@@ -869,13 +871,10 @@ function main(argv) {
   if (check) { console.log(`✔ The Orrery parses cleanly: ${summary}.`); return; }
 
   mkdirSync(out, { recursive: true });
-  const write = (name, data) => writeFileSync(join(out, name), JSON.stringify(data, null, 2) + "\n");
+  const write = (name, data) => writeFileSync(join(out, name), JSON.stringify(data) + "\n");
   const pub = entities.map(withoutSecrets);
   write("entities.json", { ...meta, entities });
   write("entities.public.json", { ...meta, entities: pub });
-  for (const type of Object.keys(meta.counts)) {
-    write(`${plural(type)}.json`, { ...meta, entities: pub.filter((e) => e.type === type) });
-  }
   console.log(`✔ Built the Orrery into ${out}: ${summary}.`);
 }
 
