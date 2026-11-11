@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-11T08:17:25.012Z",
+  "built": "2026-11-11T08:42:03.009Z",
   "branch": "review",
-  "commit": "b06981d6048c66b0f113ccf1881aa35198d14cb9",
+  "commit": "807e88bd54054ce2776b47f73cfdb962bda72bde",
   "counts": {
     "person": 94,
     "role": 11,
     "world": 3,
-    "item": 107,
+    "item": 108,
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 240,
+    "note": 241,
     "document": 10,
     "map": 4
   },
@@ -4861,6 +4861,24 @@
       "source": {
         "file": "working-notes.md",
         "line": 2221
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwind-loom",
+      "type": "note",
+      "name": "Whisperwind Loom",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbve8n3",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **Where found out that costs 5 silver coins with enough timber or crafted cloth**\n- **How works & Limits: **",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2229
       },
       "world": "verrowen"
     },
