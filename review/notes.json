@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T07:52:07.410Z",
+  "built": "2026-11-11T08:17:25.012Z",
   "branch": "review",
-  "commit": "015804df28ad5055877db099f2f732687d2b5ef4",
+  "commit": "b06981d6048c66b0f113ccf1881aa35198d14cb9",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 239,
+    "note": 240,
     "document": 10,
     "map": 4
   },
@@ -4843,6 +4843,24 @@
       "source": {
         "file": "working-notes.md",
         "line": 2211
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwinds-toast-3",
+      "type": "note",
+      "name": "\"Whisperwind’s Toast\"",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbuijr8",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- Every evening at dinner time, villagers make silent toasts with their hands over empty mugs.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2221
       },
       "world": "verrowen"
     },
