@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T09:58:35.426Z",
+  "built": "2026-11-11T10:49:13.809Z",
   "branch": "review",
-  "commit": "19f4967409af351f29739a7e52059eb5da8a671d",
+  "commit": "a615e16fe9671ac2604a0829dce98e31290ca9ca",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 244,
+    "note": 245,
     "document": 10,
     "map": 4
   },
@@ -11425,6 +11425,24 @@
       "source": {
         "file": "working-notes.md",
         "line": 2260
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwind-whistle",
+      "type": "note",
+      "name": "Whisperwind Whistle",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbzxsy2",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- As communication tool between different posts\n- To synchronize activities like herding cattle by blowing specific tunes for directions (left/right/stop)\n- Used during rituals as accompaniment with reed flutes played alongside",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2268
       },
       "world": "verrowen"
     },
