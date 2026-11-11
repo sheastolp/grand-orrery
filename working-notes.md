@@ -2123,7 +2123,7 @@ _Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or r
 - MAGIC: Purely practical and pleasant, utilizing naturally occurring elements and good cheer.
 - ROLES: 1. Hearthcircle (the village elders) to keep traditions alive, ensuring everyone feels welcome. 2. The Wellhouse elves to keep a steady supply of magic flowing in their small little world, keeping a secret or two. 3. Tobin Ashby (a blacksmith's apprentice) to make sure everything goes smoothly as well. 4. Doric (the Artificer) to easily fix anything with her tinkering skills. 5. Murrow (the Artisan) to ensure all goods are ready for shipment. 6. Hesketh Reeve (the Guard Captain) to be always vigilant and watchful.
 
-### Elara Willowbrook: An Ashen Secret (Pitch)
+### Elara Willowbrook: An Ashen Secret (Your idea)
 
 <!-- review-key: rest:idea-mwbhwiox -->
 <!-- added by the AI -->
