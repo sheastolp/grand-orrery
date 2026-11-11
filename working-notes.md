@@ -1409,7 +1409,7 @@ _From a Claude session, 2026-11-11 · Items & inventions._
 
 **Why:** Shea asked for it directly: a very rare red-capped mushroom that randomly teleports whoever eats it to the Mushroom Kingdom. It also turns Burn's long-standing mushroom claim from a joke into the truth nobody believes.
 
-### Burn: the Mushroom Kingdom stint (proposed edits to his entry) (Pitch)
+### Burn: the Mushroom Kingdom stint (proposed edits to his entry) (Your idea)
 
 <!-- review-key: lore-keeper:14f8361c-46ce-476f-83ff-eabb3d87e637 -->
 <!-- added by the AI -->
