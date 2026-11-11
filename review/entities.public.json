@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T17:05:31.481Z",
+  "built": "2026-11-11T17:06:11.647Z",
   "branch": "review",
-  "commit": "fc37070628f1f734db99504195298a37fdd8e575",
+  "commit": "3b01aa54bbdb37cea78fab65255c6509523b7678",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11157,7 +11157,7 @@
       "type": "note",
       "name": "Elara Wispweaver",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwbo730e",
