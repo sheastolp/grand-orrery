@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T06:36:08.836Z",
+  "built": "2026-11-11T07:01:31.710Z",
   "branch": "review",
-  "commit": "6b06b3084eb2bc060ff974490dd46dd9cfd93511",
+  "commit": "543ee2bb2a260d3c125cc8ce8f4c7e75ec13afd2",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 237,
+    "note": 238,
     "document": 10,
     "map": 4
   },
@@ -11219,6 +11219,24 @@
         "file": "working-notes.md",
         "line": 2192
       }
+    },
+    {
+      "id": "working-notes-whisperwinds-watch-5",
+      "type": "note",
+      "name": "Whisperwind’s Watch",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbrt0du",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- Every second Wednesday (the first occurrence), they light fragrant herbs around guards’ beds prior sleeping until morning waking up smelling like lavender fields instead ordinary hearth-smoke scent lingering there even amidst cold winter months still fresh somehow always filling air pleasantly throughout village otherwise never noticed unless intentionally sought out purposefully rather expectantly curious observer might wonder why particular nights smells noticeably different subtle yet distinctively sweeter fragrance waft gently across living quarters all household residents collectively sigh contentedly satisfied seemingly unaware others noticing slight difference between days experiencing mysterious evening routine practiced quietly observing magic presence unknown lurking unseen just waiting happenstance fortuitous event bringing them together uniting human and halfling alike forming powerful bond lasting generations strengthening already strong ties connecting people within Stoutwell community ultimately further enhancing unity amongst themselves shared experiences fostering profound appreciation deep admiration held tightly toward one another.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2203
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
