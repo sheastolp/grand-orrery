@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T00:04:14.340Z",
+  "built": "2026-11-11T00:26:49.788Z",
   "branch": "review",
-  "commit": "40455776bea3c356a79bdebea3231080f6467af5",
+  "commit": "7dbdd84eac777d28cc93b618d81ee388b25eb910",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 227,
+    "note": 228,
     "document": 10,
     "map": 4
   },
@@ -50,7 +50,8 @@
         "working-notes-marda-the-reformed-cutpurse",
         "working-notes-gilded-spine-of-the-silent-archivist",
         "working-notes-village-roster-2",
-        "working-notes-a-whisper-of-magic"
+        "working-notes-a-whisper-of-magic",
+        "working-notes-orins-echoes"
       ]
     },
     {
@@ -316,7 +317,8 @@
         "working-notes-blight-watch",
         "working-notes-what-is-the-most-important-thing-about-stoutwell",
         "working-notes-the-silent-offering-2",
-        "working-notes-whisperwinds-vigil-3"
+        "working-notes-whisperwinds-vigil-3",
+        "working-notes-orins-echoes"
       ]
     },
     {
@@ -410,7 +412,8 @@
         "working-notes-brackwoods-whimsy-2",
         "working-notes-bellweathers-boon",
         "working-notes-brackwoods-whimsy-3",
-        "working-notes-monstradius-peculiar-pipe-2"
+        "working-notes-monstradius-peculiar-pipe-2",
+        "working-notes-orins-echoes"
       ]
     },
     {
@@ -463,7 +466,8 @@
         "working-notes-the-silent-offering",
         "working-notes-monstradiuss-quiet-watch",
         "working-notes-silas-blackwood-2",
-        "working-notes-monstradius-peculiar-pipe-2"
+        "working-notes-monstradius-peculiar-pipe-2",
+        "working-notes-orins-echoes"
       ]
     },
     {
@@ -10735,6 +10739,37 @@
         "murrow",
         "burn",
         "rift-compass"
+      ]
+    },
+    {
+      "id": "working-notes-orins-echoes",
+      "type": "note",
+      "name": "Orin’s Echoes",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbdpf0u",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Orin Bellweather, a young halfling with a peculiar fascination for Whisperwind’s Watch, believes he hears faint echoes within its rhythmic pulses – whispers of events long past tied to the Silent Well and the village’s forgotten history.",
+        "who": "Orin is a 17-year-old halfling apprentice cartographer, known for his meticulous attention to detail and quiet nature. He’s particularly close to Burn, the wellhouse regular, who encourages his curiosity. Osric, the Elderhold leader, views him with cautious interest, recognizing a spark of potential amongst the younger generation. Hesketh Reeve finds Orin frustratingly persistent in his questions about the Watch.",
+        "where": "Primarily at Whisperwind’s Watch, a tall stone tower overlooking Stoutwell’s central well, where the Guard rotates their shifts. The Watch itself is ancient, built before the village was founded, and said to be aligned with ley lines that fluctuate unpredictably. It's located on the edge of the slums, near the dried-up well.",
+        "how_it_works": "Orin claims the Watch doesn’t simply mark time; it *records* moments—particularly those involving strong emotion or magical energy related to the well. When the bell rings (activated by a mechanism linked to the guard’s rotations), Orin focuses intently, claiming he can perceive fleeting images and snippets of sound associated with the event – mostly relating to past struggles around the drying up of the well. The echoes are weak, fragmented, like trying to catch smoke with bare hands.  The stronger the magic used near the watch, the louder the whispers become; he’s found this effect strongest when dealing with Murrow’s experiments.",
+        "limits": "The “echoes” aren’t clear visions. They're impressions - flashes of color, disjointed sounds, overwhelming feelings of fear or sorrow. Overuse leads to intense headaches and disorientation. He requires several hours of recovery after each session at the Watch. The effects seem tied to the alignment of Whisperwind's stone and the movement of the Earth elementals beneath Stoutwell."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._\n\n- **What it is:** Orin Bellweather, a young halfling with a peculiar fascination for Whisperwind’s Watch, believes he hears faint echoes within its rhythmic pulses – whispers of events long past tied to the Silent Well and the village’s forgotten history.\n- **Who:** Orin is a 17-year-old halfling apprentice cartographer, known for his meticulous attention to detail and quiet nature. He’s particularly close to Burn, the wellhouse regular, who encourages his curiosity. Osric, the Elderhold leader, views him with cautious interest, recognizing a spark of potential amongst the younger generation. Hesketh Reeve finds Orin frustratingly persistent in his questions about the Watch.\n- **Where:** Primarily at Whisperwind’s Watch, a tall stone tower overlooking Stoutwell’s central well, where the Guard rotates their shifts. The Watch itself is ancient, built before the village was founded, and said to be aligned with ley lines that fluctuate unpredictably. It's located on the edge of the slums, near the dried-up well.\n- **How it works:** Orin claims the Watch doesn’t simply mark time; it *records* moments—particularly those involving strong emotion or magical energy related to the well. When the bell rings (activated by a mechanism linked to the guard’s rotations), Orin focuses intently, claiming he can perceive fleeting images and snippets of sound associated with the event – mostly relating to past struggles around the drying up of the well. The echoes are weak, fragmented, like trying to catch smoke with bare hands.  The stronger the magic used near the watch, the louder the whispers become; he’s found this effect strongest when dealing with Murrow’s experiments.\n- **Limits:** The “echoes” aren’t clear visions. They're impressions - flashes of color, disjointed sounds, overwhelming feelings of fear or sorrow. Overuse leads to intense headaches and disorientation. He requires several hours of recovery after each session at the Watch. The effects seem tied to the alignment of Whisperwind's stone and the movement of the Earth elementals beneath Stoutwell.\n- **T",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2061
+      },
+      "world": "verrowen",
+      "mentions": [
+        "osric",
+        "hesketh-reeve",
+        "murrow",
+        "burn"
       ]
     },
     {
