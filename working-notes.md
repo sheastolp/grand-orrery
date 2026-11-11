@@ -2330,3 +2330,13 @@ _Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers'
 - Corin Hale- Sunbeam
 - Lamplight-Silas Blackwood-Family name Unknown.
 - Vesper harrowmere-Ashen Reach-Venturer
+
+### Whisperwind’s Hum (Pitch)
+
+<!-- review-key: rest:idea-mwc80p1i -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: a post, a habit, a piece of gear or a person._
+
+- **What it is:** An almost imperceptible hum emitted by Hearthstones during use that predicts upcoming weather patterns.
+- **Who:** Orin Bellweather
+- **Where:** Verrowen Village
