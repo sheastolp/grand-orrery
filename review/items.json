@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T02:24:22.209Z",
+  "built": "2026-11-11T02:38:16.085Z",
   "branch": "review",
-  "commit": "eb5b37b1abd6846a3a1d096820a093c8a7621136",
+  "commit": "15e17cdb7cb3a0dda27e064dde618ceee382688c",
   "counts": {
     "person": 94,
     "role": 11,
@@ -1974,8 +1974,8 @@
       "name": "Standfast",
       "icon": "💡",
       "category": "Sent in from the chat",
-      "kind": "From the lore-keeper",
-      "origin": "lore-keeper",
+      "kind": "From Claude",
+      "origin": "claude",
       "status": "decided",
       "fields": {
         "kind": "Weapon (enchanted shield)",
@@ -1986,15 +1986,15 @@
         "limits": "The charge fades like any enchanted item's, and recharging means Monstradius. Bracing roots the bearer too: planted, she cannot dodge, turn quickly or retreat until she lifts the shield. And the stone holds force, not edges — a blade that gets around the shield hurts her like anyone.",
         "ties": "It carries no artificer's mark, because Murrow set the stone. Kingdom-made Guard gear is supposed to be marked, and everyone in Stoutwell knows what unmarked work makes people ask."
       },
-      "review_key": "lore-keeper:5f49e428-4189-4a7e-9953-8c2db7ee0b55",
+      "review_key": "Claude:5f49e428-4189-4a7e-9953-8c2db7ee0b55",
       "filed": "2026-11-10",
-      "body": "_From a lore-keeper chat, 2026-11-10 · Items & inventions._\n\n- **Kind:** Weapon (enchanted shield)\n- **What it is:** An enchanted Guard shield — one of the big shields Stoutwell's halfling shield-bearers fight from behind, almost fully hidden. Doric forged it; its boss is set with a charged stone.\n- **Who:** Carried by Willa Stonebridge, the Guard's senior shield-bearer.\n- **Where:** Stoutwell — the walls, the croplands, and wherever the shield line forms.\n- **How it works:** While its bearer braces with the shield planted, the stone drinks the force of blows: pushes, charges and rootwyrm lunges that should bowl a halfling over leave her standing. When the stored force passes what the stone can hold, the shield sheds it as a single deep bell-note — the line's warning that its anchor is at her limit.\n- **Limits:** The charge fades like any enchanted item's, and recharging means Monstradius. Bracing roots the bearer too: planted, she cannot dodge, turn quickly or retreat until she lifts the shield. And the stone holds force, not edges — a blade that gets around the shield hurts her like anyone.\n- **Ties:** It carries no artificer's mark, because Murrow set the stone. Kingdom-made Guard gear is supposed to be marked, and everyone in Stoutwell knows what unmarked work makes people ask.",
+      "body": "_From a Claude session, 2026-11-10 · Items & inventions._\n\n- **Kind:** Weapon (enchanted shield)\n- **What it is:** An enchanted Guard shield — one of the big shields Stoutwell's halfling shield-bearers fight from behind, almost fully hidden. Doric forged it; its boss is set with a charged stone.\n- **Who:** Carried by Willa Stonebridge, the Guard's senior shield-bearer.\n- **Where:** Stoutwell — the walls, the croplands, and wherever the shield line forms.\n- **How it works:** While its bearer braces with the shield planted, the stone drinks the force of blows: pushes, charges and rootwyrm lunges that should bowl a halfling over leave her standing. When the stored force passes what the stone can hold, the shield sheds it as a single deep bell-note — the line's warning that its anchor is at her limit.\n- **Limits:** The charge fades like any enchanted item's, and recharging means Monstradius. Bracing roots the bearer too: planted, she cannot dodge, turn quickly or retreat until she lifts the shield. And the stone holds force, not edges — a blade that gets around the shield hurts her like anyone.\n- **Ties:** It carries no artificer's mark, because Murrow set the stone. Kingdom-made Guard gear is supposed to be marked, and everyone in Stoutwell knows what unmarked work makes people ask.",
       "notes": [
         "working-notes-standfast"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1414
+        "line": 1418
       }
     },
     {
@@ -2003,8 +2003,8 @@
       "name": "Lamplight",
       "icon": "💡",
       "category": "Sent in from the chat",
-      "kind": "From the lore-keeper",
-      "origin": "lore-keeper",
+      "kind": "From Claude",
+      "origin": "claude",
       "status": "decided",
       "fields": {
         "kind": "Weapon (enchanted short sword)",
@@ -2015,15 +2015,15 @@
         "limits": "The glow is small and honest — it lights a page, not a battlefield, and it tells anything watching from the dark exactly where the sergeant stands. The enchantment fades like any other; on the night it runs out mid-watch, Lamplight is just a well-kept sword.",
         "ties": "It carries a registered Kingdom artificer's mark on the ricasso, worn nearly smooth with age — the opposite of Monstradius work, and a quiet reminder that the Guard's gear wasn't always village-made."
       },
-      "review_key": "lore-keeper:17a1963f-d8e6-444c-a5b4-845931dbf97d",
+      "review_key": "Claude:17a1963f-d8e6-444c-a5b4-845931dbf97d",
       "filed": "2026-11-10",
-      "body": "_From a lore-keeper chat, 2026-11-10 · Items & inventions._\n\n- **Kind:** Weapon (enchanted short sword)\n- **What it is:** An enchanted short sword — a sergeant's sidearm rather than a hero's blade. Its hilt is ash wood from the Ashen Reach, the wood Stoutwell's woodworkers prize for weapon hilts.\n- **Who:** Carried by Corin Hale, sergeant of Stoutwell's Guard, and by the sergeants before him.\n- **Where:** Made in the Kingdom and come down through the Guard from sergeant to sergeant; carried now on Stoutwell's walls and night rotation.\n- **How it works:** Drawn after dark, the blade sheds a soft candle-glow — enough to read a roster by, check a latch, or see the step in front of you on the wall, and not enough to blind its bearer. Its edge also simply refuses to dull: seasons of use have never once needed a whetstone.\n- **Limits:** The glow is small and honest — it lights a page, not a battlefield, and it tells anything watching from the dark exactly where the sergeant stands. The enchantment fades like any other; on the night it runs out mid-watch, Lamplight is just a well-kept sword.\n- **Ties:** It carries a registered Kingdom artificer's mark on the ricasso, worn nearly smooth with age — the opposite of Monstradius work, and a quiet reminder that the Guard's gear wasn't always village-made.",
+      "body": "_From a Claude session, 2026-11-10 · Items & inventions._\n\n- **Kind:** Weapon (enchanted short sword)\n- **What it is:** An enchanted short sword — a sergeant's sidearm rather than a hero's blade. Its hilt is ash wood from the Ashen Reach, the wood Stoutwell's woodworkers prize for weapon hilts.\n- **Who:** Carried by Corin Hale, sergeant of Stoutwell's Guard, and by the sergeants before him.\n- **Where:** Made in the Kingdom and come down through the Guard from sergeant to sergeant; carried now on Stoutwell's walls and night rotation.\n- **How it works:** Drawn after dark, the blade sheds a soft candle-glow — enough to read a roster by, check a latch, or see the step in front of you on the wall, and not enough to blind its bearer. Its edge also simply refuses to dull: seasons of use have never once needed a whetstone.\n- **Limits:** The glow is small and honest — it lights a page, not a battlefield, and it tells anything watching from the dark exactly where the sergeant stands. The enchantment fades like any other; on the night it runs out mid-watch, Lamplight is just a well-kept sword.\n- **Ties:** It carries a registered Kingdom artificer's mark on the ricasso, worn nearly smooth with age — the opposite of Monstradius work, and a quiet reminder that the Guard's gear wasn't always village-made.",
       "notes": [
         "working-notes-lamplight"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1445
+        "line": 1449
       }
     },
     {
@@ -2032,8 +2032,8 @@
       "name": "Comeback",
       "icon": "💡",
       "category": "Sent in from the chat",
-      "kind": "From the lore-keeper",
-      "origin": "lore-keeper",
+      "kind": "From Claude",
+      "origin": "claude",
       "status": "decided",
       "fields": {
         "kind": "Weapon (enchanted throwing axe)",
@@ -2044,15 +2044,15 @@
         "limits": "Each return drinks its stored mana; a drained Comeback is a good axe that stays where it lands until it is recharged. It returns only to the hand that threw it — no one else's whistle works — and it cannot pull free of a closed door, a strong grip, or deep water.",
         "ties": "An escort's weapon through and through: useless for holding a wall, perfect for a road where trouble comes out of the treeline and goes back to it."
       },
-      "review_key": "lore-keeper:6c42eb40-2c62-4c32-9c75-2950b8ab2183",
+      "review_key": "Claude:6c42eb40-2c62-4c32-9c75-2950b8ab2183",
       "filed": "2026-11-10",
-      "body": "_From a lore-keeper chat, 2026-11-10 · Items & inventions._\n\n- **Kind:** Weapon (enchanted throwing axe)\n- **What it is:** An enchanted throwing axe, balanced for the hand and the air alike.\n- **Who:** Carried by Sella Vane, a merchant's escort on the Woodland Road.\n- **Where:** The Woodland Road and the capital road. Made somewhere along them — Sella names a different town every time anyone asks.\n- **How it works:** Thrown, and called with a sharp whistle in the one note Sella taught it, it pulls out of wood, ground or worse and flies back to her hand. On a cart, in a ditch, mid-ambush, she is never unarmed for long.\n- **Limits:** Each return drinks its stored mana; a drained Comeback is a good axe that stays where it lands until it is recharged. It returns only to the hand that threw it — no one else's whistle works — and it cannot pull free of a closed door, a strong grip, or deep water.\n- **Ties:** An escort's weapon through and through: useless for holding a wall, perfect for a road where trouble comes out of the treeline and goes back to it.",
+      "body": "_From a Claude session, 2026-11-10 · Items & inventions._\n\n- **Kind:** Weapon (enchanted throwing axe)\n- **What it is:** An enchanted throwing axe, balanced for the hand and the air alike.\n- **Who:** Carried by Sella Vane, a merchant's escort on the Woodland Road.\n- **Where:** The Woodland Road and the capital road. Made somewhere along them — Sella names a different town every time anyone asks.\n- **How it works:** Thrown, and called with a sharp whistle in the one note Sella taught it, it pulls out of wood, ground or worse and flies back to her hand. On a cart, in a ditch, mid-ambush, she is never unarmed for long.\n- **Limits:** Each return drinks its stored mana; a drained Comeback is a good axe that stays where it lands until it is recharged. It returns only to the hand that threw it — no one else's whistle works — and it cannot pull free of a closed door, a strong grip, or deep water.\n- **Ties:** An escort's weapon through and through: useless for holding a wall, perfect for a road where trouble comes out of the treeline and goes back to it.",
       "notes": [
         "working-notes-comeback"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1476
+        "line": 1480
       }
     },
     {
@@ -2061,8 +2061,8 @@
       "name": "Quill",
       "icon": "💡",
       "category": "Sent in from the chat",
-      "kind": "From the lore-keeper",
-      "origin": "lore-keeper",
+      "kind": "From Claude",
+      "origin": "claude",
       "status": "decided",
       "fields": {
         "kind": "Weapon (enchanted rapier)",
@@ -2073,15 +2073,15 @@
         "limits": "It is a dueling blade, near useless against armor, shields or monsters, and its magic is in the scar, not the cut: it wounds no deeper than any fine rapier. The signature cuts both ways — its bearer can never deny a duel, a wound, or a death, if one ever came.",
         "ties": "Made for the house that holds the Highwrit, the Kingdom's office of fair documents — a blade that signs, for the family that seals. It carries a registered Kingdom artificer's mark, as capital work should."
       },
-      "review_key": "lore-keeper:3f9d354d-5ca5-4649-8974-41cece500c1b",
+      "review_key": "Claude:3f9d354d-5ca5-4649-8974-41cece500c1b",
       "filed": "2026-11-10",
-      "body": "_From a lore-keeper chat, 2026-11-10 · Items & inventions._\n\n- **Kind:** Weapon (enchanted rapier)\n- **What it is:** An enchanted rapier, House Harrowmere's dueling blade — thin, bright, and balanced like a pen.\n- **Who:** Carried by Vesper Harrowmere, the house's champion at the capital's court.\n- **Where:** The capital: the court, the Rolls House, and wherever a challenge to the Highwrit's honor is answered.\n- **How it works:** Quill's edge makes cuts of impossible neatness that heal into a hair-thin silver scar — the same flourish every time, a signature in skin. A duel fought with Quill signs itself, and all the capital knows the mark.\n- **Limits:** It is a dueling blade, near useless against armor, shields or monsters, and its magic is in the scar, not the cut: it wounds no deeper than any fine rapier. The signature cuts both ways — its bearer can never deny a duel, a wound, or a death, if one ever came.\n- **Ties:** Made for the house that holds the Highwrit, the Kingdom's office of fair documents — a blade that signs, for the family that seals. It carries a registered Kingdom artificer's mark, as capital work should.",
+      "body": "_From a Claude session, 2026-11-10 · Items & inventions._\n\n- **Kind:** Weapon (enchanted rapier)\n- **What it is:** An enchanted rapier, House Harrowmere's dueling blade — thin, bright, and balanced like a pen.\n- **Who:** Carried by Vesper Harrowmere, the house's champion at the capital's court.\n- **Where:** The capital: the court, the Rolls House, and wherever a challenge to the Highwrit's honor is answered.\n- **How it works:** Quill's edge makes cuts of impossible neatness that heal into a hair-thin silver scar — the same flourish every time, a signature in skin. A duel fought with Quill signs itself, and all the capital knows the mark.\n- **Limits:** It is a dueling blade, near useless against armor, shields or monsters, and its magic is in the scar, not the cut: it wounds no deeper than any fine rapier. The signature cuts both ways — its bearer can never deny a duel, a wound, or a death, if one ever came.\n- **Ties:** Made for the house that holds the Highwrit, the Kingdom's office of fair documents — a blade that signs, for the family that seals. It carries a registered Kingdom artificer's mark, as capital work should.",
       "notes": [
         "working-notes-quill"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1507
+        "line": 1511
       }
     },
     {
@@ -2090,8 +2090,8 @@
       "name": "Rootbane",
       "icon": "💡",
       "category": "Sent in from the chat",
-      "kind": "From the lore-keeper",
-      "origin": "lore-keeper",
+      "kind": "From Claude",
+      "origin": "claude",
       "status": "decided",
       "fields": {
         "kind": "Weapon (enchanted felling axe)",
@@ -2102,15 +2102,15 @@
         "limits": "Against living, healthy wood it is stubbornly ordinary — it will not bite a sound tree, which the woodcutters call a blessing and a nuisance in the same breath. And like every enchanted thing its charge fades; a drained Rootbane is a good axe facing things a good axe shouldn't.",
         "ties": "Doric forged the head and re-forges it still; the stone is Monstradius work, unmarked, and the woodcutters prefer it that way. The runs see things the Kingdom would ask questions about."
       },
-      "review_key": "lore-keeper:44ad2116-d6bd-414f-a3ab-2a0515738021",
+      "review_key": "Claude:44ad2116-d6bd-414f-a3ab-2a0515738021",
       "filed": "2026-11-10",
-      "body": "_From a lore-keeper chat, 2026-11-10 · Items & inventions._\n\n- **Kind:** Weapon (enchanted felling axe)\n- **What it is:** An enchanted felling axe — a working tool that has had to be a weapon often enough to earn a name.\n- **Who:** Carried by Pell Ashdown, lead hand of Stoutwell's dead-tree runs.\n- **Where:** The edge of the Monster Wood, where the village's timber comes from, and anywhere Blighted things come out of it.\n- **How it works:** Its edge is set with a charged stone in Murrow's manner. Blighted wood splits clean under it, and the Blight's creep dies at the cut instead of spreading through the timber — the runs can haul dead trees home without hauling the rot into the village. Against the things the Blight makes, rootwyrms and worse, the edge bites like the wood remembers being healthy.\n- **Limits:** Against living, healthy wood it is stubbornly ordinary — it will not bite a sound tree, which the woodcutters call a blessing and a nuisance in the same breath. And like every enchanted thing its charge fades; a drained Rootbane is a good axe facing things a good axe shouldn't.\n- **Ties:** Doric forged the head and re-forges it still; the stone is Monstradius work, unmarked, and the woodcutters prefer it that way. The runs see things the Kingdom would ask questions about.",
+      "body": "_From a Claude session, 2026-11-10 · Items & inventions._\n\n- **Kind:** Weapon (enchanted felling axe)\n- **What it is:** An enchanted felling axe — a working tool that has had to be a weapon often enough to earn a name.\n- **Who:** Carried by Pell Ashdown, lead hand of Stoutwell's dead-tree runs.\n- **Where:** The edge of the Monster Wood, where the village's timber comes from, and anywhere Blighted things come out of it.\n- **How it works:** Its edge is set with a charged stone in Murrow's manner. Blighted wood splits clean under it, and the Blight's creep dies at the cut instead of spreading through the timber — the runs can haul dead trees home without hauling the rot into the village. Against the things the Blight makes, rootwyrms and worse, the edge bites like the wood remembers being healthy.\n- **Limits:** Against living, healthy wood it is stubbornly ordinary — it will not bite a sound tree, which the woodcutters call a blessing and a nuisance in the same breath. And like every enchanted thing its charge fades; a drained Rootbane is a good axe facing things a good axe shouldn't.\n- **Ties:** Doric forged the head and re-forges it still; the stone is Monstradius work, unmarked, and the woodcutters prefer it that way. The runs see things the Kingdom would ask questions about.",
       "notes": [
         "working-notes-rootbane"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1538
+        "line": 1542
       }
     },
     {
@@ -2138,7 +2138,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1750
+        "line": 1754
       }
     },
     {
@@ -2165,7 +2165,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1784
+        "line": 1788
       }
     },
     {
@@ -2193,7 +2193,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1808
+        "line": 1812
       }
     },
     {
@@ -2217,7 +2217,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1856
+        "line": 1860
       }
     },
     {
@@ -2237,7 +2237,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1888
+        "line": 1892
       }
     },
     {
@@ -2263,7 +2263,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1954
+        "line": 1958
       }
     },
     {
@@ -2286,7 +2286,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 1978
+        "line": 1982
       }
     },
     {
@@ -2306,7 +2306,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2012
+        "line": 2016
       }
     },
     {
@@ -2329,7 +2329,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2077
+        "line": 2081
       }
     }
   ]
