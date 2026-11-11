@@ -1424,7 +1424,7 @@ _From a lore-keeper chat, 2026-11-10 · Items & inventions._
 - **Limits:** The charge fades like any enchanted item's, and recharging means Monstradius. Bracing roots the bearer too: planted, she cannot dodge, turn quickly or retreat until she lifts the shield. And the stone holds force, not edges — a blade that gets around the shield hurts her like anyone.
 - **Ties:** It carries no artificer's mark, because Murrow set the stone. Kingdom-made Guard gear is supposed to be marked, and everyone in Stoutwell knows what unmarked work makes people ask.
 
-### Corin Hale (Pitch)
+### Corin Hale (Your idea)
 
 <!-- review-key: lore-keeper:34582b52-d6f4-4683-a0bc-8e616e8e6d33 -->
 _From a lore-keeper chat, 2026-11-10 · Characters._
