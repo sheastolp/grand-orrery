@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T17:06:33.210Z",
+  "built": "2026-11-11T17:06:59.290Z",
   "branch": "review",
-  "commit": "e6bc22a9e75a5be39ca3f3d664e7bf7d643ea1ab",
+  "commit": "435cbde7e3defa594364272715cc3c66c7be440e",
   "counts": {
     "person": 94,
     "role": 11,
@@ -4722,7 +4722,7 @@
       "type": "note",
       "name": "Orin Bellweather - A halfling blacksmith apprentice with latent fire magic",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwblhuot",
