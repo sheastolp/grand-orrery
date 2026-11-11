@@ -2207,3 +2207,13 @@ _Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers'
 _Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: a post, a habit, a piece of gear or a person._
 
 - Every second Wednesday (the first occurrence), they light fragrant herbs around guards’ beds prior sleeping until morning waking up smelling like lavender fields instead ordinary hearth-smoke scent lingering there even amidst cold winter months still fresh somehow always filling air pleasantly throughout village otherwise never noticed unless intentionally sought out purposefully rather expectantly curious observer might wonder why particular nights smells noticeably different subtle yet distinctively sweeter fragrance waft gently across living quarters all household residents collectively sigh contentedly satisfied seemingly unaware others noticing slight difference between days experiencing mysterious evening routine practiced quietly observing magic presence unknown lurking unseen just waiting happenstance fortuitous event bringing them together uniting human and halfling alike forming powerful bond lasting generations strengthening already strong ties connecting people within Stoutwell community ultimately further enhancing unity amongst themselves shared experiences fostering profound appreciation deep admiration held tightly toward one another.
+
+### Elara Willowbrook (Pitch)
+
+<!-- review-key: rest:idea-mwbtm055 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._
+
+- **Race: Half-Elf**
+- **Age: 9 years**
+- **Race: Half-Elf**
