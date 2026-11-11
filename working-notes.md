@@ -2308,7 +2308,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or t
 - Fire element tied closely (ash falling brings warmth igniting sparks)
 - The tree essence imbued subtly powers life-restoration energies able also rejuvenate any wound carrying curse or sickness
 
-### Vesper Harrowmere’s Enchanted Quill (Pitch)
+### Vesper Harrowmere’s Enchanted Quill (Your idea)
 
 <!-- review-key: rest:idea-mwc74dr3 -->
 <!-- added by the AI -->
