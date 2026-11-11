@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T12:29:31.187Z",
+  "built": "2026-11-11T13:19:13.146Z",
   "branch": "review",
-  "commit": "438dde99b559eb47e600f143bd62cbb29452212b",
+  "commit": "4c80adbfa73b25f29b7e3fffb7d7c971966d1486",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 247,
+    "note": 248,
     "document": 10,
     "map": 4
   },
@@ -425,7 +425,8 @@
         "working-notes-what-is-the-most-important-thing-about-stoutwell",
         "working-notes-orin-bellweather-a-halfling-blacksmith-apprentice-with-latent-fire-magic",
         "working-notes-whisperwinds-elven-tavern",
-        "working-notes-whisperwind-featherhook"
+        "working-notes-whisperwind-featherhook",
+        "working-notes-whisperwinds-enchanted-quill"
       ]
     },
     {
@@ -11509,6 +11510,32 @@
         "file": "working-notes.md",
         "line": 2286
       }
+    },
+    {
+      "id": "working-notes-whisperwinds-enchanted-quill",
+      "type": "note",
+      "name": "Whisperwind’s Enchanted Quill",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwc5aq44",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An enchanted quill that writes only truth about any subject it's used to write.",
+        "who": "Orin Bellweather uses this new item found at Whisperside Artificers’ shop after years away with his family estate by Verrowen Lake.",
+        "where": "It was discovered while visiting Murrow Monstradius during summer break from school when he returned home for two months every year because magic use costs everyone mana daily like sunlight or water drinking does us humans if you don't replenish your wellspring often enough which can cause sickness until restored eventually through rest without needing active replenishment unlike items permanently holding power unless broken do not need magical energy as long term storing devices such as hearthstones require recharging over time instead a small vial would have been necessary otherwise even though still rare compared other powerful artifacts mentioned here in lore due"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- **What it Is:** An enchanted quill that writes only truth about any subject it's used to write.\n- **Who:** Orin Bellweather uses this new item found at Whisperside Artificers’ shop after years away with his family estate by Verrowen Lake.\n- **Where:** It was discovered while visiting Murrow Monstradius during summer break from school when he returned home for two months every year because magic use costs everyone mana daily like sunlight or water drinking does us humans if you don't replenish your wellspring often enough which can cause sickness until restored eventually through rest without needing active replenishment unlike items permanently holding power unless broken do not need magical energy as long term storing devices such as hearthstones require recharging over time instead a small vial would have been necessary otherwise even though still rare compared other powerful artifacts mentioned here in lore due\n- The village where newly invented whisper wind stands along its name path located on main road connecting towns east west beside lake harboring fishing vessels carrying bounty also known under various names including elms branch stream's edge creek running into larger river passing directly beneath town itself another alternate one named glade weavers route makes sense given nearby location between forest clearing filled mostly green field stretching out beyond trees toward distant mountain range adding picturesque beauty enhancing overall quaint charm desired throughout story narrative providing good balance suitable introduction seamlessly interwoven existing storyline elements combining old and fresh aspects together creating delightful cohesive whole satisfying readers desire exploration further deeper knowledge understanding within captivating fictional realm designed specifically tailored perfectly aligned beautifully accommodating diverse interests appealing multitude imagination children aged 6-10 alike eagerly anticipating uncover new intriguing mysteries hidden unknown corners universe presented vividly exciting adventure brimming potential limitless possibilities inviting imaginative minds explore discover alongside beloved characters embark upon unforgettable thrilling journey delightfully exploring wondrous intricate details world intricately crafted meticulously shaped boundless creativity awaiting discovery revealing secrets unveiling surprises bringing forth untold joy enriching lives of young audiences immersed fantasy enchanting realms imaginary adventures unfolding before them drawing inspiration from heartwarming tales rich with vibrant colors vivid textures mesmerizing sights sounds filling senses inspiring wonderment igniting passions enthusiasm curiosity sparking imaginations leaving lasting impression nurturing souls cultivating seeds ideas blossoms future masterpieces promising endless enjoyment delivering sheer ecstasy satisfaction awe admiration overwhelming amazement affection",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2296
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
+      ]
     },
     {
       "id": "midkemia-the-campaign",

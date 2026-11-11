@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T12:29:31.187Z",
+  "built": "2026-11-11T13:19:13.146Z",
   "branch": "review",
-  "commit": "438dde99b559eb47e600f143bd62cbb29452212b",
+  "commit": "4c80adbfa73b25f29b7e3fffb7d7c971966d1486",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 247,
+    "note": 248,
     "document": 10,
     "map": 4
   },
@@ -421,7 +421,8 @@
         "working-notes-what-is-the-most-important-thing-about-stoutwell",
         "working-notes-orin-bellweather-a-halfling-blacksmith-apprentice-with-latent-fire-magic",
         "working-notes-whisperwinds-elven-tavern",
-        "working-notes-whisperwind-featherhook"
+        "working-notes-whisperwind-featherhook",
+        "working-notes-whisperwinds-enchanted-quill"
       ]
     },
     {
