@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T17:01:42.670Z",
+  "built": "2026-11-11T17:02:31.953Z",
   "branch": "review",
-  "commit": "4a7e5afc93ef9063e7c41df475b4f0789f192a54",
+  "commit": "a10e13a05d3dff899ff3374428ddd6eed53a8412",
   "counts": {
     "person": 94,
     "role": 11,
@@ -4936,7 +4936,7 @@
       "type": "note",
       "name": "Orin Bellweather’s Discovery",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwby4o4b",
