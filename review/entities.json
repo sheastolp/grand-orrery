@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T14:35:26.645Z",
+  "built": "2026-11-11T15:25:19.503Z",
   "branch": "review",
-  "commit": "05c36cec6e3d86bfbf4abd14eddc326ce242dd38",
+  "commit": "79954619b4b785618cffc37bc757c2458b2b25cc",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 251,
+    "note": 252,
     "document": 10,
     "map": 4
   },
@@ -11627,6 +11627,29 @@
       "mentions": [
         "hearthstone"
       ]
+    },
+    {
+      "id": "working-notes-lyra-briarwood",
+      "type": "note",
+      "name": "Lyra Briarwood",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwc9stwh",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "name": "Elysa Bramble",
+        "race_age": "Half-Elf Halfling hybrid aged 22 years.",
+        "trade": "Craftswoman specializing in making enchanted wooden toys that aid children’s elemental magic learning"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._\n\n- **Name:** Elysa Bramble\n- **Race & Age:** Half-Elf Halfling hybrid aged 22 years.\n- **Trade:** Craftswoman specializing in making enchanted wooden toys that aid children’s elemental magic learning\n- **Want/Desire to succeed at her trade? To create an interactive toy set teaching young villagers about rift connecting worlds through magical playtime adventures using simple elements like wind or fire spells without draining too much mana from users repeatedly.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2344
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
