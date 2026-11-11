@@ -2032,19 +2032,6 @@ _Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: 
 - **Limits:** The whistles only function effectively within earshot – roughly half a mile – and are useless against creatures capable of muffling sound. Moreover, if multiple whistles sound simultaneously, the effect diminishes as the sounds blend together.
 - **Ties:** This ritual directly reflects Hesketh’s reliance on a layered defense strategy, acknowledging that brute force alone won't suffice against the dangers lurking in the Monster Wood. It also highlights the diverse skillsets required for Stoutwell’s protection: Rook’s experience, Whisperwind’s sensitivity, and Brackwood’s… well, his ability to notice things others miss.
 
-### Monstradius’ Peculiar Pipe (Pitch)
-
-<!-- review-key: rest:idea-mwbcwdsy -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-11 · about something GuildScribe's guild hall keeps, does or is known for._
-
-- **What it is:** Murrow’s shop, Monstradius, keeps a collection of unusual pipes crafted from various materials – ash wood from the Ashen Reach, bone harvested from Rootwraiths (a particularly gruesome acquisition), even fragments of shimmering crystal pulled from the Emerald Echoes. These aren't just for smoking; each pipe is subtly enchanted to amplify or dampen specific magical effects.
-- **Who:** Primarily used by Murrow himself, though he occasionally loans out a ‘stabilized’ version to trusted villagers like Burn, the Wellhouse elf, when dealing with unstable mana surges or dangerous creatures.
-- **Where:** Located within the cluttered workshop at the rear of Monstradius, shielded behind a reinforced stone wall lined with shelves overflowing with arcane components and half-finished contraptions. The most potent pipes reside in a locked cabinet only Murrow can access.
-- **How it works:** Each pipe resonates with a different type of magic—the ashwood pipe dulls elemental fire spells, allowing safe handling of magically ignited objects, while the rootwraith bone pipe briefly enhances detection magic, revealing hidden traces of energy or illusions. They don’t *create* magic, but they modulate its flow, making it safer and more controllable.  The crystal pipes are exceptionally rare and require careful calibration based on the user’s own mana affinity.
-- **Limits:** The enchantments are temporary – lasting no longer than an hour per pipe - and drain the user’s mana rapidly if overused. A poorly crafted pipe could backfire spectacularly, unleashing chaotic bursts of uncontrolled magic. Furthermore, some pipes (like those made from Rootwraiths) carry residual echoes of their creation, subtly influencing the user's thoughts and emotions.
-- **Ties:** These pipes were commissioned by Murrow himself after centuries of observing magical phenomena across various worlds through his Rift compasses. He believes that understanding how to ‘tune’ magic—not control it—is key to preventing catastrophic rifts and safeguarding Verrowen. Burn is often found using one of these pipes to fuel his nightly roasts at the Wellhouse tavern; he claims the slight dampening effect allows him to
-
 ### Orin’s Echoes (Pitch)
 
 <!-- review-key: rest:idea-mwbdpf0u -->
