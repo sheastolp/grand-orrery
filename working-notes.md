@@ -1409,6 +1409,29 @@ _From a Claude session, 2026-11-11 · Items & inventions._
 
 **Why:** Shea asked for it directly: a very rare red-capped mushroom that randomly teleports whoever eats it to the Mushroom Kingdom. It also turns Burn's long-standing mushroom claim from a joke into the truth nobody believes.
 
+### Burn: the Mushroom Kingdom stint (proposed edits to his entry) (Pitch)
+
+<!-- review-key: lore-keeper:14f8361c-46ce-476f-83ff-eabb3d87e637 -->
+<!-- added by the AI -->
+_From a lore-keeper chat, 2026-11-11 · sent by Claude · Proposed edits to Burn's roster line and universe.md profile, at Shea's word: his personality comes from a stint in the Mushroom Kingdom after he ate a wander-cap by accident.._
+
+_From a Claude session, 2026-11-11 · Characters — proposed edits, not a new entry._
+
+Shea's direction: Burn's personality comes from a stint in the Mushroom Kingdom, where he was accidentally teleported by a wander-cap (see "The Wander-Cap"). The stint sits inside his existing story — it happened on the Woodland Road while he was fleeing the capital, which keeps his secret (the runaway jester) exactly as it is. Proposed changes:
+
+**1. roster.md — his "In a line" becomes:**
+"Short, mustached, red cap. Drops one-line roasts from his bar stool, only when it's funny, about what people do and never who they are. The Wellhouses' one friend. Swears red-capped mushrooms make you grow — one took him to the Mushroom Kingdom for a season, and he came back like this. A little fire magic."
+
+**2. universe.md — the "Mushrooms" bullet is replaced with:**
+"- **Mushrooms:** The common red-caps the gatherers bring in do nothing, whatever the old tales say. But there is a rare true one, the wander-cap, and Burn ate one on the Woodland Road fifteen years ago, on the run from the capital. It threw him into the Mushroom Kingdom, where the red mushrooms really do make you grow. He spent a season there — pipes, floating coins, folk in mushroom houses, and a cap he has worn ever since — before a pipe finally brought him back within a day's walk of Stoutwell. He still eats the common red-caps whenever they are served, half in hope, and his little fire came back with him: the kingdom's flowers burn, and a spark of it stayed in his fingers."
+
+**3. universe.md — "How he got here" gains one sentence at the end:**
+"What he never tells is that the journey had a middle (see Mushrooms). Asked where he is from, he still tells a different story every time; the true one is the one nobody would believe."
+
+Nothing else in his entry needs to change: his manner, his rules and his secret all stand — the stint is what made him like this.
+
+**Why:** Shea asked for Burn's personality to come from the stint. Once these edits are applied and published, the bots that read his record from the Orrery (Burn's own among them) pick the new line up on their own.
+
 ## From Claude
 
 Pitches filed by Claude, the cloud AI, from the owner's main chat. Nothing here is decided until it's marked **Your idea**.
