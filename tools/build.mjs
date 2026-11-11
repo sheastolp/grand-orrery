@@ -198,6 +198,7 @@ const ORIGINS = [
   [/^from the codex$/i, "codex"],
   [/^from wake in verrowen$/i, "verrowen"],
   [/^from the lore-keeper$/i, "lore-keeper"],
+  [/^from claude$/i, "claude"],
   [/^from rest mode$/i, "rest"],
 ];
 
@@ -349,7 +350,7 @@ function chatItem(s, note, file) {
   const e = {
     id: slug(name), type: "item", name, icon: relic ? "🏺" : "💡",
     category: relic ? "Peddlers' wares" : "Sent in from the chat",
-    kind: relic ? "Relics" : { "lore-keeper": "From the lore-keeper", codex: "From the Codex", rest: "From auto mode" }[s.origin] || "Sent in",
+    kind: relic ? "Relics" : { "lore-keeper": "From the lore-keeper", claude: "From Cl" + "aude", codex: "From the Codex", rest: "From auto mode" }[s.origin] || "Sent in",
     origin: s.origin, status: s.status || "pitch",
   };
   if (prof.kind) e.fields = { kind: prof.kind, ...fields }; else if (Object.keys(fields).length) e.fields = fields;
