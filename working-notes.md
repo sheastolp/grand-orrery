@@ -1393,6 +1393,22 @@ _From a lore-keeper chat, 2026-11-10 · Characters._
 **Secret:** Possesses a minor talent for manipulating echoes – capable of creating brief sonic illusions to add emphasis or create diversions during particularly urgent broadcasts. This ability stems from a childhood spent exploring abandoned catacombs beneath the GuildScribe Hall. 
 **Story Hooks:** Knowledgeable about the Kingdom’s political landscape and historical events; potentially holds key information relating to the founding of Stoutwell or forgotten royal decrees. His frequent travels could lead him into conflict with criminal organizations seeking to exploit his position. Has been observed discreetly communicating with Murrow, possibly investigating unusual magical activity in Stoutwell.
 
+### The Wander-Cap (Pitch)
+
+<!-- review-key: lore-keeper:72f8fff8-12c5-4994-a2df-ba19f564c3a7 -->
+<!-- added by the AI -->
+_From a lore-keeper chat, 2026-11-11 · sent by Claude · A very rare red-capped mushroom for the Orrery, at Shea's word in his main chat; it is also the truth behind Burn's mushroom claim.._
+
+_From a Claude session, 2026-11-11 · Items & inventions._
+
+- **Kind:** Item (mushroom)
+- **What it is:** A red-capped mushroom, white-spotted, that looks exactly like the common red-caps the gatherers bring in — the harmless kind that do nothing at all, whatever the old tales say. The true wander-cap is so rare that no one alive can tell it from the common kind until it has been eaten, and by then it is too late.
+- **What it does:** Eating one sometimes — not always, and nobody knows what tips it — throws the eater clean out of Verrowen and into the Mushroom Kingdom: a land of giant mushrooms, green pipes that swallow travellers whole, coins and brickwork floating in the sky, and small folk who live in mushroom houses. While there, that kingdom's own big red mushrooms make the eater grow to twice their size, which is where the gatherers' tale about red-caps and growing comes from in the first place. Time runs oddly there, and getting back is the hard part: the kingdom's pipes and mushrooms decide when, and they are not reliable.
+- **Rarity:** Very rare. A wander-cap might fruit once in a generation in the Monster Wood or along the Woodland Road, and most get eaten by something that never comes back to say so.
+- **Who knows:** Almost nobody. Burn knows, because it happened to him (see his entry), and he has never managed to make anyone believe him.
+
+**Why:** Shea asked for it directly: a very rare red-capped mushroom that randomly teleports whoever eats it to the Mushroom Kingdom. It also turns Burn's long-standing mushroom claim from a joke into the truth nobody believes.
+
 ## From Claude
 
 Pitches filed by Claude, the cloud AI, from the owner's main chat. Nothing here is decided until it's marked **Your idea**.
