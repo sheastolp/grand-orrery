@@ -2032,7 +2032,7 @@ _Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: 
 - **Limits:** The whistles only function effectively within earshot – roughly half a mile – and are useless against creatures capable of muffling sound. Moreover, if multiple whistles sound simultaneously, the effect diminishes as the sounds blend together.
 - **Ties:** This ritual directly reflects Hesketh’s reliance on a layered defense strategy, acknowledging that brute force alone won't suffice against the dangers lurking in the Monster Wood. It also highlights the diverse skillsets required for Stoutwell’s protection: Rook’s experience, Whisperwind’s sensitivity, and Brackwood’s… well, his ability to notice things others miss.
 
-### Orin’s Echoes (Pitch)
+### Orin’s Echoes (Your idea)
 
 <!-- review-key: rest:idea-mwbdpf0u -->
 <!-- added by the AI -->
