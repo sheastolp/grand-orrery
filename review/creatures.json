@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-11T08:42:03.009Z",
+  "built": "2026-11-11T09:07:40.593Z",
   "branch": "review",
-  "commit": "807e88bd54054ce2776b47f73cfdb962bda72bde",
+  "commit": "27eb05d96c019651f41e3bd232c1e8ba5fae7173",
   "counts": {
     "person": 94,
     "role": 11,
     "world": 3,
     "item": 108,
     "place": 15,
-    "creature": 17,
+    "creature": 18,
     "lore": 38,
-    "note": 241,
+    "note": 242,
     "document": 10,
     "map": 4
   },
@@ -521,6 +521,38 @@
         "hp": 28,
         "to_hit": 4,
         "damage": "1d8+2"
+      }
+    },
+    {
+      "id": "whisperwind-wraith",
+      "type": "creature",
+      "name": "Whisperwind Wraith",
+      "origin": "rest",
+      "status": "pitch",
+      "world": "verrowen",
+      "review_key": "rest:idea-mwbwb789",
+      "filed": "2026-11-11",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **What it Is:** An ethereal creature that inhabits fallen trees within Whistling Willow.\n- Creatures called \"Whisperwinds\" appear when strong winds blow through dead Ashen Reach ashwood during twilight hours.",
+      "notes": [
+        "working-notes-whisperwind-wraith"
+      ],
+      "source": {
+        "file": "working-notes.md",
+        "line": 2238
+      },
+      "icon": "👻",
+      "fields": {
+        "does": "An ethereal creature that inhabits fallen trees within Whistling Willow.",
+        "stats": "CR 2 · AC 13 · HP 45 · +5 to hit · 1d10+3"
+      },
+      "place": "place-the-monster-woods-western-edge",
+      "stats_made": true,
+      "stats": {
+        "cr": "2",
+        "ac": 13,
+        "hp": 45,
+        "to_hit": 5,
+        "damage": "1d10+3"
       }
     }
   ]
