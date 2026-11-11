@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T09:07:40.593Z",
+  "built": "2026-11-11T09:33:09.850Z",
   "branch": "review",
-  "commit": "27eb05d96c019651f41e3bd232c1e8ba5fae7173",
+  "commit": "beb898ab5b68af2341360a358ee7135547ec897a",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 242,
+    "note": 243,
     "document": 10,
     "map": 4
   },
@@ -4902,6 +4902,34 @@
         "line": 2238
       },
       "world": "verrowen"
+    },
+    {
+      "id": "working-notes-whisperwinds-elven-tavern",
+      "type": "note",
+      "name": "Whisperwind’s Elven Tavern",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbx7x7l",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An enchanting tavern at night where elves gather to drink stout ale.",
+        "who": "Willa Stonebridge lives there with her elvish family known for their hospitality.",
+        "where": "It's located near Whisperside Hill just beyond Morrow House district inside Murrow's shop Monstradius building north-east corner facing Monster Wood wall gate",
+        "how_it_works": "Enchanted by Doric long ago during his forging work creating feather hooks that glows warm light attracting halflings home from afar every full moon while brewing strong magic potions making villagers feel cozy drinking stronger than any wine ever brewed enhancing magical abilities temporarily improving perception hearing strength allowing elf guests converse fluently even though they speak in native tongue (Elves only)"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- **What it is:** An enchanting tavern at night where elves gather to drink stout ale.\n- **Who:** Willa Stonebridge lives there with her elvish family known for their hospitality.\n- **Where:** It's located near Whisperside Hill just beyond Morrow House district inside Murrow's shop Monstradius building north-east corner facing Monster Wood wall gate\n- **How It Works:** Enchanted by Doric long ago during his forging work creating feather hooks that glows warm light attracting halflings home from afar every full moon while brewing strong magic potions making villagers feel cozy drinking stronger than any wine ever brewed enhancing magical abilities temporarily improving perception hearing strength allowing elf guests converse fluently even though they speak in native tongue (Elves only)\n- **Limits:* Tending firewood on a cold winter day takes longer due its warmth diminishing effects* A single bottle costs an hour or two depending upon size as opposed 1/2 glass water cooled overnight becomes refreshing beverage *One visitor per group can share between them each serving itself after consuming half volume capacity maximum limit otherwise overindulgence results exhaustion lasting until dawn regardless age gender*\n- **Ties*: Artificer, Halfling Race; The Wellhouse Family*",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2247
+      },
+      "world": "verrowen",
+      "mentions": [
+        "doric",
+        "murrow"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
