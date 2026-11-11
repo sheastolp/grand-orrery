@@ -2359,3 +2359,15 @@ _Made up by the AI in auto mode, 2026-11-11 · about a place in Verrowen the lor
 - **Daily Routine for Farmers & Shepherds**
 - At dawn after feeding their herd or flock with normal fodder plus special silver stream water near whisperwinds:
 - Milk yields an additional boost lasting from morning till evening:
+
+### Whisperwind’s Echo Sprites (Pitch)
+
+<!-- review-key: rest:idea-mwcpdah4 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-11 · about a creature of the wilds of Verrowen: Greyhaven, the deep woods: where it lives, what it does, its limits._
+
+- **What it Is:** Tiny magical creatures that dwell within Whisperwind Featherhook.
+- **Who:** Elara Swiftleaf discovered their existence while examining her father's collection for new enchantments at his shop Monstradius after noticing tiny flashes around an unlabelled artifact he had acquired recently under mysterious circumstances related to Orin Bellweather - A halfling blacksmith apprentice with latent fire magic.
+- **Where:** These sprites inhabit enchanted areas across Verrowen where history whispers tales older than time itself — places like Ashen Ember Tavern near Silverstream Reach or beneath Brackwood Fringe by whisperwinds unseen until twilight falls upon these realms through cracks between worlds opened from beyond Yorewen alone (Yorewens being another name whispered in local tavern stories).
+- The Wispfield Sprites emerge only when someone close holds a living connection strong enough toward those ancient beings dwelling there—be they human family members long lost into legendary roots intertwined deeply among elder trees bearing witness as generations flourish over eons—their presence visible amidst shimmering trails following every soul touched directly during moments of life-altering realization.
+- They serve both protectorate duties against malevolence lurking unknown depths below us waiting patiently observing humanity's passage forward; guiding travelers safely past perilous paths lined filled danger often overlooked due invisible hands stretching far reaching thin air connecting distant locations otherwise separated vast distances apart causing them usually unnoticed traveling souls wandering along unknowingly towards fate awaiting discovery.
