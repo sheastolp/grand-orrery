@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T03:39:38.456Z",
+  "built": "2026-11-11T04:04:53.832Z",
   "branch": "review",
-  "commit": "a29c5fed0b50520bfb4e919c7aec907467b8c88b",
+  "commit": "e4a9f2da02ebdbfcd2d28ab04fb914a44df87a3d",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 232,
+    "note": 233,
     "document": 10,
     "map": 4
   },
@@ -4715,6 +4715,27 @@
       "world": "verrowen",
       "mentions": [
         "featherhook"
+      ]
+    },
+    {
+      "id": "working-notes-orin-bellweather-a-halfling-blacksmith-apprentice-with-latent-fire-magic",
+      "type": "note",
+      "name": "Orin Bellweather - A halfling blacksmith apprentice with latent fire magic",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwblhuot",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._\n\n- Latent Fire Magic helps him power through long shifts\n- Dreamed about an Elven Elderwood Forest where elves gifted flowers that glow like embers during twilight hours\n- Parents tie into Murrow when young mother visits craftwork market carrying potions brewed by her daughter (a minor potion brewer apprenticed under Eldra wellhouse)",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2157
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
       ]
     },
     {
