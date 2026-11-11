@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-11T01:58:47.091Z",
+  "built": "2026-11-11T02:00:23.177Z",
   "branch": "review",
-  "commit": "1f79228648bd934671a0d7943a1c8a7dac09a918",
+  "commit": "b71896ffa265a95fe68f68734ac93aca55ea96df",
   "counts": {
-    "person": 89,
+    "person": 94,
     "role": 11,
     "world": 3,
-    "item": 103,
+    "item": 105,
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 227,
+    "note": 230,
     "document": 10,
     "map": 4
   },
@@ -191,7 +191,8 @@
       ],
       "mentioned_in": [
         "universe-beyond-the-village",
-        "working-notes-the-woodland-road"
+        "working-notes-the-woodland-road",
+        "working-notes-comeback"
       ]
     },
     {
