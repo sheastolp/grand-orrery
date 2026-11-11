@@ -2274,3 +2274,11 @@ _Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: 
 - As communication tool between different posts
 - To synchronize activities like herding cattle by blowing specific tunes for directions (left/right/stop)
 - Used during rituals as accompaniment with reed flutes played alongside
+
+### "The Wellhouse Secret" (Pitch)
+
+<!-- review-key: rest:idea-mwc2m9g7 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-11 · about a custom, saying, food or rule of daily life in Stoutwell._
+
+- **Who/Where/HOW It Works/Who Tied to People or Places/Limits/Ties/New Canon**
