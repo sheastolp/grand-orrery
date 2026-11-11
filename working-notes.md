@@ -2144,7 +2144,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: 
 - Wendeline Brackenford’s eldest status relates directly here allowing her ability pass wisdom gained ages past still alive today.
 - Fenwick Larkspur's bluntness would ensure clarity behind each choice during these nights passed speaking softly beside elder thus helping remind everyone why they chose to join protecting families living happily yet close enough knowing both seen and unseen threats ever exist within world.
 
-### Elara Willowbrook’s Echo (Pitch)
+### Elara Willowbrook’s Echo (Your idea)
 
 <!-- review-key: rest:idea-mwbklak5 -->
 <!-- added by the AI -->
