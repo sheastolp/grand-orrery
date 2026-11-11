@@ -2154,7 +2154,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about something GuildScribe's gui
 - **Who:** Whimsical halfling scribe named Elden Featherhook.
 - **Where:** Monstradius’ shop at NE corner district after hours under flickering torchlight,
 
-### Orin Bellweather - A halfling blacksmith apprentice with latent fire magic (Pitch)
+### Orin Bellweather - A halfling blacksmith apprentice with latent fire magic (Your idea)
 
 <!-- review-key: rest:idea-mwblhuot -->
 <!-- added by the AI -->
