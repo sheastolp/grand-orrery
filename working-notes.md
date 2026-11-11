@@ -1393,6 +1393,160 @@ _From a lore-keeper chat, 2026-11-10 · Characters._
 **Secret:** Possesses a minor talent for manipulating echoes – capable of creating brief sonic illusions to add emphasis or create diversions during particularly urgent broadcasts. This ability stems from a childhood spent exploring abandoned catacombs beneath the GuildScribe Hall. 
 **Story Hooks:** Knowledgeable about the Kingdom’s political landscape and historical events; potentially holds key information relating to the founding of Stoutwell or forgotten royal decrees. His frequent travels could lead him into conflict with criminal organizations seeking to exploit his position. Has been observed discreetly communicating with Murrow, possibly investigating unusual magical activity in Stoutwell.
 
+### Willa Stonebridge (Pitch)
+
+<!-- review-key: lore-keeper:21b51fed-c213-4e1b-adb1-fb092ebe539d -->
+_From a lore-keeper chat, 2026-11-10 · Characters._
+
+**Name:** Willa Stonebridge
+**Race:** Halfling
+**Sex:** Female
+**Age:** 74
+**Role:** Senior shield-bearer of the Guard – Stoutwell
+**Lives in:** Stoutwell, in a cottage by the wall, close enough to hear the wardbell.
+**Appearance:** Broad even for a stout halfling, with forearms like a smith's and grey hair cut short for under a helmet. She fights from behind a Guard shield almost as tall as she is, and when she plants it — Standfast — she looks less like a soldier than like part of the wall that got up and moved.
+**Personality:** Patient, dry, and immovable in every sense. She has trained half the village's rotation shield-bearers and corrects a stance the way other people comment on the weather. She thinks panic is just fear that hasn't been given a job yet.
+**Magic:** None of her own to speak of. Her shield carries the magic for her.
+**Connections:** Captain Hesketh Reeve leans on her for the wall and cropland rotations. Doric forged her shield. Fenwick Larkspur was already a retired Elder when she joined, and she still brings him the Guard's news first, out of old respect.
+**Secret:** Standfast is unmarked Monstradius work. Murrow set its stone years ago, before she understood what an unmarked enchantment could make people ask, and she has never told the Elderhold who did it.
+**Story Hooks:** The shield Guard is small and overworked, and Willa is its oldest full-timer: if she falls, no one is ready to hold the middle of the line. And if the Kingdom ever asks questions about unmarked Guard gear, her, Murrow and the Elderhold are in a bind at once.
+
+### Standfast (Pitch)
+
+<!-- review-key: lore-keeper:5f49e428-4189-4a7e-9953-8c2db7ee0b55 -->
+_From a lore-keeper chat, 2026-11-10 · Items & inventions._
+
+- **Kind:** Weapon (enchanted shield)
+- **What it is:** An enchanted Guard shield — one of the big shields Stoutwell's halfling shield-bearers fight from behind, almost fully hidden. Doric forged it; its boss is set with a charged stone.
+- **Who:** Carried by Willa Stonebridge, the Guard's senior shield-bearer.
+- **Where:** Stoutwell — the walls, the croplands, and wherever the shield line forms.
+- **How it works:** While its bearer braces with the shield planted, the stone drinks the force of blows: pushes, charges and rootwyrm lunges that should bowl a halfling over leave her standing. When the stored force passes what the stone can hold, the shield sheds it as a single deep bell-note — the line's warning that its anchor is at her limit.
+- **Limits:** The charge fades like any enchanted item's, and recharging means Monstradius. Bracing roots the bearer too: planted, she cannot dodge, turn quickly or retreat until she lifts the shield. And the stone holds force, not edges — a blade that gets around the shield hurts her like anyone.
+- **Ties:** It carries no artificer's mark, because Murrow set the stone. Kingdom-made Guard gear is supposed to be marked, and everyone in Stoutwell knows what unmarked work makes people ask.
+
+### Corin Hale (Pitch)
+
+<!-- review-key: lore-keeper:34582b52-d6f4-4683-a0bc-8e616e8e6d33 -->
+_From a lore-keeper chat, 2026-11-10 · Characters._
+
+**Name:** Corin Hale
+**Race:** Human
+**Sex:** Male
+**Age:** 35
+**Role:** Sergeant of the Guard – Stoutwell; Hesketh Reeve's second
+**Lives in:** Stoutwell, in the guardhouse rooms by the gate.
+**Appearance:** Tall, lean, and scarred along the left forearm where a shield rim caught him as a recruit. He wears Lamplight at his hip even off duty, and drills the rotation villagers in the yard behind the guardhouse — patient with the clumsy, merciless with the lazy.
+**Personality:** Steady, fair in his captain's mold, and funnier than he looks; his drill-yard insults are a village institution. He believes the rotation works because ordinary people rise to being trusted with a wall.
+**Magic:** A trace, like most humans: he can coax a wick or a campfire alight. He lets people assume Lamplight's glow is his doing and corrects no one.
+**Connections:** Hesketh Reeve's right hand and likely successor. Willa Stonebridge's shield-bearers are what his sword-and-bill drills are built around. Tobin Ashby served his own rotation days under Corin.
+**Secret:** He can barely read. Duty rosters and tithe tallies are read to him by whoever is on clerk duty, and he memorizes them whole. Bertram Quillby may suspect — and the Elder's skimmed ledgers would be much safer if the Guard's sergeant never learns to check them himself.
+**Story Hooks:** If Hesketh falls or is called away, the Guard is Corin's, illiteracy and all. And a sergeant who memorizes every roster he has ever been read is a walking record of who dodged which shifts — leverage several people would rather he didn't have.
+
+### Lamplight (Pitch)
+
+<!-- review-key: lore-keeper:17a1963f-d8e6-444c-a5b4-845931dbf97d -->
+_From a lore-keeper chat, 2026-11-10 · Items & inventions._
+
+- **Kind:** Weapon (enchanted short sword)
+- **What it is:** An enchanted short sword — a sergeant's sidearm rather than a hero's blade. Its hilt is ash wood from the Ashen Reach, the wood Stoutwell's woodworkers prize for weapon hilts.
+- **Who:** Carried by Corin Hale, sergeant of Stoutwell's Guard, and by the sergeants before him.
+- **Where:** Made in the Kingdom and come down through the Guard from sergeant to sergeant; carried now on Stoutwell's walls and night rotation.
+- **How it works:** Drawn after dark, the blade sheds a soft candle-glow — enough to read a roster by, check a latch, or see the step in front of you on the wall, and not enough to blind its bearer. Its edge also simply refuses to dull: seasons of use have never once needed a whetstone.
+- **Limits:** The glow is small and honest — it lights a page, not a battlefield, and it tells anything watching from the dark exactly where the sergeant stands. The enchantment fades like any other; on the night it runs out mid-watch, Lamplight is just a well-kept sword.
+- **Ties:** It carries a registered Kingdom artificer's mark on the ricasso, worn nearly smooth with age — the opposite of Monstradius work, and a quiet reminder that the Guard's gear wasn't always village-made.
+
+### Sella Vane (Pitch)
+
+<!-- review-key: lore-keeper:318b9b54-3e4d-44ee-a1ee-60a5c53d1377 -->
+_From a lore-keeper chat, 2026-11-10 · Characters._
+
+**Name:** Sella Vane
+**Race:** Human
+**Sex:** Female
+**Age:** 41
+**Role:** Escort to a regular merchant of the Woodland Road
+**Lives in:** Mostly the road. Stoutwell, the lake settlement and the capital are her three addresses, and she pays rent at none of them.
+**Appearance:** Weathered, close-cropped hair gone grey early, a throwing axe — Comeback — at her belt and a second, ordinary axe for firewood and emphasis. She walks a pace behind the cart and to its left, always, and scans clearings the way other people check the weather.
+**Personality:** Easy company and hard to surprise. She tells road stories freely — other people's. Merchants trust her because goods under her eye simply stop going missing.
+**Magic:** None. She is openly suspicious of enchanted gear she has to rely on, Comeback being the single exception, which she argues with like an old friend.
+**Connections:** Hired season after season by the same merchant, who runs goods between Stoutwell, the lake settlement and the capital road. Known by sight to the Guard's gathering escorts, and a familiar face to the road peddlers.
+**Secret:** In her twenties she was the thing escorts guard against: a robber on the Woodland Road, never caught and never named. She knows where the ambushes are because she picked half the spots herself. Her merchant knows. It is exactly why he hires her.
+**Story Hooks:** If robbery rises on the road again, Sella will recognize the work — either because it's hers, copied, or because an old partner is back. And her past is the one thing that could end her livelihood if the wrong Elder or the wrong tax man hears it.
+
+### Comeback (Pitch)
+
+<!-- review-key: lore-keeper:6c42eb40-2c62-4c32-9c75-2950b8ab2183 -->
+_From a lore-keeper chat, 2026-11-10 · Items & inventions._
+
+- **Kind:** Weapon (enchanted throwing axe)
+- **What it is:** An enchanted throwing axe, balanced for the hand and the air alike.
+- **Who:** Carried by Sella Vane, a merchant's escort on the Woodland Road.
+- **Where:** The Woodland Road and the capital road. Made somewhere along them — Sella names a different town every time anyone asks.
+- **How it works:** Thrown, and called with a sharp whistle in the one note Sella taught it, it pulls out of wood, ground or worse and flies back to her hand. On a cart, in a ditch, mid-ambush, she is never unarmed for long.
+- **Limits:** Each return drinks its stored mana; a drained Comeback is a good axe that stays where it lands until it is recharged. It returns only to the hand that threw it — no one else's whistle works — and it cannot pull free of a closed door, a strong grip, or deep water.
+- **Ties:** An escort's weapon through and through: useless for holding a wall, perfect for a road where trouble comes out of the treeline and goes back to it.
+
+### Vesper Harrowmere (Pitch)
+
+<!-- review-key: lore-keeper:92e84085-990f-4431-86f4-ad8003804fa3 -->
+_From a lore-keeper chat, 2026-11-10 · Characters._
+
+**Name:** Vesper Harrowmere
+**Race:** Elf
+**Sex:** Female
+**Age:** 212
+**Role:** Champion of House Harrowmere, holder of the Highwrit – the capital
+**Lives in:** The capital, in House Harrowmere's rooms by the Rolls House.
+**Appearance:** Tall and still in the elven way, dark hair dressed with a clerk's plainness that fools no one, and Quill at her hip in a sheath tooled like a scroll case. At court she dresses like paperwork and moves like a thrown knife.
+**Personality:** Precise, courteous, and dry to the point of cruelty. She treats a duel as an edit: something badly written is struck out, once, neatly. Two centuries of court have left her bored by everything except a genuinely good argument or a genuinely good fencer.
+**Magic:** More than most — elves stand first in the world's magic — but she spends hers on small perfections: a page that never smudges, a blade oiled by a look. In a duel she uses none at all, by house rule and personal pride.
+**Connections:** Kin to the head of House Harrowmere, whose Highwrit her duels defend: challenges to the house's documents, seals and honor land on her point. She knows GuildScribe's hall, and its Scribe, by reputation and old business.
+**Secret:** She has never killed anyone. Every duel of her career has ended at the signature — Quill's hair-thin silver scar — and the court's belief that she is lethal rests entirely on her never saying otherwise.
+**Story Hooks:** A duel she cannot end at first blood — a challenger who refuses the signature and fights on — would crack a legend the whole capital leans on. And a house whose honor is one woman's two-hundred-year bluff is a house one bad evening from scandal.
+
+### Quill (Pitch)
+
+<!-- review-key: lore-keeper:3f9d354d-5ca5-4649-8974-41cece500c1b -->
+_From a lore-keeper chat, 2026-11-10 · Items & inventions._
+
+- **Kind:** Weapon (enchanted rapier)
+- **What it is:** An enchanted rapier, House Harrowmere's dueling blade — thin, bright, and balanced like a pen.
+- **Who:** Carried by Vesper Harrowmere, the house's champion at the capital's court.
+- **Where:** The capital: the court, the Rolls House, and wherever a challenge to the Highwrit's honor is answered.
+- **How it works:** Quill's edge makes cuts of impossible neatness that heal into a hair-thin silver scar — the same flourish every time, a signature in skin. A duel fought with Quill signs itself, and all the capital knows the mark.
+- **Limits:** It is a dueling blade, near useless against armor, shields or monsters, and its magic is in the scar, not the cut: it wounds no deeper than any fine rapier. The signature cuts both ways — its bearer can never deny a duel, a wound, or a death, if one ever came.
+- **Ties:** Made for the house that holds the Highwrit, the Kingdom's office of fair documents — a blade that signs, for the family that seals. It carries a registered Kingdom artificer's mark, as capital work should.
+
+### Pell Ashdown (Pitch)
+
+<!-- review-key: lore-keeper:d9dff53e-c7e2-4931-825c-7e626d2a61bc -->
+_From a lore-keeper chat, 2026-11-10 · Characters._
+
+**Name:** Pell Ashdown
+**Race:** Halfling
+**Sex:** Male
+**Age:** 52
+**Role:** Lead hand and fighter of the dead-tree runs – Stoutwell
+**Lives in:** Stoutwell, at the village edge nearest the Monster Wood, because the runs start before dawn and he likes the walk short.
+**Appearance:** Wiry rather than stout, weathered dark by outdoor years, with a felling axe — Rootbane — that has been re-hafted so many times the head is the only original part anyone can prove. He smells faintly of sap and woodsmoke most days.
+**Personality:** Cheerful, unhurried, and quietly brave in the specific way of people who work where the monsters are. He judges people by how they behave in the wood: who goes quiet, who watches the treeline, and who jokes to cover fear — he counts the third kind the most dangerous and the most useful.
+**Magic:** A woodman's trace of it: splinters ease out of his hands on their own, and he always knows which way the village is. Whether that is magic or fifty years of woodcraft, Pell declines to settle.
+**Connections:** The dead-tree runs are the Guard escorts' other duty, and he works alongside their archers and shield-bearers; Willa Stonebridge trusts his read of the wood over any scout's report. Doric re-hafts and re-edges Rootbane, and pretends not to notice the enchantment when he does.
+**Secret:** Years ago, following a sound like the wood holding its breath, he found a place in the Monster Wood where the air goes thin, the way it does at a rift's edge — and said nothing. He marked it with a cairn of stacked stones only he would recognize, checks the cairn on every run, and has never once decided what to do if it changes.
+**Story Hooks:** The Blight does not stand still, and Pell's cairn is the village's only unwritten early warning of it moving. If the thin place widens, the woodcutter who never reported it becomes the most important person in Stoutwell.
+
+### Rootbane (Pitch)
+
+<!-- review-key: lore-keeper:44ad2116-d6bd-414f-a3ab-2a0515738021 -->
+_From a lore-keeper chat, 2026-11-10 · Items & inventions._
+
+- **Kind:** Weapon (enchanted felling axe)
+- **What it is:** An enchanted felling axe — a working tool that has had to be a weapon often enough to earn a name.
+- **Who:** Carried by Pell Ashdown, lead hand of Stoutwell's dead-tree runs.
+- **Where:** The edge of the Monster Wood, where the village's timber comes from, and anywhere Blighted things come out of it.
+- **How it works:** Its edge is set with a charged stone in Murrow's manner. Blighted wood splits clean under it, and the Blight's creep dies at the cut instead of spreading through the timber — the runs can haul dead trees home without hauling the rot into the village. Against the things the Blight makes, rootwyrms and worse, the edge bites like the wood remembers being healthy.
+- **Limits:** Against living, healthy wood it is stubbornly ordinary — it will not bite a sound tree, which the woodcutters call a blessing and a nuisance in the same breath. And like every enchanted thing its charge fades; a drained Rootbane is a good axe facing things a good axe shouldn't.
+- **Ties:** Doric forged the head and re-forges it still; the stone is Monstradius work, unmarked, and the woodcutters prefer it that way. The runs see things the Kingdom would ask questions about.
 ## From Wake in Verrowen
 
 Characters made in Wake in Verrowen and sent in for review. Nothing here is decided until it's marked **Your idea**.
@@ -1965,87 +2119,10 @@ _Made up by the AI in auto mode, 2026-11-10 · about a custom, saying, food or r
 - MAGIC: Purely practical and pleasant, utilizing naturally occurring elements and good cheer.
 - ROLES: 1. Hearthcircle (the village elders) to keep traditions alive, ensuring everyone feels welcome. 2. The Wellhouse elves to keep a steady supply of magic flowing in their small little world, keeping a secret or two. 3. Tobin Ashby (a blacksmith's apprentice) to make sure everything goes smoothly as well. 4. Doric (the Artificer) to easily fix anything with her tinkering skills. 5. Murrow (the Artisan) to ensure all goods are ready for shipment. 6. Hesketh Reeve (the Guard Captain) to be always vigilant and watchful.
 
-### Brackwood’s Whimsy (Your idea)
+### Brackwood’s Whimsy (Pitch)
 
 <!-- review-key: rest:idea-mwb2i5tg -->
 <!-- added by the AI -->
 _Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._
 
 - Murrow’s shop Monstradius contains a Pot of Greed, enchanted to make customers feel overwhelmingly generous – though only for items under ten silver pieces, which seems to drive people mad with generosity when trying to sell something expensive.
-
-### The Silent Offering (Your idea)
-
-<!-- review-key: rest:idea-mwb3abap -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about a piece of Stoutwell's or the Kingdom's history._
-
-- **What it is:** Fifty years ago, the Wellhouse elves discovered that offering specific herbs to the silent well during the darkest night of the year—specifically Nightshade, Rue, and Belladonna—could temporarily soothe the restless spirits residing within, preventing the local Rootwraiths from attacking the village.
-- **Who:** Elara Willowbrook, the youngest of the Wellhouse family, initiated this tradition after witnessing her grandmother, Ysolde Ambergate, successfully calm a particularly aggressive Rootwraith with a carefully constructed offering. Hesketh Reeve (the Guard Captain) initially dismissed it as superstitious nonsense, but recognized the practical benefit – fewer attacks meant fewer injured villagers and less need for his guard to intervene.
-- **Where:** The Silent Well sits at the center of Stoutwell’s Gathering Hall, covered by an intricately carved stone basin that filters rainwater into its depths. It is also located in the only place where magic truly seems to work - there are no other magical effects visible near the Well.
-- **How it works:**  The three herbs possess potent properties – Nightshade induces temporary paralysis, Rue disrupts spectral forms, and Belladonna dulls emotions, effectively calming hostile intentions.  Elara must recite a short prayer passed down through generations alongside the offering; she's learned that simply throwing them in isn't enough – they have to be presented *with* intent. This requires precise timing: the ritual has to occur during the darkest night and must be performed between midnight and 1 AM. If done correctly, the spirits briefly recognize a gesture of peace within the offerings and cease their aggression; if not, they become enraged and attack. After the completion of the Offering, any lingering magic fades quickly after one hour. A single successful Offering lasts until the next full moon.
-- **Limits:** The effect is entirely dependent on Elara’s ability to focus her intention while reciting the prayer, draining mana from her own body. Prolonged use or failure leads to debilitating weakness and disorientation. The rootwraiths don't disappear, just calm temporarily. Also, attempting to force an offer with less than the required ingredients will result in chaotic surges of energy which can cause unpredictable damage
-
-### Bellweather’s Boon (Your idea)
-
-<!-- review-key: rest:idea-mwb43rnu -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._
-
-- **What it is:** Orin Bellweather possesses a peculiar earthenware pot – seemingly ordinary at first glance – that subtly shifts the odds slightly in favor of finding lost items within a ten-foot radius.
-- **Who:** Orin himself, a young halfling peddler known for his uncanny knack with locating misplaced goods, inherited the pot from his grandfather, Silas Blackwood.
-- **Where:** Primarily used during his daily rounds through Stoutwell’s market square and along the Woodland Road.
-- **How it works:** When held aloft and focused upon an area, the pot emits a faint shimmer (barely visible to most eyes), increasing the likelihood of finding dropped coins, forgotten tools, or even wandering livestock returning unexpectedly. However, it doesn't *make* things reappear—it simply nudges fate towards their retrieval. The effect requires a small expenditure of mana, roughly equivalent to lighting a single candle.  The potency drops significantly if he uses more than three charges in rapid succession.
-- **Limits:** The range is limited to ten feet, its effects are subtle, and the pot only works on objects already lost nearby rather than conjuring them out of thin air. It does not affect magical items or creatures. If something has been moved beyond the effective range, the effect ceases entirely. Furthermore, attempting to use the pot while actively engaged in combat drains its charge rapidly.
-- **Ties:** Silas Blackwood was rumored to have once worked as an artificer, experimenting with sympathetic magic – though this remains unconfirmed by Murrow. Orin believes the pot is related to one of Murrow’s abandoned projects involving resonant stones; the halfling feels a strange hum when holding it near certain locations that seem “thin” - places where rifts could open.
-
-### Whispersong’s Vigil (Your idea)
-
-<!-- review-key: rest:idea-mwb9p4xs -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._
-
-- The tiny fishing settlement at the foot of the mountains guards a passage that leads to an unknown place beyond, while also struggling with a dwindling catch.
-
-### Bellweather’s Burden (Your idea)
-
-<!-- review-key: rest:idea-mwbbah3b -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._
-
-- **What it is:** Orin Bellweather, a halfling peddler specializing in trinkets recovered from forgotten corners of Verrowen, possesses a peculiar “Pot of Greed” – a seemingly ordinary clay pot that subtly influences those nearby to desire valuables, though not overtly or powerfully.
-- **Who:** Orin himself, along with Silas Blackwood, an elderly halfling craftsman known for his unsettlingly calm demeanor and surprisingly detailed knowledge of Stoutwell’s hidden history.
-- **Where:** Primarily within the Brackwood Fringe surrounding Stoutwell, particularly near the crumbling ruins of a former watchtower overlooking the Ashen Reach.
-- **How it works:** When placed within close proximity (approximately ten paces), the Pot radiates a faint aura that amplifies desires for wealth—not necessarily through direct manipulation, but by highlighting existing wants and fears related to possessions. A farmer might suddenly covet a fine tool, a child could be drawn to a glittering gemstone, or even someone attempting to sell goods would find themselves focusing intensely on their price. The effect is subtle - a nudge rather than a command – draining mana slowly as the pot works, usually requiring a short rest to replenish itself after prolonged use; if a user tries to forcibly take items while under its influence, they will suffer debilitating dizziness.
-- **Limits:** The Pot's influence wanes rapidly outside a small radius, diminishing entirely after approximately one hour. It doesn’t create wealth, only intensify existing longing, and can't force anyone to *do* anything beyond desiring something. Overuse drains the user’s own mana reserves quickly, leading to severe exhaustion. Silas Blackwood has been seen using it, though how he obtained it remains a mystery.
-- **Ties:** Orin acquired the Pot from Silas Blackwood during a trade involving several recovered coins and a meticulously crafted wooden bird. Silas claimed it was a “family heirloom” meant to help him with his craft, hinting at a darker past connected to the watchtower ruins. The tower dates back to a forgotten period when Stoutwell attempted to defend against creatures emerging from the Ashen Reach – those same rootwyrms that now haunt the woods.
-
-### Orin’s Echoes (Your idea)
-
-<!-- review-key: rest:idea-mwbdpf0u -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._
-
-- **What it is:** Orin Bellweather, a young halfling with a peculiar fascination for Whisperwind’s Watch, believes he hears faint echoes within its rhythmic pulses – whispers of events long past tied to the Silent Well and the village’s forgotten history.
-- **Who:** Orin is a 17-year-old halfling apprentice cartographer, known for his meticulous attention to detail and quiet nature. He’s particularly close to Burn, the wellhouse regular, who encourages his curiosity. Osric, the Elderhold leader, views him with cautious interest, recognizing a spark of potential amongst the younger generation. Hesketh Reeve finds Orin frustratingly persistent in his questions about the Watch.
-- **Where:** Primarily at Whisperwind’s Watch, a tall stone tower overlooking Stoutwell’s central well, where the Guard rotates their shifts. The Watch itself is ancient, built before the village was founded, and said to be aligned with ley lines that fluctuate unpredictably. It's located on the edge of the slums, near the dried-up well.
-- **How it works:** Orin claims the Watch doesn’t simply mark time; it *records* moments—particularly those involving strong emotion or magical energy related to the well. When the bell rings (activated by a mechanism linked to the guard’s rotations), Orin focuses intently, claiming he can perceive fleeting images and snippets of sound associated with the event – mostly relating to past struggles around the drying up of the well. The echoes are weak, fragmented, like trying to catch smoke with bare hands.  The stronger the magic used near the watch, the louder the whispers become; he’s found this effect strongest when dealing with Murrow’s experiments.
-- **Limits:** The “echoes” aren’t clear visions. They're impressions - flashes of color, disjointed sounds, overwhelming feelings of fear or sorrow. Overuse leads to intense headaches and disorientation. He requires several hours of recovery after each session at the Watch. The effects seem tied to the alignment of Whisperwind's stone and the movement of the Earth elementals beneath Stoutwell.
-- **T
-
-### Whisperwind Chime (Your idea)
-
-<!-- review-key: rest:idea-mwbfbgpr -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
-
-- A delicate music box with tiny bells that play different tunes when shaken.
-- Elara Willowbrook crafts these items using her unique skill set combined with elemental magic to infuse everyday objects into whimsical creations for village children.
-- Crafted by Elara within Murrow’s shop Monstradius near Brackwood Fringe district,
-
-### Whisperwind Enchantment (Pitch)
-
-<!-- review-key: rest:idea-mwbgzo9d -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-11 · about a place in the Kingdom's capital or on the Kingdom's roads._
-
-- Spirits associated tied closely guardian time-lapse flowers linked indirectly revealed through stories told by elderly Wellhouse elves about ancient magic used protecting their village against unseen forces from beyond mountains known only whispered among villagers sharing tales beneath tavern roofs telling children folk gathered after dusk listening as eldest well-house elf grandmother speaks mesmerizingly enchanting them away for brief moments reality becomes stranger shifting suddenly becoming something else altogether before returning gently back home safely together witnessing wond
