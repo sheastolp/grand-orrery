@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T01:20:37.997Z",
+  "built": "2026-11-11T01:20:55.448Z",
   "branch": "review",
-  "commit": "258dd0ddf1004be82189cc7c5599e0309bdc34f3",
+  "commit": "4379c06f31172282274670c5eebadb809bc1b0ef",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 228,
+    "note": 227,
     "document": 10,
     "map": 4
   },
@@ -4578,37 +4578,6 @@
       ]
     },
     {
-      "id": "working-notes-the-silent-offering-3",
-      "type": "note",
-      "name": "The Silent Offering",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwbeiwnr",
-      "filed": "2026-11-11",
-      "filed_from": "Made up by the AI in auto mode",
-      "fields": {
-        "what_it_is": "Every evening at sunset, each family in Stoutwell places a single, polished river stone – gathered from the riverbank – within the Silent Well before reciting a short prayer to Whisperwind, the spirit said to guard the village’s water supply.",
-        "who": "Primarily practiced by the halfling families of Stoutwell, though humans and even some of the more superstitious elves occasionally participate out of habit or respect for tradition. Hesketh Reeve insists on it as part of his Guard rotation - keeping watch over the well during offerings.",
-        "where": "Within the central plaza of Stoutwell, around the dried-up remains of the original well, now covered with moss and partially collapsed stonework.",
-        "how_it_works": "Families believe that Whisperwind responds to acts of quiet devotion, and the stones represent tangible gifts offered to appease her potential wrath if the well were ever to flow again (which most consider impossible). The prayers are simple requests for continued prosperity and protection against the monsters lurking beyond the Monster Wood.",
-        "limits": "The effectiveness of the offering is entirely based on belief. It doesn't actually change anything about the dwindling water source, but the ritual provides comfort and reinforces community bonds. If someone doubts Whisperwind’s existence, their offering might be ignored. A large group offering could spook nearby Rootwraiths, who are sensitive to strong emotions.",
-        "ties": "This practice originated centuries ago when a particularly severe drought threatened Stoutwell, and the Elderhold desperately sought a way to placate whatever spirits resided within the land – a time Osric's ancestors were leading elders, and likely influenced by Murrow’s teachings.  The Silent Well itself was constructed during this period as a focal point for these rituals. The tradition persists today largely due to Hesketh Reeve, who insists upon its maintenance as part of his Guard duties—and because he thinks he sees faces in the polished stone at dusk."
-      },
-      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **What it is:** Every evening at sunset, each family in Stoutwell places a single, polished river stone – gathered from the riverbank – within the Silent Well before reciting a short prayer to Whisperwind, the spirit said to guard the village’s water supply.\n- **Who:** Primarily practiced by the halfling families of Stoutwell, though humans and even some of the more superstitious elves occasionally participate out of habit or respect for tradition. Hesketh Reeve insists on it as part of his Guard rotation - keeping watch over the well during offerings.\n- **Where:** Within the central plaza of Stoutwell, around the dried-up remains of the original well, now covered with moss and partially collapsed stonework.\n- **How it works:** Families believe that Whisperwind responds to acts of quiet devotion, and the stones represent tangible gifts offered to appease her potential wrath if the well were ever to flow again (which most consider impossible). The prayers are simple requests for continued prosperity and protection against the monsters lurking beyond the Monster Wood.\n- **Limits:** The effectiveness of the offering is entirely based on belief. It doesn't actually change anything about the dwindling water source, but the ritual provides comfort and reinforces community bonds. If someone doubts Whisperwind’s existence, their offering might be ignored. A large group offering could spook nearby Rootwraiths, who are sensitive to strong emotions.\n- **Ties:** This practice originated centuries ago when a particularly severe drought threatened Stoutwell, and the Elderhold desperately sought a way to placate whatever spirits resided within the land – a time Osric's ancestors were leading elders, and likely influenced by Murrow’s teachings.  The Silent Well itself was constructed during this period as a focal point for these rituals. The tradition persists today largely due to Hesketh Reeve, who insists upon its maintenance as part of his Guard duties—and because he thinks he sees faces in the polished stone at dusk.",
-      "source": {
-        "file": "working-notes.md",
-        "line": 2048
-      },
-      "world": "verrowen",
-      "mentions": [
-        "osric",
-        "hesketh-reeve",
-        "murrow"
-      ]
-    },
-    {
       "id": "working-notes-whisperwind-chime",
       "type": "note",
       "name": "Whisperwind Chime",
@@ -4622,7 +4591,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- A delicate music box with tiny bells that play different tunes when shaken.\n- Elara Willowbrook crafts these items using her unique skill set combined with elemental magic to infuse everyday objects into whimsical creations for village children.\n- Crafted by Elara within Murrow’s shop Monstradius near Brackwood Fringe district,",
       "source": {
         "file": "working-notes.md",
-        "line": 2061
+        "line": 2048
       },
       "world": "verrowen",
       "mentions": [
