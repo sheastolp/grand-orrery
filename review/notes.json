@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T01:20:01.025Z",
+  "built": "2026-11-11T01:20:37.997Z",
   "branch": "review",
-  "commit": "25c4831bde963392fc2355346f2c434ee7343bbc",
+  "commit": "258dd0ddf1004be82189cc7c5599e0309bdc34f3",
   "counts": {
     "person": 89,
     "role": 11,
@@ -4613,7 +4613,7 @@
       "type": "note",
       "name": "Whisperwind Chime",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwbfbgpr",

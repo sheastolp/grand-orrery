@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T01:20:01.025Z",
+  "built": "2026-11-11T01:20:37.997Z",
   "branch": "review",
-  "commit": "25c4831bde963392fc2355346f2c434ee7343bbc",
+  "commit": "258dd0ddf1004be82189cc7c5599e0309bdc34f3",
   "counts": {
     "person": 89,
     "role": 11,
@@ -10748,7 +10748,7 @@
       "type": "note",
       "name": "Whisperwind Chime",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwbfbgpr",
@@ -10772,7 +10772,7 @@
       "category": "Sent in from the chat",
       "kind": "From auto mode",
       "origin": "rest",
-      "status": "pitch",
+      "status": "decided",
       "review_key": "rest:idea-mwbfbgpr",
       "filed": "2026-11-11",
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- A delicate music box with tiny bells that play different tunes when shaken.\n- Elara Willowbrook crafts these items using her unique skill set combined with elemental magic to infuse everyday objects into whimsical creations for village children.\n- Crafted by Elara within Murrow’s shop Monstradius near Brackwood Fringe district,",
