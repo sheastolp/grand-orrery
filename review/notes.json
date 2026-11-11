@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T01:19:20.490Z",
+  "built": "2026-11-11T01:20:01.025Z",
   "branch": "review",
-  "commit": "60f195e3cf52fe0185fda144e628f4044e2d078f",
+  "commit": "25c4831bde963392fc2355346f2c434ee7343bbc",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 229,
+    "note": 228,
     "document": 10,
     "map": 4
   },
@@ -4547,37 +4547,6 @@
       ]
     },
     {
-      "id": "working-notes-monstradius-peculiar-pipe-2",
-      "type": "note",
-      "name": "Monstradius’ Peculiar Pipe",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwbcwdsy",
-      "filed": "2026-11-11",
-      "filed_from": "Made up by the AI in auto mode",
-      "fields": {
-        "what_it_is": "Murrow’s shop, Monstradius, keeps a collection of unusual pipes crafted from various materials – ash wood from the Ashen Reach, bone harvested from Rootwraiths (a particularly gruesome acquisition), even fragments of shimmering crystal pulled from the Emerald Echoes. These aren't just for smoking; each pipe is subtly enchanted to amplify or dampen specific magical effects.",
-        "who": "Primarily used by Murrow himself, though he occasionally loans out a ‘stabilized’ version to trusted villagers like Burn, the Wellhouse elf, when dealing with unstable mana surges or dangerous creatures.",
-        "where": "Located within the cluttered workshop at the rear of Monstradius, shielded behind a reinforced stone wall lined with shelves overflowing with arcane components and half-finished contraptions. The most potent pipes reside in a locked cabinet only Murrow can access.",
-        "how_it_works": "Each pipe resonates with a different type of magic—the ashwood pipe dulls elemental fire spells, allowing safe handling of magically ignited objects, while the rootwraith bone pipe briefly enhances detection magic, revealing hidden traces of energy or illusions. They don’t *create* magic, but they modulate its flow, making it safer and more controllable.  The crystal pipes are exceptionally rare and require careful calibration based on the user’s own mana affinity.",
-        "limits": "The enchantments are temporary – lasting no longer than an hour per pipe - and drain the user’s mana rapidly if overused. A poorly crafted pipe could backfire spectacularly, unleashing chaotic bursts of uncontrolled magic. Furthermore, some pipes (like those made from Rootwraiths) carry residual echoes of their creation, subtly influencing the user's thoughts and emotions.",
-        "ties": "These pipes were commissioned by Murrow himself after centuries of observing magical phenomena across various worlds through his Rift compasses. He believes that understanding how to ‘tune’ magic—not control it—is key to preventing catastrophic rifts and safeguarding Verrowen. Burn is often found using one of these pipes to fuel his nightly roasts at the Wellhouse tavern; he claims the slight dampening effect allows him to"
-      },
-      "body": "_Made up by the AI in auto mode, 2026-11-11 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- **What it is:** Murrow’s shop, Monstradius, keeps a collection of unusual pipes crafted from various materials – ash wood from the Ashen Reach, bone harvested from Rootwraiths (a particularly gruesome acquisition), even fragments of shimmering crystal pulled from the Emerald Echoes. These aren't just for smoking; each pipe is subtly enchanted to amplify or dampen specific magical effects.\n- **Who:** Primarily used by Murrow himself, though he occasionally loans out a ‘stabilized’ version to trusted villagers like Burn, the Wellhouse elf, when dealing with unstable mana surges or dangerous creatures.\n- **Where:** Located within the cluttered workshop at the rear of Monstradius, shielded behind a reinforced stone wall lined with shelves overflowing with arcane components and half-finished contraptions. The most potent pipes reside in a locked cabinet only Murrow can access.\n- **How it works:** Each pipe resonates with a different type of magic—the ashwood pipe dulls elemental fire spells, allowing safe handling of magically ignited objects, while the rootwraith bone pipe briefly enhances detection magic, revealing hidden traces of energy or illusions. They don’t *create* magic, but they modulate its flow, making it safer and more controllable.  The crystal pipes are exceptionally rare and require careful calibration based on the user’s own mana affinity.\n- **Limits:** The enchantments are temporary – lasting no longer than an hour per pipe - and drain the user’s mana rapidly if overused. A poorly crafted pipe could backfire spectacularly, unleashing chaotic bursts of uncontrolled magic. Furthermore, some pipes (like those made from Rootwraiths) carry residual echoes of their creation, subtly influencing the user's thoughts and emotions.\n- **Ties:** These pipes were commissioned by Murrow himself after centuries of observing magical phenomena across various worlds through his Rift compasses. He believes that understanding how to ‘tune’ magic—not control it—is key to preventing catastrophic rifts and safeguarding Verrowen. Burn is often found using one of these pipes to fuel his nightly roasts at the Wellhouse tavern; he claims the slight dampening effect allows him to",
-      "source": {
-        "file": "working-notes.md",
-        "line": 2035
-      },
-      "world": "verrowen",
-      "mentions": [
-        "murrow",
-        "burn",
-        "rift-compass"
-      ]
-    },
-    {
       "id": "working-notes-orins-echoes",
       "type": "note",
       "name": "Orin’s Echoes",
@@ -4598,7 +4567,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._\n\n- **What it is:** Orin Bellweather, a young halfling with a peculiar fascination for Whisperwind’s Watch, believes he hears faint echoes within its rhythmic pulses – whispers of events long past tied to the Silent Well and the village’s forgotten history.\n- **Who:** Orin is a 17-year-old halfling apprentice cartographer, known for his meticulous attention to detail and quiet nature. He’s particularly close to Burn, the wellhouse regular, who encourages his curiosity. Osric, the Elderhold leader, views him with cautious interest, recognizing a spark of potential amongst the younger generation. Hesketh Reeve finds Orin frustratingly persistent in his questions about the Watch.\n- **Where:** Primarily at Whisperwind’s Watch, a tall stone tower overlooking Stoutwell’s central well, where the Guard rotates their shifts. The Watch itself is ancient, built before the village was founded, and said to be aligned with ley lines that fluctuate unpredictably. It's located on the edge of the slums, near the dried-up well.\n- **How it works:** Orin claims the Watch doesn’t simply mark time; it *records* moments—particularly those involving strong emotion or magical energy related to the well. When the bell rings (activated by a mechanism linked to the guard’s rotations), Orin focuses intently, claiming he can perceive fleeting images and snippets of sound associated with the event – mostly relating to past struggles around the drying up of the well. The echoes are weak, fragmented, like trying to catch smoke with bare hands.  The stronger the magic used near the watch, the louder the whispers become; he’s found this effect strongest when dealing with Murrow’s experiments.\n- **Limits:** The “echoes” aren’t clear visions. They're impressions - flashes of color, disjointed sounds, overwhelming feelings of fear or sorrow. Overuse leads to intense headaches and disorientation. He requires several hours of recovery after each session at the Watch. The effects seem tied to the alignment of Whisperwind's stone and the movement of the Earth elementals beneath Stoutwell.\n- **T",
       "source": {
         "file": "working-notes.md",
-        "line": 2048
+        "line": 2035
       },
       "world": "verrowen",
       "mentions": [
@@ -4630,7 +4599,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **What it is:** Every evening at sunset, each family in Stoutwell places a single, polished river stone – gathered from the riverbank – within the Silent Well before reciting a short prayer to Whisperwind, the spirit said to guard the village’s water supply.\n- **Who:** Primarily practiced by the halfling families of Stoutwell, though humans and even some of the more superstitious elves occasionally participate out of habit or respect for tradition. Hesketh Reeve insists on it as part of his Guard rotation - keeping watch over the well during offerings.\n- **Where:** Within the central plaza of Stoutwell, around the dried-up remains of the original well, now covered with moss and partially collapsed stonework.\n- **How it works:** Families believe that Whisperwind responds to acts of quiet devotion, and the stones represent tangible gifts offered to appease her potential wrath if the well were ever to flow again (which most consider impossible). The prayers are simple requests for continued prosperity and protection against the monsters lurking beyond the Monster Wood.\n- **Limits:** The effectiveness of the offering is entirely based on belief. It doesn't actually change anything about the dwindling water source, but the ritual provides comfort and reinforces community bonds. If someone doubts Whisperwind’s existence, their offering might be ignored. A large group offering could spook nearby Rootwraiths, who are sensitive to strong emotions.\n- **Ties:** This practice originated centuries ago when a particularly severe drought threatened Stoutwell, and the Elderhold desperately sought a way to placate whatever spirits resided within the land – a time Osric's ancestors were leading elders, and likely influenced by Murrow’s teachings.  The Silent Well itself was constructed during this period as a focal point for these rituals. The tradition persists today largely due to Hesketh Reeve, who insists upon its maintenance as part of his Guard duties—and because he thinks he sees faces in the polished stone at dusk.",
       "source": {
         "file": "working-notes.md",
-        "line": 2061
+        "line": 2048
       },
       "world": "verrowen",
       "mentions": [
@@ -4653,7 +4622,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- A delicate music box with tiny bells that play different tunes when shaken.\n- Elara Willowbrook crafts these items using her unique skill set combined with elemental magic to infuse everyday objects into whimsical creations for village children.\n- Crafted by Elara within Murrow’s shop Monstradius near Brackwood Fringe district,",
       "source": {
         "file": "working-notes.md",
-        "line": 2074
+        "line": 2061
       },
       "world": "verrowen",
       "mentions": [
