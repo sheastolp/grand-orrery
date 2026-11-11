@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T16:15:50.234Z",
+  "built": "2026-11-11T16:59:00.638Z",
   "branch": "review",
-  "commit": "8591f1f2292b51bcb9a9ffca2d4c04a35e0d163d",
+  "commit": "286d56e9e269f335ad6436883b2b9359beda9127",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 253,
+    "note": 252,
     "document": 10,
     "map": 4
   },
@@ -11434,24 +11434,6 @@
       "world": "verrowen"
     },
     {
-      "id": "working-notes-whisperwind-whistle",
-      "type": "note",
-      "name": "Whisperwind Whistle",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwbzxsy2",
-      "filed": "2026-11-11",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- As communication tool between different posts\n- To synchronize activities like herding cattle by blowing specific tunes for directions (left/right/stop)\n- Used during rituals as accompaniment with reed flutes played alongside",
-      "source": {
-        "file": "working-notes.md",
-        "line": 2268
-      },
-      "world": "verrowen"
-    },
-    {
       "id": "working-notes-the-wellhouse-secret",
       "type": "note",
       "name": "\"The Wellhouse Secret\"",
@@ -11465,7 +11447,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **Who/Where/HOW It Works/Who Tied to People or Places/Limits/Ties/New Canon**",
       "source": {
         "file": "working-notes.md",
-        "line": 2278
+        "line": 2268
       },
       "world": "verrowen"
     },
@@ -11483,7 +11465,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- An iron hook with intricate wind patterns etched into each feather.\n- Doric Blackwood Master Smithing.\n- In Whispersmith’s shop Monstradius located at NW district near Murrow home.",
       "source": {
         "file": "working-notes.md",
-        "line": 2286
+        "line": 2276
       },
       "world": "verrowen",
       "mentions": [
@@ -11509,7 +11491,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2286
+        "line": 2276
       }
     },
     {
@@ -11531,7 +11513,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- **What it Is:** An enchanted quill that writes only truth about any subject it's used to write.\n- **Who:** Orin Bellweather uses this new item found at Whisperside Artificers’ shop after years away with his family estate by Verrowen Lake.\n- **Where:** It was discovered while visiting Murrow Monstradius during summer break from school when he returned home for two months every year because magic use costs everyone mana daily like sunlight or water drinking does us humans if you don't replenish your wellspring often enough which can cause sickness until restored eventually through rest without needing active replenishment unlike items permanently holding power unless broken do not need magical energy as long term storing devices such as hearthstones require recharging over time instead a small vial would have been necessary otherwise even though still rare compared other powerful artifacts mentioned here in lore due\n- The village where newly invented whisper wind stands along its name path located on main road connecting towns east west beside lake harboring fishing vessels carrying bounty also known under various names including elms branch stream's edge creek running into larger river passing directly beneath town itself another alternate one named glade weavers route makes sense given nearby location between forest clearing filled mostly green field stretching out beyond trees toward distant mountain range adding picturesque beauty enhancing overall quaint charm desired throughout story narrative providing good balance suitable introduction seamlessly interwoven existing storyline elements combining old and fresh aspects together creating delightful cohesive whole satisfying readers desire exploration further deeper knowledge understanding within captivating fictional realm designed specifically tailored perfectly aligned beautifully accommodating diverse interests appealing multitude imagination children aged 6-10 alike eagerly anticipating uncover new intriguing mysteries hidden unknown corners universe presented vividly exciting adventure brimming potential limitless possibilities inviting imaginative minds explore discover alongside beloved characters embark upon unforgettable thrilling journey delightfully exploring wondrous intricate details world intricately crafted meticulously shaped boundless creativity awaiting discovery revealing secrets unveiling surprises bringing forth untold joy enriching lives of young audiences immersed fantasy enchanting realms imaginary adventures unfolding before them drawing inspiration from heartwarming tales rich with vibrant colors vivid textures mesmerizing sights sounds filling senses inspiring wonderment igniting passions enthusiasm curiosity sparking imaginations leaving lasting impression nurturing souls cultivating seeds ideas blossoms future masterpieces promising endless enjoyment delivering sheer ecstasy satisfaction awe admiration overwhelming amazement affection",
       "source": {
         "file": "working-notes.md",
-        "line": 2296
+        "line": 2286
       },
       "world": "verrowen",
       "mentions": [
@@ -11557,7 +11539,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What It Is:** An enchanted grove where fallen gold-tinted ashes reveal magical properties.\n- **Who:** Villagers from nearby areas like Whisperside discover it through lore passed down generations.\n- **Where:** Hidden area within Stoutwell village borders not far off towards the edge touched upon lightly between fields & forests known for hushed tales about mysterious happenings observed under moonlight\n- Golden-barked ashen leaves fall while locals gather around gathering hearthstones glowing faintly in dark silence\n- How Magic Works:\n- Fire element tied closely (ash falling brings warmth igniting sparks)\n- The tree essence imbued subtly powers life-restoration energies able also rejuvenate any wound carrying curse or sickness",
       "source": {
         "file": "working-notes.md",
-        "line": 2307
+        "line": 2297
       },
       "world": "verrowen"
     },
@@ -11575,7 +11557,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers' relics and the story they tell about it._\n\n- A Short Name: Elara Willowbrook also known as Whisperwind\n- Orin Bellweather - Claude\n- Willa Stonebridge – Standfast\n- Corin Hale- Sunbeam\n- Lamplight-Silas Blackwood-Family name Unknown.\n- Vesper harrowmere-Ashen Reach-Venturer",
       "source": {
         "file": "working-notes.md",
-        "line": 2321
+        "line": 2311
       },
       "world": "verrowen"
     },
@@ -11599,7 +11581,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2321
+        "line": 2311
       }
     },
     {
@@ -11621,7 +11603,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- **What it is:** An almost imperceptible hum emitted by Hearthstones during use that predicts upcoming weather patterns.\n- **Who:** Orin Bellweather\n- **Where:** Verrowen Village",
       "source": {
         "file": "working-notes.md",
-        "line": 2334
+        "line": 2324
       },
       "world": "verrowen",
       "mentions": [
@@ -11633,7 +11615,7 @@
       "type": "note",
       "name": "Lyra Briarwood",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwc9stwh",
@@ -11647,12 +11629,12 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._\n\n- **Name:** Elysa Bramble\n- **Race & Age:** Half-Elf Halfling hybrid aged 22 years.\n- **Trade:** Craftswoman specializing in making enchanted wooden toys that aid children’s elemental magic learning\n- **Want/Desire to succeed at her trade? To create an interactive toy set teaching young villagers about rift connecting worlds through magical playtime adventures using simple elements like wind or fire spells without draining too much mana from users repeatedly.",
       "source": {
         "file": "working-notes.md",
-        "line": 2344
+        "line": 2334
       },
       "world": "verrowen"
     },
     {
-      "id": "working-notes-whisperwind-whistle-2",
+      "id": "working-notes-whisperwind-whistle",
       "type": "note",
       "name": "Whisperwind Whistle",
       "doc": "working-notes",
@@ -11669,7 +11651,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** An intricately carved wooden flute that plays calming melodies when held close to one's ear.\n- **Who makes it:** Orin Bellweather crafts this item using enchanted ashwood found along Verrowen’s Ashen Reach alongside traditional woodworking techniques passed down through generations by halflings like himself or female Village Workers with latent wind magic skills from his shop Monstradius.\n- **Where it's used daily life & trades craft contextually within LORE universe**\n- Orin uses special whittling methods combined with spells imbued into each note played which can summon soothing breezes perfect for easing tensions after long days at work (e.g., weeding crops). Artificer-invented flutes also double as musical instruments during festivals in Stoutwell village events making these useful items both everyday tools aiding labor tasks such as cutting logs swiftly due its gust-like winds while being entertaining toys helping bond villagers together over joyous times shared via music playing across gatherings promoting stronger community ties essential aspects enhancing family connections among children whilst providing entertainment amidst busy schedules involving schooling where younglings learn about elemental affinity's unique harmonics resonating throughout nature.\n- **How It Works - A brief explanation on how the mechanism functions technically logically connecting seamlessly smoothly well explained clearly simply understandable scientifically soundly plausible even if seemingly magical phenomena occurring subtly naturally often overlooked but always observable accurately consistently repeatably reliable effectiveness easily verifiable intuitively satisfying broadly applicable\n- The Whisperwind Whistle operates based upon a combination of resonance stone mechanics embedded deeply integrating finely tuned acoustical properties manipulating air molecules creating vibrations akin to harmonic wave patterns that ultimately result amplified frequency output specific melodies produced when inserted properly held between lips generates desired auditory experience triggered specifically by certain notes corresponding targeted frequencies elicited producing intended effects.",
       "source": {
         "file": "working-notes.md",
-        "line": 2355
+        "line": 2345
       },
       "world": "verrowen"
     },
@@ -11690,11 +11672,11 @@
       "filed": "2026-11-11",
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **What it is:** An intricately carved wooden flute that plays calming melodies when held close to one's ear.\n- **Who makes it:** Orin Bellweather crafts this item using enchanted ashwood found along Verrowen’s Ashen Reach alongside traditional woodworking techniques passed down through generations by halflings like himself or female Village Workers with latent wind magic skills from his shop Monstradius.\n- **Where it's used daily life & trades craft contextually within LORE universe**\n- Orin uses special whittling methods combined with spells imbued into each note played which can summon soothing breezes perfect for easing tensions after long days at work (e.g., weeding crops). Artificer-invented flutes also double as musical instruments during festivals in Stoutwell village events making these useful items both everyday tools aiding labor tasks such as cutting logs swiftly due its gust-like winds while being entertaining toys helping bond villagers together over joyous times shared via music playing across gatherings promoting stronger community ties essential aspects enhancing family connections among children whilst providing entertainment amidst busy schedules involving schooling where younglings learn about elemental affinity's unique harmonics resonating throughout nature.\n- **How It Works - A brief explanation on how the mechanism functions technically logically connecting seamlessly smoothly well explained clearly simply understandable scientifically soundly plausible even if seemingly magical phenomena occurring subtly naturally often overlooked but always observable accurately consistently repeatably reliable effectiveness easily verifiable intuitively satisfying broadly applicable\n- The Whisperwind Whistle operates based upon a combination of resonance stone mechanics embedded deeply integrating finely tuned acoustical properties manipulating air molecules creating vibrations akin to harmonic wave patterns that ultimately result amplified frequency output specific melodies produced when inserted properly held between lips generates desired auditory experience triggered specifically by certain notes corresponding targeted frequencies elicited producing intended effects.",
       "notes": [
-        "working-notes-whisperwind-whistle-2"
+        "working-notes-whisperwind-whistle"
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2355
+        "line": 2345
       }
     },
     {
