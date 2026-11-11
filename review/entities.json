@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T14:10:20.139Z",
+  "built": "2026-11-11T14:35:26.645Z",
   "branch": "review",
-  "commit": "f9db3a60959dae5767515ea06cc102a99348f319",
+  "commit": "05c36cec6e3d86bfbf4abd14eddc326ce242dd38",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 250,
+    "note": 251,
     "document": 10,
     "map": 4
   },
@@ -2324,7 +2324,8 @@
         "working-notes-monstradius-items",
         "working-notes-constructed-items",
         "working-notes-silas-blackwood",
-        "working-notes-the-hearthstones-hum"
+        "working-notes-the-hearthstones-hum",
+        "working-notes-whisperwinds-hum"
       ]
     },
     {
@@ -11600,6 +11601,32 @@
         "file": "working-notes.md",
         "line": 2321
       }
+    },
+    {
+      "id": "working-notes-whisperwinds-hum",
+      "type": "note",
+      "name": "Whisperwind’s Hum",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwc80p1i",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "An almost imperceptible hum emitted by Hearthstones during use that predicts upcoming weather patterns.",
+        "who": "Orin Bellweather",
+        "where": "Verrowen Village"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- **What it is:** An almost imperceptible hum emitted by Hearthstones during use that predicts upcoming weather patterns.\n- **Who:** Orin Bellweather\n- **Where:** Verrowen Village",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2334
+      },
+      "world": "verrowen",
+      "mentions": [
+        "hearthstone"
+      ]
     },
     {
       "id": "midkemia-the-campaign",
