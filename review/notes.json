@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T17:02:31.953Z",
+  "built": "2026-11-11T17:02:59.910Z",
   "branch": "review",
-  "commit": "a10e13a05d3dff899ff3374428ddd6eed53a8412",
+  "commit": "a6396879cf24ef1fe42e6d03b464552e6ed08b42",
   "counts": {
     "person": 94,
     "role": 11,
@@ -4908,7 +4908,7 @@
       "type": "note",
       "name": "Whisperwind’s Elven Tavern",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwbx7x7l",
