@@ -2289,7 +2289,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stout
 - **Trade:** Craftswoman specializing in making enchanted wooden toys that aid children’s elemental magic learning
 - **Want/Desire to succeed at her trade? To create an interactive toy set teaching young villagers about rift connecting worlds through magical playtime adventures using simple elements like wind or fire spells without draining too much mana from users repeatedly.
 
-### Ashen Ember (Pitch)
+### Ashen Ember (Your idea)
 
 <!-- review-key: rest:idea-mwcdi8x7 -->
 <!-- added by the AI -->
