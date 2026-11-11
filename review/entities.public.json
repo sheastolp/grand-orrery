@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T17:01:14.359Z",
+  "built": "2026-11-11T17:01:42.670Z",
   "branch": "review",
-  "commit": "bcf5d0d63ebe79a82290c07bec39f9d7259f67f6",
+  "commit": "4a7e5afc93ef9063e7c41df475b4f0789f192a54",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 250,
+    "note": 249,
     "document": 10,
     "map": 4
   },
@@ -11418,29 +11418,11 @@
       "world": "verrowen"
     },
     {
-      "id": "working-notes-the-wellhouse-secret",
-      "type": "note",
-      "name": "\"The Wellhouse Secret\"",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwc2m9g7",
-      "filed": "2026-11-11",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- **Who/Where/HOW It Works/Who Tied to People or Places/Limits/Ties/New Canon**",
-      "source": {
-        "file": "working-notes.md",
-        "line": 2268
-      },
-      "world": "verrowen"
-    },
-    {
       "id": "working-notes-whisperwind-featherhook",
       "type": "note",
       "name": "Whisperwind Featherhook",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwc3ip83",
@@ -11449,7 +11431,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- An iron hook with intricate wind patterns etched into each feather.\n- Doric Blackwood Master Smithing.\n- In Whispersmith’s shop Monstradius located at NW district near Murrow home.",
       "source": {
         "file": "working-notes.md",
-        "line": 2276
+        "line": 2268
       },
       "world": "verrowen",
       "mentions": [
@@ -11466,7 +11448,7 @@
       "category": "Sent in from the chat",
       "kind": "From auto mode",
       "origin": "rest",
-      "status": "pitch",
+      "status": "decided",
       "review_key": "rest:idea-mwc3ip83",
       "filed": "2026-11-11",
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- An iron hook with intricate wind patterns etched into each feather.\n- Doric Blackwood Master Smithing.\n- In Whispersmith’s shop Monstradius located at NW district near Murrow home.",
@@ -11475,7 +11457,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2276
+        "line": 2268
       }
     },
     {
@@ -11497,7 +11479,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What It Is:** An enchanted grove where fallen gold-tinted ashes reveal magical properties.\n- **Who:** Villagers from nearby areas like Whisperside discover it through lore passed down generations.\n- **Where:** Hidden area within Stoutwell village borders not far off towards the edge touched upon lightly between fields & forests known for hushed tales about mysterious happenings observed under moonlight\n- Golden-barked ashen leaves fall while locals gather around gathering hearthstones glowing faintly in dark silence\n- How Magic Works:\n- Fire element tied closely (ash falling brings warmth igniting sparks)\n- The tree essence imbued subtly powers life-restoration energies able also rejuvenate any wound carrying curse or sickness",
       "source": {
         "file": "working-notes.md",
-        "line": 2286
+        "line": 2278
       },
       "world": "verrowen"
     },
@@ -11515,7 +11497,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers' relics and the story they tell about it._\n\n- A Short Name: Elara Willowbrook also known as Whisperwind\n- Orin Bellweather - Claude\n- Willa Stonebridge – Standfast\n- Corin Hale- Sunbeam\n- Lamplight-Silas Blackwood-Family name Unknown.\n- Vesper harrowmere-Ashen Reach-Venturer",
       "source": {
         "file": "working-notes.md",
-        "line": 2300
+        "line": 2292
       },
       "world": "verrowen"
     },
@@ -11539,7 +11521,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2300
+        "line": 2292
       }
     },
     {
@@ -11561,7 +11543,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- **What it is:** An almost imperceptible hum emitted by Hearthstones during use that predicts upcoming weather patterns.\n- **Who:** Orin Bellweather\n- **Where:** Verrowen Village",
       "source": {
         "file": "working-notes.md",
-        "line": 2313
+        "line": 2305
       },
       "world": "verrowen",
       "mentions": [
@@ -11587,7 +11569,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._\n\n- **Name:** Elysa Bramble\n- **Race & Age:** Half-Elf Halfling hybrid aged 22 years.\n- **Trade:** Craftswoman specializing in making enchanted wooden toys that aid children’s elemental magic learning\n- **Want/Desire to succeed at her trade? To create an interactive toy set teaching young villagers about rift connecting worlds through magical playtime adventures using simple elements like wind or fire spells without draining too much mana from users repeatedly.",
       "source": {
         "file": "working-notes.md",
-        "line": 2323
+        "line": 2315
       },
       "world": "verrowen"
     },
