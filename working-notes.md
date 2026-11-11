@@ -2234,3 +2234,12 @@ _Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item
 
 - **Where found out that costs 5 silver coins with enough timber or crafted cloth**
 - **How works & Limits: **
+
+### Whisperwind Wraith (Pitch)
+
+<!-- review-key: rest:idea-mwbwb789 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-11 · about a creature of the Monster Wood: where it lives, what it does, its limits._
+
+- **What it Is:** An ethereal creature that inhabits fallen trees within Whistling Willow.
+- Creatures called "Whisperwinds" appear when strong winds blow through dead Ashen Reach ashwood during twilight hours.
