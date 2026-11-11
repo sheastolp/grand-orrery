@@ -1504,7 +1504,7 @@ _From a lore-keeper chat, 2026-11-10 · Characters._
 **Secret:** She has never killed anyone. Every duel of her career has ended at the signature — Quill's hair-thin silver scar — and the court's belief that she is lethal rests entirely on her never saying otherwise.
 **Story Hooks:** A duel she cannot end at first blood — a challenger who refuses the signature and fights on — would crack a legend the whole capital leans on. And a house whose honor is one woman's two-hundred-year bluff is a house one bad evening from scandal.
 
-### Quill (Pitch)
+### Quill (Your idea)
 
 <!-- review-key: lore-keeper:3f9d354d-5ca5-4649-8974-41cece500c1b -->
 _From a lore-keeper chat, 2026-11-10 · Items & inventions._
