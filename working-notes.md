@@ -1473,7 +1473,7 @@ _From a lore-keeper chat, 2026-11-10 · Characters._
 **Secret:** In her twenties she was the thing escorts guard against: a robber on the Woodland Road, never caught and never named. She knows where the ambushes are because she picked half the spots herself. Her merchant knows. It is exactly why he hires her.
 **Story Hooks:** If robbery rises on the road again, Sella will recognize the work — either because it's hers, copied, or because an old partner is back. And her past is the one thing that could end her livelihood if the wrong Elder or the wrong tax man hears it.
 
-### Comeback (Pitch)
+### Comeback (Your idea)
 
 <!-- review-key: lore-keeper:6c42eb40-2c62-4c32-9c75-2950b8ab2183 -->
 _From a lore-keeper chat, 2026-11-10 · Items & inventions._
