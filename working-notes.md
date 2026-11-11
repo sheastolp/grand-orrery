@@ -1486,7 +1486,7 @@ _From a lore-keeper chat, 2026-11-10 · Items & inventions._
 - **Limits:** Each return drinks its stored mana; a drained Comeback is a good axe that stays where it lands until it is recharged. It returns only to the hand that threw it — no one else's whistle works — and it cannot pull free of a closed door, a strong grip, or deep water.
 - **Ties:** An escort's weapon through and through: useless for holding a wall, perfect for a road where trouble comes out of the treeline and goes back to it.
 
-### Vesper Harrowmere (Pitch)
+### Vesper Harrowmere (Your idea)
 
 <!-- review-key: lore-keeper:92e84085-990f-4431-86f4-ad8003804fa3 -->
 _From a lore-keeper chat, 2026-11-10 · Characters._
