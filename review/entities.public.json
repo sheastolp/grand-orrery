@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T17:03:22.202Z",
+  "built": "2026-11-11T17:03:42.825Z",
   "branch": "review",
-  "commit": "f7a5c5e75c1bd8080acb46433a8f828e4ae648f7",
+  "commit": "48f0ff515a07642e79d2e6a7c6ac7f5b23c6754c",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 248,
+    "note": 247,
     "document": 10,
     "map": 4
   },
@@ -11249,7 +11249,7 @@
       "type": "note",
       "name": "Elara Willowbrook",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwbtm055",
@@ -11259,24 +11259,6 @@
       "source": {
         "file": "working-notes.md",
         "line": 2211
-      },
-      "world": "verrowen"
-    },
-    {
-      "id": "working-notes-whisperwinds-toast-3",
-      "type": "note",
-      "name": "\"Whisperwind’s Toast\"",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwbuijr8",
-      "filed": "2026-11-11",
-      "filed_from": "Made up by the AI in auto mode",
-      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a custom, saying, food or rule of daily life in Stoutwell._\n\n- Every evening at dinner time, villagers make silent toasts with their hands over empty mugs.",
-      "source": {
-        "file": "working-notes.md",
-        "line": 2221
       },
       "world": "verrowen"
     },
@@ -11297,7 +11279,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- **What it Is:** An ethereal creature that inhabits fallen trees within Whistling Willow.\n- Creatures called \"Whisperwinds\" appear when strong winds blow through dead Ashen Reach ashwood during twilight hours.",
       "source": {
         "file": "working-notes.md",
-        "line": 2229
+        "line": 2221
       },
       "world": "verrowen"
     },
@@ -11316,7 +11298,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2229
+        "line": 2221
       },
       "icon": "👻",
       "fields": {
@@ -11353,7 +11335,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- **What it is:** An enchanting tavern at night where elves gather to drink stout ale.\n- **Who:** Willa Stonebridge lives there with her elvish family known for their hospitality.\n- **Where:** It's located near Whisperside Hill just beyond Morrow House district inside Murrow's shop Monstradius building north-east corner facing Monster Wood wall gate\n- **How It Works:** Enchanted by Doric long ago during his forging work creating feather hooks that glows warm light attracting halflings home from afar every full moon while brewing strong magic potions making villagers feel cozy drinking stronger than any wine ever brewed enhancing magical abilities temporarily improving perception hearing strength allowing elf guests converse fluently even though they speak in native tongue (Elves only)\n- **Limits:* Tending firewood on a cold winter day takes longer due its warmth diminishing effects* A single bottle costs an hour or two depending upon size as opposed 1/2 glass water cooled overnight becomes refreshing beverage *One visitor per group can share between them each serving itself after consuming half volume capacity maximum limit otherwise overindulgence results exhaustion lasting until dawn regardless age gender*\n- **Ties*: Artificer, Halfling Race; The Wellhouse Family*",
       "source": {
         "file": "working-notes.md",
-        "line": 2238
+        "line": 2230
       },
       "world": "verrowen",
       "mentions": [
@@ -11375,7 +11357,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or the Kingdom's history._\n\n- The newly invented product directly ties back into already established lore surrounding Verrowen (the world) and its inhabitants possessing latent magical abilities further evidenced here again reinforcing notion widespread conceptions held about said land despite general assumption pertaining latter part suggesting perhaps not everyone believed potential inherent among themselves residing there.",
       "source": {
         "file": "working-notes.md",
-        "line": 2251
+        "line": 2243
       },
       "world": "verrowen"
     },
@@ -11393,7 +11375,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- An iron hook with intricate wind patterns etched into each feather.\n- Doric Blackwood Master Smithing.\n- In Whispersmith’s shop Monstradius located at NW district near Murrow home.",
       "source": {
         "file": "working-notes.md",
-        "line": 2259
+        "line": 2251
       },
       "world": "verrowen",
       "mentions": [
@@ -11419,7 +11401,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2259
+        "line": 2251
       }
     },
     {
@@ -11441,7 +11423,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or the Kingdom's history._\n\n- **What It Is:** An enchanted grove where fallen gold-tinted ashes reveal magical properties.\n- **Who:** Villagers from nearby areas like Whisperside discover it through lore passed down generations.\n- **Where:** Hidden area within Stoutwell village borders not far off towards the edge touched upon lightly between fields & forests known for hushed tales about mysterious happenings observed under moonlight\n- Golden-barked ashen leaves fall while locals gather around gathering hearthstones glowing faintly in dark silence\n- How Magic Works:\n- Fire element tied closely (ash falling brings warmth igniting sparks)\n- The tree essence imbued subtly powers life-restoration energies able also rejuvenate any wound carrying curse or sickness",
       "source": {
         "file": "working-notes.md",
-        "line": 2269
+        "line": 2261
       },
       "world": "verrowen"
     },
@@ -11459,7 +11441,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers' relics and the story they tell about it._\n\n- A Short Name: Elara Willowbrook also known as Whisperwind\n- Orin Bellweather - Claude\n- Willa Stonebridge – Standfast\n- Corin Hale- Sunbeam\n- Lamplight-Silas Blackwood-Family name Unknown.\n- Vesper harrowmere-Ashen Reach-Venturer",
       "source": {
         "file": "working-notes.md",
-        "line": 2283
+        "line": 2275
       },
       "world": "verrowen"
     },
@@ -11483,7 +11465,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2283
+        "line": 2275
       }
     },
     {
@@ -11505,7 +11487,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- **What it is:** An almost imperceptible hum emitted by Hearthstones during use that predicts upcoming weather patterns.\n- **Who:** Orin Bellweather\n- **Where:** Verrowen Village",
       "source": {
         "file": "working-notes.md",
-        "line": 2296
+        "line": 2288
       },
       "world": "verrowen",
       "mentions": [
@@ -11531,7 +11513,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._\n\n- **Name:** Elysa Bramble\n- **Race & Age:** Half-Elf Halfling hybrid aged 22 years.\n- **Trade:** Craftswoman specializing in making enchanted wooden toys that aid children’s elemental magic learning\n- **Want/Desire to succeed at her trade? To create an interactive toy set teaching young villagers about rift connecting worlds through magical playtime adventures using simple elements like wind or fire spells without draining too much mana from users repeatedly.",
       "source": {
         "file": "working-notes.md",
-        "line": 2306
+        "line": 2298
       },
       "world": "verrowen"
     },
