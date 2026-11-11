@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T01:25:19.403Z",
+  "built": "2026-11-11T01:58:47.091Z",
   "branch": "review",
-  "commit": "22a820c587b15f92e459a41f0ab0b303f835d5fc",
+  "commit": "1f79228648bd934671a0d7943a1c8a7dac09a918",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 226,
+    "note": 227,
     "document": 10,
     "map": 4
   },
@@ -10715,6 +10715,24 @@
         "file": "working-notes.md",
         "line": 2035
       }
+    },
+    {
+      "id": "working-notes-whisperwind-enchantment",
+      "type": "note",
+      "name": "Whisperwind Enchantment",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbgzo9d",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- Spirits associated tied closely guardian time-lapse flowers linked indirectly revealed through stories told by elderly Wellhouse elves about ancient magic used protecting their village against unseen forces from beyond mountains known only whispered among villagers sharing tales beneath tavern roofs telling children folk gathered after dusk listening as eldest well-house elf grandmother speaks mesmerizingly enchanting them away for brief moments reality becomes stranger shifting suddenly becoming something else altogether before returning gently back home safely together witnessing wond",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2045
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
