@@ -2359,3 +2359,14 @@ _Made up by the AI in auto mode, 2026-11-11 · about a place in Verrowen the lor
 - **Daily Routine for Farmers & Shepherds**
 - At dawn after feeding their herd or flock with normal fodder plus special silver stream water near whisperwinds:
 - Milk yields an additional boost lasting from morning till evening:
+
+### Whisperwind Hearthstone Inn (Pitch)
+
+<!-- review-key: rest:idea-mwcqyf4t -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-11 · about a place, office or great house in one of Verrowen's towns or cities: Silverstream Reach, Highwrit._
+
+- *What It Is:* An inn known for being both mysteriously warm during cold nights due to an enchanted hearth stone located beneath each bed.
+- *Who*: Elara Swiftleaf manages this establishment with her keen eye observing guests through hidden wards placed subtly across rooms by Murrow’s staff workers long before she arrived there herself
+- Her presence brings new life into town like those ash trees that grew beside it decades ago
+- *Where* : In proximity between Gathering Hall & Village Workers’ District near Stoutwell Center
