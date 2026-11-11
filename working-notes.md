@@ -2058,7 +2058,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about a custom, saying, food or r
 - **Limits:** The effectiveness of the offering is entirely based on belief. It doesn't actually change anything about the dwindling water source, but the ritual provides comfort and reinforces community bonds. If someone doubts Whisperwind’s existence, their offering might be ignored. A large group offering could spook nearby Rootwraiths, who are sensitive to strong emotions.
 - **Ties:** This practice originated centuries ago when a particularly severe drought threatened Stoutwell, and the Elderhold desperately sought a way to placate whatever spirits resided within the land – a time Osric's ancestors were leading elders, and likely influenced by Murrow’s teachings.  The Silent Well itself was constructed during this period as a focal point for these rituals. The tradition persists today largely due to Hesketh Reeve, who insists upon its maintenance as part of his Guard duties—and because he thinks he sees faces in the polished stone at dusk.
 
-### Whisperwind Chime (Pitch)
+### Whisperwind Chime (Your idea)
 
 <!-- review-key: rest:idea-mwbfbgpr -->
 <!-- added by the AI -->
