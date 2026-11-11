@@ -2164,7 +2164,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stout
 - Dreamed about an Elven Elderwood Forest where elves gifted flowers that glow like embers during twilight hours
 - Parents tie into Murrow when young mother visits craftwork market carrying potions brewed by her daughter (a minor potion brewer apprenticed under Eldra wellhouse)
 
-### Whisperwind Lantern (Pitch)
+### Whisperwind Lantern (Your idea)
 
 <!-- review-key: rest:idea-mwbnaing -->
 <!-- added by the AI -->
