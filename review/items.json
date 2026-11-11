@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-11T17:02:59.910Z",
+  "built": "2026-11-11T17:03:22.202Z",
   "branch": "review",
-  "commit": "a6396879cf24ef1fe42e6d03b464552e6ed08b42",
+  "commit": "f7a5c5e75c1bd8080acb46433a8f828e4ae648f7",
   "counts": {
     "person": 94,
     "role": 11,
     "world": 3,
-    "item": 110,
+    "item": 109,
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 249,
+    "note": 248,
     "document": 10,
     "map": 4
   },
@@ -2376,26 +2376,6 @@
       }
     },
     {
-      "id": "whisperwind-loom",
-      "type": "item",
-      "name": "Whisperwind Loom",
-      "icon": "💡",
-      "category": "Sent in from the chat",
-      "kind": "From auto mode",
-      "origin": "rest",
-      "status": "pitch",
-      "review_key": "rest:idea-mwbve8n3",
-      "filed": "2026-11-11",
-      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- **Where found out that costs 5 silver coins with enough timber or crafted cloth**\n- **How works & Limits: **",
-      "notes": [
-        "working-notes-whisperwind-loom"
-      ],
-      "source": {
-        "file": "working-notes.md",
-        "line": 2229
-      }
-    },
-    {
       "id": "whisperwind-featherhook",
       "type": "item",
       "name": "Whisperwind Featherhook",
@@ -2412,7 +2392,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2268
+        "line": 2259
       }
     },
     {
@@ -2435,7 +2415,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2292
+        "line": 2283
       }
     }
   ]

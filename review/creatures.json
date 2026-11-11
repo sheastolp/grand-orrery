@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-11T17:02:59.910Z",
+  "built": "2026-11-11T17:03:22.202Z",
   "branch": "review",
-  "commit": "a6396879cf24ef1fe42e6d03b464552e6ed08b42",
+  "commit": "f7a5c5e75c1bd8080acb46433a8f828e4ae648f7",
   "counts": {
     "person": 94,
     "role": 11,
     "world": 3,
-    "item": 110,
+    "item": 109,
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 249,
+    "note": 248,
     "document": 10,
     "map": 4
   },
@@ -528,7 +528,7 @@
       "type": "creature",
       "name": "Whisperwind Wraith",
       "origin": "rest",
-      "status": "pitch",
+      "status": "decided",
       "world": "verrowen",
       "review_key": "rest:idea-mwbwb789",
       "filed": "2026-11-11",
@@ -538,7 +538,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2238
+        "line": 2229
       },
       "icon": "👻",
       "fields": {
