@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T04:55:10.478Z",
+  "built": "2026-11-11T05:20:32.305Z",
   "branch": "review",
-  "commit": "4cfee6878e2921645f3263c77ab71df867eebca7",
+  "commit": "474f029e89c6e03cbbdffbe33eef2c7fd7d8e1ec",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 234,
+    "note": 235,
     "document": 10,
     "map": 4
   },
@@ -11160,6 +11160,24 @@
         "file": "working-notes.md",
         "line": 2167
       }
+    },
+    {
+      "id": "working-notes-elara-wispweaver",
+      "type": "note",
+      "name": "Elara Wispweaver",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbo730e",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a creature of the Monster Wood: where it lives, what it does, its limits._\n\n- *Works:* At twilight hours following a brief lull in magical energy expenditure post-morning light exposure aiding communication directly linking human voices seamlessly connecting them straight past thinness barriers dividing worlds upon singing specific notes creating harmony even more potent than pure mana flow itself invoking latent energies stirring ancient roots below ground surface.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2175
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
