@@ -2163,3 +2163,11 @@ _Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stout
 - Latent Fire Magic helps him power through long shifts
 - Dreamed about an Elven Elderwood Forest where elves gifted flowers that glow like embers during twilight hours
 - Parents tie into Murrow when young mother visits craftwork market carrying potions brewed by her daughter (a minor potion brewer apprenticed under Eldra wellhouse)
+
+### Whisperwind Lantern (Pitch)
+
+<!-- review-key: rest:idea-mwbnaing -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
+
+- Small round hand-held lamp powered by enchanted wax.
