@@ -2331,7 +2331,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: 
 - **Who:** Orin Bellweather
 - **Where:** Verrowen Village
 
-### Lyra Briarwood (Pitch)
+### Lyra Briarwood (Your idea)
 
 <!-- review-key: rest:idea-mwc9stwh -->
 <!-- added by the AI -->
