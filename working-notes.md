@@ -2349,3 +2349,13 @@ _Made up by the AI in auto mode, 2026-11-11 · about a place, office or great ho
 - The **Ashen Echo Inn**, located near Murrow’s shop Monstradius along Silverstream Reach Road to Hesketh Reeve's southern house district wall post, boasts enchanted brickwork resembling ash tree patterns under which whispers carry conversations across room borders for those nearby without revealing their words outside these echoes—except if guests speak louder than 50 decibels or bring magic-echo amplifying items like Featherhooks into play then all can hear within range.
 - Its most famous patron was Elara Willowbrook when she returned from Rook Hill after nearly three years away (and still missing her secret), leaving behind an echoing phrase "I knew it would be here."
 - A regular now drinks at this inn while waiting on Brackwood Watch duty beside a silent well guarded by sentinels in white cloaks watching over rows upon row hidden doors connecting rooms beneath floors marked only as numbers until reaching door thirteen where they find nothing more nor less intriguing about its location below ground level other than another water fountain fed through pipes connected directly above floor seven between two of them. Whispers say the place holds countless treasures lost there and beyond time itself even though none have found proof yet since no one but guards ever venture down further inside!
+
+### Whisperwind’s Silverstream Meadow (Pitch)
+
+<!-- review-key: rest:idea-mwcoijcj -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-11 · about a place in Verrowen the lore hasn't described yet, near one it has: the Monster Wood's western edge, Ashen Reach, Brackwood Fringe, Highwrit._
+
+- **Daily Routine for Farmers & Shepherds**
+- At dawn after feeding their herd or flock with normal fodder plus special silver stream water near whisperwinds:
+- Milk yields an additional boost lasting from morning till evening:
