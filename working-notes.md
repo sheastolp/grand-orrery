@@ -2218,14 +2218,6 @@ _Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stout
 - **Age: 9 years**
 - **Race: Half-Elf**
 
-### "Whisperwind’s Toast" (Pitch)
-
-<!-- review-key: rest:idea-mwbuijr8 -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-11 · about a custom, saying, food or rule of daily life in Stoutwell._
-
-- Every evening at dinner time, villagers make silent toasts with their hands over empty mugs.
-
 ### Whisperwind Wraith (Your idea)
 
 <!-- review-key: rest:idea-mwbwb789 -->
