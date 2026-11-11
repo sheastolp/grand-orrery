@@ -1442,7 +1442,7 @@ _From a lore-keeper chat, 2026-11-10 · Characters._
 **Secret:** He can barely read. Duty rosters and tithe tallies are read to him by whoever is on clerk duty, and he memorizes them whole. Bertram Quillby may suspect — and the Elder's skimmed ledgers would be much safer if the Guard's sergeant never learns to check them himself.
 **Story Hooks:** If Hesketh falls or is called away, the Guard is Corin's, illiteracy and all. And a sergeant who memorizes every roster he has ever been read is a walking record of who dodged which shifts — leverage several people would rather he didn't have.
 
-### Lamplight (Pitch)
+### Lamplight (Your idea)
 
 <!-- review-key: lore-keeper:17a1963f-d8e6-444c-a5b4-845931dbf97d -->
 _From a lore-keeper chat, 2026-11-10 · Items & inventions._
