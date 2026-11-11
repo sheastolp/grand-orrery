@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-10T23:41:43.628Z",
+  "built": "2026-11-11T00:04:14.340Z",
   "branch": "review",
-  "commit": "975a9b249186d3b8be5f8967627f52b869b5c425",
+  "commit": "40455776bea3c356a79bdebea3231080f6467af5",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 226,
+    "note": 227,
     "document": 10,
     "map": 4
   },
@@ -4573,6 +4573,37 @@
         "doric",
         "hesketh-reeve",
         "wardbell"
+      ]
+    },
+    {
+      "id": "working-notes-monstradius-peculiar-pipe-2",
+      "type": "note",
+      "name": "Monstradius’ Peculiar Pipe",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbcwdsy",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Murrow’s shop, Monstradius, keeps a collection of unusual pipes crafted from various materials – ash wood from the Ashen Reach, bone harvested from Rootwraiths (a particularly gruesome acquisition), even fragments of shimmering crystal pulled from the Emerald Echoes. These aren't just for smoking; each pipe is subtly enchanted to amplify or dampen specific magical effects.",
+        "who": "Primarily used by Murrow himself, though he occasionally loans out a ‘stabilized’ version to trusted villagers like Burn, the Wellhouse elf, when dealing with unstable mana surges or dangerous creatures.",
+        "where": "Located within the cluttered workshop at the rear of Monstradius, shielded behind a reinforced stone wall lined with shelves overflowing with arcane components and half-finished contraptions. The most potent pipes reside in a locked cabinet only Murrow can access.",
+        "how_it_works": "Each pipe resonates with a different type of magic—the ashwood pipe dulls elemental fire spells, allowing safe handling of magically ignited objects, while the rootwraith bone pipe briefly enhances detection magic, revealing hidden traces of energy or illusions. They don’t *create* magic, but they modulate its flow, making it safer and more controllable.  The crystal pipes are exceptionally rare and require careful calibration based on the user’s own mana affinity.",
+        "limits": "The enchantments are temporary – lasting no longer than an hour per pipe - and drain the user’s mana rapidly if overused. A poorly crafted pipe could backfire spectacularly, unleashing chaotic bursts of uncontrolled magic. Furthermore, some pipes (like those made from Rootwraiths) carry residual echoes of their creation, subtly influencing the user's thoughts and emotions.",
+        "ties": "These pipes were commissioned by Murrow himself after centuries of observing magical phenomena across various worlds through his Rift compasses. He believes that understanding how to ‘tune’ magic—not control it—is key to preventing catastrophic rifts and safeguarding Verrowen. Burn is often found using one of these pipes to fuel his nightly roasts at the Wellhouse tavern; he claims the slight dampening effect allows him to"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- **What it is:** Murrow’s shop, Monstradius, keeps a collection of unusual pipes crafted from various materials – ash wood from the Ashen Reach, bone harvested from Rootwraiths (a particularly gruesome acquisition), even fragments of shimmering crystal pulled from the Emerald Echoes. These aren't just for smoking; each pipe is subtly enchanted to amplify or dampen specific magical effects.\n- **Who:** Primarily used by Murrow himself, though he occasionally loans out a ‘stabilized’ version to trusted villagers like Burn, the Wellhouse elf, when dealing with unstable mana surges or dangerous creatures.\n- **Where:** Located within the cluttered workshop at the rear of Monstradius, shielded behind a reinforced stone wall lined with shelves overflowing with arcane components and half-finished contraptions. The most potent pipes reside in a locked cabinet only Murrow can access.\n- **How it works:** Each pipe resonates with a different type of magic—the ashwood pipe dulls elemental fire spells, allowing safe handling of magically ignited objects, while the rootwraith bone pipe briefly enhances detection magic, revealing hidden traces of energy or illusions. They don’t *create* magic, but they modulate its flow, making it safer and more controllable.  The crystal pipes are exceptionally rare and require careful calibration based on the user’s own mana affinity.\n- **Limits:** The enchantments are temporary – lasting no longer than an hour per pipe - and drain the user’s mana rapidly if overused. A poorly crafted pipe could backfire spectacularly, unleashing chaotic bursts of uncontrolled magic. Furthermore, some pipes (like those made from Rootwraiths) carry residual echoes of their creation, subtly influencing the user's thoughts and emotions.\n- **Ties:** These pipes were commissioned by Murrow himself after centuries of observing magical phenomena across various worlds through his Rift compasses. He believes that understanding how to ‘tune’ magic—not control it—is key to preventing catastrophic rifts and safeguarding Verrowen. Burn is often found using one of these pipes to fuel his nightly roasts at the Wellhouse tavern; he claims the slight dampening effect allows him to",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2048
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow",
+        "burn",
+        "rift-compass"
       ]
     },
     {
