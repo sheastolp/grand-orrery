@@ -1535,7 +1535,7 @@ _From a lore-keeper chat, 2026-11-10 · Characters._
 **Secret:** Years ago, following a sound like the wood holding its breath, he found a place in the Monster Wood where the air goes thin, the way it does at a rift's edge — and said nothing. He marked it with a cairn of stacked stones only he would recognize, checks the cairn on every run, and has never once decided what to do if it changes.
 **Story Hooks:** The Blight does not stand still, and Pell's cairn is the village's only unwritten early warning of it moving. If the thin place widens, the woodcutter who never reported it becomes the most important person in Stoutwell.
 
-### Rootbane (Pitch)
+### Rootbane (Your idea)
 
 <!-- review-key: lore-keeper:44ad2116-d6bd-414f-a3ab-2a0515738021 -->
 _From a lore-keeper chat, 2026-11-10 · Items & inventions._
