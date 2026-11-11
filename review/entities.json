@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T02:04:28.760Z",
+  "built": "2026-11-11T02:04:43.713Z",
   "branch": "review",
-  "commit": "749b1e6e388f3e02f8cbb66cf6a45feef504a3f7",
+  "commit": "5a6fc706328f444ecec9e85a2e1196e6db4afd72",
   "counts": {
     "person": 94,
     "role": 11,
@@ -9014,7 +9014,7 @@
       "type": "note",
       "name": "Standfast",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From the lore-keeper",
       "origin": "lore-keeper",
       "review_key": "lore-keeper:5f49e428-4189-4a7e-9953-8c2db7ee0b55",
@@ -9049,7 +9049,7 @@
       "category": "Sent in from the chat",
       "kind": "From the lore-keeper",
       "origin": "lore-keeper",
-      "status": "pitch",
+      "status": "decided",
       "fields": {
         "kind": "Weapon (enchanted shield)",
         "does": "An enchanted Guard shield — one of the big shields Stoutwell's halfling shield-bearers fight from behind, almost fully hidden. Doric forged it; its boss is set with a charged stone.",
