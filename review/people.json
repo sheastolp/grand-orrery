@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T01:22:41.641Z",
+  "built": "2026-11-11T01:23:07.918Z",
   "branch": "review",
-  "commit": "c13cc938267cc1d0f9d973343a341ae1b9230eb8",
+  "commit": "f652f70f1ddcbcc82980a7a87f0a3788bd97c275",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 227,
+    "note": 226,
     "document": 10,
     "map": 4
   },
@@ -278,8 +278,7 @@
         "working-notes-a-little-bit-more",
         "working-notes-what-is-it",
         "working-notes-what-does-the-king-say",
-        "working-notes-what-is-the-most-important-thing-about-stoutwell",
-        "working-notes-whisperwinds-vigil-3"
+        "working-notes-what-is-the-most-important-thing-about-stoutwell"
       ]
     },
     {
@@ -317,7 +316,6 @@
         "working-notes-blight-watch",
         "working-notes-what-is-the-most-important-thing-about-stoutwell",
         "working-notes-the-silent-offering-2",
-        "working-notes-whisperwinds-vigil-3",
         "working-notes-orins-echoes"
       ]
     },

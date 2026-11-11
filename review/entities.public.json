@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T01:22:41.641Z",
+  "built": "2026-11-11T01:23:07.918Z",
   "branch": "review",
-  "commit": "c13cc938267cc1d0f9d973343a341ae1b9230eb8",
+  "commit": "f652f70f1ddcbcc82980a7a87f0a3788bd97c275",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 227,
+    "note": 226,
     "document": 10,
     "map": 4
   },
@@ -278,8 +278,7 @@
         "working-notes-a-little-bit-more",
         "working-notes-what-is-it",
         "working-notes-what-does-the-king-say",
-        "working-notes-what-is-the-most-important-thing-about-stoutwell",
-        "working-notes-whisperwinds-vigil-3"
+        "working-notes-what-is-the-most-important-thing-about-stoutwell"
       ]
     },
     {
@@ -317,7 +316,6 @@
         "working-notes-blight-watch",
         "working-notes-what-is-the-most-important-thing-about-stoutwell",
         "working-notes-the-silent-offering-2",
-        "working-notes-whisperwinds-vigil-3",
         "working-notes-orins-echoes"
       ]
     },
@@ -2378,8 +2376,7 @@
         "universe-murrows-items",
         "working-notes-monstradius-items",
         "working-notes-constructed-items",
-        "working-notes-rooks-watch",
-        "working-notes-whisperwinds-vigil-3"
+        "working-notes-rooks-watch"
       ]
     },
     {
@@ -10648,37 +10645,6 @@
       }
     },
     {
-      "id": "working-notes-whisperwinds-vigil-3",
-      "type": "note",
-      "name": "Whisperwind’s Vigil",
-      "doc": "working-notes",
-      "status": "pitch",
-      "section": "From rest mode",
-      "origin": "rest",
-      "review_key": "rest:idea-mwbc3ffd",
-      "filed": "2026-11-10",
-      "filed_from": "Made up by the AI in auto mode",
-      "fields": {
-        "what_it_is": "Every month, during the darkest night, three Guard members – Rook, Whisperwind, and Brackwood – perform a specific vigil around the perimeter walls, using specialized whistles to detect unusual activity or approaching monsters.",
-        "who": "This ritual is overseen by Hesketh Reeve, with Rook being the most diligent and experienced, Whisperwind known for his uncanny stillness and sensitivity to subtle shifts in air currents, and Brackwood… well, he tends to get distracted by shiny things.",
-        "where": "The vigils take place primarily along the western wall, closest to the Monster Wood, though adjustments are made depending on reports from the Wardbells.",
-        "how_it_works": "Each guard carries a unique whistle crafted by Doric (Rook uses bone, Whisperwind uses polished silver, Brackwood makes his out of copper), which emits a different frequency designed to be carried on the wind. They move slowly, silently, following pre-determined routes marked by small cairns. If they hear or see something suspicious—a rustle in the woods, an unnatural shadow, or even just an unusually large moth—they blow their respective whistles.  The sound isn't intended to scare off monsters; rather, it alerts the other guards and triggers a response. It’s based on instinct, not magic - simply recognizing that *something* is wrong.",
-        "limits": "The whistles only function effectively within earshot – roughly half a mile – and are useless against creatures capable of muffling sound. Moreover, if multiple whistles sound simultaneously, the effect diminishes as the sounds blend together.",
-        "ties": "This ritual directly reflects Hesketh’s reliance on a layered defense strategy, acknowledging that brute force alone won't suffice against the dangers lurking in the Monster Wood. It also highlights the diverse skillsets required for Stoutwell’s protection: Rook’s experience, Whisperwind’s sensitivity, and Brackwood’s… well, his ability to notice things others miss."
-      },
-      "body": "_Made up by the AI in auto mode, 2026-11-10 · about something about the Guard: a post, a habit, a piece of gear or a person._\n\n- **What it is:** Every month, during the darkest night, three Guard members – Rook, Whisperwind, and Brackwood – perform a specific vigil around the perimeter walls, using specialized whistles to detect unusual activity or approaching monsters.\n- **Who:** This ritual is overseen by Hesketh Reeve, with Rook being the most diligent and experienced, Whisperwind known for his uncanny stillness and sensitivity to subtle shifts in air currents, and Brackwood… well, he tends to get distracted by shiny things.\n- **Where:** The vigils take place primarily along the western wall, closest to the Monster Wood, though adjustments are made depending on reports from the Wardbells.\n- **How it works:** Each guard carries a unique whistle crafted by Doric (Rook uses bone, Whisperwind uses polished silver, Brackwood makes his out of copper), which emits a different frequency designed to be carried on the wind. They move slowly, silently, following pre-determined routes marked by small cairns. If they hear or see something suspicious—a rustle in the woods, an unnatural shadow, or even just an unusually large moth—they blow their respective whistles.  The sound isn't intended to scare off monsters; rather, it alerts the other guards and triggers a response. It’s based on instinct, not magic - simply recognizing that *something* is wrong.\n- **Limits:** The whistles only function effectively within earshot – roughly half a mile – and are useless against creatures capable of muffling sound. Moreover, if multiple whistles sound simultaneously, the effect diminishes as the sounds blend together.\n- **Ties:** This ritual directly reflects Hesketh’s reliance on a layered defense strategy, acknowledging that brute force alone won't suffice against the dangers lurking in the Monster Wood. It also highlights the diverse skillsets required for Stoutwell’s protection: Rook’s experience, Whisperwind’s sensitivity, and Brackwood’s… well, his ability to notice things others miss.",
-      "source": {
-        "file": "working-notes.md",
-        "line": 2022
-      },
-      "world": "verrowen",
-      "mentions": [
-        "doric",
-        "hesketh-reeve",
-        "wardbell"
-      ]
-    },
-    {
       "id": "working-notes-orins-echoes",
       "type": "note",
       "name": "Orin’s Echoes",
@@ -10699,7 +10665,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._\n\n- **What it is:** Orin Bellweather, a young halfling with a peculiar fascination for Whisperwind’s Watch, believes he hears faint echoes within its rhythmic pulses – whispers of events long past tied to the Silent Well and the village’s forgotten history.\n- **Who:** Orin is a 17-year-old halfling apprentice cartographer, known for his meticulous attention to detail and quiet nature. He’s particularly close to Burn, the wellhouse regular, who encourages his curiosity. Osric, the Elderhold leader, views him with cautious interest, recognizing a spark of potential amongst the younger generation. Hesketh Reeve finds Orin frustratingly persistent in his questions about the Watch.\n- **Where:** Primarily at Whisperwind’s Watch, a tall stone tower overlooking Stoutwell’s central well, where the Guard rotates their shifts. The Watch itself is ancient, built before the village was founded, and said to be aligned with ley lines that fluctuate unpredictably. It's located on the edge of the slums, near the dried-up well.\n- **How it works:** Orin claims the Watch doesn’t simply mark time; it *records* moments—particularly those involving strong emotion or magical energy related to the well. When the bell rings (activated by a mechanism linked to the guard’s rotations), Orin focuses intently, claiming he can perceive fleeting images and snippets of sound associated with the event – mostly relating to past struggles around the drying up of the well. The echoes are weak, fragmented, like trying to catch smoke with bare hands.  The stronger the magic used near the watch, the louder the whispers become; he’s found this effect strongest when dealing with Murrow’s experiments.\n- **Limits:** The “echoes” aren’t clear visions. They're impressions - flashes of color, disjointed sounds, overwhelming feelings of fear or sorrow. Overuse leads to intense headaches and disorientation. He requires several hours of recovery after each session at the Watch. The effects seem tied to the alignment of Whisperwind's stone and the movement of the Earth elementals beneath Stoutwell.\n- **T",
       "source": {
         "file": "working-notes.md",
-        "line": 2035
+        "line": 2022
       },
       "world": "verrowen",
       "mentions": [
@@ -10723,7 +10689,7 @@
       "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- A delicate music box with tiny bells that play different tunes when shaken.\n- Elara Willowbrook crafts these items using her unique skill set combined with elemental magic to infuse everyday objects into whimsical creations for village children.\n- Crafted by Elara within Murrow’s shop Monstradius near Brackwood Fringe district,",
       "source": {
         "file": "working-notes.md",
-        "line": 2048
+        "line": 2035
       },
       "world": "verrowen",
       "mentions": [
@@ -10747,7 +10713,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2048
+        "line": 2035
       }
     },
     {

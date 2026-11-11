@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T01:22:41.641Z",
+  "built": "2026-11-11T01:23:07.918Z",
   "branch": "review",
-  "commit": "c13cc938267cc1d0f9d973343a341ae1b9230eb8",
+  "commit": "f652f70f1ddcbcc82980a7a87f0a3788bd97c275",
   "counts": {
     "person": 89,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 227,
+    "note": 226,
     "document": 10,
     "map": 4
   },
@@ -120,8 +120,7 @@
         "universe-murrows-items",
         "working-notes-monstradius-items",
         "working-notes-constructed-items",
-        "working-notes-rooks-watch",
-        "working-notes-whisperwinds-vigil-3"
+        "working-notes-rooks-watch"
       ]
     },
     {
@@ -2257,7 +2256,7 @@
       ],
       "source": {
         "file": "working-notes.md",
-        "line": 2048
+        "line": 2035
       }
     }
   ]
