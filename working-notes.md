@@ -2235,7 +2235,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item
 - **Where found out that costs 5 silver coins with enough timber or crafted cloth**
 - **How works & Limits: **
 
-### Whisperwind Wraith (Pitch)
+### Whisperwind Wraith (Your idea)
 
 <!-- review-key: rest:idea-mwbwb789 -->
 <!-- added by the AI -->
