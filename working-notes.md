@@ -2257,7 +2257,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about a place in the Kingdom's ca
 - **Limits:* Tending firewood on a cold winter day takes longer due its warmth diminishing effects* A single bottle costs an hour or two depending upon size as opposed 1/2 glass water cooled overnight becomes refreshing beverage *One visitor per group can share between them each serving itself after consuming half volume capacity maximum limit otherwise overindulgence results exhaustion lasting until dawn regardless age gender*
 - **Ties*: Artificer, Halfling Race; The Wellhouse Family*
 
-### Orin Bellweather’s Discovery (Pitch)
+### Orin Bellweather’s Discovery (Your idea)
 
 <!-- review-key: rest:idea-mwby4o4b -->
 <!-- added by the AI -->
