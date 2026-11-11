@@ -2273,7 +2273,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about a custom, saying, food or r
 
 - **Who/Where/HOW It Works/Who Tied to People or Places/Limits/Ties/New Canon**
 
-### Whisperwind Featherhook (Pitch)
+### Whisperwind Featherhook (Your idea)
 
 <!-- review-key: rest:idea-mwc3ip83 -->
 <!-- added by the AI -->
