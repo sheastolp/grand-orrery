@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T03:14:20.067Z",
+  "built": "2026-11-11T03:39:38.456Z",
   "branch": "review",
-  "commit": "bf86c34b50035d30ddbcb36257924cf06b16049b",
+  "commit": "a29c5fed0b50520bfb4e919c7aec907467b8c88b",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 231,
+    "note": 232,
     "document": 10,
     "map": 4
   },
@@ -4689,6 +4689,32 @@
       "mentions": [
         "wendeline-brackenford",
         "fenwick-larkspur"
+      ]
+    },
+    {
+      "id": "working-notes-elara-willowbrooks-echo",
+      "type": "note",
+      "name": "Elara Willowbrook’s Echo",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbklak5",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_its": "An enchanted journal that records every sound ever heard within Whisperwind.",
+        "who": "Whimsical halfling scribe named Elden Featherhook.",
+        "where": "Monstradius’ shop at NE corner district after hours under flickering torchlight,"
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about something GuildScribe's guild hall keeps, does or is known for._\n\n- **What it's:** An enchanted journal that records every sound ever heard within Whisperwind.\n- **Who:** Whimsical halfling scribe named Elden Featherhook.\n- **Where:** Monstradius’ shop at NE corner district after hours under flickering torchlight,",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2147
+      },
+      "world": "verrowen",
+      "mentions": [
+        "featherhook"
       ]
     },
     {

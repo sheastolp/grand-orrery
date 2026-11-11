@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T03:14:20.067Z",
+  "built": "2026-11-11T03:39:38.456Z",
   "branch": "review",
-  "commit": "bf86c34b50035d30ddbcb36257924cf06b16049b",
+  "commit": "a29c5fed0b50520bfb4e919c7aec907467b8c88b",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 17,
     "lore": 38,
-    "note": 231,
+    "note": 232,
     "document": 10,
     "map": 4
   },
@@ -90,7 +90,8 @@
         "working-notes-brackwood-fringe",
         "working-notes-mana-affinity-items-stabilized-tools",
         "working-notes-murrows-peculiar-pipe",
-        "working-notes-whisperwinds-relic-featherhook"
+        "working-notes-whisperwinds-relic-featherhook",
+        "working-notes-elara-willowbrooks-echo"
       ]
     },
     {
