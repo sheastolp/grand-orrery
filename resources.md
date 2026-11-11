@@ -173,6 +173,16 @@ Enchanted items store mana, which depletes over time and requires recharging. En
 - **Does:** A protective charm.
 - **Story:** Tied to the fishing settlement's secret passage.
 
+### Other
+
+#### 🧳 Whisperwind’s Elven Compass (Pitch)
+
+<!-- review-key: rest:idea-mwcimg94 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool found or made somewhere in Verrowen, who makes it, what it costs and its limits._
+- **Does:** guides users to their desired destination across interdimensional routes.
+- Made by an elvish inventor unknown outside Verrowen at least two hundred years ago
+
 ## Materials
 
 Materials used by Stoutwell’s builders and craftspeople.
