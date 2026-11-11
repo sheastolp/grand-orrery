@@ -2006,7 +2006,7 @@ _Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's ca
 
 - The tiny fishing settlement at the foot of the mountains guards a passage that leads to an unknown place beyond, while also struggling with a dwindling catch.
 
-### Bellweather’s Burden (Pitch)
+### Bellweather’s Burden (Your idea)
 
 <!-- review-key: rest:idea-mwbbah3b -->
 <!-- added by the AI -->
