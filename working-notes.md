@@ -1517,7 +1517,7 @@ _From a lore-keeper chat, 2026-11-10 · Items & inventions._
 - **Limits:** It is a dueling blade, near useless against armor, shields or monsters, and its magic is in the scar, not the cut: it wounds no deeper than any fine rapier. The signature cuts both ways — its bearer can never deny a duel, a wound, or a death, if one ever came.
 - **Ties:** Made for the house that holds the Highwrit, the Kingdom's office of fair documents — a blade that signs, for the family that seals. It carries a registered Kingdom artificer's mark, as capital work should.
 
-### Pell Ashdown (Pitch)
+### Pell Ashdown (Your idea)
 
 <!-- review-key: lore-keeper:d9dff53e-c7e2-4931-825c-7e626d2a61bc -->
 _From a lore-keeper chat, 2026-11-10 · Characters._
