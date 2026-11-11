@@ -2321,7 +2321,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about one of the market peddlers'
 - Lamplight-Silas Blackwood-Family name Unknown.
 - Vesper harrowmere-Ashen Reach-Venturer
 
-### Whisperwind’s Hum (Pitch)
+### Whisperwind’s Hum (Your idea)
 
 <!-- review-key: rest:idea-mwc80p1i -->
 <!-- added by the AI -->
