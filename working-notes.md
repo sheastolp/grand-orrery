@@ -1393,7 +1393,7 @@ _From a lore-keeper chat, 2026-11-10 · Characters._
 **Secret:** Possesses a minor talent for manipulating echoes – capable of creating brief sonic illusions to add emphasis or create diversions during particularly urgent broadcasts. This ability stems from a childhood spent exploring abandoned catacombs beneath the GuildScribe Hall. 
 **Story Hooks:** Knowledgeable about the Kingdom’s political landscape and historical events; potentially holds key information relating to the founding of Stoutwell or forgotten royal decrees. His frequent travels could lead him into conflict with criminal organizations seeking to exploit his position. Has been observed discreetly communicating with Murrow, possibly investigating unusual magical activity in Stoutwell.
 
-### Willa Stonebridge (Pitch)
+### Willa Stonebridge (Your idea)
 
 <!-- review-key: lore-keeper:21b51fed-c213-4e1b-adb1-fb092ebe539d -->
 _From a lore-keeper chat, 2026-11-10 · Characters._
