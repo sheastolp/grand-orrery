@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T17:07:23.147Z",
+  "built": "2026-11-11T17:07:55.112Z",
   "branch": "review",
-  "commit": "e1b62fb20f2ae1a68def741fec84890dcfc93e2a",
+  "commit": "56d23fc01d09c38f048f15510e7d544e58c5671e",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11065,7 +11065,7 @@
       "type": "note",
       "name": "Whisperwind’s Watch - Halfling Guard Post",
       "doc": "working-notes",
-      "status": "pitch",
+      "status": "decided",
       "section": "From rest mode",
       "origin": "rest",
       "review_key": "rest:idea-mwbjos1h",
