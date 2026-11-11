@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "built": "2026-11-10T22:11:53.632Z",
+  "built": "2026-11-11T01:25:38.176Z",
   "branch": "main",
-  "commit": "36814865afc9ccb212fd714ca212238ed44720a1",
+  "commit": "22a820c587b15f92e459a41f0ab0b303f835d5fc",
   "counts": {
     "person": 89,
     "role": 11,
     "world": 3,
-    "item": 101,
+    "item": 103,
     "place": 15,
     "creature": 17,
-    "lore": 37,
-    "note": 222,
+    "lore": 38,
+    "note": 226,
     "document": 10,
     "map": 4
   },
@@ -4465,6 +4465,102 @@
       "source": {
         "file": "working-notes.md",
         "line": 1988
+      },
+      "world": "verrowen",
+      "mentions": [
+        "murrow"
+      ]
+    },
+    {
+      "id": "working-notes-whispersongs-vigil",
+      "type": "note",
+      "name": "Whispersong’s Vigil",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwb9p4xs",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about a place in the Kingdom's capital or on the Kingdom's roads._\n\n- The tiny fishing settlement at the foot of the mountains guards a passage that leads to an unknown place beyond, while also struggling with a dwindling catch.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2001
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-bellweathers-burden",
+      "type": "note",
+      "name": "Bellweather’s Burden",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbbah3b",
+      "filed": "2026-11-10",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Orin Bellweather, a halfling peddler specializing in trinkets recovered from forgotten corners of Verrowen, possesses a peculiar “Pot of Greed” – a seemingly ordinary clay pot that subtly influences those nearby to desire valuables, though not overtly or powerfully.",
+        "who": "Orin himself, along with Silas Blackwood, an elderly halfling craftsman known for his unsettlingly calm demeanor and surprisingly detailed knowledge of Stoutwell’s hidden history.",
+        "where": "Primarily within the Brackwood Fringe surrounding Stoutwell, particularly near the crumbling ruins of a former watchtower overlooking the Ashen Reach.",
+        "how_it_works": "When placed within close proximity (approximately ten paces), the Pot radiates a faint aura that amplifies desires for wealth—not necessarily through direct manipulation, but by highlighting existing wants and fears related to possessions. A farmer might suddenly covet a fine tool, a child could be drawn to a glittering gemstone, or even someone attempting to sell goods would find themselves focusing intensely on their price. The effect is subtle - a nudge rather than a command – draining mana slowly as the pot works, usually requiring a short rest to replenish itself after prolonged use; if a user tries to forcibly take items while under its influence, they will suffer debilitating dizziness.",
+        "limits": "The Pot's influence wanes rapidly outside a small radius, diminishing entirely after approximately one hour. It doesn’t create wealth, only intensify existing longing, and can't force anyone to *do* anything beyond desiring something. Overuse drains the user’s own mana reserves quickly, leading to severe exhaustion. Silas Blackwood has been seen using it, though how he obtained it remains a mystery.",
+        "ties": "Orin acquired the Pot from Silas Blackwood during a trade involving several recovered coins and a meticulously crafted wooden bird. Silas claimed it was a “family heirloom” meant to help him with his craft, hinting at a darker past connected to the watchtower ruins. The tower dates back to a forgotten period when Stoutwell attempted to defend against creatures emerging from the Ashen Reach – those same rootwyrms that now haunt the woods."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-10 · about one of the market peddlers' relics and the story they tell about it._\n\n- **What it is:** Orin Bellweather, a halfling peddler specializing in trinkets recovered from forgotten corners of Verrowen, possesses a peculiar “Pot of Greed” – a seemingly ordinary clay pot that subtly influences those nearby to desire valuables, though not overtly or powerfully.\n- **Who:** Orin himself, along with Silas Blackwood, an elderly halfling craftsman known for his unsettlingly calm demeanor and surprisingly detailed knowledge of Stoutwell’s hidden history.\n- **Where:** Primarily within the Brackwood Fringe surrounding Stoutwell, particularly near the crumbling ruins of a former watchtower overlooking the Ashen Reach.\n- **How it works:** When placed within close proximity (approximately ten paces), the Pot radiates a faint aura that amplifies desires for wealth—not necessarily through direct manipulation, but by highlighting existing wants and fears related to possessions. A farmer might suddenly covet a fine tool, a child could be drawn to a glittering gemstone, or even someone attempting to sell goods would find themselves focusing intensely on their price. The effect is subtle - a nudge rather than a command – draining mana slowly as the pot works, usually requiring a short rest to replenish itself after prolonged use; if a user tries to forcibly take items while under its influence, they will suffer debilitating dizziness.\n- **Limits:** The Pot's influence wanes rapidly outside a small radius, diminishing entirely after approximately one hour. It doesn’t create wealth, only intensify existing longing, and can't force anyone to *do* anything beyond desiring something. Overuse drains the user’s own mana reserves quickly, leading to severe exhaustion. Silas Blackwood has been seen using it, though how he obtained it remains a mystery.\n- **Ties:** Orin acquired the Pot from Silas Blackwood during a trade involving several recovered coins and a meticulously crafted wooden bird. Silas claimed it was a “family heirloom” meant to help him with his craft, hinting at a darker past connected to the watchtower ruins. The tower dates back to a forgotten period when Stoutwell attempted to defend against creatures emerging from the Ashen Reach – those same rootwyrms that now haunt the woods.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2009
+      },
+      "world": "verrowen"
+    },
+    {
+      "id": "working-notes-orins-echoes",
+      "type": "note",
+      "name": "Orin’s Echoes",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbdpf0u",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "fields": {
+        "what_it_is": "Orin Bellweather, a young halfling with a peculiar fascination for Whisperwind’s Watch, believes he hears faint echoes within its rhythmic pulses – whispers of events long past tied to the Silent Well and the village’s forgotten history.",
+        "who": "Orin is a 17-year-old halfling apprentice cartographer, known for his meticulous attention to detail and quiet nature. He’s particularly close to Burn, the wellhouse regular, who encourages his curiosity. Osric, the Elderhold leader, views him with cautious interest, recognizing a spark of potential amongst the younger generation. Hesketh Reeve finds Orin frustratingly persistent in his questions about the Watch.",
+        "where": "Primarily at Whisperwind’s Watch, a tall stone tower overlooking Stoutwell’s central well, where the Guard rotates their shifts. The Watch itself is ancient, built before the village was founded, and said to be aligned with ley lines that fluctuate unpredictably. It's located on the edge of the slums, near the dried-up well.",
+        "how_it_works": "Orin claims the Watch doesn’t simply mark time; it *records* moments—particularly those involving strong emotion or magical energy related to the well. When the bell rings (activated by a mechanism linked to the guard’s rotations), Orin focuses intently, claiming he can perceive fleeting images and snippets of sound associated with the event – mostly relating to past struggles around the drying up of the well. The echoes are weak, fragmented, like trying to catch smoke with bare hands.  The stronger the magic used near the watch, the louder the whispers become; he’s found this effect strongest when dealing with Murrow’s experiments.",
+        "limits": "The “echoes” aren’t clear visions. They're impressions - flashes of color, disjointed sounds, overwhelming feelings of fear or sorrow. Overuse leads to intense headaches and disorientation. He requires several hours of recovery after each session at the Watch. The effects seem tied to the alignment of Whisperwind's stone and the movement of the Earth elementals beneath Stoutwell."
+      },
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._\n\n- **What it is:** Orin Bellweather, a young halfling with a peculiar fascination for Whisperwind’s Watch, believes he hears faint echoes within its rhythmic pulses – whispers of events long past tied to the Silent Well and the village’s forgotten history.\n- **Who:** Orin is a 17-year-old halfling apprentice cartographer, known for his meticulous attention to detail and quiet nature. He’s particularly close to Burn, the wellhouse regular, who encourages his curiosity. Osric, the Elderhold leader, views him with cautious interest, recognizing a spark of potential amongst the younger generation. Hesketh Reeve finds Orin frustratingly persistent in his questions about the Watch.\n- **Where:** Primarily at Whisperwind’s Watch, a tall stone tower overlooking Stoutwell’s central well, where the Guard rotates their shifts. The Watch itself is ancient, built before the village was founded, and said to be aligned with ley lines that fluctuate unpredictably. It's located on the edge of the slums, near the dried-up well.\n- **How it works:** Orin claims the Watch doesn’t simply mark time; it *records* moments—particularly those involving strong emotion or magical energy related to the well. When the bell rings (activated by a mechanism linked to the guard’s rotations), Orin focuses intently, claiming he can perceive fleeting images and snippets of sound associated with the event – mostly relating to past struggles around the drying up of the well. The echoes are weak, fragmented, like trying to catch smoke with bare hands.  The stronger the magic used near the watch, the louder the whispers become; he’s found this effect strongest when dealing with Murrow’s experiments.\n- **Limits:** The “echoes” aren’t clear visions. They're impressions - flashes of color, disjointed sounds, overwhelming feelings of fear or sorrow. Overuse leads to intense headaches and disorientation. He requires several hours of recovery after each session at the Watch. The effects seem tied to the alignment of Whisperwind's stone and the movement of the Earth elementals beneath Stoutwell.\n- **T",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2022
+      },
+      "world": "verrowen",
+      "mentions": [
+        "osric",
+        "hesketh-reeve",
+        "murrow",
+        "burn"
+      ]
+    },
+    {
+      "id": "working-notes-whisperwind-chime",
+      "type": "note",
+      "name": "Whisperwind Chime",
+      "doc": "working-notes",
+      "status": "decided",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwbfbgpr",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._\n\n- A delicate music box with tiny bells that play different tunes when shaken.\n- Elara Willowbrook crafts these items using her unique skill set combined with elemental magic to infuse everyday objects into whimsical creations for village children.\n- Crafted by Elara within Murrow’s shop Monstradius near Brackwood Fringe district,",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2035
       },
       "world": "verrowen",
       "mentions": [
