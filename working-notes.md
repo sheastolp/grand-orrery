@@ -2282,3 +2282,13 @@ _Made up by the AI in auto mode, 2026-11-11 · about something about the Guard: 
 _Made up by the AI in auto mode, 2026-11-11 · about a custom, saying, food or rule of daily life in Stoutwell._
 
 - **Who/Where/HOW It Works/Who Tied to People or Places/Limits/Ties/New Canon**
+
+### Whisperwind Featherhook (Pitch)
+
+<!-- review-key: rest:idea-mwc3ip83 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item or tool, who makes it, what it costs and its limits._
+
+- An iron hook with intricate wind patterns etched into each feather.
+- Doric Blackwood Master Smithing.
+- In Whispersmith’s shop Monstradius located at NW district near Murrow home.
