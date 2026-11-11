@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "built": "2026-11-11T09:33:09.850Z",
+  "built": "2026-11-11T09:58:35.426Z",
   "branch": "review",
-  "commit": "beb898ab5b68af2341360a358ee7135547ec897a",
+  "commit": "19f4967409af351f29739a7e52059eb5da8a671d",
   "counts": {
     "person": 94,
     "role": 11,
@@ -11,7 +11,7 @@
     "place": 15,
     "creature": 18,
     "lore": 38,
-    "note": 243,
+    "note": 244,
     "document": 10,
     "map": 4
   },
@@ -4930,6 +4930,24 @@
         "doric",
         "murrow"
       ]
+    },
+    {
+      "id": "working-notes-orin-bellweathers-discovery",
+      "type": "note",
+      "name": "Orin Bellweather’s Discovery",
+      "doc": "working-notes",
+      "status": "pitch",
+      "section": "From rest mode",
+      "origin": "rest",
+      "review_key": "rest:idea-mwby4o4b",
+      "filed": "2026-11-11",
+      "filed_from": "Made up by the AI in auto mode",
+      "body": "_Made up by the AI in auto mode, 2026-11-11 · about a piece of Stoutwell's or the Kingdom's history._\n\n- The newly invented product directly ties back into already established lore surrounding Verrowen (the world) and its inhabitants possessing latent magical abilities further evidenced here again reinforcing notion widespread conceptions held about said land despite general assumption pertaining latter part suggesting perhaps not everyone believed potential inherent among themselves residing there.",
+      "source": {
+        "file": "working-notes.md",
+        "line": 2260
+      },
+      "world": "verrowen"
     },
     {
       "id": "midkemia-the-campaign",
