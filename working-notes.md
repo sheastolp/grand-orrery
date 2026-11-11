@@ -2153,3 +2153,13 @@ _Made up by the AI in auto mode, 2026-11-11 · about something GuildScribe's gui
 - **What it's:** An enchanted journal that records every sound ever heard within Whisperwind.
 - **Who:** Whimsical halfling scribe named Elden Featherhook.
 - **Where:** Monstradius’ shop at NE corner district after hours under flickering torchlight,
+
+### Orin Bellweather - A halfling blacksmith apprentice with latent fire magic (Pitch)
+
+<!-- review-key: rest:idea-mwblhuot -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-11 · about a person who lives in Stoutwell._
+
+- Latent Fire Magic helps him power through long shifts
+- Dreamed about an Elven Elderwood Forest where elves gifted flowers that glow like embers during twilight hours
+- Parents tie into Murrow when young mother visits craftwork market carrying potions brewed by her daughter (a minor potion brewer apprenticed under Eldra wellhouse)
