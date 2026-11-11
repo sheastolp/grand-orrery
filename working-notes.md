@@ -2244,7 +2244,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about a creature of the Monster W
 - **What it Is:** An ethereal creature that inhabits fallen trees within Whistling Willow.
 - Creatures called "Whisperwinds" appear when strong winds blow through dead Ashen Reach ashwood during twilight hours.
 
-### Whisperwind’s Elven Tavern (Pitch)
+### Whisperwind’s Elven Tavern (Your idea)
 
 <!-- review-key: rest:idea-mwbx7x7l -->
 <!-- added by the AI -->
