@@ -2454,3 +2454,16 @@ _Made up by the AI in auto mode, 2026-11-12 · about a creature of the wilds of 
 _Made up by the AI in auto mode, 2026-11-12 · about a people, trade, guild or group found across Verrowen, and where they live or travel._
 
 - Elara Willowbrook’s Enchanted Quill
+
+### Whispersong Crystals - Tiny crystal gems found near Whisperwind’s Elven Tavern (Pitch)
+
+<!-- review-key: rest:idea-mwdtrcwd -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about something one of Verrowen's guilds or great houses keeps, does or is known for._
+
+- Whispersong Crystals - Tiny crystal gems found near Whisperwind’s Elven Tavern
+- What they are:
+- Tiny magical crystals embedded among whispering winds.
+- Who carries this secret:
+- The Ashen Spritelings within Verrowen secretly harness these whistling powers from wind spirits at nightfall along The Woodland Road on nights when moons align perfectly overhead (twice per decade).
+- How Whispersongs work like magic:
