@@ -175,6 +175,14 @@ Enchanted items store mana, which depletes over time and requires recharging. En
 
 ### Other
 
+#### ✨️ Whisperwind’s Windcharm (Pitch)
+
+<!-- review-key: rest:idea-mwd15jpy -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about a small everyday magic item or tool found or made somewhere in Verrowen, who makes it, what it costs and its limits._
+- **Does:** Reduces fatigue gained through exertion after waking without losing any progress towards gaining strength enhancement magic if worn prior;
+- Made using Iron Wire pulled into complex knots representing different winds known throughout Verrowen found primarily near Stoneheart Inn midway along Serpentine Trail stretching east-southeastward toward Crimson Ridge famed for tranquil evenings allowing deep dreaming;
+
 ### Magical wind whistling charm 🗡️
 
 #### 🌬️ Whisperwind’s Windwhistle (Your idea)
