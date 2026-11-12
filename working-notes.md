@@ -2360,7 +2360,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about a place in Verrowen the lor
 - At dawn after feeding their herd or flock with normal fodder plus special silver stream water near whisperwinds:
 - Milk yields an additional boost lasting from morning till evening:
 
-### Whisperwind Hearthstone Inn (Pitch)
+### Whisperwind Hearthstone Inn (Your idea)
 
 <!-- review-key: rest:idea-mwcqyf4t -->
 <!-- added by the AI -->
