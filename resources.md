@@ -177,7 +177,7 @@ Enchanted items store mana, which depletes over time and requires recharging. En
 
 ### Magical wind whistling charm 🗡️
 
-#### 🌬️ Whisperwind’s Windwhistle (Pitch)
+#### 🌬️ Whisperwind’s Windwhistle (Your idea)
 
 <!-- review-key: rest:idea-mwcrypul -->
 <!-- added by the AI -->
