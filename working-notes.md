@@ -2394,7 +2394,7 @@ _Made up by the AI in auto mode, 2026-11-12 · about something one of Verrowen's
 - **Limits:** Effective only within 1-mile radius from where it's performed once per year
 - **Ties:** Tied closely to Stoutwell wellhouse traditions known subtly through elder stories; rumored gift shared secretly between Wellhouses across distant lands (Ashnore & Silverstream). Connected indirectly via whispered legends about Elara Swiftleaf who visited Whittled Dagger Tavern in Emberfall years ago carrying secret melodies passed down generations as a family heirloom lost amid Great Weaver Blight devastation decades past. Also linked deeply rootedly into daily life rhythms felt most significantly here on Hearthstone's hum mornings and dusk prayer closing moments before twilight signals end-of-harvest celebrations bringing murmurs of miracle happening again next cycle upon whispering breeze winds crossing land connecting faraway places like Glimhurst Village North, Amberharbour East beyond mountains or even reaching coastal settlements along Saltwind Reach South facing sunrise tides drawing closer horizons toward unknown realms hidden behind mountain pass echoes carried back towards this place over fields waving golden grain bounty now blessed by Harvest Melody.
 
-### Ashen Spritelings (Pitch)
+### Ashen Spritelings (Your idea)
 
 <!-- review-key: rest:idea-mwcyrmq9 -->
 <!-- added by the AI -->
