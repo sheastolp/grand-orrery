@@ -2380,3 +2380,16 @@ _Made up by the AI in auto mode, 2026-11-12 · about a people, trade, guild or g
 - **What it is:** An elusive group that trades dreams.
 - **Who:** They consist mainly of dream weavers living near Ashen Echo Tavern.
 - **Where:** In an area between Greyhaven to Silverstream Reach known for quiet nights where people sleep deeply into visions or nightmares without realizing until morning.
+
+### Whisperwind’s Harvest Melody (Pitch)
+
+<!-- review-key: rest:idea-mwcvgprd -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about something one of Verrowen's guilds or great houses keeps, does or is known for._
+
+- **What it is:** An enchanting tune played by Murrow every harvest season that enhances crop yields.
+- **Who:** Artificer Morrow Ashby uses this melody to boost farm productivity annually.
+- **Where:** In Verrowen village during autumn harvests at Monstradius’ shop near NW district houses
+- **How it works:** During dawn prayers when villagers gather outside his workshop; he plays an enchanted lyre connected with Wind magic enhancing growth cycles for crops planted nearby
+- **Limits:** Effective only within 1-mile radius from where it's performed once per year
+- **Ties:** Tied closely to Stoutwell wellhouse traditions known subtly through elder stories; rumored gift shared secretly between Wellhouses across distant lands (Ashnore & Silverstream). Connected indirectly via whispered legends about Elara Swiftleaf who visited Whittled Dagger Tavern in Emberfall years ago carrying secret melodies passed down generations as a family heirloom lost amid Great Weaver Blight devastation decades past. Also linked deeply rootedly into daily life rhythms felt most significantly here on Hearthstone's hum mornings and dusk prayer closing moments before twilight signals end-of-harvest celebrations bringing murmurs of miracle happening again next cycle upon whispering breeze winds crossing land connecting faraway places like Glimhurst Village North, Amberharbour East beyond mountains or even reaching coastal settlements along Saltwind Reach South facing sunrise tides drawing closer horizons toward unknown realms hidden behind mountain pass echoes carried back towards this place over fields waving golden grain bounty now blessed by Harvest Melody.
