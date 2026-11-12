@@ -2381,7 +2381,7 @@ _Made up by the AI in auto mode, 2026-11-12 · about a people, trade, guild or g
 - **Who:** They consist mainly of dream weavers living near Ashen Echo Tavern.
 - **Where:** In an area between Greyhaven to Silverstream Reach known for quiet nights where people sleep deeply into visions or nightmares without realizing until morning.
 
-### Whisperwind’s Harvest Melody (Pitch)
+### Whisperwind’s Harvest Melody (Your idea)
 
 <!-- review-key: rest:idea-mwcvgprd -->
 <!-- added by the AI -->
