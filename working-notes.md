@@ -2519,3 +2519,15 @@ _Made up by the AI in auto mode, 2026-11-12 · about a person, custom or piece o
 - **How It Works:** Whispersong crystals are tiny gems found near Whisperwind’s Secret Ashen Heart.
 - These enchanted stones amplify latent magic abilities within individuals when they carry specific tasks related to community welfare.
 - Liora Finchling discovered this new custom while tending her family's orchard alongside Silverstream Meadow at Elderhouse Farmstead outside of Stoutwell village during one such phase cycle where every third generation exhibited enhanced magical properties due to proximity around Stoneheart Inn located midway along Serpentine Trail stretching from Moonfall towards Crimson Ridge (formerly known by Elders' secretive whispers).
+
+### Eldrin Willowwhisper (Pitch)
+
+<!-- review-key: rest:idea-mwe47i8j -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about a person who lives somewhere in Verrowen: the capital's market square, the Woodland Road, Greyhaven, or a village not yet named._
+
+- Eldrin Willowwhisper
+- **Who:** Eldrin
+- A quiet human farmer aged 40 living on Verrowen’s outskirts.
+- **Where:** Ashen Whisper Village by Silverstream Reach
+- An unassuming villager named **Eldrin**, known simply within her community of "The Ember Fields," practices subtle magic during slumbering hours at home near Whitethorn Fieldswallow Inn located off Serpentine Trail about three days’ ride south from Moonfall village along Windward Meadow Road toward Crimson Ridge (Silverstream). She uses small crystal shards called Whispersong Crystals found nearby Elara Finchling tavern beside this road through moonlit nights after harvests when dreams are vivid under twilight glow between waning crescent phases reflecting distant realms beyond ordinary perception stirring desire transformation subtly imprint upon waking carrying tales murmured among villagers recalling stories woven threads connecting souls separated temporally and spatially still resonating profoundly even though origins remain obscured hidden amidst shadows cast eons passing weaving an unbroken lineage shrouded enigma persists inspiring curiosity fascination reverence for ages past. Her gift lies dormant until others cross paths journey northwards where she silently shapes lives forever changed awestruck bearing traces echoing whispers across generations long unseen as part-time dream weaver shaping aspirations harvesting them beneath the watchful eye crisscrossed constellations igniting ephemeral windows traversing time-space fabric interlink realities fleeting encounters crossing epochs leaving witnesses awe-inspiring, feeling inspired but sometimes burdened by fresh desires implanted subconscious minds stirred sleeping.
