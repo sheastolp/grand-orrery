@@ -728,3 +728,13 @@ Rare finds the peddlers turn up now and then, in a bottomless sack or a barrel o
 - **Does:** Written in a language that only exists in dreams.
 - **Pitch:** the Scroll of Protection from Everything, written in a language that only exists in dreams
 - **Sold:** 55 gold · +12 max HP · relic
+
+### Musical charm
+
+#### 📦 Whisperwind’s Elven Harp 🥅 (Pitch)
+
+<!-- review-key: rest:idea-mwdszakp -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about one of the market peddlers' relics and the far place in Verrowen it came from._
+- **Does:** Calming fierce storms and sedating unruly creatures.
+- **Made by:** Unknown local artisan inspired perhaps influenced indirectly through tales shared from beyond Stoneheart Inn gathering stories weaving this magical relic among numerous others within Grand Orrery universe interconnecting lives shaping destinies transcending time-space fabric creating melodies connecting souls separated temporally spatially stirring hearts awakening long-forgotten dreams amidst whispers carrying secrets unspoken passed generations like ancient myths eventually unveiling origins obscured hidden amid shadows casting eons passing unraveling enigma inspiring curiosity fascination reverence for ages past woven threads binding together soul collective memory whisperings eternities echo intertwining resonances revealing timeless connections embedded in harmony crafting legacy etched into universal tapestry.
