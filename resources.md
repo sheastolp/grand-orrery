@@ -376,6 +376,17 @@ _Made up by the AI in auto mode, 2026-11-12 · about one of the market peddlers'
 - It subtly enhances magical abilities of those drinking while also imbuing mild protection against elemental weaknesses like cold or wind exhaustion.
 - Artificers' Guild uses this concoction when performing rituals involving magic fields needing sustained focus without mana depletion over time.
 
+### Herbal concoction
+
+#### 🧪 Ashen Whisper Elixir (Pitch)
+
+<!-- review-key: rest:idea-mwe1pksh -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about one of the market peddlers' relics and the far place in Verrowen it came from._
+- **Does:** grants temporary invisibility when consumed
+- **Made of/How it's Made:** brewed from rare Whispersong Crystals found near Verrowen’s secretive Hollowstag Falls.
+- **Where:** crafted by Elders at Moonfall Tavern on nights under crescent moons using ingredients harvested locally during summer solstice.
+
 ## Coin & trade
 
 ### Coin
