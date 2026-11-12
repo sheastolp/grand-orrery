@@ -2394,15 +2394,6 @@ _Made up by the AI in auto mode, 2026-11-12 · about something one of Verrowen's
 - **Limits:** Effective only within 1-mile radius from where it's performed once per year
 - **Ties:** Tied closely to Stoutwell wellhouse traditions known subtly through elder stories; rumored gift shared secretly between Wellhouses across distant lands (Ashnore & Silverstream). Connected indirectly via whispered legends about Elara Swiftleaf who visited Whittled Dagger Tavern in Emberfall years ago carrying secret melodies passed down generations as a family heirloom lost amid Great Weaver Blight devastation decades past. Also linked deeply rootedly into daily life rhythms felt most significantly here on Hearthstone's hum mornings and dusk prayer closing moments before twilight signals end-of-harvest celebrations bringing murmurs of miracle happening again next cycle upon whispering breeze winds crossing land connecting faraway places like Glimhurst Village North, Amberharbour East beyond mountains or even reaching coastal settlements along Saltwind Reach South facing sunrise tides drawing closer horizons toward unknown realms hidden behind mountain pass echoes carried back towards this place over fields waving golden grain bounty now blessed by Harvest Melody.
 
-### The Ashen Whisper (Pitch)
-
-<!-- review-key: rest:idea-mwcxzb34 -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-12 · about a place in Verrowen the lore hasn't described yet, near one it has: GuildScribe's arena, the capital's market square, Ashen Reach, Saltwind Reach._
-
-- **Where:** Near Saltwind Reach.
-- **How It Works:** The Wind carries messages whispered by people from one end of Salewind Range to another without making any sound or being seen carrying out this task naturally bends light around small pockets allowing sounds carried on whispers unseen traveling vast distances instantly revealing secrets long lost connecting separated souls sharing tales like ancient myths weaving an unbroken lineage shrouded mystery persists inspiring curiosity fascination reverence generations past.*
-
 ### Ashen Spritelings (Pitch)
 
 <!-- review-key: rest:idea-mwcyrmq9 -->
