@@ -2467,3 +2467,11 @@ _Made up by the AI in auto mode, 2026-11-12 · about something one of Verrowen's
 - Who carries this secret:
 - The Ashen Spritelings within Verrowen secretly harness these whistling powers from wind spirits at nightfall along The Woodland Road on nights when moons align perfectly overhead (twice per decade).
 - How Whispersongs work like magic:
+
+### Ashen Whisper (Pitch)
+
+<!-- review-key: rest:idea-mwduk81x -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about a person, custom or piece of history in one named place: the capital's market square._
+
+- Whispersong Crystals found near this town
