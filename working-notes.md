@@ -2402,3 +2402,16 @@ _Made up by the AI in auto mode, 2026-11-12 · about a person, custom or piece o
 
 - **Elara Swiftleaf (Whisperwind’s Wraith):** Ensures no harm befalls villagers while protecting crops against goblin raiders through magical protection tied within these watches’ mechanisms.
 - **Vesper Harrowmere (“Comeback” & “Lamplight”:) Town crier maintains communication between guard posts using signals cast under moonlight reflecting off water surfaces shared knowledge passed down generations ensuring everyone is informed quickly about enemy movements amidst chaotic events like battles where time-saving measures are crucial in maintaining harmony throughout villages battling frequent attacks on neighboring lands threatened every night.
+
+### Brackwood Cricketer (Pitch)
+
+<!-- review-key: rest:idea-mwcx70er -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about a person who lives somewhere in Verrowen: Brackwood Fringe, Greyhaven, the goblin lands, or a village not yet named._
+
+- Brackwood Cricketer
+- **Who:** Elara Swiftleaf
+- Race: Halfling
+- Age: 8 years old (child)
+- Trade: Young farmer apprentice at Ashen Reach farms managed by her father’s cousin.
+- Want/Desire/Wishful Dream of Her Own Small Farm or One Day Becoming an Artificer Like Father/Mother/Father/Never-Set-Out Village Blacksmith/Halfing Apprentice like Orin Bellweather - To impress upon him/her through demonstrating keen talent on cricket ball manipulation combined With Fire magic harnesses latent magical abilities within youth itself potentially unlocking grand aspirations even if not realized during brief glimpse moments under certain moon phases occurring once per decade revealing ephemeral windows traversing time-space fabric interlink realities permitting brief encounters crossing epochs leaving witnesses awestruck carrying tales murmuring altered lives reshaped subtly bearing secrets whispered across generations long after initial meeting faded out of collective memory.
