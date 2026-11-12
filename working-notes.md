@@ -2436,3 +2436,13 @@ _Made up by the AI in auto mode, 2026-11-12 · about a place in Verrowen the lor
 
 - The hollow contains ancient artifacts like Featherhooks (diminished by magic over time) left behind from Artificers.
 - Houses remnants of Wardbells showing faint vibrations even after decades due to residual enchantments within this hidden place—indicating its magical significance through ages past intertwined seamlessly into local folklore without causing alarm among villagers until recent exploration unveiled such treasures embedded there subtly affecting ambient energies felt just outside Whisker Wind Tavern unnoticed previously beyond mere mortal senses or ordinary scrutiny reaching back connected unrecognized whispers murmurs between realms known long forgotten eventually rediscovered almost mythic origins unknown origin stories untold connecting lives distant epochs weaving shared existence together ultimately discovering roots deeply rooted in collective consciousness intertwining fates creating unity amidst diversity bringing harmony amongst all peoples collectively shaping destiny itself.
+
+### Whisperwind Sprite (Pitch)
+
+<!-- review-key: rest:idea-mwd7jmts -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about a creature of the wilds of Verrowen: Saltwind Reach, the capital's market square: where it lives, what it does, its limits._
+
+- Whisperwind Sprite
+- A small ethereal creature found near Whisperwind’s Elven Tavern.
+- The Whispersong Crystals (tiny crystal gems discovered by Liora Finchling) are linked closely together when they form this sprite-like being called "the Whisperwind Sprite."
