@@ -2371,7 +2371,7 @@ _Made up by the AI in auto mode, 2026-11-11 · about a place, office or great ho
 - Her presence brings new life into town like those ash trees that grew beside it decades ago
 - *Where* : In proximity between Gathering Hall & Village Workers’ District near Stoutwell Center
 
-### Whisperwind Whimfolk (Pitch)
+### Whisperwind Whimfolk (Your idea)
 
 <!-- review-key: rest:idea-mwctk9w1 -->
 <!-- added by the AI -->
