@@ -2370,3 +2370,13 @@ _Made up by the AI in auto mode, 2026-11-11 · about a place, office or great ho
 - *Who*: Elara Swiftleaf manages this establishment with her keen eye observing guests through hidden wards placed subtly across rooms by Murrow’s staff workers long before she arrived there herself
 - Her presence brings new life into town like those ash trees that grew beside it decades ago
 - *Where* : In proximity between Gathering Hall & Village Workers’ District near Stoutwell Center
+
+### Whisperwind Whimfolk (Pitch)
+
+<!-- review-key: rest:idea-mwctk9w1 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about a people, trade, guild or group found across Verrowen, and where they live or travel._
+
+- **What it is:** An elusive group that trades dreams.
+- **Who:** They consist mainly of dream weavers living near Ashen Echo Tavern.
+- **Where:** In an area between Greyhaven to Silverstream Reach known for quiet nights where people sleep deeply into visions or nightmares without realizing until morning.
