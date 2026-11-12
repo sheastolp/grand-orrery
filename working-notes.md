@@ -2496,3 +2496,13 @@ _Made up by the AI in auto mode, 2026-11-12 · about a people, trade, guild or g
 - Whispersong Weavers
 - A guild of weavers specialized in crafting enchanted tapestries using Whispersong Crystals found near Whisperwind’s Elven Tavern.
 - The Guild members are called "Weavers," skilled artisans known throughout Verrowen including far-reaching areas like Ashen Reach or Saltwind Reach by weaving powerful magic into cloths reflecting both beauty (inspired artworks) & practical uses such as protection charms/magical enhancements on woven clothes/weapons/items etc.
+
+### Whisperwind’s Echo Crystals (Pitch)
+
+<!-- review-key: rest:idea-mwe2k8dz -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about something one of Verrowen's guilds or great houses keeps, does or is known for._
+
+- **Ashen Rise District of West Stoutwell Village**
+- These crystals are discovered while working on enhancing stout ale using magic
+- Rare enough so villagers usually trade or barter instead of buying outright
