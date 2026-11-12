@@ -2394,15 +2394,6 @@ _Made up by the AI in auto mode, 2026-11-12 · about something one of Verrowen's
 - **Limits:** Effective only within 1-mile radius from where it's performed once per year
 - **Ties:** Tied closely to Stoutwell wellhouse traditions known subtly through elder stories; rumored gift shared secretly between Wellhouses across distant lands (Ashnore & Silverstream). Connected indirectly via whispered legends about Elara Swiftleaf who visited Whittled Dagger Tavern in Emberfall years ago carrying secret melodies passed down generations as a family heirloom lost amid Great Weaver Blight devastation decades past. Also linked deeply rootedly into daily life rhythms felt most significantly here on Hearthstone's hum mornings and dusk prayer closing moments before twilight signals end-of-harvest celebrations bringing murmurs of miracle happening again next cycle upon whispering breeze winds crossing land connecting faraway places like Glimhurst Village North, Amberharbour East beyond mountains or even reaching coastal settlements along Saltwind Reach South facing sunrise tides drawing closer horizons toward unknown realms hidden behind mountain pass echoes carried back towards this place over fields waving golden grain bounty now blessed by Harvest Melody.
 
-### The Whisperwind Watch (Pitch)
-
-<!-- review-key: rest:idea-mwcwe8yf -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-12 · about a person, custom or piece of history in one named place: Silverstream Reach._
-
-- **Elara Swiftleaf (Whisperwind’s Wraith):** Ensures no harm befalls villagers while protecting crops against goblin raiders through magical protection tied within these watches’ mechanisms.
-- **Vesper Harrowmere (“Comeback” & “Lamplight”:) Town crier maintains communication between guard posts using signals cast under moonlight reflecting off water surfaces shared knowledge passed down generations ensuring everyone is informed quickly about enemy movements amidst chaotic events like battles where time-saving measures are crucial in maintaining harmony throughout villages battling frequent attacks on neighboring lands threatened every night.
-
 ### Brackwood Cricketer (Pitch)
 
 <!-- review-key: rest:idea-mwcx70er -->
