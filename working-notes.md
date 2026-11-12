@@ -2486,3 +2486,13 @@ _Made up by the AI in auto mode, 2026-11-12 · about a person who lives somewher
 - **Who:** Elves' youngest daughter living near Whisperwind’s Secret Ashen Heart.
 - **Where:** Village not yet named on Silverstream Reach.
 - ELARA FINCHLING IS AN ELVEN YOUNG GIRL LIVING IN HER PARENTS’ VILLAGE ON SILVERSTREAM REACH WHO WANTS TO BECOME A SORCERESS BUT FEARS FAILURE AND FOREBID FROM THE SEA BECAUSE OF GROWING UP NEAR OCEAN WAVES FOR THOUSANDS MILES AWAY. SHE TENDS TO WHISPERWIND’S SECRET ASHEN HEART WHERE FAMILIES UNITE AT MIDNIGHT ECHOED THROUGHOUT YEARS WHEN NOBLEMATE KINGS ARRIVE RUMORED WITH MAGICAL ENCHANTMENTS BRAGGED BY THEIR CHILDREN LEAVING SHAPESHIFTERS THAT SEEM LIKE ALIEN CREATURES ABILITY WEAK OR STRONG DEPENDING ON WHICH PROVINCES THEY COME FROM ONLY ONE KNOWN APPLICABLE SPELL PERFORMS MAGICIAN'S TASK AMPLIFIED IF DOUBLED DURING FULL MOON NIGHT LIGHTNING STREAK GRACE CONJUGATED INTO COMBAT CIRCLE CRYSTAL HOUSED DIAMOND GLASS WORKER COCKTAIL DISGUISE FORM CHARM TRICK NOISE SOFTLY MAKING IT POSSIBLE NOT LOUD ALL WITHOUT ATTENTION HE HAD PLANTED HOLES DELINEATING EACH HOUSE AFTER EVERY EVEN NUMBER FINISH MARK OUT IN RED DRAW AN X OVER VILLAGE CENTER POINT 1/2 FOOT SPACING BETWEEN PTS SETTING A SQUARE PATTERN WARP BOUND EDGE AND INSIDE THE INTERIOR USING STRING BEAT DOWN LOOSE YARD FAIRY DUST OF MINDS REPEL CURSES ONSKEE MIST WHO USE THIS TO MAKE FEATHERY TUNES WHISPER SONG UNDETERMINATE.
+
+### Whispersong Weavers (Pitch)
+
+<!-- review-key: rest:idea-mwe0vars -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about a people, trade, guild or group found across Verrowen, and where they live or travel._
+
+- Whispersong Weavers
+- A guild of weavers specialized in crafting enchanted tapestries using Whispersong Crystals found near Whisperwind’s Elven Tavern.
+- The Guild members are called "Weavers," skilled artisans known throughout Verrowen including far-reaching areas like Ashen Reach or Saltwind Reach by weaving powerful magic into cloths reflecting both beauty (inspired artworks) & practical uses such as protection charms/magical enhancements on woven clothes/weapons/items etc.
