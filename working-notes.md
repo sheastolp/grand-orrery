@@ -2541,3 +2541,14 @@ _Made up by the AI in auto mode, 2026-11-12 · about a place in Verrowen the lor
 - Ashen Mist Hollow
 - A hidden glade near Ashen Reach known by locals of Whisperwind’s Elven Tavern.
 - The village elders speak cryptically about an enchanting place filled whispers called "the Ashen Mist."
+
+### Whispersong Echo Tavern (Pitch)
+
+<!-- review-key: rest:idea-mwe7gnor -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about a place, office or great house in one of Verrowen's towns or cities: the deep woods, the Monster Wood's western edge._
+
+- Whispersong Echo Tavern
+- A cozy tavern known throughout Verrowen located on Whisperwind’s Elven Harp Trail.
+- Nestled along Serpentine Trace midway from Moonfall toward Crimson Ridge near Stoneheart Inn,
+- The Whispersong Echoes are famed not just by travelers seeking refuge after long days of travel or weary battles against creatures like goblins native to Monster Wood territory westward into shadowy realms beyond tall woods cradling ancient mysteries whispered among villagers gathered under its dimmed lights amidst tales told beneath star-speckled skies revealing ephemeral windows traversing time-space fabric interlink realities bearing stories etched subtly onto skin leaving witnesses awestruck carrying altered lives burdened unexpectedly upon waking sharing hushed tones amongst generations weaving an unbroken lineage shrouded enigma persist inspiring curiosity fascination reverence through ages past echo softly in halls where timeless dreams linger forever altering hearts whisper songs connecting souls separated temporally yet bound eternally together. The halfling blacksmith apprentice named Tobin Ashby discovered this hidden haven while experimenting one day forging new creations imbued within his smithy's forge crafting relics born out essence captured during twilight hours when the world held breath waiting expectantly for morning's first light breaking forth as dawn painting across canvas unveiling subtle secrets shared between lovers embracing whispers exchanged tenderly filling air with magic carried down endless paths merging destinies intertwining fate itself woven tightly around heartstrings binding them ever since yesteryears fleeting moments passed unnoticed lost forgotten until rediscovered anew embraced once more eternal bonds reignited bringing warmth love laughter joy unity never before felt again stirring memories awakened by scent tobacco smoke aged oak wood softening worn leather banishing loneliness welcoming homecomings offering solace comfort companionship amid chaos finding harmony even if only briefly.
