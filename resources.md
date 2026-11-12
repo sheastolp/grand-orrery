@@ -195,6 +195,15 @@ _Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item
 - ---
 - **Limits/Destiny/The Story That Connects To Stoutwell/Guild Papers/Lore Connection/Burn/Heseth's Court/Twist etc.: When not wielded directly one must wait for a gentle breeze before they can sing again. A subtle melody carried upon the air that will calm restless souls and ease anxious minds as if spoken softly right beside one's ear; perfect companion of lullabies told beneath star-filled skies while children sleep peacefully away on endless adventures across worlds unknown whispered promises unspoken yet felt deeply throughout generations past since even now there exist legends speaking thus: only true hearts who hold courage bravely facing uncertain futures may truly comprehend full scope meaning behind such wondrous presence amongst those dwelling below Whisperwind’s Silverstream Meadow where once stood Ashen Echo Tavern filled to brim with laughter echoes resonating through time itself from joyous moments shared together at hearthstone firesides.”— Burn
 
+### Small crystal jewelry
+
+#### 🗝️ Whispersong Crystal Band ⏰ (Pitch)
+
+<!-- review-key: rest:idea-mwdzaeu0 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about a small everyday magic item or tool found or made somewhere in Verrowen, who makes it, what it costs and its limits._
+- **Does:** Concentrates latent wind magic enhancing dexterity.
+
 ## Materials
 
 Materials used by Stoutwell’s builders and craftspeople.
