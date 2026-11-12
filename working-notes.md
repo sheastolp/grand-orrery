@@ -2415,3 +2415,12 @@ _Made up by the AI in auto mode, 2026-11-12 · about a person who lives somewher
 - Age: 8 years old (child)
 - Trade: Young farmer apprentice at Ashen Reach farms managed by her father’s cousin.
 - Want/Desire/Wishful Dream of Her Own Small Farm or One Day Becoming an Artificer Like Father/Mother/Father/Never-Set-Out Village Blacksmith/Halfing Apprentice like Orin Bellweather - To impress upon him/her through demonstrating keen talent on cricket ball manipulation combined With Fire magic harnesses latent magical abilities within youth itself potentially unlocking grand aspirations even if not realized during brief glimpse moments under certain moon phases occurring once per decade revealing ephemeral windows traversing time-space fabric interlink realities permitting brief encounters crossing epochs leaving witnesses awestruck carrying tales murmuring altered lives reshaped subtly bearing secrets whispered across generations long after initial meeting faded out of collective memory.
+
+### The Ashen Whisper (Pitch)
+
+<!-- review-key: rest:idea-mwcxzb34 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about a place in Verrowen the lore hasn't described yet, near one it has: GuildScribe's arena, the capital's market square, Ashen Reach, Saltwind Reach._
+
+- **Where:** Near Saltwind Reach.
+- **How It Works:** The Wind carries messages whispered by people from one end of Salewind Range to another without making any sound or being seen carrying out this task naturally bends light around small pockets allowing sounds carried on whispers unseen traveling vast distances instantly revealing secrets long lost connecting separated souls sharing tales like ancient myths weaving an unbroken lineage shrouded mystery persists inspiring curiosity fascination reverence generations past.*
