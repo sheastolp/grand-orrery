@@ -2446,3 +2446,11 @@ _Made up by the AI in auto mode, 2026-11-12 · about a creature of the wilds of 
 - Whisperwind Sprite
 - A small ethereal creature found near Whisperwind’s Elven Tavern.
 - The Whispersong Crystals (tiny crystal gems discovered by Liora Finchling) are linked closely together when they form this sprite-like being called "the Whisperwind Sprite."
+
+### The Whisperwind Watch (Pitch)
+
+<!-- review-key: rest:idea-mwds7ma9 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about a people, trade, guild or group found across Verrowen, and where they live or travel._
+
+- Elara Willowbrook’s Enchanted Quill
