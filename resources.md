@@ -356,6 +356,17 @@ What the Guard carries.
 - **Story:** More water from Murrow's irrigation could mean more ale for the first time in centuries. Who controls that is still open.
 - **Also called:** ale
 
+### Special ale recipe
+
+#### 🌲🍵 Whisperwind’s Elven Brew (Pitch)
+
+<!-- review-key: rest:idea-mwd3nb9a -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about one of the market peddlers' relics and the far place in Verrowen it came from._
+- **Story connection:** The brew gains potency from secret herbs found near Stoneheart Inn on Serpentine Trail during tranquil evenings under specific moon phases.
+- It subtly enhances magical abilities of those drinking while also imbuing mild protection against elemental weaknesses like cold or wind exhaustion.
+- Artificers' Guild uses this concoction when performing rituals involving magic fields needing sustained focus without mana depletion over time.
+
 ## Coin & trade
 
 ### Coin
