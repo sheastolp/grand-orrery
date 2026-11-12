@@ -2506,3 +2506,16 @@ _Made up by the AI in auto mode, 2026-11-12 · about something one of Verrowen's
 - **Ashen Rise District of West Stoutwell Village**
 - These crystals are discovered while working on enhancing stout ale using magic
 - Rare enough so villagers usually trade or barter instead of buying outright
+
+### Whispersong Crystals - Liora Finchling (Pitch)
+
+<!-- review-key: rest:idea-mwe3d7ns -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about a person, custom or piece of history in one named place: Greyhaven._
+
+- Whispersong Crystals - Liora Finchling
+- **Who:** Elara Wispweaver
+- **Where:** Greyhaven Village on Saltwind Reach
+- **How It Works:** Whispersong crystals are tiny gems found near Whisperwind’s Secret Ashen Heart.
+- These enchanted stones amplify latent magic abilities within individuals when they carry specific tasks related to community welfare.
+- Liora Finchling discovered this new custom while tending her family's orchard alongside Silverstream Meadow at Elderhouse Farmstead outside of Stoutwell village during one such phase cycle where every third generation exhibited enhanced magical properties due to proximity around Stoneheart Inn located midway along Serpentine Trail stretching from Moonfall towards Crimson Ridge (formerly known by Elders' secretive whispers).
