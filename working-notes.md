@@ -2427,3 +2427,12 @@ _Made up by the AI in auto mode, 2026-11-12 · about a person who lives somewher
 - Whispersong Crystals - Small crystal gems found near Whisperwind’s Elven Tavern used by local children at night during storytelling sessions.
 - Tiny crystals discovered among artifacts left behind from Storytime nights held under Ashen Echo Moonlight
 - A halfling child named Liora Finchling lives nearby known gathering Whispersongs alongside her elder sibling Silas Blackwood each evening around twilight on Wednesdays through Sundays
+
+### Whisperwind’s Secret Ashen Hollow (Pitch)
+
+<!-- review-key: rest:idea-mwd6r5pm -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-12 · about a place in Verrowen the lore hasn't described yet, near one it has: Highwrit, Highwrit House, the goblin lands, Brackwood Fringe._
+
+- The hollow contains ancient artifacts like Featherhooks (diminished by magic over time) left behind from Artificers.
+- Houses remnants of Wardbells showing faint vibrations even after decades due to residual enchantments within this hidden place—indicating its magical significance through ages past intertwined seamlessly into local folklore without causing alarm among villagers until recent exploration unveiled such treasures embedded there subtly affecting ambient energies felt just outside Whisker Wind Tavern unnoticed previously beyond mere mortal senses or ordinary scrutiny reaching back connected unrecognized whispers murmurs between realms known long forgotten eventually rediscovered almost mythic origins unknown origin stories untold connecting lives distant epochs weaving shared existence together ultimately discovering roots deeply rooted in collective consciousness intertwining fates creating unity amidst diversity bringing harmony amongst all peoples collectively shaping destiny itself.
