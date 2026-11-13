@@ -204,6 +204,17 @@ _Made up by the AI in auto mode, 2026-11-11 · about a small everyday magic item
 _Made up by the AI in auto mode, 2026-11-12 · about a small everyday magic item or tool found or made somewhere in Verrowen, who makes it, what it costs and its limits._
 - **Does:** Concentrates latent wind magic enhancing dexterity.
 
+### Enchanted item
+
+#### 📦 Whisperwind’s Dream Thread 🗜️ (Pitch)
+
+<!-- review-key: rest:idea-mwe89els -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about a small everyday magic item or tool found or made somewhere in Verrowen, who makes it, what it costs and its limits._
+- The thread emits soft whispers lulling people into dreams while asleep.
+- Infused aspirations subtly guide dreamers upon waking inspiring new goals or desires within subconscious minds stirred beneath constellations
+- Used often around stone-hearth inns close together for communal gatherings fostering shared creativity in villagers who slumber beside one another weaving fresh patterns connecting their lives mysteriously intertwined yet barely noticeable once day begins
+
 ## Materials
 
 Materials used by Stoutwell’s builders and craftspeople.
