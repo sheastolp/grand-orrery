@@ -2623,3 +2623,14 @@ _Made up by the AI in auto mode, 2026-11-13 · about a people, trade, guild or g
 - The Whisperwind Elven Harp Traders Guild
 - A guild of traders specializing in enchanted musical instruments like flutes (the Whispersong Crystals), found near Verrowen.
 - Artificers skilled at creating wind magic-infused harps belonging primarily to elves or humans adept in elemental music crafting these unique items using rare materials such as whisperwinds crystals.
+
+### Whisperwind Echo Conduit (Pitch)
+
+<!-- review-key: rest:idea-mwejznxw -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about something one of Verrowen's guilds or great houses keeps, does or is known for._
+
+- **What It Is:** The Whispersong Crystal Conduits created by Elara Finchling.
+- **Who:** Created primarily within villages like Eldrin Willowwhisper or Brackwood Fringe territories known for abundant whisperwinds such as Neartown Hollow (a name not previously mentioned).
+- **Where:** Discovered typically at sites associated deeply rooted historical events where many villagers gathered under eager anticipation of seeing new artifacts during gatherings hosted around significant landmarks - particularly those connected via stories told over generations tied closely into whispers about ancient times when "the land breathed."
+- How They Work: Each crystal conduit is said able upon being held emits sounds mimicking natural elements through airways present allowing users an enhanced perception towards detecting subtle changes in environment even more keenly than humans naturally possess especially useful amid noisy environments often encountered among farmlands surrounding small towns located along main roads connecting several village markets thus making them essential tools used mostly amongst local farmers tending to crops requiring constant observation from afar due additionally carrying potential magic properties aiding better crop planning across seasons improving yields significantly compared traditional farming methods employed earlier now becoming a sought-after item desired highly after witnessing successful harvests produced using these magical aids ultimately leading toward creating widespread enthusiasm and curiosity beyond initial localized regions gradually spreading excitement reaching neighboring communities eventually extending farther still captivating the attention & interest initially overlooked by distant cities dwelling away yet later finding themselves increasingly drawn closer discovering undeniable benefits presented before their curious eyes.
