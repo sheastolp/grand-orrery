@@ -2735,3 +2735,14 @@ _Made up by the AI in auto mode, 2026-11-13 · about a piece of Verrowen's histo
 - **What It Is:** The new piece of Verrowen history refers to an ancient meadow named "Whisperwind Ashen Hollow," located near Greyhaven.
 - **Who:** Unknown villagers discovered this place
 - Whispersong Crystal Band ⏰ embedded within plants
+
+### Whisperwind Ashen Hollow Elves (Pitch)
+
+<!-- review-key: rest:idea-mwezq6hf -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about a people, trade, guild or group found across Verrowen, and where they live or travel._
+
+- **What It Is:** The Everlasting Weave clan residing near Stoneheart Inn along Serpentine Trail.
+- **Who:** Tranquil elves skilled at harvesting aspirations via slumber-inducing crafts.
+- **Where:** Midway between Moonfall’s rise toward Crimson Ridge on Verrowen Earth
+- **How It Works:** Under certain moon phases appearing once per decade, visitors inspired by fresh desires undergo subtle transformations upon waking due to mysterious origins linked deep within time-space fabric of ever-unfolding realms beyond mortal understanding
