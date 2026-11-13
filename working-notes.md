@@ -2613,3 +2613,13 @@ _Made up by the AI in auto mode, 2026-11-13 · about a custom, saying, food or r
 - **Who:** The inhabitants of several villages along Serpentine Trail are rumored by children.
 - **Where:** Near Stoneheart Inn on both sides during summer nights when it's quiet outside (near Moonfall).
 - **How It Works:** These spritely beings appear like will-o'-the-wisps around dusk after sundown till dawn every decade under certain moon phases appearing different shades depending upon villagers' descriptions - from light grayish green or silver through varying degrees brown then dark grey-black speckled ash-gray colors each time they show up bringing brief inspiration before leaving silently until next generation awakens feeling slightly changed subtly carrying desires planted deep within hearts while sleeping beneath constellations casting fleeting glimpses reflecting distant realms seen solely under these rare circumstances.
+
+### The Whisperwind Elven Harp Traders Guild (Pitch)
+
+<!-- review-key: rest:idea-mweig1qn -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about a people, trade, guild or group found across Verrowen, and where they live or travel._
+
+- The Whisperwind Elven Harp Traders Guild
+- A guild of traders specializing in enchanted musical instruments like flutes (the Whispersong Crystals), found near Verrowen.
+- Artificers skilled at creating wind magic-infused harps belonging primarily to elves or humans adept in elemental music crafting these unique items using rare materials such as whisperwinds crystals.
