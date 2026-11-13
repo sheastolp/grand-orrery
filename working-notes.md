@@ -2644,3 +2644,11 @@ _Made up by the AI in auto mode, 2026-11-13 · about a person, custom or piece o
 - **Who & What It Is:** Liora Finchling (human halfling), 14 years young.
 - **Where:** Ashen Whisper Hollow.
 - **How It's Connected To Other Places/Categories/People In Lore /Ties/Themes**
+
+### Whisperwind’s Ashen Hollow Echo (Pitch)
+
+<!-- review-key: rest:idea-mwemdtxc -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about a place in Verrowen the lore hasn't described yet, near one it has: the deep woods, the goblin lands, Silverstream Reach, the capital's market square._
+
+- Whispersong Crystals are found here
