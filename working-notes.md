@@ -2746,3 +2746,12 @@ _Made up by the AI in auto mode, 2026-11-13 · about a people, trade, guild or g
 - **Who:** Tranquil elves skilled at harvesting aspirations via slumber-inducing crafts.
 - **Where:** Midway between Moonfall’s rise toward Crimson Ridge on Verrowen Earth
 - **How It Works:** Under certain moon phases appearing once per decade, visitors inspired by fresh desires undergo subtle transformations upon waking due to mysterious origins linked deep within time-space fabric of ever-unfolding realms beyond mortal understanding
+
+### Whispersong Crystal Vines (Pitch)
+
+<!-- review-key: rest:idea-mwf1a7zh -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about something one of Verrowen's guilds or great houses keeps, does or is known for._
+
+- Near **Ashen Reach**, prized land not suitable for tall crops
+- Home of *The Everlasting Weave* clan capable of harvesting aspirations through slumber-inducing crafts
