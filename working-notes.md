@@ -2652,3 +2652,16 @@ _Made up by the AI in auto mode, 2026-11-13 · about a person, custom or piece o
 _Made up by the AI in auto mode, 2026-11-13 · about a place in Verrowen the lore hasn't described yet, near one it has: the deep woods, the goblin lands, Silverstream Reach, the capital's market square._
 
 - Whispersong Crystals are found here
+
+### Whisperwind Ashen Hollow Inn (Pitch)
+
+<!-- review-key: rest:idea-mweoq86w -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about a place, office or great house in one of Verrowen's towns or cities: the deep woods, the goblin lands._
+
+- **What It Is:** Nestled at Verrowen’s heart of Goldroot Town within an enchanted glade known simply by locals from ages past.
+- ---
+- The **Whisperwind Ashen Hollow Inn**, named after Elara Finchling - The Dream Weaver – stands secluded amidst dense groves between Silverstream Reach & Northwrit cities' bustle — it's both ancient home and modern haven alike! Hidden away amid timeless shadows cast beneath moon phases every decade like whispered tales woven threads connecting souls separated temporally through Stoneheart Manor on Serpentine Trail stretching toward Crimson Ridge famed tranquil evenings allowing deep dreaming excites minds stirring when sleeping under constellations casting fleeting glimpses reflecting distant realms!
+- Within its stone-wrought structure lies refuge sought not just mere travelers passing throngs or townsfolk visiting only briefly before wandering off again along familiar paths once more uncovering mysteries lying beyond grasp ever-changing winds weaving dreams interlink realities permitting brief encounters crossing epochs leaving witnesses awestruck carrying new-found desires subtly infused throughout consciousness reshaping lives even though origins remain cloaked in mystery itself shrouded enigma persists inspiring curiosity fascination reverence for generations long since dawn first broke upon this grand world.
+- How it Works: Articulating subtle incantation crafted specifically amongst the inn's walls invoking gentle whispers resonating with ethereal frequencies soothing restless spirits bringing forth comfort, warmth envelops all while mysterious ash-hued smoke dances across sky line blending seamlessly into twilight horizon painting scenes reminiscent of fantastical creatures from forgotten lore dwelling within shadowy depths far removed everyday reality.
+- Limit ties to Verrowen’s rich past steeped traditions; villagers still recount stories speaking fondly about enchanting Ash Hollow Inn filled wailing wind chimes chiming melodies lulling visitors gently falling asleep feeling inexplicably renewed by morning break despite unknowing how profound transformation transpired during night lost amidst slumber inducing sleep beneath constellation illuminating them as if woven fabric connecting souls transcending time-space limits boundaries separating worlds forever changed hearts beating life anew embraced newfound vigor awakened senses thirst exploring possibilities unfathomable yet felt profoundly nonetheless! Whispersong Echo Tavern lies nearby beckoning wanderers seeking respite or perhaps more adventures unknown waiting just beyond threshold inviting curious travelers
