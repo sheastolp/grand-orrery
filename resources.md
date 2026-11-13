@@ -244,6 +244,16 @@ _Made up by the AI in auto mode, 2026-11-13 · about a small everyday magic item
 - It allows one carrying weighty loads on heavy tasks such as logging or dragging stones while being halved.
 - Made By:
 
+### Herbal concoction
+
+#### 🌑 Ashen Whisper Elixir of Dreamweaver Vine (Pitch)
+
+<!-- review-key: rest:idea-mwf9460q -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about one of the market peddlers' relics and the far place in Verrowen it came from._
+- **Story:** Legend tells villagers this elixir grants visions imbued by Moonfall dreams when consumed before slumber under new moons.
+- Made using enchanted dew collected at midnight through shimmering veils woven among silverleaf bushes,
+
 ## Materials
 
 Materials used by Stoutwell’s builders and craftspeople.
