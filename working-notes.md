@@ -2602,3 +2602,14 @@ _Made up by the AI in auto mode, 2026-11-13 · about a creature of the wilds of 
 - **What It Is:** Ethereal forest guardians born from Ashen Veil mist.
 - **Who:** The Willowwispkind of Verrowen’s Deep Woods near Highwrit House on Silverstream Reach.
 - **Where:** Perched within ancient trees lining Whispersong Crystals - Tiny crystal gems found around this enchanted glade known locally among villagers nearby Thornback boars’ territory by Eldrin Willowsprout Hollowstone Inn at North Wind Harbour & Surrounding Mountains' edge where rare whispers are exchanged between stars above through seasons when moons align once every seven cycles casting an ethereal glow upon night sky creating haven beneath twilight hues unveiling hidden realms beyond time-space fabric weaving threads connecting souls separated temporally and spatially resonating profoundly even though origins remain obscured like whispered ancestral tales amidst shadows cast eons passing inspiring curiosity fascination reverence long after initial meeting fades out leaving witnesses awestruck carrying secrets murmuring altered lives reshaped subtly bearing desires implanted deeply stirring dreams woven into hearts intertwining fates spanning generations revealing ephemeral glimpses touching fleeting moments echoing across ages bringing forth harmony whispering stories shared throughout epochs weaving unbroken lineage shrouded enigma persists enchanting children aged six to ten as they gaze in wonder under starlit canopy.
+
+### Whisperwind’s Ashen Spritelings (Pitch)
+
+<!-- review-key: rest:idea-mwefa84s -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about a custom, saying, food or rule of daily life somewhere in Verrowen: the Woodland Road, the Monster Wood's western edge._
+
+- **What It Is:** Tiny magical creatures known locally at Verrowen.
+- **Who:** The inhabitants of several villages along Serpentine Trail are rumored by children.
+- **Where:** Near Stoneheart Inn on both sides during summer nights when it's quiet outside (near Moonfall).
+- **How It Works:** These spritely beings appear like will-o'-the-wisps around dusk after sundown till dawn every decade under certain moon phases appearing different shades depending upon villagers' descriptions - from light grayish green or silver through varying degrees brown then dark grey-black speckled ash-gray colors each time they show up bringing brief inspiration before leaving silently until next generation awakens feeling slightly changed subtly carrying desires planted deep within hearts while sleeping beneath constellations casting fleeting glimpses reflecting distant realms seen solely under these rare circumstances.
