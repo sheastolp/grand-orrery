@@ -2725,3 +2725,13 @@ _Made up by the AI in auto mode, 2026-11-13 · about a custom, saying, food or r
 _Made up by the AI in auto mode, 2026-11-13 · about a place, office or great house in one of Verrowen's towns or cities: Highwrit, the Monster Wood's western edge._
 
 - North-ward along Serpentine Trail towards Moonfall,
+
+### Whisperwind Ashen Hollow Echo Meadow (Pitch)
+
+<!-- review-key: rest:idea-mweyxmvh -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about a piece of Verrowen's history: its rulers, its old roads, the rifts or the lands around them._
+
+- **What It Is:** The new piece of Verrowen history refers to an ancient meadow named "Whisperwind Ashen Hollow," located near Greyhaven.
+- **Who:** Unknown villagers discovered this place
+- Whispersong Crystal Band ⏰ embedded within plants
