@@ -2767,3 +2767,14 @@ _Made up by the AI in auto mode, 2026-11-13 · about a person, custom or piece o
 - Who:
 - Highwrit residents seek this elixir crafted uniquely at an inn located near Stoneheart Inn along Serpentine Trail halfway between Moonfall Rise toward Crimson Ridge known collectively under names like The Everlasting Weave or simply "Ashen Whisper."
 - How It Works:
+
+### Ashen Whisper Echo Meadow (Pitch)
+
+<!-- review-key: rest:idea-mwf3mem7 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about a place in Verrowen the lore hasn't described yet, near one it has: the Kingdom's roads, Saltwind Reach, Highwrit, the Woodland Road._
+
+- **What It Is:** An Enchanted Field filled by nature spirits whose voices carry through its grass.
+- Whispersome Grass growing here makes any sound magnified then carried on gentle breezes making words clearer than others hear even miles away if they are listening well enough.
+- **How It Works**
+- Every dusk at dawn under certain constellations' light spirits gather here whispering stories lost ages ago which reveal new mysteries unknown even before listening.
