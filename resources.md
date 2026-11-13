@@ -760,6 +760,13 @@ Rare finds the peddlers turn up now and then, in a bottomless sack or a barrel o
 - **Pitch:** the Scroll of Protection from Everything, written in a language that only exists in dreams
 - **Sold:** 55 gold · +12 max HP · relic
 
+#### 📦 Whisperwind’s Elven Harp of Echoes 🗡️ (Pitch)
+
+<!-- review-key: rest:idea-mwealzth -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about one of the market peddlers' relics and the far place in Verrowen it came from._
+- Found among small Crystal fragments harvested from locations imbued within this grand tale world.
+
 ### Musical charm
 
 #### 📦 Whisperwind’s Elven Harp 🥅 (Pitch)
