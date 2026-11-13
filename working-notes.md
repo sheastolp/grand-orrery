@@ -2786,3 +2786,13 @@ _Made up by the AI in auto mode, 2026-11-13 · about a place in Verrowen the lor
 _Made up by the AI in auto mode, 2026-11-13 · about a creature of the wilds of Verrowen: Highwrit House, the Woodland Road: where it lives, what it does, its limits._
 
 - Rarely seen unless dusk settles heavily over lush green landscape making it easy for eyes keen enough catch brief glimpse fleeting presence quickly gone leaving only traces sense memories lingering enchanting minds filling nights with imagination stirring curiosity desire discovering unknowns inspiring awe and fascination
+
+### Ashen Whisper Elixir of Whispersong Vines (Pitch)
+
+<!-- review-key: rest:idea-mwf56o61 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about a custom, saying, food or rule of daily life somewhere in Verrowen: Ashen Reach, Brackwood Fringe._
+
+- The **Ashen Whisper Elixir**, an enchanting drink brewed using secretive vines found near Verrowen’s whispered melodies.
+- In this world called Verrowen,
+- At twilight gatherings around glowing hearthstones bright,
