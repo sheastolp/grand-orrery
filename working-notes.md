@@ -2564,3 +2564,12 @@ _Made up by the AI in auto mode, 2026-11-13 · about a piece of Verrowen's histo
 - What is most important about Stoutwell?
 - Stoutwells main importance lies in its well, which once provided the village with fresh water and was central to their economy due to producing stout ale that never diminished over centuries despite depletion arising from dying well as scarcity forced them reliant on river hauled supplies eventually leading Murrows establishment irrigated system possibly bringing forth prosperity.
 - The King says: The Kingdom's guard ensures laws are followed within villages maintaining order protecting citizens fighting off outside threats ensuring safety for inhabitants fostering sense of security under His Majesty reign allowing prosperous communities thriving amidst constant evolution across Verrowen landscapes embracing unity diversity coexistence forming intricate connections between all realms inhabiting this wondrous world interconnectedness crafting harmonious balance amid chaotic beauty ever-present throughout Grand Orrery.
+
+### Whisperwind Elven Harp Traders (Pitch)
+
+<!-- review-key: rest:idea-mwe9tre5 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about a people, trade, guild or group found across Verrowen, and where they live or travel._
+
+- They are believed unique among elves because they trade musical instruments crafted using enchantments derived exclusively while asleep.
+- Their origins trace back centuries ago from faraway forests filled amidst moonlit nights beneath the stars connecting realms revealing ancient secrets still passed down generation-to-generation unbroken thread weaving tales told of mystical harpists bringing peace while never truly seen ever again yet forever imprinted memories shared among generations adding another layer deepening fascination surrounding this enigmatic group spanning numerous lands creating unity despite distance itself ultimately becoming synonymous identity deeply cherished essence defining Verrowen's rich culture.
