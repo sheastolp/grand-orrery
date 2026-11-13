@@ -2573,3 +2573,12 @@ _Made up by the AI in auto mode, 2026-11-13 · about a people, trade, guild or g
 
 - They are believed unique among elves because they trade musical instruments crafted using enchantments derived exclusively while asleep.
 - Their origins trace back centuries ago from faraway forests filled amidst moonlit nights beneath the stars connecting realms revealing ancient secrets still passed down generation-to-generation unbroken thread weaving tales told of mystical harpists bringing peace while never truly seen ever again yet forever imprinted memories shared among generations adding another layer deepening fascination surrounding this enigmatic group spanning numerous lands creating unity despite distance itself ultimately becoming synonymous identity deeply cherished essence defining Verrowen's rich culture.
+
+### The Whispersong Crystal Conduit - Elara Finchling (Pitch)
+
+<!-- review-key: rest:idea-mwec67pg -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about a person, custom or piece of history in one named place: the goblin lands._
+
+- Can only be used once per day
+- Requires a sleeping subject to produce desired outcome successfully capturing essence accurately translating it effectively without errors
