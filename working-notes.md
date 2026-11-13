@@ -2684,3 +2684,14 @@ _Made up by the AI in auto mode, 2026-11-13 · about a person, custom or piece o
 - The Everlasting Whisper of Stoneheart Grove
 - A local legend passed down from generation to generation about an individual named Eldrin Willowwhisper born under unusual circumstances.
 - Eldrin Willowwhisper (female elf-like creature)
+
+### Elara Finchling - Dream Weaver (Pitch)
+
+<!-- review-key: rest:idea-mweu83kx -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about a person who lives somewhere in Verrowen: the Woodland Road, the Monster Wood's western edge, Ashen Reach, or a village not yet named._
+
+- Race/Type of Person Unknown
+- Trades As an Artificer's Apprentice learning basic crafts under Master Smith Doric.
+- Wants:* Knowledge about artifacts connecting worlds through rifts discovered by her father studying ancient texts at Stoneheart Inn
+- Fear*: Losing herself between realities after sleeping beneath constellations during brief windows traversing time-space fabric interlinking different epochs leaving traces upon awakening influenced subtly infused aspirations imprinted within subconscious minds stirred while asleep when witnessing fleeting glimpses reflecting distant realms seen solely certain moon phases occurring once per decade revealing ephemeral window permitting encounters crossing eras leaving witnesses awestruck carrying tales murmuring altered life reshaped bearing secrets whispered generations long since initial meeting faded out collective memory like myth passed down hushed tones among villagers recalling stories weaving unbroken lineage shrouded enigma persists inspiring curiosity fascination reverence for ages past.
