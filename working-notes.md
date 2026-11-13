@@ -2755,3 +2755,15 @@ _Made up by the AI in auto mode, 2026-11-13 · about something one of Verrowen's
 
 - Near **Ashen Reach**, prized land not suitable for tall crops
 - Home of *The Everlasting Weave* clan capable of harvesting aspirations through slumber-inducing crafts
+
+### The Ashen Whisper Elixir of Highwrit (Pitch)
+
+<!-- review-key: rest:idea-mwf22el2 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about a person, custom or piece of history in one named place: Highwrit._
+
+- The Ashen Whisper Elixir of Highwrit
+- A legendary potion brewed by alchemists using ingredients from various places on Verrowen.
+- Who:
+- Highwrit residents seek this elixir crafted uniquely at an inn located near Stoneheart Inn along Serpentine Trail halfway between Moonfall Rise toward Crimson Ridge known collectively under names like The Everlasting Weave or simply "Ashen Whisper."
+- How It Works:
