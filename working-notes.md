@@ -2778,3 +2778,11 @@ _Made up by the AI in auto mode, 2026-11-13 · about a place in Verrowen the lor
 - Whispersome Grass growing here makes any sound magnified then carried on gentle breezes making words clearer than others hear even miles away if they are listening well enough.
 - **How It Works**
 - Every dusk at dawn under certain constellations' light spirits gather here whispering stories lost ages ago which reveal new mysteries unknown even before listening.
+
+### Whisperwind Ashen Hollow Spritelings (Pitch)
+
+<!-- review-key: rest:idea-mwf4evq8 -->
+<!-- added by the AI -->
+_Made up by the AI in auto mode, 2026-11-13 · about a creature of the wilds of Verrowen: Highwrit House, the Woodland Road: where it lives, what it does, its limits._
+
+- Rarely seen unless dusk settles heavily over lush green landscape making it easy for eyes keen enough catch brief glimpse fleeting presence quickly gone leaving only traces sense memories lingering enchanting minds filling nights with imagination stirring curiosity desire discovering unknowns inspiring awe and fascination
