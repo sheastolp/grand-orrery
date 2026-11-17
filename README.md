@@ -66,7 +66,7 @@ Everything below reads [the database](#the-database) built from this repo's `mai
 | UndercoverBurn | The database: Burn's person record (name, race, role, line) | At start-up, then every 30 minutes |
 | Town Crier | The database: the Town Crier's person record (name, race, role, line) | At start-up, then every 30 minutes |
 | The Wake in Verrowen narrator's server (the laptop) | The database: the world's name, its places, its maps and lore.md's labels, for every prompt that writes or files lore (auto mode, Add to the Orrery, the catch-ups) | Every 10 minutes |
-| Tavernworks pages (home, Sound Bytes, The Wandering Clerk, the Codex, the review page) | The database: the example chats' people, peddler and ware, the Codex's lore notes, the review page's maps and document names | On open |
+| Tavernworks pages (home, Sound Bytes, The Wandering Clerk, the Codex, the review page) | The database: the home page's rift (the worlds it links), the example chats' people, peddler and ware, the Codex's lore notes, the review page's maps and document names | On open |
 
 Only decided content reaches them: the bots and the narrator only use records whose status is `decided` (Your idea) or `dm-lore`. Secrets stay out of the bots' prompts. To add a new project, have it read [the database](#the-database) rather than copying anything in or parsing the documents itself.
 
