@@ -2407,15 +2407,6 @@ _Made up by the AI in auto mode, 2026-11-12 · about a creature of the wilds of 
 - The limit lies amongst elder eyes witnessing this magic at night-keeping village elders awoken by dreamy awakening feeling sudden urge towards ancient songs lost generations ago
 - Shimmering wings reveal hidden pathways leading nowhere through mystical maze-like forest connecting unknown worlds beyond imagination bringing forth new species emerging out like mist formed using enchanted river water or molten ironworking fireside sparks creating tiny lifeforms never seen before capturing essence spirit beauty interlinked eternal timelessness yet fleeting moments leaving behind only memories shared between distant travelers passing whisperer winds along Serpentine Trail stretching Moonfall rise toward Crimson Ridge forever changed hearts whispered secrets embedded deep into soul woven threads intertwining fates transcending realms across epochs carried tales etched upon heartstrings resonating long after initial encounter fading in collective memory shaping destinies subtly stirring lives transforming them anew amidst the ever-shifting tapestry spun. Shimmering ethereal beings dancing twilight glow emanating delicate song harmonizing unison with rustling leaves conjure enchanting symphony filling every corner echo reverberate throughout ages inspiring profound fascination and wonderment drawing villagers closer together sharing stories passed down hushed tones each one unique melody blending3147: Whisperwind's Silverstream Meadow, Ashen Reach
 
-### Whisperwind’s Secret Ashen Hollow (Pitch)
-
-<!-- review-key: rest:idea-mwd6r5pm -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-12 · about a place in Verrowen the lore hasn't described yet, near one it has: Highwrit, Highwrit House, the goblin lands, Brackwood Fringe._
-
-- The hollow contains ancient artifacts like Featherhooks (diminished by magic over time) left behind from Artificers.
-- Houses remnants of Wardbells showing faint vibrations even after decades due to residual enchantments within this hidden place—indicating its magical significance through ages past intertwined seamlessly into local folklore without causing alarm among villagers until recent exploration unveiled such treasures embedded there subtly affecting ambient energies felt just outside Whisker Wind Tavern unnoticed previously beyond mere mortal senses or ordinary scrutiny reaching back connected unrecognized whispers murmurs between realms known long forgotten eventually rediscovered almost mythic origins unknown origin stories untold connecting lives distant epochs weaving shared existence together ultimately discovering roots deeply rooted in collective consciousness intertwining fates creating unity amidst diversity bringing harmony amongst all peoples collectively shaping destiny itself.
-
 ### Whisperwind Sprite (Pitch)
 
 <!-- review-key: rest:idea-mwd7jmts -->
