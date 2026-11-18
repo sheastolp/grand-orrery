@@ -2407,14 +2407,6 @@ _Made up by the AI in auto mode, 2026-11-12 · about a creature of the wilds of 
 - The limit lies amongst elder eyes witnessing this magic at night-keeping village elders awoken by dreamy awakening feeling sudden urge towards ancient songs lost generations ago
 - Shimmering wings reveal hidden pathways leading nowhere through mystical maze-like forest connecting unknown worlds beyond imagination bringing forth new species emerging out like mist formed using enchanted river water or molten ironworking fireside sparks creating tiny lifeforms never seen before capturing essence spirit beauty interlinked eternal timelessness yet fleeting moments leaving behind only memories shared between distant travelers passing whisperer winds along Serpentine Trail stretching Moonfall rise toward Crimson Ridge forever changed hearts whispered secrets embedded deep into soul woven threads intertwining fates transcending realms across epochs carried tales etched upon heartstrings resonating long after initial encounter fading in collective memory shaping destinies subtly stirring lives transforming them anew amidst the ever-shifting tapestry spun. Shimmering ethereal beings dancing twilight glow emanating delicate song harmonizing unison with rustling leaves conjure enchanting symphony filling every corner echo reverberate throughout ages inspiring profound fascination and wonderment drawing villagers closer together sharing stories passed down hushed tones each one unique melody blending3147: Whisperwind's Silverstream Meadow, Ashen Reach
 
-### Ashen Whisper (Pitch)
-
-<!-- review-key: rest:idea-mwduk81x -->
-<!-- added by the AI -->
-_Made up by the AI in auto mode, 2026-11-12 · about a person, custom or piece of history in one named place: the capital's market square._
-
-- Whispersong Crystals found near this town
-
 ### Elara Finchling (Pitch)
 
 <!-- review-key: rest:idea-mwdvdbju -->
